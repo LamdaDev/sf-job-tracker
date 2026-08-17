@@ -30,12 +30,6 @@ class DeliveryResult:
     existing_issue_batches: tuple[str, ...]
 
 
-@dataclass(frozen=True)
-class ManualTestNotificationResult:
-    issue_number: int
-    created: bool
-
-
 def issue_marker(batch_id: str) -> str:
     return f"<!-- sf-job-tracker:batch:v1:{batch_id} -->"
 
@@ -57,7 +51,8 @@ def build_test_issue_body() -> str:
             "It is **not** a job alert and did not fetch jobs or change tracker history, "
             "the current-job snapshot, or the dashboard.",
             "",
-            "If you receive this Issue by email or GitHub Mobile, your notification setup is working.",
+            "Every manual test run deliberately creates a fresh Issue so it can trigger a "
+            "new email or GitHub Mobile notification.",
             "",
             TEST_NOTIFICATION_MARKER,
             "",
@@ -214,11 +209,15 @@ class GitHubIssueNotifier:
         return self._create_issue(title=test_issue_title(), body=build_test_issue_body())
 
 
-def send_test_notification(notifier: GitHubIssueNotifier) -> ManualTestNotificationResult:
-    existing_issue = notifier.find_issue_with_marker(TEST_NOTIFICATION_MARKER)
-    if existing_issue is not None:
-        return ManualTestNotificationResult(issue_number=existing_issue, created=False)
-    return ManualTestNotificationResult(issue_number=notifier.create_test_issue(), created=True)
+def send_test_notification(notifier: GitHubIssueNotifier) -> int:
+    """Create a fresh, state-free manual test Issue on every invocation.
+
+    Production job-alert batches remain idempotent through their hidden batch
+    markers. The manual test is intentionally different: a new Issue is the
+    event that exercises a user's email and mobile notification delivery.
+    """
+
+    return notifier.create_test_issue()
 
 
 def _jobs_for_batch(history: Mapping[str, Any], batch: Mapping[str, Any]) -> list[CanonicalJob]:

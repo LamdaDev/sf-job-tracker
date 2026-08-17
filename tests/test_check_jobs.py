@@ -8,7 +8,7 @@ import src.check_jobs as check_jobs
 from src.check_jobs import main, run_tracker
 from src.config import SOURCES
 from src.fetcher import FetchedSnapshot
-from src.notifier import DeliveryResult, GitHubNotificationError, ManualTestNotificationResult
+from src.notifier import DeliveryResult, GitHubNotificationError
 from src.parser import UpstreamFormatError
 
 
@@ -120,9 +120,9 @@ def test_test_notification_mode_does_not_collect_or_write_tracker_files(
         def __init__(self, *args: object, **kwargs: object) -> None:
             created.append((args, kwargs))
 
-    def fake_send(notifier: object) -> ManualTestNotificationResult:
+    def fake_send(notifier: object) -> int:
         assert isinstance(notifier, FakeIssueNotifier)
-        return ManualTestNotificationResult(issue_number=88, created=True)
+        return 88
 
     monkeypatch.setattr(check_jobs, "GitHubIssueNotifier", FakeIssueNotifier)
     monkeypatch.setattr(check_jobs, "send_test_issue_notification", fake_send)

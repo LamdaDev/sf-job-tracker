@@ -106,7 +106,7 @@ For a local end-to-end notification test, set those environment variables and ru
 python -m src.check_jobs --send-test-notification
 ```
 
-That command creates or reuses one clearly marked test Issue and does not fetch jobs or modify `data/` or `jobs.md`. Use `--log-level DEBUG` for source diagnostics. If every source fails or persisted state is invalid, the command exits nonzero before replacing generated state; an individual provider failure is retained as unknown while healthy providers continue safely.
+That command creates a fresh clearly marked test Issue on every invocation. It does not fetch jobs or modify `data/` or `jobs.md`. Use `--log-level DEBUG` for source diagnostics. If every source fails or persisted state is invalid, the command exits nonzero before replacing generated state; an individual provider failure is retained as unknown while healthy providers continue safely.
 
 ## GitHub Actions and phone/email notifications
 
@@ -119,9 +119,9 @@ To test your GitHub Mobile or email notifications safely:
 1. Enable repository notifications in GitHub and enable GitHub Mobile and/or email notifications in your account settings.
 2. Open **Actions -> Check San Francisco Jobs -> Run workflow**.
 3. Check `send_test_notification` and run it.
-4. The normal collection job is skipped; the test job creates at most one clearly marked San Francisco tracker test Issue.
+4. The normal collection job is skipped; the test job creates one fresh clearly marked San Francisco Bay Area tracker test Issue.
 
-The test Issue has a fixed hidden marker, so re-running it finds the first Issue even if it was closed instead of creating duplicates. A successful test job and a visible test Issue confirm the repository can create Issues; delivery to a phone or inbox is then governed by your GitHub notification preferences.
+Every explicit test run creates a new Issue, which gives GitHub a fresh event to deliver by email or mobile. These test Issues are not tracked in `data/seen_jobs.json` or `data/current_jobs.json`; production job-alert batches remain independently idempotent. A successful test job and a visible test Issue confirm the repository can create Issues; delivery to a phone or inbox is then governed by your GitHub notification preferences.
 
 After merging to `main`, enable GitHub Actions if necessary. If repository policy prevents the default `GITHUB_TOKEN` from writing, allow workflow read/write permissions for the repository. No personal access token, email service, or third-party notification integration is required.
 

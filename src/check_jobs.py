@@ -212,7 +212,7 @@ def deliver_pending(*, root: Path = PROJECT_ROOT, environment: dict[str, str] | 
 
 
 def send_test_notification(*, environment: dict[str, str] | None = None) -> int:
-    """Create one explicit manual test Issue without touching tracker files."""
+    """Create a fresh explicit manual test Issue without touching tracker files."""
 
     environment = environment or dict(os.environ)
     token = environment.get("GITHUB_TOKEN")
@@ -220,12 +220,12 @@ def send_test_notification(*, environment: dict[str, str] | None = None) -> int:
         raise ValueError("GITHUB_TOKEN is required to send a test GitHub Issue notification")
     repository = environment.get("GITHUB_REPOSITORY", "LamdaDev/sf-job-tracker")
     notifier = GitHubIssueNotifier(token, repository, api_url=environment.get("GITHUB_API_URL", "https://api.github.com"))
-    result = send_test_issue_notification(notifier)
+    issue_number = send_test_issue_notification(notifier)
     LOGGER.info(
-        "%s test GitHub Issue #%s. No upstream jobs or tracker files were changed.",
-        "Created" if result.created else "Reused existing", result.issue_number,
+        "Created fresh test GitHub Issue #%s. No upstream jobs or tracker files were changed.",
+        issue_number,
     )
-    return result.issue_number
+    return issue_number
 
 
 def build_argument_parser() -> argparse.ArgumentParser:
@@ -233,7 +233,7 @@ def build_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("--dry-run", action="store_true", help="Fetch and evaluate live data without writing files or delivering notifications.")
     parser.add_argument("--initialize", action="store_true", help="Record a baseline without alerting for otherwise unseen jobs.")
     parser.add_argument("--deliver-pending", action="store_true", help="Only deliver persisted pending GitHub Issue alerts.")
-    parser.add_argument("--send-test-notification", action="store_true", help="Create one safe, clearly marked test Issue only.")
+    parser.add_argument("--send-test-notification", action="store_true", help="Create a fresh, clearly marked test Issue only.")
     parser.add_argument("--root", type=Path, default=PROJECT_ROOT, help="Repository root containing data/ and jobs.md.")
     parser.add_argument("--log-level", choices=("DEBUG", "INFO", "WARNING", "ERROR"), default="INFO")
     return parser

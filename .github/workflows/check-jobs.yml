@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       send_test_notification:
-        description: "Create one clearly marked test Issue only; do not run the tracker or change data."
+        description: "Create a fresh clearly marked test Issue; do not run the tracker or change data."
         required: false
         default: false
         type: boolean
@@ -123,7 +123,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Create a safe test notification Issue
+      - name: Create a fresh test notification Issue
         env:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}

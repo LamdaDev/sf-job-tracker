@@ -33,17 +33,12 @@ class FakeNotifier:
 
 
 class FakeTestNotifier:
-    def __init__(self, *, existing_issue: int | None = None) -> None:
-        self.existing_issue = existing_issue
+    def __init__(self) -> None:
         self.create_calls = 0
-
-    def find_issue_with_marker(self, marker: str) -> int | None:
-        assert marker == TEST_NOTIFICATION_MARKER
-        return self.existing_issue
 
     def create_test_issue(self) -> int:
         self.create_calls += 1
-        return 77
+        return 76 + self.create_calls
 
 
 def state_with_pending_batch() -> tuple[dict, str]:
@@ -76,18 +71,15 @@ def test_test_notification_payload_is_unmistakable_and_state_free() -> None:
     assert notification_test_issue_title() == "🧪 TEST — San Francisco Bay Area job tracker notification"
     assert "not** a job alert" in body
     assert "did not fetch jobs or change tracker history" in body
+    assert "Every manual test run deliberately creates a fresh Issue" in body
     assert TEST_NOTIFICATION_MARKER in body
 
 
-def test_test_notification_creates_once_then_is_idempotent() -> None:
-    fresh = FakeTestNotifier()
-    created = send_test_issue_notification(fresh)  # type: ignore[arg-type]
-    assert created.created is True
-    assert created.issue_number == 77
-    existing = FakeTestNotifier(existing_issue=91)
-    reused = send_test_issue_notification(existing)  # type: ignore[arg-type]
-    assert reused.created is False
-    assert reused.issue_number == 91
+def test_test_notification_always_creates_a_fresh_issue() -> None:
+    notifier = FakeTestNotifier()
+    assert send_test_issue_notification(notifier) == 77  # type: ignore[arg-type]
+    assert send_test_issue_notification(notifier) == 78  # type: ignore[arg-type]
+    assert notifier.create_calls == 2
 
 
 def test_delivery_marks_created_issue_as_sent_and_renders_canonical_job_once() -> None:
@@ -102,9 +94,11 @@ def test_delivery_marks_created_issue_as_sent_and_renders_canonical_job_once() -
 
 def test_delivery_recognises_existing_issue_and_failure_stays_pending() -> None:
     state, batch_id = state_with_pending_batch()
-    existing = deliver_pending_notifications(state, FakeNotifier(existing_issue=99))  # type: ignore[arg-type]
+    existing_notifier = FakeNotifier(existing_issue=99)
+    existing = deliver_pending_notifications(state, existing_notifier)  # type: ignore[arg-type]
     assert existing.existing_issue_batches == (batch_id,)
     assert state["pending_notifications"][batch_id]["issue_number"] == 99
+    assert existing_notifier.created == []
 
     state, batch_id = state_with_pending_batch()
     failed = deliver_pending_notifications(state, FakeNotifier(fail_for={batch_id}))  # type: ignore[arg-type]
