@@ -1,4 +1,26 @@
 {
-  "scans": {},
+  "scans": {
+    "tiktok:jobs.bytedance.com:7668650945276168453": {
+      "application_url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:jobs.bytedance.com:7668650945276168453",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-17T22:44:31Z",
+      "http_status": 200,
+      "issue_number": 10,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-17T22:44:31Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-17T22:44:31Z",
+      "status": "unavailable"
+    }
+  },
   "schema_version": 1
 }

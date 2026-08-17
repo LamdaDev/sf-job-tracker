@@ -14391,14 +14391,14 @@
     "e2c0b3781c37bf1ac0d218e08cc2776fec66a53e779957624a1b9ebb5932490c": {
       "application_scan_eligible": true,
       "created_at": "2026-08-17T22:44:27Z",
-      "issue_number": null,
+      "issue_number": 10,
       "job_ids": [
         "tiktok:jobs.bytedance.com:7668650945276168453"
       ],
       "job_urls": [
         "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     }
   },
   "schema_version": 2
