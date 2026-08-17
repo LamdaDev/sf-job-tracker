@@ -2,13 +2,17 @@ from __future__ import annotations
 
 from src.notifier import (
     GitHubNotificationError,
+    TEST_APPLICATION_SCAN_MARKER,
     TEST_NOTIFICATION_MARKER,
     build_issue_body,
+    build_test_application_scan_issue_body,
     build_test_issue_body,
     deliver_pending_notifications,
     issue_marker,
     issue_title,
     send_test_notification as send_test_issue_notification,
+    send_test_application_scan_issue,
+    test_application_scan_issue_title as application_scan_test_issue_title,
     test_issue_title as notification_test_issue_title,
 )
 from src.storage import empty_seen_state
@@ -39,6 +43,15 @@ class FakeTestNotifier:
     def create_test_issue(self) -> int:
         self.create_calls += 1
         return 76 + self.create_calls
+
+
+class FakeTestApplicationScanNotifier:
+    def __init__(self) -> None:
+        self.urls: list[str] = []
+
+    def create_test_application_scan_issue(self, application_url: str) -> int:
+        self.urls.append(application_url)
+        return 90 + len(self.urls)
 
 
 def state_with_pending_batch() -> tuple[dict, str]:
@@ -80,6 +93,22 @@ def test_test_notification_always_creates_a_fresh_issue() -> None:
     assert send_test_issue_notification(notifier) == 77  # type: ignore[arg-type]
     assert send_test_issue_notification(notifier) == 78  # type: ignore[arg-type]
     assert notifier.create_calls == 2
+
+
+def test_application_scan_test_issue_is_unmistakable_state_free_and_fresh() -> None:
+    application_url = "https://jobs.ashbyhq.com/replit/example?ref=test"
+    body = build_test_application_scan_issue_body(application_url)
+
+    assert application_scan_test_issue_title() == "\U0001f9ea TEST \u2014 Application question enrichment"
+    assert application_url in body
+    assert "created first" in body
+    assert "does **not** fetch tracker feeds" in body
+    assert TEST_APPLICATION_SCAN_MARKER in body
+
+    notifier = FakeTestApplicationScanNotifier()
+    assert send_test_application_scan_issue(notifier, application_url) == 91  # type: ignore[arg-type]
+    assert send_test_application_scan_issue(notifier, application_url) == 92  # type: ignore[arg-type]
+    assert notifier.urls == [application_url, application_url]
 
 
 def test_delivery_marks_created_issue_as_sent_and_renders_canonical_job_once() -> None:

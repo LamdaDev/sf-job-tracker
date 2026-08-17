@@ -10,8 +10,18 @@ on:
         required: false
         default: false
         type: boolean
+      send_test_application_scan:
+        description: "Create a fresh test Issue and inspect one public application URL; do not run the tracker or change data."
+        required: false
+        default: false
+        type: boolean
+      test_application_url:
+        description: "Public direct application URL for the application-question test."
+        required: false
+        default: "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
+        type: string
       dry_run:
-        description: "Safely fetch and validate the selected branch's sources without writing data or creating Issues."
+        description: "Safely fetch and validate the selected branch's sources without writing data or creating Issues. Ignored by explicit test-Issue modes."
         required: false
         default: true
         type: boolean
@@ -31,7 +41,7 @@ concurrency:
 
 jobs:
   check-jobs:
-    if: ${{ github.event_name != 'workflow_dispatch' || inputs.send_test_notification == false }}
+    if: ${{ github.event_name != 'workflow_dispatch' || (inputs.send_test_notification == false && inputs.send_test_application_scan == false) }}
     runs-on: ubuntu-latest
 
     steps:
@@ -117,7 +127,7 @@ jobs:
           exit 1
 
   send-test-notification:
-    if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_notification == true }}
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_notification == true && inputs.send_test_application_scan == false }}
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -138,3 +148,53 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_API_URL: ${{ github.api_url }}
         run: python -m src.check_jobs --send-test-notification
+
+  send-test-application-scan:
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_application_scan == true && inputs.send_test_notification == false }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - name: Check out the requested workflow revision
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install test and scan dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+
+      - name: Install Playwright Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Run tests
+        run: python -m pytest
+
+      - name: Create and enrich a fresh application-question test Issue
+        shell: bash
+        env:
+          APPLICATION_SCAN_ENABLED: "true"
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_API_URL: ${{ github.api_url }}
+          TEST_APPLICATION_URL: ${{ inputs.test_application_url }}
+        run: python -m src.check_jobs --send-test-application-scan --test-application-url "$TEST_APPLICATION_URL"
+
+  validate-manual-test-mode:
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_notification == true && inputs.send_test_application_scan == true }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Require exactly one manual test mode
+        shell: bash
+        run: |
+          echo "Choose either the notification test or the application-question test, not both."
+          exit 1

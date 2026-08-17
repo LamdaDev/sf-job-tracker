@@ -134,6 +134,14 @@ python -m src.check_jobs --send-test-notification
 
 That command creates a fresh clearly marked test Issue on every invocation. It does not fetch jobs or modify `data/` or `jobs.md`. Use `--log-level DEBUG` for source diagnostics. If every source fails or persisted state is invalid, the command exits nonzero before replacing generated state; an individual provider failure is retained as unknown while healthy providers continue safely.
 
+For a state-free manual Application Question Enrichment test, provide one public direct application URL:
+
+```bash
+python -m src.check_jobs --send-test-application-scan --test-application-url "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
+```
+
+It creates a new clearly marked test Issue first, then appends that URL's read-only application-question result to the same Issue. It never fetches source feeds or changes `data/`, `jobs.md`, pending alerts, or normal notification state. A CAPTCHA, login wall, or anti-bot page is shown as `unavailable`; the scanner does not bypass it or invent questions.
+
 ## GitHub Actions and phone/email notifications
 
 `Check San Francisco Jobs` runs at the top of every hour and can also be started from **Actions -> Check San Francisco Jobs -> Run workflow**. Scheduled production runs operate from `main`; it has `contents: write` and `issues: write` permissions, no `push` trigger, and a concurrency group so two runs cannot mutate state at once.
@@ -148,6 +156,15 @@ To test your GitHub Mobile or email notifications safely:
 4. The normal collection job is skipped; the test job creates one fresh clearly marked San Francisco Bay Area tracker test Issue.
 
 Every explicit test run creates a new Issue, which gives GitHub a fresh event to deliver by email or mobile. These test Issues are not tracked in `data/seen_jobs.json` or `data/current_jobs.json`; production job-alert batches remain independently idempotent. A successful test job and a visible test Issue confirm the repository can create Issues; delivery to a phone or inbox is then governed by your GitHub notification preferences.
+
+To preview the Application Question Enrichment Issue without touching tracker state:
+
+1. Open **Actions -> Check San Francisco Jobs -> Run workflow** and select the branch you want to test.
+2. Check `send_test_application_scan`; leave `send_test_notification` unchecked.
+3. Keep the supplied Replit Ashby URL or replace `test_application_url` with another public direct application URL, then run the workflow. The `dry_run` setting is ignored for this explicit test mode.
+4. The tracker job is skipped. A fresh clearly marked test Issue is created first and then updated with an **Application Questions** section from that same URL.
+
+The supplied Replit URL is a useful end-to-end example, but if Ashby presents anti-bot verification it will correctly show `unavailable` instead of questions. To preview populated fields, use a direct public application page that permits read-only access (for example, an accessible Greenhouse or Lever application page). Like the notification test, this mode never writes `data/seen_jobs.json`, `data/current_jobs.json`, or `data/application_questions.json`.
 
 After merging to `main`, enable GitHub Actions if necessary. If repository policy prevents the default `GITHUB_TOKEN` from writing, allow workflow read/write permissions for the repository. No personal access token, email service, or third-party notification integration is required.
 

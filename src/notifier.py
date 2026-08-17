@@ -8,6 +8,7 @@ import re
 from dataclasses import dataclass
 from typing import Any, Iterable, Mapping
 from urllib.error import HTTPError, URLError
+from urllib.parse import quote
 from urllib.request import Request, urlopen
 
 from .canonical import aggregate_observations
@@ -79,6 +80,7 @@ def replace_application_scan_block(
 
 
 TEST_NOTIFICATION_MARKER = "<!-- sf-job-tracker:test-notification:v1 -->"
+TEST_APPLICATION_SCAN_MARKER = "<!-- sf-job-tracker:test-application-scan:v1 -->"
 
 
 def test_issue_title() -> str:
@@ -99,6 +101,44 @@ def build_test_issue_body() -> str:
             "new email or GitHub Mobile notification.",
             "",
             TEST_NOTIFICATION_MARKER,
+            "",
+        ]
+    )
+
+
+def test_application_scan_issue_title() -> str:
+    """Return the title for a deliberately fresh enrichment-test Issue."""
+
+    return "\U0001f9ea TEST \u2014 Application question enrichment"
+
+
+def build_test_application_scan_issue_body(application_url: str) -> str:
+    """Build a state-free placeholder that will receive one scan block.
+
+    The actual result is inserted only after the Issue exists. That ordering
+    mirrors production delivery and proves an inspection failure can never
+    suppress the notification itself.
+    """
+
+    safe_url = quote(application_url, safe=":/?&=#%+-._~")
+    return "\n".join(
+        [
+            "# \U0001f9ea Test application-question enrichment",
+            "",
+            "This is a manually requested, fresh test Issue from `sf-job-tracker`.",
+            "",
+            f"**Test application:** [Open public application](<{safe_url}>)",
+            "",
+            "The Issue is created first and is then enriched with the visible public",
+            "application questions, if the site permits read-only inspection.",
+            "",
+            "It does **not** fetch tracker feeds or change tracker history, generated",
+            "jobs, pending notifications, or application-question state.",
+            "",
+            "If the site shows login, CAPTCHA, or anti-bot verification, the result",
+            "will say so rather than attempting to bypass it.",
+            "",
+            TEST_APPLICATION_SCAN_MARKER,
             "",
         ]
     )
@@ -295,6 +335,19 @@ class GitHubIssueNotifier:
     def create_test_issue(self) -> int:
         return self._create_issue(title=test_issue_title(), body=build_test_issue_body())
 
+    def create_test_application_scan_issue(self, application_url: str) -> int:
+        """Create a fresh manual scan-test Issue without marker lookup.
+
+        Unlike production batch alerts, each manual invocation intentionally
+        creates another Issue so it can exercise a user's email or mobile
+        notification delivery.
+        """
+
+        return self._create_issue(
+            title=test_application_scan_issue_title(),
+            body=build_test_application_scan_issue_body(application_url),
+        )
+
 
 def send_test_notification(notifier: GitHubIssueNotifier) -> int:
     """Create a fresh, state-free manual test Issue on every invocation.
@@ -305,6 +358,12 @@ def send_test_notification(notifier: GitHubIssueNotifier) -> int:
     """
 
     return notifier.create_test_issue()
+
+
+def send_test_application_scan_issue(notifier: GitHubIssueNotifier, application_url: str) -> int:
+    """Create one fresh, state-free Issue for a manual application scan test."""
+
+    return notifier.create_test_application_scan_issue(application_url)
 
 
 def _jobs_for_batch(history: Mapping[str, Any], batch: Mapping[str, Any]) -> list[CanonicalJob]:

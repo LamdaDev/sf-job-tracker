@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import logging
 import os
 import re
@@ -27,6 +28,7 @@ from .notifier import (
     GitHubNotificationError,
     deliver_pending_notifications,
     jobs_for_notification_batch,
+    send_test_application_scan_issue as send_test_application_scan_issue_notification,
     send_test_notification as send_test_issue_notification,
 )
 from .parser import UpstreamFormatError, parse_configured_source_with_diagnostics
@@ -46,6 +48,7 @@ from .tracker import StateTransition, apply_current_jobs, location_matches, utc_
 
 LOGGER = logging.getLogger(__name__)
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_TEST_APPLICATION_SCAN_URL = "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
 _URL_IN_ERROR_MESSAGE = re.compile(r"https?://[^\s'\"<>]+", re.IGNORECASE)
 _SENSITIVE_ASSIGNMENT_IN_ERROR_MESSAGE = re.compile(
     r"\b(cookie|csrf(?:[_ -]?token)?|(?:access|auth|refresh|session|id)?[_ -]?token|authorization)\s*[=:]\s*[^\s,;]+",
@@ -217,6 +220,14 @@ class ApplicationEnrichmentResult:
     persisted_job_ids: tuple[str, ...]
     updated_issue_job_ids: tuple[str, ...]
     failed_job_ids: tuple[str, ...]
+
+
+@dataclass(frozen=True)
+class _ManualApplicationScanTarget:
+    """Small, state-free target used only by the manual test workflow."""
+
+    canonical_id: str
+    application_url: str
 
 
 def _application_inspection_api() -> Any:
@@ -620,12 +631,101 @@ def send_test_notification(*, environment: dict[str, str] | None = None) -> int:
     return issue_number
 
 
+def _manual_application_scan_target(application_url: str | None) -> _ManualApplicationScanTarget:
+    """Validate a user-supplied test URL without touching tracker state."""
+
+    normalized_url = (application_url or DEFAULT_TEST_APPLICATION_SCAN_URL).strip()
+    # Import the lightweight URL guard here instead of importing/starting any
+    # provider browser machinery while parsing normal tracker commands.
+    from .application_inspection.security import is_safe_public_http_url
+
+    if not is_safe_public_http_url(normalized_url):
+        raise ValueError("--test-application-url must be a public http(s) URL")
+    digest = hashlib.sha256(normalized_url.encode("utf-8")).hexdigest()[:16]
+    return _ManualApplicationScanTarget(
+        canonical_id=f"manual-test:application:{digest}",
+        application_url=normalized_url,
+    )
+
+
+def send_test_application_scan(
+    *,
+    application_url: str | None = None,
+    environment: dict[str, str] | None = None,
+    inspector_factory: Callable[[], Any] | None = None,
+) -> int:
+    """Create and enrich one fresh manual test Issue without any state writes.
+
+    This intentionally does not load tracker history, pending notifications, or
+    application-question state. The issue is created before the inspector is
+    even constructed, matching production's alert-before-scan safety boundary.
+    """
+
+    target = _manual_application_scan_target(application_url)
+    environment = environment or dict(os.environ)
+    token = environment.get("GITHUB_TOKEN")
+    if not token:
+        raise ValueError("GITHUB_TOKEN is required to send a test application-scan Issue")
+    repository = environment.get("GITHUB_REPOSITORY", "LamdaDev/sf-job-tracker")
+    notifier = GitHubIssueNotifier(
+        token,
+        repository,
+        api_url=environment.get("GITHUB_API_URL", "https://api.github.com"),
+    )
+
+    # No marker lookup: every explicit manual test is meant to notify the
+    # user, just like the existing fresh notification test mode.
+    issue_number = send_test_application_scan_issue_notification(notifier, target.application_url)
+    LOGGER.info(
+        "Created fresh application-scan test Issue #%s. Tracker files remain untouched.",
+        issue_number,
+    )
+
+    api = _application_inspection_api()
+    try:
+        inspector = (inspector_factory or api.ApplicationInspector)()
+        result = inspector.inspect(target)
+    except Exception as error:  # one visible failed block is safer than suppressing the Issue
+        provider = api.detect_application_provider(target.application_url)
+        result = api.failed_scan_result(
+            target,
+            target.application_url,
+            provider,
+            error,
+            stage="running the manual test application inspection",
+        )
+
+    rendered_block = api.render_application_scan_block(result)
+    # If this PATCH fails, the already-created test Issue remains visible and
+    # the workflow fails clearly. There is deliberately no JSON retry state.
+    notifier.update_issue_with_application_scan(issue_number, target.canonical_id, rendered_block)
+    question_count = len(getattr(result, "questions", ()))
+    LOGGER.info(
+        "Manual application test completed for %s: provider=%s status=%s questions=%s.",
+        target.canonical_id,
+        _status_value(getattr(result, "provider", "unknown")),
+        _status_value(getattr(result, "status", "failed")),
+        question_count,
+    )
+    return issue_number
+
+
 def build_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description=f"Track {TARGET_LOCATION_LABEL} SWE jobs from public source feeds.")
     parser.add_argument("--dry-run", action="store_true", help="Fetch and evaluate live data without writing files or delivering notifications.")
     parser.add_argument("--initialize", action="store_true", help="Record a baseline without alerting for otherwise unseen jobs.")
     parser.add_argument("--deliver-pending", action="store_true", help="Only deliver persisted pending GitHub Issue alerts.")
     parser.add_argument("--send-test-notification", action="store_true", help="Create a fresh, clearly marked test Issue only.")
+    parser.add_argument(
+        "--send-test-application-scan",
+        action="store_true",
+        help="Create one fresh Issue, read-only scan a public application URL, and update that same Issue without changing tracker data.",
+    )
+    parser.add_argument(
+        "--test-application-url",
+        metavar="URL",
+        help="Public direct application URL for --send-test-application-scan (defaults to the configured Replit Ashby example).",
+    )
     parser.add_argument("--root", type=Path, default=PROJECT_ROOT, help="Repository root containing data/ and jobs.md.")
     parser.add_argument("--log-level", choices=("DEBUG", "INFO", "WARNING", "ERROR"), default="INFO")
     return parser
@@ -635,10 +735,12 @@ def main(argv: list[str] | None = None) -> int:
     parser = build_argument_parser()
     args = parser.parse_args(argv)
     logging.basicConfig(level=getattr(logging, args.log_level), format="%(levelname)s %(message)s")
-    exclusive_modes = sum((args.deliver_pending, args.send_test_notification))
+    exclusive_modes = sum((args.deliver_pending, args.send_test_notification, args.send_test_application_scan))
     if exclusive_modes > 1:
-        parser.error("--deliver-pending and --send-test-notification cannot be combined")
-    if (args.deliver_pending or args.send_test_notification) and (args.dry_run or args.initialize):
+        parser.error("notification-only modes cannot be combined")
+    if args.test_application_url and not args.send_test_application_scan:
+        parser.error("--test-application-url requires --send-test-application-scan")
+    if (args.deliver_pending or args.send_test_notification or args.send_test_application_scan) and (args.dry_run or args.initialize):
         parser.error("notification-only modes cannot be combined with --dry-run or --initialize")
     try:
         if args.deliver_pending:
@@ -647,6 +749,8 @@ def main(argv: list[str] | None = None) -> int:
                 return 2
         elif args.send_test_notification:
             send_test_notification()
+        elif args.send_test_application_scan:
+            send_test_application_scan(application_url=args.test_application_url)
         else:
             run_tracker(root=args.root, dry_run=args.dry_run, initialize=args.initialize)
     except (StorageError, UpstreamFetchError, UpstreamFormatError, GitHubNotificationError, ValueError) as error:
