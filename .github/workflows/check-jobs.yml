@@ -1,0 +1,87 @@
+name: Check San Francisco Jobs
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: sf-job-tracker
+  cancel-in-progress: false
+
+jobs:
+  check-jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install test dependency
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
+
+      - name: Run tests
+        run: python -m pytest
+
+      - name: Collect and reconcile jobs
+        run: python -m src.check_jobs
+
+      - name: Commit tracker data
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/seen_jobs.json data/current_jobs.json jobs.md
+          if git diff --cached --quiet; then
+            echo "Tracker state is unchanged."
+          else
+            git commit -m "chore: update job tracker"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
+
+      # State is pushed before delivery. If a notification succeeds but this
+      # later commit fails, the hidden Issue marker prevents a duplicate retry.
+      - name: Deliver pending GitHub Issue notifications
+        id: deliver_notifications
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_API_URL: ${{ github.api_url }}
+        run: python -m src.check_jobs --deliver-pending
+
+      - name: Commit notification delivery state
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/seen_jobs.json
+          if git diff --cached --quiet; then
+            echo "No notification delivery state changed."
+          else
+            git commit -m "chore: record job notification delivery"
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
+
+      - name: Surface pending notification delivery failures
+        if: steps.deliver_notifications.outcome == 'failure'
+        shell: bash
+        run: |
+          echo "One or more notification batches remain pending; see the delivery step logs."
+          exit 1
