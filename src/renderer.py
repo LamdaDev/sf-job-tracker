@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from typing import Any, Iterable
 
-from .config import TARGET_LOCATION, TARGET_LOCATION_LABEL
+from .config import TARGET_LOCATION_DESCRIPTION, TARGET_LOCATION_LABEL
 
 
 GENERATED_WARNING = "<!-- This file is generated automatically. Do not edit manually. -->"
@@ -61,7 +61,7 @@ def render_jobs_markdown(state: dict[str, Any]) -> str:
         "",
         f"# {TARGET_LOCATION_LABEL} SWE Job Tracker",
         "",
-        f"Tracks SpeedyApply USA internship and new-graduate postings whose displayed Location contains `{TARGET_LOCATION}`.",
+        f"Tracks SpeedyApply USA internship and new-graduate postings whose displayed Location matches {TARGET_LOCATION_DESCRIPTION}.",
         "",
     ]
 

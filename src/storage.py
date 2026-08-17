@@ -8,7 +8,7 @@ import tempfile
 from pathlib import Path
 from typing import Any, Mapping
 
-from .config import CURRENT_JOBS_SCHEMA_VERSION, STATE_SCHEMA_VERSION
+from .config import CURRENT_JOBS_SCHEMA_VERSION, LOCATION_SCOPE_VERSION, STATE_SCHEMA_VERSION
 
 
 class StorageError(RuntimeError):
@@ -22,6 +22,7 @@ def empty_seen_state() -> dict[str, Any]:
         "initialized": False,
         "initialized_at": None,
         "jobs": {},
+        "location_scope_version": LOCATION_SCOPE_VERSION,
         "pending_notifications": {},
         "schema_version": STATE_SCHEMA_VERSION,
     }
@@ -60,6 +61,9 @@ def validate_seen_state(value: Any) -> dict[str, Any]:
         raise StorageError("seen job state has an invalid initialized flag")
     if state.get("initialized_at") is not None and not isinstance(state.get("initialized_at"), str):
         raise StorageError("seen job state has an invalid initialized_at value")
+    location_scope_version = state.get("location_scope_version")
+    if location_scope_version is not None and not isinstance(location_scope_version, str):
+        raise StorageError("seen job state has an invalid location_scope_version")
     if not isinstance(state.get("jobs"), dict):
         raise StorageError("seen job state has an invalid jobs mapping")
     if not isinstance(state.get("pending_notifications"), dict):

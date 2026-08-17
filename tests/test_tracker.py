@@ -1,15 +1,24 @@
 from __future__ import annotations
 
+import copy
+
+from src.config import LOCATION_SCOPE_VERSION
 from src.models import Job
 from src.storage import empty_seen_state
 from src.tracker import apply_current_jobs
 
 
-def make_job(url: str, *, company: str = "Example", position: str = "Software Engineer") -> Job:
+def make_job(
+    url: str,
+    *,
+    company: str = "Example",
+    position: str = "Software Engineer",
+    location: str = "San Francisco, CA",
+) -> Job:
     return Job(
         company=company,
         position=position,
-        location="San Francisco, CA",
+        location=location,
         salary=None,
         application_url=url,
         age="1d",
@@ -111,3 +120,36 @@ def test_initialize_suppresses_alerts_for_newly_observed_urls() -> None:
     assert transition.baseline is True
     assert transition.new_jobs == ()
     assert transition.state["pending_notifications"] == {}
+
+
+def test_expanded_location_scope_rebaselines_legacy_history_without_an_alert() -> None:
+    san_francisco = make_job("https://jobs.example.test/san-francisco")
+    original = apply_current_jobs(
+        empty_seen_state(), [san_francisco], timestamp="2026-08-16T12:00:00Z"
+    )
+    legacy_state = copy.deepcopy(original.state)
+    legacy_state.pop("location_scope_version")
+    san_jose = make_job("https://jobs.example.test/san-jose", location="San Jose, CA")
+
+    expanded = apply_current_jobs(
+        legacy_state,
+        [san_francisco, san_jose],
+        timestamp="2026-08-16T13:00:00Z",
+    )
+
+    assert expanded.baseline is True
+    assert expanded.scope_rebased is True
+    assert expanded.new_jobs == ()
+    assert expanded.state["location_scope_version"] == LOCATION_SCOPE_VERSION
+    assert expanded.state["pending_notifications"] == {}
+
+    sunnyvale = make_job("https://jobs.example.test/sunnyvale", location="Sunnyvale, CA")
+    after_rebaseline = apply_current_jobs(
+        expanded.state,
+        [san_francisco, san_jose, sunnyvale],
+        timestamp="2026-08-16T14:00:00Z",
+    )
+
+    assert after_rebaseline.baseline is False
+    assert after_rebaseline.scope_rebased is False
+    assert after_rebaseline.new_jobs == (sunnyvale,)

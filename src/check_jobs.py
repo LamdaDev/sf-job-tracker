@@ -9,7 +9,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Callable
 
-from .config import CATEGORIES, SOURCES, TARGET_LOCATION, TARGET_LOCATION_LABEL
+from .config import CATEGORIES, SOURCES, TARGET_LOCATION_LABEL
 from .fetcher import FetchedSnapshot, UpstreamFetchError, fetch_upstream_sources
 from .notifier import (
     DeliveryResult,
@@ -44,7 +44,7 @@ class RunSummary:
     known_before_count: int
     transition: StateTransition
     files_changed: tuple[Path, ...]
-    upstream_duplicate_count: int
+    matching_duplicate_count: int
 
 
 def _state_paths(root: Path) -> tuple[Path, Path, Path]:
@@ -80,17 +80,23 @@ def _log_collection_summary(summary: RunSummary, *, dry_run: bool) -> None:
         LOGGER.info("%s:", job_type)
         for category in CATEGORIES:
             LOGGER.info("  %s: %s parsed", category, summary.parsed_counts[job_type][category])
-    LOGGER.info('Matching "%s": %s', TARGET_LOCATION, summary.matching_count)
+    LOGGER.info("Matching %s scope: %s", TARGET_LOCATION_LABEL, summary.matching_count)
     LOGGER.info("Known matching jobs before this run: %s", summary.known_before_count)
-    if summary.transition.baseline:
+    if summary.transition.scope_rebased:
+        LOGGER.info(
+            "Location coverage changed; baseline mode recorded the expanded scope without alerting."
+        )
+    elif summary.transition.baseline:
         mode = "would establish" if dry_run else "established"
         LOGGER.info("Baseline mode: %s history without alerting.", mode)
     LOGGER.info("New matching jobs: %s", len(summary.transition.new_jobs))
     LOGGER.info("Jobs marked inactive: %s", summary.transition.inactive_count)
     if summary.transition.reactivated_count:
         LOGGER.info("Jobs reactivated without a new alert: %s", summary.transition.reactivated_count)
-    if summary.upstream_duplicate_count:
-        LOGGER.warning("Collapsed %s duplicate upstream application URL(s)", summary.upstream_duplicate_count)
+    if summary.matching_duplicate_count:
+        LOGGER.warning(
+            "Collapsed %s duplicate matching application URL(s)", summary.matching_duplicate_count
+        )
     for job in summary.transition.new_jobs:
         LOGGER.info("NEW: %s — %s", job.company, job.position)
     if dry_run:
@@ -109,10 +115,10 @@ def run_tracker(
 
     snapshot = snapshot_fetcher()
     parsed_jobs, parsed_counts = _parse_snapshot(snapshot)
-    unique_jobs, upstream_duplicate_count = deduplicate_jobs(parsed_jobs)
     matching_jobs = [
-        job for job in unique_jobs if location_matches(job.location, TARGET_LOCATION)
+        job for job in parsed_jobs if location_matches(job.location)
     ]
+    unique_jobs, matching_duplicate_count = deduplicate_jobs(matching_jobs)
 
     seen_path, current_path, dashboard_path = _state_paths(root)
     existing_state = load_seen_state(seen_path)
@@ -149,7 +155,7 @@ def run_tracker(
         known_before_count=known_before_count,
         transition=transition,
         files_changed=tuple(changed),
-        upstream_duplicate_count=upstream_duplicate_count,
+        matching_duplicate_count=matching_duplicate_count,
     )
     _log_collection_summary(summary, dry_run=dry_run)
     return summary

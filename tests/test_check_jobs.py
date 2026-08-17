@@ -34,9 +34,36 @@ def test_dry_run_does_not_write_state_or_dashboard(tmp_path: Path) -> None:
     )
 
     assert summary.transition.baseline is True
-    assert summary.matching_count == 5
+    assert summary.matching_count == 7
     assert not (tmp_path / "data").exists()
     assert not (tmp_path / "jobs.md").exists()
+
+
+def test_matching_location_is_filtered_before_duplicate_urls_are_collapsed(tmp_path: Path) -> None:
+    internship_source = (FIXTURES / "internships.md").read_text(encoding="utf-8")
+    matching_row = next(line for line in internship_source.splitlines() if "figma/123" in line)
+    nonmatching_duplicate = matching_row.replace(
+        "San Francisco, CA +1", "Seattle, WA"
+    ).replace("<strong>Figma</strong>", "<strong>Outside duplicate</strong>")
+    snapshot = FetchedSnapshot(
+        commit_sha="b" * 40,
+        documents={
+            SOURCES[0]: internship_source.replace(
+                matching_row, f"{nonmatching_duplicate}\n{matching_row}", 1
+            ),
+            SOURCES[1]: (FIXTURES / "new_grads.md").read_text(encoding="utf-8"),
+        },
+    )
+
+    summary = run_tracker(
+        root=tmp_path,
+        dry_run=True,
+        snapshot_fetcher=lambda: snapshot,
+        timestamp="2026-08-16T12:00:00Z",
+    )
+
+    assert summary.matching_count == 7
+    assert "https://boards.example.test/figma/123?gh_jid=123&source=fixture" in summary.transition.current_state["jobs"]
 
 
 def test_parse_failure_preserves_existing_state_files(tmp_path: Path) -> None:

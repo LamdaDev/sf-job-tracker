@@ -1,4 +1,4 @@
-name: Check San Francisco Jobs
+name: Check San Francisco Bay Area Jobs
 
 on:
   schedule:

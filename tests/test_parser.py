@@ -4,9 +4,9 @@ from pathlib import Path
 
 import pytest
 
-from src.config import SOURCES, TARGET_LOCATION
+from src.config import SOURCES
 from src.parser import UpstreamFormatError, parse_source
-from src.tracker import location_matches
+from src.tracker import location_matches, normalize_location
 
 
 FIXTURES = Path(__file__).parent / "fixtures"
@@ -48,15 +48,48 @@ def test_new_grad_parser_preserves_type_and_optional_salary() -> None:
     ("location", "expected"),
     [
         ("San Francisco, CA", True),
+        ("SF, CA", True),
+        ("S.F., California", True),
+        ("South SF, CA", True),
+        ("San Francisco (Hybrid), CA", True),
+        ("San Francisco County, CA", True),
         ("San Francisco, CA +1", True),
         ("South San Francisco, CA", True),
-        ("San Jose, CA", False),
-        ("San Mateo, CA", False),
+        ("San José, CA", True),
+        ("San Mateo, CA", True),
+        ("San Jose, CA", True),
+        ("Santa Clara, CA", True),
+        ("Berkeley, CA", True),
+        ("Fremont, CA", True),
+        ("Sunnyvale, CA", True),
+        ("Remote - Palo Alto, CA", True),
+        ("San Francisco Bay Area", True),
+        ("S.F. Bay Area", True),
+        ("San Francisco Bay Area, NY", False),
+        ("Bay Area, CA", True),
+        ("Silicon Valley, California", True),
         ("Seattle, WA", False),
+        ("San Jose, Costa Rica", False),
+        ("Fremont, NE", False),
+        ("SF, NY", False),
+        ("SFO, CA", False),
+        ("Remote", False),
+        ("California", False),
+        ("Santa Cruz, CA", False),
+        ("Morgan Hill, CA", False),
+        ("Gilroy, CA", False),
+        ("Livermore, CA", False),
     ],
 )
-def test_location_filter_uses_required_substring_semantics(location: str, expected: bool) -> None:
-    assert location_matches(location, TARGET_LOCATION) is expected
+def test_location_filter_normalizes_and_matches_the_bay_area_scope(
+    location: str, expected: bool
+) -> None:
+    assert location_matches(location) is expected
+
+
+def test_location_normalization_is_comparison_only_and_handles_accents() -> None:
+    assert normalize_location("  S.F.,   California  ") == "s f california"
+    assert normalize_location("San José, CA") == "san jose ca"
 
 
 def test_missing_marker_fails_loudly() -> None:
