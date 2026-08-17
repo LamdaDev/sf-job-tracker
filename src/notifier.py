@@ -30,10 +30,47 @@ class DeliveryResult:
     existing_issue_batches: tuple[str, ...]
 
 
+@dataclass(frozen=True)
+class ManualTestNotificationResult:
+    """Outcome of a manually requested, state-free notification test."""
+
+    issue_number: int
+    created: bool
+
+
 def issue_marker(batch_id: str) -> str:
     """Return the hidden marker used to make retries idempotent."""
 
     return f"<!-- sf-job-tracker:batch:v1:{batch_id} -->"
+
+
+TEST_NOTIFICATION_MARKER = "<!-- sf-job-tracker:test-notification:v1 -->"
+
+
+def test_issue_title() -> str:
+    """Return an unmistakable title that cannot be confused with a job alert."""
+
+    return f"🧪 TEST — {TARGET_LOCATION_LABEL} job tracker notification"
+
+
+def build_test_issue_body() -> str:
+    """Build the manual test Issue without any fake job or stateful side effect."""
+
+    return "\n".join(
+        [
+            "# 🧪 Test notification",
+            "",
+            "This is a manually requested notification test from `sf-job-tracker`.",
+            "",
+            "It is **not** a job alert and did not fetch jobs or change tracker history, "
+            "the current-job snapshot, or the dashboard.",
+            "",
+            "If you receive this Issue by email or GitHub Mobile, your notification setup is working.",
+            "",
+            TEST_NOTIFICATION_MARKER,
+            "",
+        ]
+    )
 
 
 def issue_title(job_count: int) -> str:
@@ -140,10 +177,9 @@ class GitHubIssueNotifier:
         match = re.search(r'<([^>]+)>;\s*rel="next"', link_header)
         return match.group(1) if match else None
 
-    def find_issue_for_batch(self, batch_id: str) -> int | None:
-        """Scan open and closed issues so a retry cannot create a duplicate."""
+    def find_issue_with_marker(self, marker: str) -> int | None:
+        """Scan open and closed issues for a deterministic idempotency marker."""
 
-        marker = issue_marker(batch_id)
         url: str | None = f"/repos/{self.repository}/issues?state=all&per_page=100"
         while url:
             payload, headers = self._request_json("GET", url)
@@ -159,18 +195,28 @@ class GitHubIssueNotifier:
             url = self._next_link(headers)
         return None
 
+    def find_issue_for_batch(self, batch_id: str) -> int | None:
+        """Find a prior real-job alert for a retry-safe notification batch."""
+
+        return self.find_issue_with_marker(issue_marker(batch_id))
+
+    def _create_issue(self, *, title: str, body: str) -> int:
+        """Create one Issue and return its number without applying any labels."""
+
+        response, _ = self._request_json(
+            "POST", f"/repos/{self.repository}/issues", {"title": title, "body": body}
+        )
+        if not isinstance(response, dict) or not isinstance(response.get("number"), int):
+            raise GitHubNotificationError("GitHub Issue creation returned no issue number")
+        return response["number"]
+
     def create_issue(self, jobs: Iterable[Job], batch_id: str) -> int:
         """Create a single alert Issue. Labeling is deliberately best-effort."""
 
         ordered = list(jobs)
-        payload = {
-            "title": issue_title(len(ordered)),
-            "body": build_issue_body(ordered, batch_id),
-        }
-        response, _ = self._request_json("POST", f"/repos/{self.repository}/issues", payload)
-        if not isinstance(response, dict) or not isinstance(response.get("number"), int):
-            raise GitHubNotificationError("GitHub Issue creation returned no issue number")
-        issue_number = response["number"]
+        issue_number = self._create_issue(
+            title=issue_title(len(ordered)), body=build_issue_body(ordered, batch_id)
+        )
         try:
             self._request_json(
                 "POST",
@@ -180,6 +226,20 @@ class GitHubIssueNotifier:
         except GitHubNotificationError as error:
             LOGGER.warning("Created Issue #%s but could not apply optional new-job label: %s", issue_number, error)
         return issue_number
+
+    def create_test_issue(self) -> int:
+        """Create the explicitly manual test Issue, without a job label."""
+
+        return self._create_issue(title=test_issue_title(), body=build_test_issue_body())
+
+
+def send_test_notification(notifier: GitHubIssueNotifier) -> ManualTestNotificationResult:
+    """Create at most one manual test Issue without reading or changing tracker state."""
+
+    existing_issue = notifier.find_issue_with_marker(TEST_NOTIFICATION_MARKER)
+    if existing_issue is not None:
+        return ManualTestNotificationResult(issue_number=existing_issue, created=False)
+    return ManualTestNotificationResult(issue_number=notifier.create_test_issue(), created=True)
 
 
 def deliver_pending_notifications(

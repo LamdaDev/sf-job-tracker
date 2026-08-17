@@ -11,7 +11,13 @@ from typing import Callable
 
 from .config import CATEGORIES, SOURCES, TARGET_LOCATION, TARGET_LOCATION_LABEL
 from .fetcher import FetchedSnapshot, UpstreamFetchError, fetch_upstream_sources
-from .notifier import DeliveryResult, GitHubIssueNotifier, deliver_pending_notifications
+from .notifier import (
+    DeliveryResult,
+    GitHubIssueNotifier,
+    GitHubNotificationError,
+    send_test_notification as send_test_issue_notification,
+    deliver_pending_notifications,
+)
 from .parser import UpstreamFormatError, parse_source_with_diagnostics
 from .renderer import render_jobs_markdown
 from .storage import (
@@ -186,6 +192,32 @@ def deliver_pending(
     return result
 
 
+def send_test_notification(*, environment: dict[str, str] | None = None) -> int:
+    """Create one explicitly manual test Issue without touching tracker files."""
+
+    environment = environment or dict(os.environ)
+    token = environment.get("GITHUB_TOKEN")
+    if not token:
+        raise ValueError("GITHUB_TOKEN is required to send a test GitHub Issue notification")
+    repository = environment.get("GITHUB_REPOSITORY", "LamdaDev/sf-job-tracker")
+    notifier = GitHubIssueNotifier(
+        token,
+        repository,
+        api_url=environment.get("GITHUB_API_URL", "https://api.github.com"),
+    )
+    result = send_test_issue_notification(notifier)
+    if result.created:
+        LOGGER.info(
+            "Created test GitHub Issue #%s. No upstream jobs or tracker files were changed.",
+            result.issue_number,
+        )
+    else:
+        LOGGER.info(
+            "Test GitHub Issue #%s already exists; no duplicate was created.", result.issue_number
+        )
+    return result.issue_number
+
+
 def build_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description=f"Track {TARGET_LOCATION_LABEL} SWE jobs from SpeedyApply's public USA Markdown lists."
@@ -206,6 +238,11 @@ def build_argument_parser() -> argparse.ArgumentParser:
         help="Only deliver persisted pending GitHub Issue alerts; do not fetch upstream data.",
     )
     parser.add_argument(
+        "--send-test-notification",
+        action="store_true",
+        help="Create one clearly marked test Issue without fetching jobs or changing tracker files.",
+    )
+    parser.add_argument(
         "--root",
         type=Path,
         default=PROJECT_ROOT,
@@ -224,8 +261,13 @@ def main(argv: list[str] | None = None) -> int:
     parser = build_argument_parser()
     args = parser.parse_args(argv)
     logging.basicConfig(level=getattr(logging, args.log_level), format="%(levelname)s %(message)s")
-    if args.deliver_pending and (args.dry_run or args.initialize):
-        parser.error("--deliver-pending cannot be combined with --dry-run or --initialize")
+    exclusive_modes = sum((args.deliver_pending, args.send_test_notification))
+    if exclusive_modes > 1:
+        parser.error("--deliver-pending and --send-test-notification cannot be combined")
+    if (args.deliver_pending or args.send_test_notification) and (args.dry_run or args.initialize):
+        parser.error(
+            "--deliver-pending and --send-test-notification cannot be combined with --dry-run or --initialize"
+        )
 
     try:
         if args.deliver_pending:
@@ -235,9 +277,17 @@ def main(argv: list[str] | None = None) -> int:
                 # reporting failure, so the workflow can commit it and retry
                 # only the remaining pending batches next time.
                 return 2
+        elif args.send_test_notification:
+            send_test_notification()
         else:
             run_tracker(root=args.root, dry_run=args.dry_run, initialize=args.initialize)
-    except (StorageError, UpstreamFetchError, UpstreamFormatError, ValueError) as error:
+    except (
+        StorageError,
+        UpstreamFetchError,
+        UpstreamFormatError,
+        GitHubNotificationError,
+        ValueError,
+    ) as error:
         LOGGER.error("Job tracker failed without updating state: %s", error)
         return 1
     return 0

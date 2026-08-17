@@ -8,7 +8,7 @@ import src.check_jobs as check_jobs
 from src.check_jobs import main, run_tracker
 from src.config import SOURCES
 from src.fetcher import FetchedSnapshot
-from src.notifier import DeliveryResult
+from src.notifier import DeliveryResult, GitHubNotificationError, ManualTestNotificationResult
 from src.parser import UpstreamFormatError
 
 
@@ -72,3 +72,79 @@ def test_delivery_command_returns_nonzero_after_persisting_notification_failures
     monkeypatch.setattr(check_jobs, "deliver_pending", lambda *, root: failed_delivery)
 
     assert main(["--deliver-pending", "--root", str(tmp_path)]) == 2
+
+
+def test_test_notification_mode_does_not_collect_or_write_tracker_files(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    created: list[object] = []
+
+    class FakeIssueNotifier:
+        def __init__(self, *args: object, **kwargs: object) -> None:
+            created.append((args, kwargs))
+
+    def fake_send(notifier: object) -> ManualTestNotificationResult:
+        assert isinstance(notifier, FakeIssueNotifier)
+        return ManualTestNotificationResult(issue_number=88, created=True)
+
+    monkeypatch.setattr(check_jobs, "GitHubIssueNotifier", FakeIssueNotifier)
+    monkeypatch.setattr(check_jobs, "send_test_issue_notification", fake_send)
+    monkeypatch.setattr(
+        check_jobs,
+        "run_tracker",
+        lambda **_: pytest.fail("test-notification mode must not collect jobs"),
+    )
+    monkeypatch.setattr(
+        check_jobs,
+        "deliver_pending",
+        lambda **_: pytest.fail("test-notification mode must not deliver job alerts"),
+    )
+
+    issue_number = check_jobs.send_test_notification(
+        environment={
+            "GITHUB_TOKEN": "not-a-real-token",
+            "GITHUB_REPOSITORY": "LamdaDev/sf-job-tracker",
+        }
+    )
+
+    assert issue_number == 88
+    assert created
+    assert not (tmp_path / "data").exists()
+    assert not (tmp_path / "jobs.md").exists()
+
+
+def test_cli_test_notification_mode_only_runs_the_test_path(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    calls: list[str] = []
+
+    monkeypatch.setattr(
+        check_jobs,
+        "send_test_notification",
+        lambda: calls.append("test") or 88,
+    )
+    monkeypatch.setattr(
+        check_jobs,
+        "run_tracker",
+        lambda **_: pytest.fail("test-notification mode must not collect jobs"),
+    )
+    monkeypatch.setattr(
+        check_jobs,
+        "deliver_pending",
+        lambda **_: pytest.fail("test-notification mode must not deliver job alerts"),
+    )
+
+    assert main(["--send-test-notification"]) == 0
+    assert calls == ["test"]
+
+
+def test_cli_test_notification_mode_reports_api_failure(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    monkeypatch.setattr(
+        check_jobs,
+        "send_test_notification",
+        lambda: (_ for _ in ()).throw(GitHubNotificationError("API unavailable")),
+    )
+
+    assert main(["--send-test-notification"]) == 1

@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
+    inputs:
+      send_test_notification:
+        description: "Create one clearly marked test Issue only; do not run the tracker or change data."
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -15,6 +21,7 @@ concurrency:
 
 jobs:
   check-jobs:
+    if: ${{ github.event_name != 'workflow_dispatch' || inputs.send_test_notification == false }}
     runs-on: ubuntu-latest
 
     steps:
@@ -85,3 +92,26 @@ jobs:
         run: |
           echo "One or more notification batches remain pending; see the delivery step logs."
           exit 1
+
+  send-test-notification:
+    if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_notification == true }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - name: Check out the requested workflow revision
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Create a safe test notification Issue
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_API_URL: ${{ github.api_url }}
+        run: python -m src.check_jobs --send-test-notification

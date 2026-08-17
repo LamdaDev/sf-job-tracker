@@ -84,6 +84,16 @@ After merging this repository to `main`, enable GitHub Actions if it is disabled
 
 The workflow only commits when `data/seen_jobs.json`, `data/current_jobs.json`, or `jobs.md` has actually changed.
 
+## Test your phone or email notification safely
+
+After you enable GitHub notifications for this repository, you can test the exact Issue-creation path without waiting for a real job:
+
+1. Open **Actions** → **Check San Francisco Jobs** → **Run workflow**.
+2. Check **send_test_notification**, then run the workflow.
+3. The normal `check-jobs` job will be skipped. The `send-test-notification` job creates at most one Issue titled `🧪 TEST — San Francisco job tracker notification`.
+
+The test never fetches upstream jobs and never changes `data/seen_jobs.json`, `data/current_jobs.json`, or `jobs.md`. Its body states that it is a test, and it has a fixed hidden marker: rerunning it detects the original Issue (even if you closed it) instead of creating duplicates. If the job is green and the test Issue appears, GitHub successfully created the Issue; whether it reaches your phone or inbox then depends only on your GitHub notification settings.
+
 ## Configuration and limits
 
 Edit [src/config.py](src/config.py) to change the target location, upstream repository/files, request behavior, or category marker pairs. The initial implementation intentionally reads only the two USA public Markdown files and never accesses SpeedyApply's private Supabase data or crawls individual employer sites.
