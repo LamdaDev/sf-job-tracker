@@ -1,6 +1,8 @@
 # San Francisco SWE Job Tracker
 
-An unattended GitHub Actions tracker for public USA software-engineering roles in [SpeedyApply's 2027 college-jobs repository](https://github.com/speedyapply/2027-SWE-College-Jobs). It watches both:
+A job tracker for SWE San Francisco jobs. Because I miss her.
+
+This is an unattended GitHub Actions tracker I made for public USA software-engineering roles in [SpeedyApply's 2027 college-jobs repository](https://github.com/speedyapply/2027-SWE-College-Jobs). It watches both:
 
 - USA internships from `README.md`
 - USA new-graduate roles from `NEW_GRAD_USA.md`
