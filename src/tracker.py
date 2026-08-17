@@ -466,6 +466,10 @@ def apply_current_jobs(
         batch_id = notification_batch_id(job.canonical_id for job in new_jobs)
         if batch_id not in state["pending_notifications"]:
             state["pending_notifications"][batch_id] = {
+                # This marker is intentionally prospective. Application
+                # enrichment must never treat an older persisted alert backlog
+                # as permission to inspect the entire pre-feature history.
+                "application_scan_eligible": True,
                 "created_at": now,
                 "issue_number": None,
                 "job_ids": sorted(job.canonical_id for job in new_jobs),

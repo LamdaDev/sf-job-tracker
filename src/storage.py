@@ -11,6 +11,7 @@ from typing import Any, Mapping
 
 from .canonical import aggregate_observations
 from .config import (
+    APPLICATION_QUESTIONS_SCHEMA_VERSION,
     CURRENT_JOBS_SCHEMA_VERSION,
     LEGACY_SPEEDY_SOURCE_IDS,
     LOCATION_SCOPE_VERSION,
@@ -46,6 +47,17 @@ def empty_current_state() -> dict[str, Any]:
     """Return the deterministic empty current-snapshot schema."""
 
     return {"jobs": {}, "schema_version": CURRENT_JOBS_SCHEMA_VERSION}
+
+
+def empty_application_questions_state() -> dict[str, Any]:
+    """Return the durable, intentionally empty application-scan state.
+
+    Application scans are keyed by canonical job identity rather than a source
+    URL, so a requisition observed through several upstream feeds still has
+    exactly one public question record.
+    """
+
+    return {"scans": {}, "schema_version": APPLICATION_QUESTIONS_SCHEMA_VERSION}
 
 
 def _read_json(path: Path) -> Any:
@@ -229,6 +241,147 @@ def validate_current_state(value: Any) -> dict[str, Any]:
     return current
 
 
+# Answers and candidate data have no place in this public repository. These
+# are deliberately key-based checks: a question label such as "Email" is safe
+# and useful, while a field named ``answer`` or ``resume_contents`` is not.
+_PROHIBITED_APPLICATION_SCAN_KEYS = frozenset(
+    {
+        "answer",
+        "answers",
+        "suggestedanswer",
+        "personalanswer",
+        "candidateanswer",
+        "resumetext",
+        "resumecontents",
+        "coverletter",
+        "candidateprofile",
+        "candidateemail",
+        "candidatephone",
+        "sessioncookie",
+        "sessioncookies",
+        "cookie",
+        "cookies",
+        "setcookie",
+        "csrf",
+        "csrftoken",
+        "token",
+        "accesstoken",
+        "authtoken",
+        "refreshtoken",
+        "idtoken",
+        "sessiontoken",
+        "bearertoken",
+        "authorization",
+        "authorizationheader",
+        "credential",
+        "credentials",
+        "password",
+        "passwordhash",
+        "localstorage",
+    }
+)
+
+_PROHIBITED_APPLICATION_SCAN_KEY_FRAGMENTS = (
+    "answer",
+    "resume",
+    "coverletter",
+    "candidate",
+    "cookie",
+    "csrf",
+    "token",
+    "authorization",
+    "credential",
+    "password",
+    "localstorage",
+)
+
+
+def _normalized_scan_key(key: str) -> str:
+    return "".join(character for character in key.casefold() if character.isalnum())
+
+
+def _validate_safe_application_value(value: Any, *, label: str) -> None:
+    """Reject accidental candidate/secrets fields at every nested level."""
+
+    if isinstance(value, Mapping):
+        for key, nested in value.items():
+            if not isinstance(key, str):
+                raise StorageError(f"{label} has a non-string key")
+            normalized = _normalized_scan_key(key)
+            if normalized in _PROHIBITED_APPLICATION_SCAN_KEYS or any(
+                fragment in normalized for fragment in _PROHIBITED_APPLICATION_SCAN_KEY_FRAGMENTS
+            ):
+                raise StorageError(f"{label} contains prohibited candidate or credential field {key!r}")
+            _validate_safe_application_value(nested, label=f"{label}.{key}")
+        return
+    if isinstance(value, list):
+        for index, nested in enumerate(value):
+            _validate_safe_application_value(nested, label=f"{label}[{index}]")
+        return
+    if value is not None and not isinstance(value, (str, int, float, bool)):
+        raise StorageError(f"{label} has an unsupported JSON value")
+
+
+def _validate_application_scan_record(canonical_job_id: str, value: Any) -> dict[str, Any]:
+    record = dict(_require_mapping(value, f"application scan {canonical_job_id}"))
+    _validate_safe_application_value(record, label=f"application scan {canonical_job_id}")
+
+    required_strings = ("canonical_job_id", "provider", "application_url", "status")
+    for name in required_strings:
+        if not isinstance(record.get(name), str) or not record[name].strip():
+            raise StorageError(f"application scan {canonical_job_id} has an invalid {name}")
+    if record["status"] not in {"complete", "partial", "unsupported", "unavailable", "failed"}:
+        raise StorageError(f"application scan {canonical_job_id} has an unsupported status")
+    if record["canonical_job_id"] != canonical_job_id:
+        raise StorageError("application scan record key must match canonical_job_id")
+    if not isinstance(record.get("questions"), list):
+        raise StorageError(f"application scan {canonical_job_id} has invalid questions")
+    if not all(isinstance(question, Mapping) for question in record["questions"]):
+        raise StorageError(f"application scan {canonical_job_id} questions must be objects")
+
+    for name in ("completeness_reason", "scanned_at", "first_scanned", "last_scanned", "error_type", "error_message"):
+        if name in record and record[name] is not None and not isinstance(record[name], str):
+            raise StorageError(f"application scan {canonical_job_id} has an invalid {name}")
+    if "http_status" in record and record["http_status"] is not None and not isinstance(record["http_status"], int):
+        raise StorageError(f"application scan {canonical_job_id} has an invalid http_status")
+    if "attempt_count" in record and (
+        not isinstance(record["attempt_count"], int) or isinstance(record["attempt_count"], bool) or record["attempt_count"] < 1
+    ):
+        raise StorageError(f"application scan {canonical_job_id} has an invalid attempt_count")
+    if "issue_number" in record and record["issue_number"] is not None and (
+        not isinstance(record["issue_number"], int) or isinstance(record["issue_number"], bool) or record["issue_number"] < 1
+    ):
+        raise StorageError(f"application scan {canonical_job_id} has an invalid issue_number")
+    if "issue_update_pending" in record and not isinstance(record["issue_update_pending"], bool):
+        raise StorageError(f"application scan {canonical_job_id} has an invalid issue_update_pending")
+    if "metadata" in record and not isinstance(record["metadata"], Mapping):
+        raise StorageError(f"application scan {canonical_job_id} has invalid metadata")
+    return record
+
+
+def validate_application_questions_state(value: Any) -> dict[str, Any]:
+    """Validate the separate public question-definition store.
+
+    This intentionally has no migration from job history: enabling enrichment
+    must never turn every historical canonical job into a scan candidate.
+    """
+
+    state = dict(_require_mapping(value, "application question state"))
+    if state.get("schema_version") != APPLICATION_QUESTIONS_SCHEMA_VERSION:
+        raise StorageError("Unsupported application question state schema")
+    scans = state.get("scans")
+    if not isinstance(scans, Mapping):
+        raise StorageError("application question state has an invalid scans mapping")
+    validated_scans: dict[str, dict[str, Any]] = {}
+    for canonical_job_id, record in scans.items():
+        if not isinstance(canonical_job_id, str) or not canonical_job_id:
+            raise StorageError("application question state has an invalid canonical job ID")
+        validated_scans[canonical_job_id] = _validate_application_scan_record(canonical_job_id, record)
+    state["scans"] = validated_scans
+    state["schema_version"] = APPLICATION_QUESTIONS_SCHEMA_VERSION
+    return state
+
+
 def load_seen_state(path: Path) -> dict[str, Any]:
     """Load permanent history, or return the explicit first-run state."""
 
@@ -245,6 +398,15 @@ def load_current_state(path: Path) -> dict[str, Any]:
         return validate_current_state(_read_json(path))
     except FileNotFoundError:
         return empty_current_state()
+
+
+def load_application_questions_state(path: Path) -> dict[str, Any]:
+    """Load public application question definitions without touching job state."""
+
+    try:
+        return validate_application_questions_state(_read_json(path))
+    except FileNotFoundError:
+        return empty_application_questions_state()
 
 
 def serialise_json(value: Any) -> str:

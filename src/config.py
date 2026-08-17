@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+import os
+from typing import Mapping
 
 
 # These legacy constants remain useful to callers that only need the original
@@ -141,6 +143,79 @@ USER_AGENT = "sf-job-tracker/2.0 (+https://github.com/LamdaDev/sf-job-tracker)"
 
 STATE_SCHEMA_VERSION = 2
 CURRENT_JOBS_SCHEMA_VERSION = 2
+
+
+def _environment_bool(value: str | None, *, default: bool) -> bool:
+    """Parse an explicit environment flag without silently accepting typos."""
+
+    if value is None:
+        return default
+    normalized = value.strip().casefold()
+    if normalized in {"1", "true", "yes", "on"}:
+        return True
+    if normalized in {"0", "false", "no", "off"}:
+        return False
+    # A malformed feature flag should be safe by default: job alerts keep
+    # working, while the optional read-only enrichment is not attempted.
+    return False
+
+
+def _environment_positive_int(value: str | None, *, default: int) -> int:
+    """Read a positive integer setting, falling back safely on bad input."""
+
+    if value is None:
+        return default
+    try:
+        parsed = int(value)
+    except ValueError:
+        return default
+    return parsed if parsed > 0 else default
+
+
+def application_scan_enabled(environment: Mapping[str, str] | None = None) -> bool:
+    """Return whether best-effort application enrichment is enabled.
+
+    Reading an optional mapping makes the delivery orchestration easy to test
+    and keeps the feature independently disableable in GitHub Actions without
+    affecting normal job detection or notification delivery.
+    """
+
+    values = os.environ if environment is None else environment
+    return _environment_bool(values.get("APPLICATION_SCAN_ENABLED"), default=True)
+
+
+def application_scan_only_new_jobs(environment: Mapping[str, str] | None = None) -> bool:
+    """Whether automatic enrichment is limited to newly delivered alerts.
+
+    The safe default prevents a feature rollout from scanning permanent job
+    history. Setting it false is reserved for a deliberate alert-backfill
+    operation, never a normal scheduled run.
+    """
+
+    values = os.environ if environment is None else environment
+    return _environment_bool(values.get("APPLICATION_SCAN_ONLY_NEW_JOBS"), default=True)
+
+
+def application_scan_max_attempts(environment: Mapping[str, str] | None = None) -> int:
+    """Return the bounded automatic retry count for transient scan failures."""
+
+    values = os.environ if environment is None else environment
+    return _environment_positive_int(values.get("APPLICATION_SCAN_MAX_ATTEMPTS"), default=2)
+
+
+# Application inspection is deliberately independent from job discovery. The
+# values live here so provider implementations and orchestration share one
+# bounded policy rather than scattering network/browser magic constants.
+APPLICATION_SCAN_ENABLED = application_scan_enabled()
+APPLICATION_SCAN_ONLY_NEW_JOBS = application_scan_only_new_jobs()
+APPLICATION_SCAN_HTTP_TIMEOUT_SECONDS = _environment_positive_int(
+    os.environ.get("APPLICATION_SCAN_HTTP_TIMEOUT_SECONDS"), default=20
+)
+APPLICATION_SCAN_BROWSER_TIMEOUT_SECONDS = _environment_positive_int(
+    os.environ.get("APPLICATION_SCAN_BROWSER_TIMEOUT_SECONDS"), default=20
+)
+APPLICATION_SCAN_MAX_ATTEMPTS = application_scan_max_attempts()
+APPLICATION_QUESTIONS_SCHEMA_VERSION = 1
 
 
 @dataclass(frozen=True)

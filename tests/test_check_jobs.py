@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+from types import SimpleNamespace
 
 import pytest
 
@@ -185,3 +186,168 @@ def test_cli_test_notification_mode_reports_api_failure(
     )
 
     assert main(["--send-test-notification"]) == 1
+
+
+def test_manual_application_scan_creates_issue_before_inspection_without_state_writes(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    events: list[str] = []
+    updates: list[tuple[int, str, str]] = []
+
+    class FakeIssueNotifier:
+        def __init__(self, *_args: object, **_kwargs: object) -> None:
+            events.append("notifier")
+
+        def update_issue_with_application_scan(
+            self, issue_number: int, canonical_id: str, rendered: str
+        ) -> bool:
+            events.append("update")
+            updates.append((issue_number, canonical_id, rendered))
+            return True
+
+    class Result:
+        provider = "ashby"
+        status = "complete"
+        questions = ("question",)
+
+    class Inspector:
+        def inspect(self, target: object) -> Result:
+            events.append("inspect")
+            assert getattr(target, "application_url") == "https://jobs.ashbyhq.com/replit/example"
+            assert getattr(target, "canonical_id").startswith("manual-test:application:")
+            return Result()
+
+    def fake_create(_notifier: object, application_url: str) -> int:
+        events.append("create")
+        assert application_url == "https://jobs.ashbyhq.com/replit/example"
+        return 321
+
+    monkeypatch.setattr(check_jobs, "GitHubIssueNotifier", FakeIssueNotifier)
+    monkeypatch.setattr(check_jobs, "send_test_application_scan_issue_notification", fake_create)
+    monkeypatch.setattr(
+        check_jobs,
+        "_application_inspection_api",
+        lambda: SimpleNamespace(
+            ApplicationInspector=Inspector,
+            detect_application_provider=lambda _url: "ashby",
+            failed_scan_result=lambda *_args, **_kwargs: pytest.fail("scan should not fail"),
+            render_application_scan_block=lambda result: f"## Application Questions\n{result.status}",
+        ),
+    )
+    monkeypatch.setattr(check_jobs, "load_seen_state", lambda *_: pytest.fail("manual test must not load history"))
+    monkeypatch.setattr(
+        check_jobs,
+        "load_application_questions_state",
+        lambda *_: pytest.fail("manual test must not load scan state"),
+    )
+    monkeypatch.setattr(
+        check_jobs,
+        "write_json_if_changed",
+        lambda *_args, **_kwargs: pytest.fail("manual test must not write scan state"),
+    )
+    monkeypatch.setattr(
+        check_jobs,
+        "write_texts_transactionally",
+        lambda *_args, **_kwargs: pytest.fail("manual test must not write tracker files"),
+    )
+    monkeypatch.chdir(tmp_path)
+
+    issue_number = check_jobs.send_test_application_scan(
+        application_url="https://jobs.ashbyhq.com/replit/example",
+        environment={"GITHUB_TOKEN": "not-a-real-token", "GITHUB_REPOSITORY": "LamdaDev/sf-job-tracker"},
+    )
+
+    assert issue_number == 321
+    assert events == ["notifier", "create", "inspect", "update"]
+    assert len(updates) == 1
+    assert updates[0][0] == 321
+    assert updates[0][1].startswith("manual-test:application:")
+    assert updates[0][2] == "## Application Questions\ncomplete"
+    assert not (tmp_path / "data").exists()
+    assert not (tmp_path / "jobs.md").exists()
+
+
+def test_manual_application_scan_keeps_fresh_issue_when_inspection_fails(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    events: list[str] = []
+
+    class FakeIssueNotifier:
+        def __init__(self, *_args: object, **_kwargs: object) -> None:
+            pass
+
+        def update_issue_with_application_scan(
+            self, issue_number: int, canonical_id: str, rendered: str
+        ) -> bool:
+            events.append(f"update:{issue_number}:{canonical_id}:{rendered}")
+            return True
+
+    class Inspector:
+        def inspect(self, _target: object) -> object:
+            events.append("inspect")
+            raise TimeoutError("network unavailable")
+
+    class FailedResult:
+        provider = "ashby"
+        status = "failed"
+        questions: tuple[object, ...] = ()
+
+    def fake_failed(*_args: object, **_kwargs: object) -> FailedResult:
+        events.append("failed-result")
+        return FailedResult()
+
+    monkeypatch.setattr(check_jobs, "GitHubIssueNotifier", FakeIssueNotifier)
+    monkeypatch.setattr(
+        check_jobs,
+        "send_test_application_scan_issue_notification",
+        lambda *_args: events.append("create") or 654,
+    )
+    monkeypatch.setattr(
+        check_jobs,
+        "_application_inspection_api",
+        lambda: SimpleNamespace(
+            ApplicationInspector=Inspector,
+            detect_application_provider=lambda _url: "ashby",
+            failed_scan_result=fake_failed,
+            render_application_scan_block=lambda result: f"status={result.status}",
+        ),
+    )
+
+    assert check_jobs.send_test_application_scan(
+        application_url="https://jobs.ashbyhq.com/replit/example",
+        environment={"GITHUB_TOKEN": "not-a-real-token"},
+    ) == 654
+    assert events[0:3] == ["create", "inspect", "failed-result"]
+    assert events[3].startswith("update:654:manual-test:application:")
+    assert events[3].endswith(":status=failed")
+
+
+def test_cli_manual_application_scan_only_runs_manual_test_path(
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    calls: list[str | None] = []
+    monkeypatch.setattr(
+        check_jobs,
+        "send_test_application_scan",
+        lambda *, application_url=None: calls.append(application_url) or 89,
+    )
+    monkeypatch.setattr(
+        check_jobs,
+        "run_tracker",
+        lambda **_: pytest.fail("manual application test must not collect jobs"),
+    )
+    monkeypatch.setattr(
+        check_jobs,
+        "deliver_pending",
+        lambda **_: pytest.fail("manual application test must not deliver job alerts"),
+    )
+
+    assert main(["--send-test-application-scan", "--test-application-url", "https://example.test/apply"]) == 0
+    assert calls == ["https://example.test/apply"]
+
+
+def test_cli_manual_application_scan_mode_is_exclusive() -> None:
+    with pytest.raises(SystemExit):
+        main(["--send-test-application-scan", "--send-test-notification"])
+    with pytest.raises(SystemExit):
+        main(["--test-application-url", "https://example.test/apply"])

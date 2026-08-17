@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <body>
+    <form id="application">
+      <label for="email">Email address *</label>
+      <input id="email" name="email" type="email" required>
+
+      <label>
+        LinkedIn URL
+        <input name="linkedin" type="url">
+      </label>
+
+      <div id="graduation-label">Expected graduation date</div>
+      <input name="graduation" type="date" aria-labelledby="graduation-label" aria-required="true">
+
+      <label for="interest">Why are you interested in this role?</label>
+      <textarea id="interest" name="interest" required></textarea>
+
+      <label for="location">Preferred office</label>
+      <select id="location" name="location" required>
+        <option value="">Select an option</option>
+        <option>San Francisco</option>
+        <option>New York</option>
+      </select>
+
+      <fieldset>
+        <legend>Are you legally authorized to work in the United States?</legend>
+        <label for="auth-yes">Yes</label><input id="auth-yes" name="authorization" type="radio" value="yes" required>
+        <label for="auth-no">No</label><input id="auth-no" name="authorization" type="radio" value="no">
+      </fieldset>
+
+      <fieldset>
+        <legend>Skills</legend>
+        <label for="skill-python">Python</label><input id="skill-python" name="skills" type="checkbox" value="python">
+        <label for="skill-go">Go</label><input id="skill-go" name="skills" type="checkbox" value="go">
+      </fieldset>
+
+      <label for="resume">Resume</label>
+      <input id="resume" name="resume" type="file" required>
+    </form>
+  </body>
+</html>
