@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (266)
+## Active Jobs (267)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Bear Robotics | Software Engineering Intern, Developer Productivity | Internship | Software Engineering | Redwood City, CA | ApplyGuy | N/A | 2026-08-17T20:30:11Z | 2026-08-17T20:30:11Z | Yes | [Apply](<https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity>) |
 | Flow Engineering | Software Engineer, Early Career | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T18:42:34Z | 2026-08-17T18:42:34Z | Yes | [Apply](<https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5>) |
 | Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | New Grad | Unknown | Cupertino, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs>) |
 | Atoms | Machine Learning PhD Software Engineer Intern 🎓 | Internship | Unknown | Seattle, WA \| LA \| NYC \| Mountain View, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/cssmerge/jobs/8693034002?utm_source=Simplify&ref=Simplify>) |
