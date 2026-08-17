@@ -14332,14 +14332,14 @@
     },
     "89b16b9baa53973d52ecdb18d84e1f969e44e3abd08ed82935e6eae4bc93406b": {
       "created_at": "2026-08-17T20:30:11Z",
-      "issue_number": null,
+      "issue_number": 6,
       "job_ids": [
         "url:https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
       ],
       "job_urls": [
         "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
       ],
-      "status": "pending"
+      "status": "sent"
     }
   },
   "schema_version": 2
