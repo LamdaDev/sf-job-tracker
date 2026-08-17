@@ -6454,6 +6454,53 @@
         "https://simplify.jobs/p/34fa4813-bc92-4deb-8987-cf33bc625246?utm_source=GHList"
       ]
     },
+    "tiktok:jobs.bytedance.com:7668650945276168453": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:jobs.bytedance.com:7668650945276168453",
+      "category": "FAANG+",
+      "company": "ByteDance",
+      "first_seen": "2026-08-17T22:44:27Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-17T22:44:27Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - Global Payment",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "ByteDance",
+          "first_seen": "2026-08-17T22:44:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-17T22:44:27Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - Global Payment",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "9d9a6729-76a5-4fb4-b71f-ea04e053c877",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/9d9a6729-76a5-4fb4-b71f-ea04e053c877?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/9d9a6729-76a5-4fb4-b71f-ea04e053c877?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/9d9a6729-76a5-4fb4-b71f-ea04e053c877?utm_source=GHList"
+      ]
+    },
     "tiktok:jobs.bytedance.com:7670690923748870405": {
       "active": true,
       "age": "11d",
@@ -14340,6 +14387,18 @@
         "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
       ],
       "status": "sent"
+    },
+    "e2c0b3781c37bf1ac0d218e08cc2776fec66a53e779957624a1b9ebb5932490c": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-17T22:44:27Z",
+      "issue_number": null,
+      "job_ids": [
+        "tiktok:jobs.bytedance.com:7668650945276168453"
+      ],
+      "job_urls": [
+        "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     }
   },
   "schema_version": 2

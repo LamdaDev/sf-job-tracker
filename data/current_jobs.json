@@ -5277,6 +5277,45 @@
         "https://simplify.jobs/p/34fa4813-bc92-4deb-8987-cf33bc625246?utm_source=GHList"
       ]
     },
+    "tiktok:jobs.bytedance.com:7668650945276168453": {
+      "age": "0d",
+      "application_url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:jobs.bytedance.com:7668650945276168453",
+      "category": "FAANG+",
+      "company": "ByteDance",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - Global Payment",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "ByteDance",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - Global Payment",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "9d9a6729-76a5-4fb4-b71f-ea04e053c877",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/9d9a6729-76a5-4fb4-b71f-ea04e053c877?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/9d9a6729-76a5-4fb4-b71f-ea04e053c877?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/9d9a6729-76a5-4fb4-b71f-ea04e053c877?utm_source=GHList"
+      ]
+    },
     "tiktok:jobs.bytedance.com:7670690923748870405": {
       "age": "11d",
       "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
