@@ -490,10 +490,37 @@
       "job_type": "New Grad",
       "location": "Sunnyvale, CA",
       "position": "Embedded Software Engineer - New Grad - 2027",
-      "posted": null,
+      "posted": "2026-08-14",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "3d",
+          "application_url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44",
+          "category": "Unknown",
+          "company": "Applied Intuition",
+          "job_type": "New Grad",
+          "location": "Sunnyvale, CA",
+          "position": "Embedded Software Engineer - New Grad (2027)",
+          "posted": "2026-08-14",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "4e9581e3-cbf2-4caa-bbb2-b96048d02f06",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "3d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-17T18:31:10.983Z",
+            "id": "4e9581e3-cbf2-4caa-bbb2-b96048d02f06",
+            "listingUrl": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44",
+            "matchKind": "explicit",
+            "posted": "2026-08-14",
+            "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=4e9581e3-cbf2-4caa-bbb2-b96048d02f06&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=4e9581e3-cbf2-4caa-bbb2-b96048d02f06&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "2d",
           "application_url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44",
@@ -514,6 +541,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Applied+Intuition&job=4e9581e3-cbf2-4caa-bbb2-b96048d02f06&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44"
       ]
     },
@@ -526,10 +554,37 @@
       "job_type": "New Grad",
       "location": "Sunnyvale, CA +1",
       "position": "Software Engineer - New Grad - December 2026",
-      "posted": null,
+      "posted": "2026-08-14",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "3d",
+          "application_url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694",
+          "category": "Unknown",
+          "company": "Applied Intuition",
+          "job_type": "New Grad",
+          "location": "Sunnyvale, CA",
+          "position": "Software Engineer - New Grad (December 2026)",
+          "posted": "2026-08-14",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "26647379-2d57-4304-98d4-be27c47a67b0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "3d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-17T18:31:10.983Z",
+            "id": "26647379-2d57-4304-98d4-be27c47a67b0",
+            "listingUrl": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694",
+            "matchKind": "explicit",
+            "posted": "2026-08-14",
+            "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=26647379-2d57-4304-98d4-be27c47a67b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=26647379-2d57-4304-98d4-be27c47a67b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "2d",
           "application_url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694",
@@ -550,6 +605,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Applied+Intuition&job=26647379-2d57-4304-98d4-be27c47a67b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"
       ]
     },
@@ -1275,6 +1331,52 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066"
+      ]
+    },
+    "ashby:flowengineering:df49e713-ce33-40a8-8d6d-3759f61f4ea5": {
+      "age": "3d",
+      "application_url": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5",
+      "canonical_id": "ashby:flowengineering:df49e713-ce33-40a8-8d6d-3759f61f4ea5",
+      "category": "Unknown",
+      "company": "Flow Engineering",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer, Early Career",
+      "posted": "2026-08-14",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "3d",
+          "application_url": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5",
+          "category": "Unknown",
+          "company": "Flow Engineering",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, Early Career",
+          "posted": "2026-08-14",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "7740a069-0585-43fe-8e89-6236d9ff4493",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "3d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-17T18:31:10.983Z",
+            "id": "7740a069-0585-43fe-8e89-6236d9ff4493",
+            "listingUrl": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5",
+            "matchKind": "explicit",
+            "posted": "2026-08-14",
+            "url": "https://applyguy.ai/jobs?company=Flow+Engineering&job=7740a069-0585-43fe-8e89-6236d9ff4493&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Flow+Engineering&job=7740a069-0585-43fe-8e89-6236d9ff4493&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Flow+Engineering&job=7740a069-0585-43fe-8e89-6236d9ff4493&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5"
       ]
     },
     "ashby:gritt:46af6e69-40fc-4e53-940e-a99757137523": {
@@ -9170,6 +9272,52 @@
         "https://apply.workable.com/vectoratomic/j/00C9C6A8E4/"
       ]
     },
+    "url:https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity": {
+      "age": "Today",
+      "application_url": "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity",
+      "canonical_id": "url:https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity",
+      "category": "Software Engineering",
+      "company": "Bear Robotics",
+      "job_type": "Internship",
+      "location": "Redwood City, CA",
+      "position": "Software Engineering Intern, Developer Productivity",
+      "posted": "2026-08-17",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity",
+          "category": "Software Engineering",
+          "company": "Bear Robotics",
+          "job_type": "Internship",
+          "location": "Redwood City, CA",
+          "position": "Software Engineering Intern, Developer Productivity",
+          "posted": "2026-08-17",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7c576cc9-c604-401d-baf8-c8fe3bb2dc7d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-17T20:15:33.664Z",
+            "id": "7c576cc9-c604-401d-baf8-c8fe3bb2dc7d",
+            "listingUrl": "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity",
+            "posted": "2026-08-17",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Bear+Robotics&job=7c576cc9-c604-401d-baf8-c8fe3bb2dc7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Bear+Robotics&job=7c576cc9-c604-401d-baf8-c8fe3bb2dc7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Bear+Robotics&job=7c576cc9-c604-401d-baf8-c8fe3bb2dc7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
+      ]
+    },
     "url:https://careers.roblox.com/jobs/8025021?gh_jid=8025021": {
       "age": "52d",
       "application_url": "https://careers.roblox.com/jobs/8025021?gh_jid=8025021",
@@ -10301,33 +10449,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "6d",
-          "application_url": "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
-          "category": "Unknown",
-          "company": "Cohesity",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer (New Grad 2026)",
-          "posted": "2026-08-11",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "4d8f871a-ba88-4101-b938-bc6a4e8d2c8a",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "6d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "4d8f871a-ba88-4101-b938-bc6a4e8d2c8a",
-            "listingUrl": "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
-            "matchKind": "explicit",
-            "posted": "2026-08-11",
-            "url": "https://applyguy.ai/jobs?company=Cohesity&job=4d8f871a-ba88-4101-b938-bc6a4e8d2c8a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Cohesity&job=4d8f871a-ba88-4101-b938-bc6a4e8d2c8a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "6d",
           "application_url": "https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",

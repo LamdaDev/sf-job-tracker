@@ -4,10 +4,12 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (265)
+## Active Jobs (267)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Bear Robotics | Software Engineering Intern, Developer Productivity | Internship | Software Engineering | Redwood City, CA | ApplyGuy | N/A | 2026-08-17T20:30:11Z | 2026-08-17T20:30:11Z | Yes | [Apply](<https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity>) |
+| Flow Engineering | Software Engineer, Early Career | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T18:42:34Z | 2026-08-17T18:42:34Z | Yes | [Apply](<https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5>) |
 | Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | New Grad | Unknown | Cupertino, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs>) |
 | Atoms | Machine Learning PhD Software Engineer Intern 🎓 | Internship | Unknown | Seattle, WA \| LA \| NYC \| Mountain View, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/cssmerge/jobs/8693034002?utm_source=Simplify&ref=Simplify>) |
 | Atoms | Software Engineer Intern - Summer 2027 | Internship | Unknown | Seattle, WA \| SF \| LA \| NYC \| Mountain View, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify>) |
@@ -52,9 +54,9 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Apple | Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS | New Grad | FAANG+ | Cupertino, CA | SpeedyApply | $153k/yr | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.apple.com/en-us/details/200665472-0836>) |
 | Apple | Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS | New Grad | FAANG+ | Cupertino, CA | SpeedyApply | $153k/yr | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.apple.com/en-us/details/200665480-0836>) |
 | Applied Intuition | Android Software Engineer - Applications | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/ffd8635d-43d5-4298-a29c-67eaa45c5a4a>) |
-| Applied Intuition | Embedded Software Engineer - New Grad - 2027 | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44>) |
+| Applied Intuition | Embedded Software Engineer - New Grad - 2027 | New Grad | Other | Sunnyvale, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T18:42:34Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44>) |
 | Applied Intuition | Software Engineer | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/43286c63-937d-4384-a5ff-12cb31baa225>) |
-| Applied Intuition | Software Engineer - New Grad - December 2026 | New Grad | Other | Sunnyvale, CA +1 | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694>) |
+| Applied Intuition | Software Engineer - New Grad - December 2026 | New Grad | Other | Sunnyvale, CA +1 | ApplyGuy, SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T18:42:34Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694>) |
 | Applied Intuition | Software Integration Engineer - New Grad - 2027 | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19>) |
 | Astera Institute | Software Engineering Intern - Distributed Simulation Systems | Internship | Other | Emeryville, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066>) |
 | Avive Solutions | Firmware Engineer - IoT | New Grad | Other | Brisbane, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.lever.co/AviveSolutions/6d982360-d21c-4389-8a75-9a971d644f1d>) |
