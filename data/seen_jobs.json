@@ -12771,13 +12771,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "6d",
           "application_url": "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
           "category": "Unknown",
           "company": "Cohesity",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-17T22:27:44Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Santa Clara, CA",

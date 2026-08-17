@@ -10449,33 +10449,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "6d",
-          "application_url": "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
-          "category": "Unknown",
-          "company": "Cohesity",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer (New Grad 2026)",
-          "posted": "2026-08-11",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "4d8f871a-ba88-4101-b938-bc6a4e8d2c8a",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "6d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "4d8f871a-ba88-4101-b938-bc6a4e8d2c8a",
-            "listingUrl": "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
-            "matchKind": "explicit",
-            "posted": "2026-08-11",
-            "url": "https://applyguy.ai/jobs?company=Cohesity&job=4d8f871a-ba88-4101-b938-bc6a4e8d2c8a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Cohesity&job=4d8f871a-ba88-4101-b938-bc6a4e8d2c8a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "6d",
           "application_url": "https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282",
