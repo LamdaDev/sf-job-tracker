@@ -34,7 +34,7 @@ def test_dry_run_does_not_write_state_or_dashboard(tmp_path: Path) -> None:
     )
 
     assert summary.transition.baseline is True
-    assert summary.matching_count == 5
+    assert summary.matching_count == 7
     assert not (tmp_path / "data").exists()
     assert not (tmp_path / "jobs.md").exists()
 
@@ -62,7 +62,7 @@ def test_matching_location_is_filtered_before_duplicate_urls_are_collapsed(tmp_p
         timestamp="2026-08-16T12:00:00Z",
     )
 
-    assert summary.matching_count == 5
+    assert summary.matching_count == 7
     assert any(
         record["application_url"] == "https://boards.example.test/figma/123?gh_jid=123&source=fixture"
         for record in summary.transition.current_state["jobs"].values()

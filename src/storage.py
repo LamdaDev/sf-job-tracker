@@ -13,6 +13,7 @@ from .canonical import aggregate_observations
 from .config import (
     CURRENT_JOBS_SCHEMA_VERSION,
     LEGACY_SPEEDY_SOURCE_IDS,
+    LOCATION_SCOPE_VERSION,
     SOURCES,
     STATE_SCHEMA_VERSION,
 )
@@ -35,6 +36,7 @@ def empty_seen_state() -> dict[str, Any]:
         "initialized_at": None,
         "initialized_sources": _source_initialization_defaults(),
         "jobs": {},
+        "location_scope_version": LOCATION_SCOPE_VERSION,
         "pending_notifications": {},
         "schema_version": STATE_SCHEMA_VERSION,
     }
@@ -114,6 +116,9 @@ def _migrate_seen_v1(value: Mapping[str, Any]) -> dict[str, Any]:
         raise StorageError("seen job state has an invalid initialized flag")
     if value.get("initialized_at") is not None and not isinstance(value.get("initialized_at"), str):
         raise StorageError("seen job state has an invalid initialized_at value")
+    location_scope_version = value.get("location_scope_version")
+    if location_scope_version is not None and not isinstance(location_scope_version, str):
+        raise StorageError("legacy seen job state has an invalid location_scope_version")
     jobs = value.get("jobs")
     pending = value.get("pending_notifications")
     if not isinstance(jobs, Mapping) or not isinstance(pending, Mapping):
@@ -122,6 +127,13 @@ def _migrate_seen_v1(value: Mapping[str, Any]) -> dict[str, Any]:
     migrated = empty_seen_state()
     migrated["initialized"] = value["initialized"]
     migrated["initialized_at"] = value.get("initialized_at")
+    # Preserve the old scope marker when available. Its absence is meaningful:
+    # the tracker will silently rebaseline it instead of alerting a scope
+    # expansion after migration.
+    if location_scope_version is None:
+        migrated.pop("location_scope_version")
+    else:
+        migrated["location_scope_version"] = location_scope_version
     # A v1 state only contained the original SpeedyApply sources. Mark them as
     # onboarded so adding providers cannot re-alert historical jobs.
     for source_id in LEGACY_SPEEDY_SOURCE_IDS:
@@ -190,6 +202,9 @@ def validate_seen_state(value: Any) -> dict[str, Any]:
         raise StorageError("seen job state has an invalid initialized flag")
     if state.get("initialized_at") is not None and not isinstance(state.get("initialized_at"), str):
         raise StorageError("seen job state has an invalid initialized_at value")
+    location_scope_version = state.get("location_scope_version")
+    if location_scope_version is not None and not isinstance(location_scope_version, str):
+        raise StorageError("seen job state has an invalid location_scope_version")
     state["initialized_sources"] = _validate_initialized_sources(state.get("initialized_sources", {}))
     if not isinstance(state.get("jobs"), dict):
         raise StorageError("seen job state has an invalid jobs mapping")

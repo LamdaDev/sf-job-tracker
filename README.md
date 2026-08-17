@@ -2,7 +2,7 @@
 
 A job tracker for SWE jobs near San Francisco. Because I miss her.
 
-This is an unattended GitHub Actions tracker for public software-engineering internships and new-graduate jobs whose displayed location is in San Francisco.
+This is an unattended GitHub Actions tracker for public software-engineering internships and new-graduate jobs whose displayed location is in the San Francisco Bay Area.
 
 It combines public listings from three providers:
 
@@ -15,18 +15,19 @@ It combines public listings from three providers:
 
 The tracker fetches listing feeds only. It does not scrape employer career sites, use private provider data, or need an external database.
 
-## San Francisco location rule
+## Nearby-city location rule
 
-This is deliberately a **San Francisco-only** tracker, not a Bay Area radius or a commute-time calculation. Matching is performed on source-provided location text without changing what is displayed in the dashboard.
+The tracker uses a deterministic, curated San Francisco Bay Area allowlist for cities that are roughly within a one-hour drive of San Francisco in favorable traffic. It matches only source-provided location text and leaves that displayed location unchanged in the dashboard; it does not call a routing API or make a live traffic-time claim.
 
-It accepts explicit San Francisco forms such as:
+The policy includes:
 
-- `San Francisco, CA`, `San Francisco`, and `San Francisco, California`
-- `SF, CA`, `SF`, and punctuated `S.F.` forms
-- `South San Francisco, CA`
-- a multi-location field that contains one of those entries, for example `SF | NYC`
+- San Francisco and Peninsula cities, including `SF`, `S.F.`, South San Francisco, San Mateo, Redwood City, Palo Alto, and Mountain View.
+- South Bay cities including Sunnyvale, Cupertino, Santa Clara, San Jose, Milpitas, Campbell, Los Gatos, and Saratoga.
+- East Bay cities including Oakland, Berkeley, Fremont, Hayward, Union City, Pleasanton, San Ramon, Walnut Creek, and Concord.
+- The nearest North Bay cities including Sausalito, Mill Valley, San Rafael, Novato, Vallejo, and Benicia.
+- State-qualified regional forms such as `Bay Area, CA` and `Silicon Valley, California`, plus unambiguous `San Francisco Bay Area` forms.
 
-It does not treat nearby cities or broad regional phrases as San Francisco. For example, San Jose, San Mateo, Palo Alto, Santa Clara, Berkeley, Fremont, Sunnyvale, `Bay Area`, and `Silicon Valley` do not match unless the same location field also explicitly includes San Francisco. The editable alias policy is in [src/config.py](src/config.py).
+City aliases require a California spelling, so `SF, NY`, `San Jose, Costa Rica`, and `Fremont, NE` do not match. The deliberately bounded scope also excludes farther locations such as Santa Cruz, Morgan Hill, Gilroy, and Livermore. The editable complete allowlist and alias policy are in [src/config.py](src/config.py).
 
 ## How collection and deduplication work
 
@@ -55,7 +56,7 @@ Only new canonical jobs after their relevant source has been initialized enter a
 | `src/adapters.py` | ApplyGuy JSON and Simplify active-table adapters |
 | `src/parser.py` | Existing SpeedyApply Markdown adapter and parser dispatch |
 | `src/canonical.py` | URL normalization, requisition identity, and cross-source aggregation |
-| `src/tracker.py` | San Francisco filtering and source-aware lifecycle reconciliation |
+| `src/tracker.py` | Nearby-city filtering and source-aware lifecycle reconciliation |
 | `src/storage.py` | Validated atomic storage and v1-to-v2 state migration |
 | `src/notifier.py` | Canonical GitHub Issue formatting and idempotent delivery |
 | `data/seen_jobs.json` | Permanent canonical history and notification batches |
@@ -126,4 +127,4 @@ After merging to `main`, enable GitHub Actions if necessary. If repository polic
 
 ## Configuration and limits
 
-Edit [src/config.py](src/config.py) to change source feeds, the San Francisco aliases, request behavior, or SpeedyApply category markers. Keep the matcher narrow unless you intentionally want a different product scope. The tracker relies on the feeds' displayed locations and does not expand locations by visiting employer pages or use live routing/geocoding. The repository stores no credentials or personal application notes.
+Edit [src/config.py](src/config.py) to change source feeds, the nearby-city allowlist and aliases, request behavior, or SpeedyApply category markers. Keep the matcher deliberately bounded unless you intentionally want a different product scope. The tracker relies on the feeds' displayed locations and does not expand locations by visiting employer pages or use live routing/geocoding. The repository stores no credentials or personal application notes.

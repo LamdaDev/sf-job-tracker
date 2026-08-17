@@ -1,6 +1,9 @@
 from __future__ import annotations
 
+import copy
+
 from src.canonical import canonicalize_job_url
+from src.config import LOCATION_SCOPE_VERSION
 from src.models import Job
 from src.storage import empty_seen_state
 from src.tracker import apply_current_jobs
@@ -246,3 +249,44 @@ def test_successful_new_source_with_zero_matching_jobs_is_still_initialized() ->
     )
     assert later.baselined_source_ids == ("simplify_summer_2027",)
     assert later.state["initialized_sources"]["simplify_summer_2027"] is True
+
+
+def test_expanded_location_scope_silently_rebaselines_existing_v2_history() -> None:
+    san_francisco = make_job("https://jobs.example.test/san-francisco")
+    original = apply_current_jobs(
+        empty_seen_state(),
+        [san_francisco],
+        successful_source_ids={san_francisco.source_id},
+        timestamp="2026-08-16T12:00:00Z",
+    )
+    # The immediately preceding multi-source state had no scope marker and
+    # contained only SF jobs. Treat it as legacy coverage, rather than sending
+    # alerts for every newly included nearby-city listing.
+    legacy_v2_state = copy.deepcopy(original.state)
+    legacy_v2_state.pop("location_scope_version")
+    san_jose = make_job("https://jobs.example.test/san-jose", location="San Jose, CA")
+
+    expanded = apply_current_jobs(
+        legacy_v2_state,
+        [san_francisco, san_jose],
+        successful_source_ids={san_francisco.source_id},
+        timestamp="2026-08-16T13:00:00Z",
+    )
+
+    assert expanded.baseline is True
+    assert expanded.scope_rebased is True
+    assert expanded.new_jobs == ()
+    assert expanded.state["location_scope_version"] == LOCATION_SCOPE_VERSION
+    assert expanded.state["pending_notifications"] == {}
+
+    sunnyvale = make_job("https://jobs.example.test/sunnyvale", location="Sunnyvale, CA")
+    after_rebaseline = apply_current_jobs(
+        expanded.state,
+        [san_francisco, san_jose, sunnyvale],
+        successful_source_ids={san_francisco.source_id},
+        timestamp="2026-08-16T14:00:00Z",
+    )
+
+    assert after_rebaseline.baseline is False
+    assert after_rebaseline.scope_rebased is False
+    assert after_rebaseline.new_jobs[0].canonical_id == canonicalize_job_url(sunnyvale.application_url)

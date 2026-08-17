@@ -12,10 +12,14 @@ from typing import Any, Iterable
 
 from .canonical import aggregate_observations, fallback_fingerprint_for_fields, inspect_job_url
 from .config import (
+    BAY_AREA_CITY_ALIASES,
+    BAY_AREA_CITY_NAMES,
+    BAY_AREA_REGION_ALIASES,
+    BAY_AREA_UNAMBIGUOUS_REGION_ALIASES,
+    CALIFORNIA_LOCATION_TOKENS,
     CURRENT_JOBS_SCHEMA_VERSION,
-    SAN_FRANCISCO_LOCATION_ALIASES,
-    SAN_FRANCISCO_PLACE_QUALIFIERS,
-    SOURCE_PRIORITY,
+    LOCATION_PLACE_QUALIFIERS,
+    LOCATION_SCOPE_VERSION,
 )
 from .models import CanonicalJob, Job
 from .storage import validate_seen_state
@@ -33,6 +37,7 @@ class StateTransition:
     inactive_count: int
     reactivated_count: int
     duplicate_count: int
+    scope_rebased: bool
 
 
 def utc_timestamp() -> str:
@@ -47,34 +52,73 @@ def normalize_location(location: str) -> str:
     return " ".join(re.sub(r"[^a-z0-9]+", " ", plain.casefold()).split())
 
 
-def _location_segments(location: str) -> list[str]:
-    """Split explicit multi-location separators before normalizing aliases."""
+_NON_CALIFORNIA_US_STATE_CODES = frozenset(
+    """
+    ak al ar az co ct dc de fl ga hi ia id il in ks ky la ma md me mi mn mo ms mt
+    nc nd ne nh nj nm nv ny oh ok or pa ri sc sd tn tx ut va vt wa wi wv wy
+    """.split()
+)
 
-    split = re.split(r"(?:<br\s*/?>|\r?\n|\||;)", location, flags=re.IGNORECASE)
-    return [normalize_location(segment) for segment in split if normalize_location(segment)]
+
+def _contains_phrase(normalized_location: str, phrase: str) -> bool:
+    """Match a whole normalized phrase, never an arbitrary substring."""
+
+    return f" {phrase} " in f" {normalized_location} "
+
+
+def _matches_california_place(normalized_location: str, place: str) -> bool:
+    """Require a configured place and CA spelling, allowing known descriptors."""
+
+    for state in CALIFORNIA_LOCATION_TOKENS:
+        if _contains_phrase(normalized_location, f"{place} {state}"):
+            return True
+        if any(
+            _contains_phrase(normalized_location, f"{place} {qualifier} {state}")
+            for qualifier in LOCATION_PLACE_QUALIFIERS
+        ):
+            return True
+    return False
+
+
+def _matches_unambiguous_region(normalized_location: str) -> bool:
+    """Accept named SF regional phrases unless explicitly paired with another state."""
+
+    for region in BAY_AREA_UNAMBIGUOUS_REGION_ALIASES:
+        if not _contains_phrase(normalized_location, region):
+            continue
+        if any(
+            _contains_phrase(normalized_location, f"{region} {state}")
+            for state in _NON_CALIFORNIA_US_STATE_CODES
+        ):
+            continue
+        return True
+    return False
 
 
 def location_matches(location: str) -> bool:
-    """Match San Francisco only, including ``SF`` aliases and South SF.
+    """Match the configured, deterministic San Francisco Bay Area scope.
 
-    State-qualified phrases can appear within a longer string (for example
-    ``Remote - San Francisco, CA +1``). Bare aliases are accepted only as a
-    complete multi-location segment, which avoids matching ``SF Bay Area`` or
-    arbitrary words containing the letters ``sf``.
+    This deliberately recognizes exact city/alias phrases paired with a
+    California spelling. It does not attempt live route estimates, infer the
+    hidden locations behind ``+N``, or use fuzzy matching.
     """
 
-    normalized = normalize_location(location)
-    if not normalized:
+    normalized_location = normalize_location(location)
+    if not normalized_location:
         return False
-    padded = f" {normalized} "
-    for phrase in ("san francisco ca", "san francisco california", "sf ca", "sf california", "s f ca", "s f california"):
-        if f" {phrase} " in padded:
-            return True
-    for qualifier in SAN_FRANCISCO_PLACE_QUALIFIERS:
-        for state in ("ca", "california"):
-            if f" san francisco {qualifier} {state} " in padded:
-                return True
-    return any(segment in SAN_FRANCISCO_LOCATION_ALIASES for segment in _location_segments(location))
+
+    if _matches_unambiguous_region(normalized_location):
+        return True
+
+    places_requiring_california = (
+        *BAY_AREA_CITY_NAMES,
+        *BAY_AREA_CITY_ALIASES,
+        *BAY_AREA_REGION_ALIASES,
+    )
+    return any(
+        _matches_california_place(normalized_location, place)
+        for place in places_requiring_california
+    )
 
 
 def notification_batch_id(ids: Iterable[str]) -> str:
@@ -381,7 +425,8 @@ def apply_current_jobs(
         observation.source_id for job in observed_jobs for observation in job.observations
     })
     now = timestamp or utc_timestamp()
-    baseline = initialize or not state["initialized"]
+    scope_rebased = state.get("location_scope_version") != LOCATION_SCOPE_VERSION
+    baseline = initialize or not state["initialized"] or scope_rebased
     initialized_sources = state["initialized_sources"]
     baselined_sources = tuple(sorted(source_id for source_id in successful if not initialized_sources.get(source_id, False)))
     new_jobs: list[CanonicalJob] = []
@@ -412,6 +457,8 @@ def apply_current_jobs(
     if not state["initialized"]:
         state["initialized"] = True
         state["initialized_at"] = now
+    if scope_rebased:
+        state["location_scope_version"] = LOCATION_SCOPE_VERSION
     for source_id in successful:
         initialized_sources[source_id] = True
 
@@ -435,4 +482,5 @@ def apply_current_jobs(
         inactive_count=inactive_count,
         reactivated_count=reactivated_count,
         duplicate_count=duplicate_count,
+        scope_rebased=scope_rebased,
     )

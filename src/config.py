@@ -11,30 +11,129 @@ UPSTREAM_REPOSITORY = "speedyapply/2027-SWE-College-Jobs"
 UPSTREAM_API_URL = f"https://api.github.com/repos/{UPSTREAM_REPOSITORY}/commits/main"
 RAW_CONTENT_BASE_URL = f"https://raw.githubusercontent.com/{UPSTREAM_REPOSITORY}"
 
-TARGET_LOCATION = "San Francisco, CA"
-TARGET_LOCATION_LABEL = "San Francisco"
+# Location matching is intentionally deterministic and based only on the
+# displayed text. A live one-hour driving-time check would require addresses,
+# routing API credentials, and a traffic-time decision for every listing. This
+# curated scope instead covers cities roughly one hour from San Francisco in
+# favorable traffic, including the requested South Bay and East Bay cities.
+TARGET_LOCATION = "San Francisco Bay Area"
+TARGET_LOCATION_LABEL = "San Francisco Bay Area"
 TARGET_LOCATION_DESCRIPTION = (
-    "San Francisco, CA (including the explicit SF aliases and South San Francisco)"
+    "an explicit San Francisco Bay Area city and alias policy for locations "
+    "roughly one hour away by car in favorable traffic"
 )
 
-# These are deliberately a *San Francisco* matcher, not a Bay Area radius.
-# Keep abbreviations as complete location tokens: matching a bare ``sf``
-# substring would make ordinary prose and unrelated locations false positives.
-SAN_FRANCISCO_LOCATION_ALIASES = (
+# Bump this whenever the allowlist changes. Existing history from an older
+# scope is silently rebaselined so an intentional coverage expansion does not
+# produce one large notification batch for listings that were already live.
+LOCATION_SCOPE_VERSION = "sf-bay-area-roughly-one-hour-v1"
+
+# State spellings accepted after a city or region name. Comparison text is
+# normalized before matching, so punctuation and whitespace variations work.
+CALIFORNIA_LOCATION_TOKENS = ("ca", "calif", "california")
+
+# Keep this list explicit rather than matching all of California or every
+# nine-county Bay Area city. The outermost cities are only approximately within
+# an hour under favorable traffic; edit this list to tune the personal radius.
+BAY_AREA_CITY_NAMES = (
+    # San Francisco and the Peninsula.
     "san francisco",
-    "san francisco ca",
-    "san francisco california",
-    "sf",
-    "sf ca",
-    "sf california",
-    "s f",
-    "s f ca",
-    "s f california",
+    "south san francisco",
+    "daly city",
+    "colma",
+    "brisbane",
+    "pacifica",
+    "san bruno",
+    "millbrae",
+    "burlingame",
+    "hillsborough",
+    "san mateo",
+    "foster city",
+    "belmont",
+    "san carlos",
+    "redwood city",
+    "atherton",
+    "menlo park",
+    "east palo alto",
+    "palo alto",
+    "woodside",
+    "portola valley",
+    "half moon bay",
+    # South Bay.
+    "mountain view",
+    "los altos",
+    "los altos hills",
+    "sunnyvale",
+    "cupertino",
+    "santa clara",
+    "san jose",
+    "milpitas",
+    "campbell",
+    "los gatos",
+    "saratoga",
+    # East Bay.
+    "oakland",
+    "emeryville",
+    "alameda",
+    "berkeley",
+    "albany",
+    "el cerrito",
+    "richmond",
+    "san pablo",
+    "pinole",
+    "hercules",
+    "piedmont",
+    "san leandro",
+    "castro valley",
+    "hayward",
+    "union city",
+    "newark",
+    "fremont",
+    "orinda",
+    "lafayette",
+    "moraga",
+    "walnut creek",
+    "pleasant hill",
+    "concord",
+    "martinez",
+    "dublin",
+    "pleasanton",
+    "san ramon",
+    "danville",
+    # Marin and the nearest North Bay cities.
+    "sausalito",
+    "mill valley",
+    "tiburon",
+    "belvedere",
+    "corte madera",
+    "larkspur",
+    "ross",
+    "san anselmo",
+    "fairfax",
+    "san rafael",
+    "novato",
+    "vallejo",
+    "benicia",
 )
 
-# A small presentation-only qualifier allowlist covers common upstream forms
-# such as ``San Francisco (Hybrid), CA`` without accepting regional phrases.
-SAN_FRANCISCO_PLACE_QUALIFIERS = ("county", "hybrid", "remote", "onsite", "on site", "in office")
+# Short forms still require a California state token. Do not add bare ``SF``
+# or ``Bay Area`` substring matching: that would produce avoidable false
+# positives in free-form location text.
+BAY_AREA_CITY_ALIASES = ("sf", "s f", "san fran", "south sf")
+
+# A few source formats insert a descriptor between city and state, such as
+# ``San Francisco (Hybrid), CA``. These are accepted without making matching
+# fuzzy or treating arbitrary intervening words as location text.
+LOCATION_PLACE_QUALIFIERS = ("county", "hybrid", "remote", "onsite", "on site", "in office")
+
+# These names identify the San Francisco region without a separate state
+# token, unlike the generic regional phrases below.
+BAY_AREA_UNAMBIGUOUS_REGION_ALIASES = (
+    "san francisco bay area",
+    "sf bay area",
+    "s f bay area",
+)
+BAY_AREA_REGION_ALIASES = ("bay area", "silicon valley")
 
 REQUEST_TIMEOUT_SECONDS = 30
 REQUEST_RETRIES = 3

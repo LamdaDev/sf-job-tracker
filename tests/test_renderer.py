@@ -30,8 +30,8 @@ def test_renderer_has_one_canonical_row_with_visible_sources_and_history() -> No
 
     markdown = render_jobs_markdown(state)
     assert markdown.startswith(GENERATED_WARNING)
-    assert "# San Francisco SWE Job Tracker" in markdown
-    assert "including the explicit SF aliases" in markdown
+    assert "# San Francisco Bay Area SWE Job Tracker" in markdown
+    assert "roughly one hour away by car" in markdown
     assert "## Active Jobs (1)" in markdown
     assert "## Historical / Closed or Removed Jobs (1)" in markdown
     assert markdown.count("Active Co") == 1

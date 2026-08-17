@@ -62,8 +62,8 @@ def test_notification_payload_is_canonical_actionable_and_has_hidden_marker() ->
     job = make_job("https://jobs.example.test/one", company="Notion")
     body = build_issue_body([job], "abc123")
 
-    assert issue_title(1) == "🚨 1 new San Francisco SWE job"
-    assert issue_title(2) == "🚨 2 new San Francisco SWE jobs"
+    assert issue_title(1) == "🚨 1 new San Francisco Bay Area SWE job"
+    assert issue_title(2) == "🚨 2 new San Francisco Bay Area SWE jobs"
     assert "**Type:** New Grad" in body
     assert "**Category:** Other" in body
     assert "**Sources:** SpeedyApply" in body
@@ -73,7 +73,7 @@ def test_notification_payload_is_canonical_actionable_and_has_hidden_marker() ->
 
 def test_test_notification_payload_is_unmistakable_and_state_free() -> None:
     body = build_test_issue_body()
-    assert notification_test_issue_title() == "🧪 TEST — San Francisco job tracker notification"
+    assert notification_test_issue_title() == "🧪 TEST — San Francisco Bay Area job tracker notification"
     assert "not** a job alert" in body
     assert "did not fetch jobs or change tracker history" in body
     assert TEST_NOTIFICATION_MARKER in body

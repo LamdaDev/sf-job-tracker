@@ -6,6 +6,7 @@ import pytest
 
 import src.storage as storage
 from src.canonical import canonicalize_job_url
+from src.config import LOCATION_SCOPE_VERSION
 from src.storage import StorageError, validate_current_state, validate_seen_state, write_texts_transactionally
 
 
@@ -69,6 +70,7 @@ def test_v1_speedyapply_state_and_current_snapshot_migrate_idempotently() -> Non
         "schema_version": 1,
         "initialized": True,
         "initialized_at": "2026-08-10T12:00:00Z",
+        "location_scope_version": LOCATION_SCOPE_VERSION,
         "jobs": {url: legacy_job},
         "pending_notifications": {
             "old-url-hash": {"created_at": "2026-08-11T12:00:00Z", "job_urls": [url], "status": "pending", "issue_number": None}
@@ -82,6 +84,7 @@ def test_v1_speedyapply_state_and_current_snapshot_migrate_idempotently() -> Non
     assert migrated["jobs"][key]["sources"]["speedyapply_internships"]["active"] is True
     assert migrated["initialized_sources"]["speedyapply_internships"] is True
     assert migrated["initialized_sources"]["applyguy_internships"] is False
+    assert migrated["location_scope_version"] == LOCATION_SCOPE_VERSION
     assert migrated["pending_notifications"] == legacy_seen["pending_notifications"]
     assert validate_seen_state(migrated) == migrated
 
