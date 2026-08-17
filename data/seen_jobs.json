@@ -596,13 +596,44 @@
       "first_seen": "2026-08-17T07:00:52Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-08-17T17:45:31Z",
+      "last_seen": "2026-08-17T18:42:34Z",
       "location": "Sunnyvale, CA",
       "position": "Embedded Software Engineer - New Grad - 2027",
-      "posted": null,
+      "posted": "2026-08-14",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "3d",
+          "application_url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44",
+          "category": "Unknown",
+          "company": "Applied Intuition",
+          "first_seen": "2026-08-17T18:42:34Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-17T18:42:34Z",
+          "location": "Sunnyvale, CA",
+          "position": "Embedded Software Engineer - New Grad (2027)",
+          "posted": "2026-08-14",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "4e9581e3-cbf2-4caa-bbb2-b96048d02f06",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "3d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-17T18:31:10.983Z",
+            "id": "4e9581e3-cbf2-4caa-bbb2-b96048d02f06",
+            "listingUrl": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44",
+            "matchKind": "explicit",
+            "posted": "2026-08-14",
+            "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=4e9581e3-cbf2-4caa-bbb2-b96048d02f06&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=4e9581e3-cbf2-4caa-bbb2-b96048d02f06&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "active": true,
           "age": "2d",
@@ -627,6 +658,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Applied+Intuition&job=4e9581e3-cbf2-4caa-bbb2-b96048d02f06&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44"
       ]
     },
@@ -640,13 +672,44 @@
       "first_seen": "2026-08-17T07:00:52Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-08-17T17:45:31Z",
+      "last_seen": "2026-08-17T18:42:34Z",
       "location": "Sunnyvale, CA +1",
       "position": "Software Engineer - New Grad - December 2026",
-      "posted": null,
+      "posted": "2026-08-14",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "3d",
+          "application_url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694",
+          "category": "Unknown",
+          "company": "Applied Intuition",
+          "first_seen": "2026-08-17T18:42:34Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-17T18:42:34Z",
+          "location": "Sunnyvale, CA",
+          "position": "Software Engineer - New Grad (December 2026)",
+          "posted": "2026-08-14",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "26647379-2d57-4304-98d4-be27c47a67b0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "3d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-17T18:31:10.983Z",
+            "id": "26647379-2d57-4304-98d4-be27c47a67b0",
+            "listingUrl": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694",
+            "matchKind": "explicit",
+            "posted": "2026-08-14",
+            "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=26647379-2d57-4304-98d4-be27c47a67b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=26647379-2d57-4304-98d4-be27c47a67b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "active": true,
           "age": "2d",
@@ -671,6 +734,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Applied+Intuition&job=26647379-2d57-4304-98d4-be27c47a67b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"
       ]
     },
@@ -1636,6 +1700,60 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066"
+      ]
+    },
+    "ashby:flowengineering:df49e713-ce33-40a8-8d6d-3759f61f4ea5": {
+      "active": true,
+      "age": "3d",
+      "application_url": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5",
+      "canonical_id": "ashby:flowengineering:df49e713-ce33-40a8-8d6d-3759f61f4ea5",
+      "category": "Unknown",
+      "company": "Flow Engineering",
+      "first_seen": "2026-08-17T18:42:34Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-17T18:42:34Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer, Early Career",
+      "posted": "2026-08-14",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "3d",
+          "application_url": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5",
+          "category": "Unknown",
+          "company": "Flow Engineering",
+          "first_seen": "2026-08-17T18:42:34Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-17T18:42:34Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, Early Career",
+          "posted": "2026-08-14",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "7740a069-0585-43fe-8e89-6236d9ff4493",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "3d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-17T18:31:10.983Z",
+            "id": "7740a069-0585-43fe-8e89-6236d9ff4493",
+            "listingUrl": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5",
+            "matchKind": "explicit",
+            "posted": "2026-08-14",
+            "url": "https://applyguy.ai/jobs?company=Flow+Engineering&job=7740a069-0585-43fe-8e89-6236d9ff4493&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Flow+Engineering&job=7740a069-0585-43fe-8e89-6236d9ff4493&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Flow+Engineering&job=7740a069-0585-43fe-8e89-6236d9ff4493&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5"
       ]
     },
     "ashby:gritt:46af6e69-40fc-4e53-940e-a99757137523": {
@@ -14139,6 +14257,17 @@
   },
   "location_scope_version": "sf-bay-area-roughly-one-hour-v1",
   "pending_notifications": {
+    "27b1e19f34e188483f293863c13a55f5c069fa1b0ee2c0481d23ca6a8c658ebb": {
+      "created_at": "2026-08-17T18:42:34Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:flowengineering:df49e713-ce33-40a8-8d6d-3759f61f4ea5"
+      ],
+      "job_urls": [
+        "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5"
+      ],
+      "status": "pending"
+    },
     "715a2d847f95d63b287f724db6eedfdb71af66b13d09b3dc0a56659ef38307c8": {
       "created_at": "2026-08-17T13:41:22Z",
       "issue_number": 2,
