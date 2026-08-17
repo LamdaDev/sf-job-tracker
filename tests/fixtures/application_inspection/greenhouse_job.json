@@ -1,0 +1,46 @@
+{
+  "id": 12345,
+  "questions": [
+    {
+      "label": "First Name",
+      "required": true,
+      "fields": [{"name": "first_name", "type": "input_text", "values": []}]
+    },
+    {
+      "label": "Will you now or in the future require sponsorship?",
+      "required": true,
+      "fields": [
+        {
+          "name": "sponsorship",
+          "type": "select",
+          "values": [{"label": "Yes", "value": "yes"}, {"label": "No", "value": "no"}]
+        }
+      ]
+    },
+    {
+      "label": "Tell us about a project you are proud of.",
+      "required": false,
+      "fields": [{"name": "project", "type": "textarea", "values": []}]
+    }
+  ],
+  "location_questions": [
+    {
+      "label": "Preferred office location",
+      "required": false,
+      "fields": [{"name": "office", "type": "select", "values": ["San Francisco", "New York"]}]
+    }
+  ],
+  "compliance": [
+    {
+      "label": "Veteran status",
+      "required": false,
+      "fields": [{"name": "veteran", "type": "select", "values": ["I identify as a veteran", "I do not wish to answer"]}]
+    },
+    {
+      "label": "Compliance acknowledgement",
+      "required": false,
+      "fields": [{"name": "acknowledgement", "type": "checkbox", "values": []}]
+    }
+  ],
+  "demographic_questions": null
+}

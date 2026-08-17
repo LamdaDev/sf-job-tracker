@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <body>
+    <form id="lever-application">
+      <label for="full-name">Full name</label>
+      <input id="full-name" name="full_name" required>
+
+      <label for="resume">Resume / CV</label>
+      <input id="resume" name="resume" type="file" required>
+
+      <label for="project">Describe a project you are proud of.</label>
+      <textarea id="project" name="project" required></textarea>
+
+      <fieldset>
+        <legend>Will you require sponsorship now or in the future?</legend>
+        <label for="sponsor-yes">Yes</label><input id="sponsor-yes" name="sponsorship" type="radio" required>
+        <label for="sponsor-no">No</label><input id="sponsor-no" name="sponsorship" type="radio">
+      </fieldset>
+
+      <fieldset>
+        <legend>Technical areas</legend>
+        <label for="python">Python</label><input id="python" name="areas" type="checkbox">
+        <label for="systems">Distributed systems</label><input id="systems" name="areas" type="checkbox">
+      </fieldset>
+    </form>
+  </body>
+</html>

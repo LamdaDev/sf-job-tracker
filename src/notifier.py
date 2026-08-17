@@ -28,10 +28,54 @@ class DeliveryResult:
     delivered_batches: tuple[str, ...]
     failed_batches: tuple[str, ...]
     existing_issue_batches: tuple[str, ...]
+    # Each batch successfully resolved to one aggregate Issue.  Keeping this
+    # alongside the existing delivery result lets optional enrichment happen
+    # strictly *after* the alert has survived creation/retry handling.
+    batch_issue_numbers: tuple[tuple[str, int], ...] = ()
 
 
 def issue_marker(batch_id: str) -> str:
     return f"<!-- sf-job-tracker:batch:v1:{batch_id} -->"
+
+
+def application_scan_markers(canonical_job_id: str) -> tuple[str, str]:
+    """Return per-canonical-job boundaries within an aggregate alert Issue."""
+
+    return (
+        f"<!-- application-scan:start canonical-id={canonical_job_id} -->",
+        f"<!-- application-scan:end canonical-id={canonical_job_id} -->",
+    )
+
+
+def replace_application_scan_block(
+    issue_body: str | None, canonical_job_id: str, rendered_block: str
+) -> str:
+    """Append or replace exactly one enrichment section for a canonical job.
+
+    Job alerts can contain several canonical jobs.  Explicit, job-specific
+    markers avoid a retry appending duplicate question sections while leaving
+    the original alert text untouched.
+    """
+
+    start, end = application_scan_markers(canonical_job_id)
+    visible_block = rendered_block.strip()
+    replacement = "\n".join((start, visible_block, end))
+    body = issue_body or ""
+    # Accept the compact form used in early design examples too, so a future
+    # marker spelling migration cannot append a second block on retry.
+    marker_pairs = (
+        (start, end),
+        (
+            f"<!-- application-scan:start:{canonical_job_id} -->",
+            f"<!-- application-scan:end:{canonical_job_id} -->",
+        ),
+    )
+    for candidate_start, candidate_end in marker_pairs:
+        pattern = re.compile(rf"{re.escape(candidate_start)}.*?{re.escape(candidate_end)}", re.DOTALL)
+        if pattern.search(body):
+            return pattern.sub(replacement, body, count=1)
+    separator = "" if not body or body.endswith("\n") else "\n"
+    return f"{body}{separator}\n{replacement}\n"
 
 
 TEST_NOTIFICATION_MARKER = "<!-- sf-job-tracker:test-notification:v1 -->"
@@ -196,6 +240,49 @@ class GitHubIssueNotifier:
             raise GitHubNotificationError("GitHub Issue creation returned no issue number")
         return response["number"]
 
+    def get_issue_body(self, issue_number: int) -> str:
+        """Read the latest Issue body before replacing one scan section."""
+
+        if issue_number < 1:
+            raise ValueError("GitHub Issue number must be positive")
+        response, _ = self._request_json("GET", f"/repos/{self.repository}/issues/{issue_number}")
+        if not isinstance(response, dict):
+            raise GitHubNotificationError("GitHub Issue lookup returned no Issue object")
+        body = response.get("body")
+        if body is None:
+            return ""
+        if not isinstance(body, str):
+            raise GitHubNotificationError("GitHub Issue lookup returned an invalid body")
+        return body
+
+    def update_issue_body(self, issue_number: int, body: str) -> None:
+        """Update an Issue body without changing its title, labels, or state."""
+
+        if issue_number < 1:
+            raise ValueError("GitHub Issue number must be positive")
+        response, _ = self._request_json(
+            "PATCH", f"/repos/{self.repository}/issues/{issue_number}", {"body": body}
+        )
+        if not isinstance(response, dict):
+            raise GitHubNotificationError("GitHub Issue update returned no Issue object")
+
+    def update_issue_with_application_scan(
+        self, issue_number: int, canonical_job_id: str, rendered_block: str
+    ) -> bool:
+        """Idempotently insert one scan block into the existing alert Issue.
+
+        Returns whether a PATCH was necessary.  Reading first avoids needless
+        API writes when a prior run completed the update but failed before its
+        local state could record that fact.
+        """
+
+        current_body = self.get_issue_body(issue_number)
+        updated_body = replace_application_scan_block(current_body, canonical_job_id, rendered_block)
+        if updated_body == current_body:
+            return False
+        self.update_issue_body(issue_number, updated_body)
+        return True
+
     def create_issue(self, jobs: Iterable[CanonicalJob | Job], batch_id: str) -> int:
         ordered = _canonical_jobs(jobs)
         issue_number = self._create_issue(title=issue_title(len(ordered)), body=build_issue_body(ordered, batch_id))
@@ -246,6 +333,12 @@ def _jobs_for_batch(history: Mapping[str, Any], batch: Mapping[str, Any]) -> lis
     return jobs
 
 
+def jobs_for_notification_batch(history: Mapping[str, Any], batch: Mapping[str, Any]) -> list[CanonicalJob]:
+    """Resolve canonical jobs for a persisted batch without exposing internals."""
+
+    return _jobs_for_batch(history, batch)
+
+
 def deliver_pending_notifications(state: dict[str, Any], notifier: GitHubIssueNotifier) -> DeliveryResult:
     """Attempt every pending batch and retain failures for a later retry."""
 
@@ -256,6 +349,7 @@ def deliver_pending_notifications(state: dict[str, Any], notifier: GitHubIssueNo
     delivered: list[str] = []
     failed: list[str] = []
     existing: list[str] = []
+    issue_numbers: dict[str, int] = {}
     ordered_batches = sorted(pending.items(), key=lambda item: (str(item[1].get("created_at", "")), item[0]))
     for batch_id, batch in ordered_batches:
         if not isinstance(batch, dict) or batch.get("status") == "sent":
@@ -270,7 +364,13 @@ def deliver_pending_notifications(state: dict[str, Any], notifier: GitHubIssueNo
                 delivered.append(batch_id)
             batch["issue_number"] = issue_number
             batch["status"] = "sent"
+            issue_numbers[batch_id] = issue_number
         except (GitHubNotificationError, KeyError, ValueError) as error:
             LOGGER.error("Notification batch %s remains pending: %s", batch_id, error)
             failed.append(batch_id)
-    return DeliveryResult(tuple(delivered), tuple(failed), tuple(existing))
+    return DeliveryResult(
+        tuple(delivered),
+        tuple(failed),
+        tuple(existing),
+        tuple(sorted(issue_numbers.items())),
+    )

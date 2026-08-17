@@ -49,6 +49,30 @@ The first successful normal run establishes a silent baseline. Each newly added 
 
 Only new canonical jobs after their relevant source has been initialized enter a pending notification batch. The workflow persists state before delivery. Each batch has a deterministic hidden marker; retries search open and closed GitHub Issues for that marker before creating an Issue, making delivery idempotent even after an interrupted run. A single Issue lists every provider that reported each canonical job. The optional `new-job` label is best-effort and cannot block Issue creation.
 
+## Application Question Enrichment
+
+For a genuinely new canonical job, the tracker first creates its normal GitHub Issue and only then attempts best-effort, read-only inspection of the public employer application page. When questions can be found, the tracker updates that same Issue with an application-preparation section. A scan failure never prevents the original job alert, and one canonical job is never scanned once per listing provider; a bounded retry is reserved for a transient failed scan.
+
+The scanner uses the least brittle public mechanism available:
+
+| Application provider | Strategy | Expected completeness |
+|---|---|---|
+| Greenhouse | Public structured job-board data | High when the board exposes the form definition |
+| Ashby | Public rendered-form inspection | Partial or high, depending on what the public form exposes |
+| Lever | Public rendered-form inspection | Partial or high, depending on what the public form exposes |
+| Workday | Conservative public-page inspection | Often partial |
+| Other providers | Static-form parsing, then a conservative browser fallback | Best effort |
+
+Each result has an explicit status: `complete` means a structured or otherwise authoritative form definition was available; `partial` means only public, currently visible questions were safely found; `unsupported` means there is no safe inspector yet; `unavailable` covers closed, protected, login-required, or inaccessible pages; and `failed` records an unexpected technical error. An empty result is never treated as a complete scan.
+
+Question definitions are persisted in [data/application_questions.json](data/application_questions.json), keyed by canonical job ID. They include labels, required flags, field types, options, categories, provider, application URL, and scan status—not answers or personal data. The file is deterministic, so unchanged scans do not create timestamp-only commits.
+
+### Read-only safety boundary
+
+Application Question Enrichment exists only to help prepare for an application. The tracker never submits applications, answers questions, uploads files, enters personal information, creates candidate accounts, authenticates, accepts agreements, bypasses authentication, or solves CAPTCHAs. Browser inspection may open a public page, follow an obvious public application link, scroll, expand a clearly non-destructive control, and read visible form controls. It never selects answers, fills fields, or clicks a control whose effect might change an application.
+
+Some public applications are multi-step, conditional, JavaScript-heavy, protected by CAPTCHA, or require login before later questions appear. The scanner does not fabricate data or credentials to move past those boundaries, so such results are intentionally `partial` or `unavailable` rather than claimed complete. It also does not scan historical jobs: the initial tracker/source baseline remains silent, and only jobs newly discovered after their source is initialized are eligible for enrichment. Set `APPLICATION_SCAN_ENABLED=false` to disable enrichment while leaving job discovery and original notifications running normally.
+
 ## Repository files
 
 | Path | Purpose |
@@ -59,8 +83,10 @@ Only new canonical jobs after their relevant source has been initialized enter a
 | `src/tracker.py` | Nearby-city filtering and source-aware lifecycle reconciliation |
 | `src/storage.py` | Validated atomic storage and v1-to-v2 state migration |
 | `src/notifier.py` | Canonical GitHub Issue formatting and idempotent delivery |
+| `src/application_inspection/` | Read-only provider detection, question extraction, normalization, and Issue rendering |
 | `data/seen_jobs.json` | Permanent canonical history and notification batches |
 | `data/current_jobs.json` | Active canonical snapshot |
+| `data/application_questions.json` | Canonical-job application-question scan results; no answers or personal data |
 | `jobs.md` | Generated dashboard; do not edit manually |
 | `tests/` | Offline adapter, location, URL, aggregation, migration, renderer, notifier, and orchestration tests |
 | `.github/workflows/check-jobs.yml` | Hourly and manually triggered automation |
@@ -112,7 +138,7 @@ That command creates a fresh clearly marked test Issue on every invocation. It d
 
 `Check San Francisco Jobs` runs at the top of every hour and can also be started from **Actions -> Check San Francisco Jobs -> Run workflow**. Scheduled production runs operate from `main`; it has `contents: write` and `issues: write` permissions, no `push` trigger, and a concurrency group so two runs cannot mutate state at once.
 
-The collection job runs tests, updates state/dashboard only if files changed, pushes that state, then delivers pending GitHub Issue alerts and records delivery. If an alert delivery fails, the batch remains pending and the workflow fails visibly for retry on a later run.
+The collection job runs tests, updates state/dashboard only if files changed, pushes that state, then delivers pending GitHub Issue alerts. For new jobs, Application Question Enrichment happens only after the original alert exists and records its scan state during the notification-state commit. If an alert or scan delivery fails, the original alert remains intact; notification retries remain visible and safe on a later run. Scheduled and deliberate production runs enable application scanning. Manual dry runs disable it, so they remain read-only and never create or update Issues.
 
 To test your GitHub Mobile or email notifications safely:
 
@@ -127,4 +153,4 @@ After merging to `main`, enable GitHub Actions if necessary. If repository polic
 
 ## Configuration and limits
 
-Edit [src/config.py](src/config.py) to change source feeds, the nearby-city allowlist and aliases, request behavior, or SpeedyApply category markers. Keep the matcher deliberately bounded unless you intentionally want a different product scope. The tracker relies on the feeds' displayed locations and does not expand locations by visiting employer pages or use live routing/geocoding. The repository stores no credentials or personal application notes.
+Edit [src/config.py](src/config.py) to change source feeds, the nearby-city allowlist and aliases, request behavior, SpeedyApply category markers, or the application-scan policy. `APPLICATION_SCAN_ENABLED`, `APPLICATION_SCAN_ONLY_NEW_JOBS`, `APPLICATION_SCAN_HTTP_TIMEOUT_SECONDS`, `APPLICATION_SCAN_BROWSER_TIMEOUT_SECONDS`, and `APPLICATION_SCAN_MAX_ATTEMPTS` can be set through environment variables. `APPLICATION_SCAN_ONLY_NEW_JOBS` defaults to `true`; leave it enabled to avoid a deliberate backfill of already-alerted jobs. Keep the matcher deliberately bounded unless you intentionally want a different product scope. The tracker relies on the feeds' displayed locations and does not expand locations by visiting employer pages or use live routing/geocoding. Application scans use only public pages and store no credentials, personal application notes, or application answers.
