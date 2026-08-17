@@ -6,6 +6,7 @@ import json
 import logging
 import re
 from dataclasses import dataclass
+from datetime import datetime, timedelta, timezone
 from typing import Any, Iterable, Mapping
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote
@@ -18,6 +19,7 @@ from .tracker import notification_batch_id
 
 
 LOGGER = logging.getLogger(__name__)
+TRACKER_BATCH_MARKER_PREFIX = "<!-- sf-job-tracker:batch:v1:"
 
 
 class GitHubNotificationError(RuntimeError):
@@ -35,8 +37,40 @@ class DeliveryResult:
     batch_issue_numbers: tuple[tuple[str, int], ...] = ()
 
 
+@dataclass(frozen=True)
+class ExpiredIssueCloseResult:
+    """Outcome of closing aged tracker job-alert Issues."""
+
+    closed_issue_numbers: tuple[int, ...]
+    failed_issue_numbers: tuple[int, ...]
+
+
 def issue_marker(batch_id: str) -> str:
     return f"<!-- sf-job-tracker:batch:v1:{batch_id} -->"
+
+
+def _is_tracker_job_alert_issue(issue: Mapping[str, Any]) -> bool:
+    """Recognize only normal job-alert Issues, never tests or user Issues."""
+
+    return (
+        "pull_request" not in issue
+        and isinstance(issue.get("body"), str)
+        and TRACKER_BATCH_MARKER_PREFIX in issue["body"]
+    )
+
+
+def _github_timestamp(value: Any) -> datetime | None:
+    """Parse GitHub's UTC Issue timestamp conservatively."""
+
+    if not isinstance(value, str):
+        return None
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        return None
+    return parsed.astimezone(timezone.utc)
 
 
 def application_scan_markers(canonical_job_id: str) -> tuple[str, str]:
@@ -257,18 +291,30 @@ class GitHubIssueNotifier:
         match = re.search(r'<([^>]+)>;\s*rel="next"', link_header)
         return match.group(1) if match else None
 
-    def find_issue_with_marker(self, marker: str) -> int | None:
-        url: str | None = f"/repos/{self.repository}/issues?state=all&per_page=100"
+    def _iter_issues(self, *, state: str) -> Iterable[Mapping[str, Any]]:
+        """Yield repository Issues across every GitHub API page."""
+
+        url: str | None = f"/repos/{self.repository}/issues?state={state}&per_page=100"
         while url:
             payload, headers = self._request_json("GET", url)
             if not isinstance(payload, list):
                 raise GitHubNotificationError("GitHub Issues API returned a non-list response")
             for issue in payload:
-                if not isinstance(issue, dict) or "pull_request" in issue:
-                    continue
-                if marker in str(issue.get("body") or "") and isinstance(issue.get("number"), int):
-                    return issue["number"]
+                if isinstance(issue, Mapping):
+                    yield issue
             url = self._next_link(headers)
+
+    def iter_open_issues(self) -> Iterable[Mapping[str, Any]]:
+        """Yield open Issues only; pull requests remain visible to callers to filter."""
+
+        return self._iter_issues(state="open")
+
+    def find_issue_with_marker(self, marker: str) -> int | None:
+        for issue in self._iter_issues(state="all"):
+            if "pull_request" in issue:
+                continue
+            if marker in str(issue.get("body") or "") and isinstance(issue.get("number"), int):
+                return issue["number"]
         return None
 
     def find_issue_for_batch(self, batch_id: str) -> int | None:
@@ -305,6 +351,17 @@ class GitHubIssueNotifier:
         )
         if not isinstance(response, dict):
             raise GitHubNotificationError("GitHub Issue update returned no Issue object")
+
+    def close_issue(self, issue_number: int) -> None:
+        """Close an Issue without changing its body or deleting its history."""
+
+        if issue_number < 1:
+            raise ValueError("GitHub Issue number must be positive")
+        response, _ = self._request_json(
+            "PATCH", f"/repos/{self.repository}/issues/{issue_number}", {"state": "closed"}
+        )
+        if not isinstance(response, dict):
+            raise GitHubNotificationError("GitHub Issue close returned no Issue object")
 
     def update_issue_with_application_scan(
         self, issue_number: int, canonical_job_id: str, rendered_block: str
@@ -364,6 +421,54 @@ def send_test_application_scan_issue(notifier: GitHubIssueNotifier, application_
     """Create one fresh, state-free Issue for a manual application scan test."""
 
     return notifier.create_test_application_scan_issue(application_url)
+
+
+def close_expired_tracker_issues(
+    notifier: Any,
+    *,
+    retention_days: int,
+    now: datetime | None = None,
+) -> ExpiredIssueCloseResult:
+    """Close only aged, open, tracker-generated job-alert Issues.
+
+    The cutoff uses GitHub's immutable Issue ``created_at`` timestamp rather
+    than recent comments or application-question enrichment updates. Marker
+    matching protects manual test Issues and every Issue not created by this
+    tracker. Closing is deliberate and reversible; no Issue is deleted.
+    """
+
+    if retention_days < 1:
+        raise ValueError("retention_days must be positive")
+    reference_time = now or datetime.now(timezone.utc)
+    if reference_time.tzinfo is None:
+        raise ValueError("now must include a timezone")
+    cutoff = reference_time.astimezone(timezone.utc) - timedelta(days=retention_days)
+    closed: list[int] = []
+    failed: list[int] = []
+
+    for issue in notifier.iter_open_issues():
+        if not isinstance(issue, Mapping) or not _is_tracker_job_alert_issue(issue):
+            continue
+        issue_number = issue.get("number")
+        created_at = _github_timestamp(issue.get("created_at"))
+        if not isinstance(issue_number, int) or issue_number < 1:
+            LOGGER.warning("Skipping tracker Issue with an invalid GitHub Issue number.")
+            continue
+        if created_at is None:
+            LOGGER.warning("Skipping tracker Issue #%s with an invalid created_at timestamp.", issue_number)
+            continue
+        # The exact 21-day boundary is eligible; the hourly scheduler closes
+        # it on the first production run at or after that moment.
+        if created_at > cutoff:
+            continue
+        try:
+            notifier.close_issue(issue_number)
+            closed.append(issue_number)
+        except (GitHubNotificationError, ValueError) as error:
+            LOGGER.error("Could not close expired tracker Issue #%s: %s", issue_number, error)
+            failed.append(issue_number)
+
+    return ExpiredIssueCloseResult(tuple(closed), tuple(failed))
 
 
 def _jobs_for_batch(history: Mapping[str, Any], batch: Mapping[str, Any]) -> list[CanonicalJob]:

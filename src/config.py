@@ -203,6 +203,17 @@ def application_scan_max_attempts(environment: Mapping[str, str] | None = None) 
     return _environment_positive_int(values.get("APPLICATION_SCAN_MAX_ATTEMPTS"), default=2)
 
 
+def job_alert_issue_retention_days(environment: Mapping[str, str] | None = None) -> int:
+    """Return how long normal tracker job-alert Issues remain open.
+
+    The default is deliberately three weeks. This affects only the scheduled
+    cleanup of hidden-marker tracker alerts; it never deletes Issues.
+    """
+
+    values = os.environ if environment is None else environment
+    return _environment_positive_int(values.get("JOB_ALERT_ISSUE_RETENTION_DAYS"), default=21)
+
+
 # Application inspection is deliberately independent from job discovery. The
 # values live here so provider implementations and orchestration share one
 # bounded policy rather than scattering network/browser magic constants.
@@ -215,6 +226,7 @@ APPLICATION_SCAN_BROWSER_TIMEOUT_SECONDS = _environment_positive_int(
     os.environ.get("APPLICATION_SCAN_BROWSER_TIMEOUT_SECONDS"), default=20
 )
 APPLICATION_SCAN_MAX_ATTEMPTS = application_scan_max_attempts()
+JOB_ALERT_ISSUE_RETENTION_DAYS = job_alert_issue_retention_days()
 APPLICATION_QUESTIONS_SCHEMA_VERSION = 1
 
 

@@ -148,6 +148,12 @@ It creates a new clearly marked test Issue first, then appends that URL's read-o
 
 The collection job runs tests, updates state/dashboard only if files changed, pushes that state, then delivers pending GitHub Issue alerts. For new jobs, Application Question Enrichment happens only after the original alert exists and records its scan state during the notification-state commit. If an alert or scan delivery fails, the original alert remains intact; notification retries remain visible and safe on a later run. Scheduled and deliberate production runs enable application scanning. Manual dry runs disable it, so they remain read-only and never create or update Issues.
 
+### Issue retention
+
+After the tracker-data and notification-state commits, every scheduled production run and every non-dry-run manual run from `main` closes eligible job-alert Issues. An Issue becomes eligible when its GitHub `created_at` timestamp reaches 21 days (three weeks); the hourly schedule closes it on its first run at or after that point.
+
+Cleanup targets only open, non-pull-request Issues containing the production hidden batch marker `<!-- sf-job-tracker:batch:v1:... -->`. It does not target either manual test marker, test Issues, pull requests, or Issues created by you, regardless of their title or labels. Closing is reversible: nothing is deleted, and you can reopen any closed tracker Issue in GitHub. If cleanup fails, the workflow reports the failure only after tracker data and notification delivery state have already been committed.
+
 To test your GitHub Mobile or email notifications safely:
 
 1. Enable repository notifications in GitHub and enable GitHub Mobile and/or email notifications in your account settings.
@@ -170,4 +176,4 @@ After merging to `main`, enable GitHub Actions if necessary. If repository polic
 
 ## Configuration and limits
 
-Edit [src/config.py](src/config.py) to change source feeds, the nearby-city allowlist and aliases, request behavior, SpeedyApply category markers, or the application-scan policy. `APPLICATION_SCAN_ENABLED`, `APPLICATION_SCAN_ONLY_NEW_JOBS`, `APPLICATION_SCAN_HTTP_TIMEOUT_SECONDS`, `APPLICATION_SCAN_BROWSER_TIMEOUT_SECONDS`, and `APPLICATION_SCAN_MAX_ATTEMPTS` can be set through environment variables. `APPLICATION_SCAN_ONLY_NEW_JOBS` defaults to `true`; leave it enabled to avoid a deliberate backfill of already-alerted jobs. Keep the matcher deliberately bounded unless you intentionally want a different product scope. The tracker relies on the feeds' displayed locations and does not expand locations by visiting employer pages or use live routing/geocoding. Application scans use only public pages and store no credentials, personal application notes, or application answers.
+Edit [src/config.py](src/config.py) to change source feeds, the nearby-city allowlist and aliases, request behavior, SpeedyApply category markers, or the application-scan policy. `APPLICATION_SCAN_ENABLED`, `APPLICATION_SCAN_ONLY_NEW_JOBS`, `APPLICATION_SCAN_HTTP_TIMEOUT_SECONDS`, `APPLICATION_SCAN_BROWSER_TIMEOUT_SECONDS`, `APPLICATION_SCAN_MAX_ATTEMPTS`, and `JOB_ALERT_ISSUE_RETENTION_DAYS` can be set through environment variables. Retention defaults to `21` days; leave it at that value to retain the standard three-week window. `APPLICATION_SCAN_ONLY_NEW_JOBS` defaults to `true`; leave it enabled to avoid a deliberate backfill of already-alerted jobs. Keep the matcher deliberately bounded unless you intentionally want a different product scope. The tracker relies on the feeds' displayed locations and does not expand locations by visiting employer pages or use live routing/geocoding. Application scans use only public pages and store no credentials, personal application notes, or application answers.

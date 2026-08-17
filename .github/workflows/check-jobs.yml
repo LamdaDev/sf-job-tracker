@@ -119,11 +119,28 @@ jobs:
             git push origin HEAD:main
           fi
 
-      - name: Surface pending notification delivery failures
-        if: ${{ (github.event_name == 'schedule' || (github.ref == 'refs/heads/main' && inputs.dry_run == false)) && steps.deliver_notifications.outcome == 'failure' }}
+      # Issue cleanup is deliberately after both data commits. A GitHub API
+      # problem here must never stop the tracker from persisting its state.
+      - name: Close tracker job-alert Issues older than 21 days
+        if: ${{ github.event_name == 'schedule' || (github.ref == 'refs/heads/main' && inputs.dry_run == false) }}
+        id: close_expired_issues
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_API_URL: ${{ github.api_url }}
+        run: python -m src.check_jobs --close-expired-issues
+
+      - name: Surface notification delivery and cleanup failures
+        if: ${{ (github.event_name == 'schedule' || (github.ref == 'refs/heads/main' && inputs.dry_run == false)) && (steps.deliver_notifications.outcome == 'failure' || steps.close_expired_issues.outcome == 'failure') }}
         shell: bash
         run: |
-          echo "One or more notification batches remain pending; see the delivery step logs."
+          if [[ "${{ steps.deliver_notifications.outcome }}" == "failure" ]]; then
+            echo "One or more notification batches remain pending; see the delivery step logs."
+          fi
+          if [[ "${{ steps.close_expired_issues.outcome }}" == "failure" ]]; then
+            echo "Tracker Issue cleanup failed; see the cleanup step logs."
+          fi
           exit 1
 
   send-test-notification:

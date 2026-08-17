@@ -19,13 +19,16 @@ from .config import (
     application_scan_enabled,
     application_scan_max_attempts,
     application_scan_only_new_jobs,
+    job_alert_issue_retention_days,
 )
 from .fetcher import FetchedSnapshot, UpstreamFetchError, fetch_upstream_sources
 from .models import CanonicalJob
 from .notifier import (
     DeliveryResult,
+    ExpiredIssueCloseResult,
     GitHubIssueNotifier,
     GitHubNotificationError,
+    close_expired_tracker_issues,
     deliver_pending_notifications,
     jobs_for_notification_batch,
     send_test_application_scan_issue as send_test_application_scan_issue_notification,
@@ -710,11 +713,53 @@ def send_test_application_scan(
     return issue_number
 
 
+def close_expired_issues(
+    *,
+    environment: dict[str, str] | None = None,
+) -> ExpiredIssueCloseResult | None:
+    """Close aged normal job-alert Issues without reading or writing tracker data."""
+
+    environment = environment or dict(os.environ)
+    token = environment.get("GITHUB_TOKEN")
+    if not token:
+        LOGGER.warning("GITHUB_TOKEN is not set; no expired tracker Issues were closed.")
+        return None
+    repository = environment.get("GITHUB_REPOSITORY", "LamdaDev/sf-job-tracker")
+    notifier = GitHubIssueNotifier(
+        token,
+        repository,
+        api_url=environment.get("GITHUB_API_URL", "https://api.github.com"),
+    )
+    retention_days = job_alert_issue_retention_days(environment)
+    result = close_expired_tracker_issues(
+        notifier,
+        retention_days=retention_days,
+    )
+    if result.closed_issue_numbers:
+        LOGGER.info(
+            "Closed %s tracker job-alert Issue(s) at the %s-day retention boundary: %s",
+            len(result.closed_issue_numbers),
+            retention_days,
+            ", ".join(f"#{number}" for number in result.closed_issue_numbers),
+        )
+    if result.failed_issue_numbers:
+        LOGGER.error(
+            "%s expired tracker Issue(s) could not be closed and will be retried.",
+            len(result.failed_issue_numbers),
+        )
+    return result
+
+
 def build_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description=f"Track {TARGET_LOCATION_LABEL} SWE jobs from public source feeds.")
     parser.add_argument("--dry-run", action="store_true", help="Fetch and evaluate live data without writing files or delivering notifications.")
     parser.add_argument("--initialize", action="store_true", help="Record a baseline without alerting for otherwise unseen jobs.")
     parser.add_argument("--deliver-pending", action="store_true", help="Only deliver persisted pending GitHub Issue alerts.")
+    parser.add_argument(
+        "--close-expired-issues",
+        action="store_true",
+        help="Close normal tracker job-alert Issues that reached the configured retention age.",
+    )
     parser.add_argument("--send-test-notification", action="store_true", help="Create a fresh, clearly marked test Issue only.")
     parser.add_argument(
         "--send-test-application-scan",
@@ -735,17 +780,33 @@ def main(argv: list[str] | None = None) -> int:
     parser = build_argument_parser()
     args = parser.parse_args(argv)
     logging.basicConfig(level=getattr(logging, args.log_level), format="%(levelname)s %(message)s")
-    exclusive_modes = sum((args.deliver_pending, args.send_test_notification, args.send_test_application_scan))
+    exclusive_modes = sum(
+        (
+            args.deliver_pending,
+            args.close_expired_issues,
+            args.send_test_notification,
+            args.send_test_application_scan,
+        )
+    )
     if exclusive_modes > 1:
-        parser.error("notification-only modes cannot be combined")
+        parser.error("standalone maintenance modes cannot be combined")
     if args.test_application_url and not args.send_test_application_scan:
         parser.error("--test-application-url requires --send-test-application-scan")
-    if (args.deliver_pending or args.send_test_notification or args.send_test_application_scan) and (args.dry_run or args.initialize):
-        parser.error("notification-only modes cannot be combined with --dry-run or --initialize")
+    if (
+        args.deliver_pending
+        or args.close_expired_issues
+        or args.send_test_notification
+        or args.send_test_application_scan
+    ) and (args.dry_run or args.initialize):
+        parser.error("standalone maintenance modes cannot be combined with --dry-run or --initialize")
     try:
         if args.deliver_pending:
             result = deliver_pending(root=args.root)
             if result is not None and result.failed_batches:
+                return 2
+        elif args.close_expired_issues:
+            result = close_expired_issues()
+            if result is not None and result.failed_issue_numbers:
                 return 2
         elif args.send_test_notification:
             send_test_notification()
