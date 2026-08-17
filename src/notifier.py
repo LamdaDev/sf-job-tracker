@@ -10,9 +10,11 @@ from typing import Any, Iterable, Mapping
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
+from .canonical import aggregate_observations
 from .config import TARGET_LOCATION_LABEL
-from .models import Job
+from .models import CanonicalJob, Job
 from .tracker import notification_batch_id
+
 
 LOGGER = logging.getLogger(__name__)
 
@@ -23,8 +25,6 @@ class GitHubNotificationError(RuntimeError):
 
 @dataclass(frozen=True)
 class DeliveryResult:
-    """Outcome of attempting every pending notification batch once."""
-
     delivered_batches: tuple[str, ...]
     failed_batches: tuple[str, ...]
     existing_issue_batches: tuple[str, ...]
@@ -32,15 +32,11 @@ class DeliveryResult:
 
 @dataclass(frozen=True)
 class ManualTestNotificationResult:
-    """Outcome of a manually requested, state-free notification test."""
-
     issue_number: int
     created: bool
 
 
 def issue_marker(batch_id: str) -> str:
-    """Return the hidden marker used to make retries idempotent."""
-
     return f"<!-- sf-job-tracker:batch:v1:{batch_id} -->"
 
 
@@ -48,17 +44,13 @@ TEST_NOTIFICATION_MARKER = "<!-- sf-job-tracker:test-notification:v1 -->"
 
 
 def test_issue_title() -> str:
-    """Return an unmistakable title that cannot be confused with a job alert."""
-
-    return f"🧪 TEST — {TARGET_LOCATION_LABEL} job tracker notification"
+    return f"\U0001f9ea TEST — {TARGET_LOCATION_LABEL} job tracker notification"
 
 
 def build_test_issue_body() -> str:
-    """Build the manual test Issue without any fake job or stateful side effect."""
-
     return "\n".join(
         [
-            "# 🧪 Test notification",
+            "# \U0001f9ea Test notification",
             "",
             "This is a manually requested notification test from `sf-job-tracker`.",
             "",
@@ -74,23 +66,35 @@ def build_test_issue_body() -> str:
 
 
 def issue_title(job_count: int) -> str:
-    """Return a compact singular/plural alert title."""
-
     suffix = "job" if job_count == 1 else "jobs"
-    return f"🚨 {job_count} new {TARGET_LOCATION_LABEL} SWE {suffix}"
+    return f"\U0001f6a8 {job_count} new {TARGET_LOCATION_LABEL} SWE {suffix}"
 
 
-def _job_sort_key(job: Job) -> tuple[str, str, str]:
-    return (job.company.casefold(), job.position.casefold(), job.application_url)
+def _job_sort_key(job: CanonicalJob) -> tuple[str, str, str]:
+    return (job.company.casefold(), job.position.casefold(), job.canonical_id)
 
 
-def build_issue_body(jobs: Iterable[Job], batch_id: str | None = None) -> str:
-    """Build a readable Issue body plus a deterministic hidden batch marker."""
+def _canonical_jobs(jobs: Iterable[CanonicalJob | Job]) -> list[CanonicalJob]:
+    values = list(jobs)
+    if all(isinstance(job, CanonicalJob) for job in values):
+        return [job for job in values if isinstance(job, CanonicalJob)]
+    if all(isinstance(job, Job) for job in values):
+        return aggregate_observations(job for job in values if isinstance(job, Job))[0]
+    raise ValueError("Issue jobs must be canonical jobs or normalized observations")
 
-    ordered = sorted(jobs, key=_job_sort_key)
+
+def _source_labels(job: CanonicalJob) -> str:
+    labels = {observation.source_label for observation in job.observations if observation.source_label}
+    return ", ".join(sorted(labels)) or "Unknown"
+
+
+def build_issue_body(jobs: Iterable[CanonicalJob | Job], batch_id: str | None = None) -> str:
+    """Build a canonical multi-source alert plus a deterministic hidden marker."""
+
+    ordered = sorted(_canonical_jobs(jobs), key=_job_sort_key)
     if not ordered:
         raise ValueError("Cannot build an Issue notification with no jobs")
-    resolved_batch_id = batch_id or notification_batch_id(job.application_url for job in ordered)
+    resolved_batch_id = batch_id or notification_batch_id(job.canonical_id for job in ordered)
     blocks = [f"# New {TARGET_LOCATION_LABEL} SWE Postings", ""]
     for job in ordered:
         blocks.extend(
@@ -102,8 +106,10 @@ def build_issue_body(jobs: Iterable[Job], batch_id: str | None = None) -> str:
                 f"- **Type:** {job.job_type}",
                 f"- **Category:** {job.category}",
                 f"- **Location:** {job.location}",
+                f"- **Sources:** {_source_labels(job)}",
                 f"- **Salary:** {job.salary or 'N/A'}",
                 f"- **Age:** {job.age or 'N/A'}",
+                *([f"- **Posted:** {job.posted}"] if job.posted else []),
                 "",
                 f"### [Apply to {job.company} →](<{job.application_url}>)",
                 "",
@@ -136,10 +142,7 @@ class GitHubIssueNotifier:
         self.timeout_seconds = timeout_seconds
 
     def _request_json(
-        self,
-        method: str,
-        url_or_path: str,
-        payload: Mapping[str, Any] | None = None,
+        self, method: str, url_or_path: str, payload: Mapping[str, Any] | None = None
     ) -> tuple[Any, Mapping[str, str]]:
         url = url_or_path if url_or_path.startswith("http") else f"{self.api_url}{url_or_path}"
         data = json.dumps(payload).encode("utf-8") if payload is not None else None
@@ -165,9 +168,7 @@ class GitHubIssueNotifier:
                     return None, dict(response.headers.items())
                 return json.loads(raw_body.decode("utf-8")), dict(response.headers.items())
         except HTTPError as error:
-            raise GitHubNotificationError(
-                f"GitHub API returned HTTP {error.code} for {method} {url}"
-            ) from error
+            raise GitHubNotificationError(f"GitHub API returned HTTP {error.code} for {method} {url}") from error
         except (URLError, OSError, TimeoutError, UnicodeDecodeError, json.JSONDecodeError) as error:
             raise GitHubNotificationError(f"GitHub API request failed for {method} {url}: {error}") from error
 
@@ -178,8 +179,6 @@ class GitHubIssueNotifier:
         return match.group(1) if match else None
 
     def find_issue_with_marker(self, marker: str) -> int | None:
-        """Scan open and closed issues for a deterministic idempotency marker."""
-
         url: str | None = f"/repos/{self.repository}/issues?state=all&per_page=100"
         while url:
             payload, headers = self._request_json("GET", url)
@@ -188,92 +187,82 @@ class GitHubIssueNotifier:
             for issue in payload:
                 if not isinstance(issue, dict) or "pull_request" in issue:
                     continue
-                if marker in str(issue.get("body") or ""):
-                    number = issue.get("number")
-                    if isinstance(number, int):
-                        return number
+                if marker in str(issue.get("body") or "") and isinstance(issue.get("number"), int):
+                    return issue["number"]
             url = self._next_link(headers)
         return None
 
     def find_issue_for_batch(self, batch_id: str) -> int | None:
-        """Find a prior real-job alert for a retry-safe notification batch."""
-
         return self.find_issue_with_marker(issue_marker(batch_id))
 
     def _create_issue(self, *, title: str, body: str) -> int:
-        """Create one Issue and return its number without applying any labels."""
-
-        response, _ = self._request_json(
-            "POST", f"/repos/{self.repository}/issues", {"title": title, "body": body}
-        )
+        response, _ = self._request_json("POST", f"/repos/{self.repository}/issues", {"title": title, "body": body})
         if not isinstance(response, dict) or not isinstance(response.get("number"), int):
             raise GitHubNotificationError("GitHub Issue creation returned no issue number")
         return response["number"]
 
-    def create_issue(self, jobs: Iterable[Job], batch_id: str) -> int:
-        """Create a single alert Issue. Labeling is deliberately best-effort."""
-
-        ordered = list(jobs)
-        issue_number = self._create_issue(
-            title=issue_title(len(ordered)), body=build_issue_body(ordered, batch_id)
-        )
+    def create_issue(self, jobs: Iterable[CanonicalJob | Job], batch_id: str) -> int:
+        ordered = _canonical_jobs(jobs)
+        issue_number = self._create_issue(title=issue_title(len(ordered)), body=build_issue_body(ordered, batch_id))
         try:
-            self._request_json(
-                "POST",
-                f"/repos/{self.repository}/issues/{issue_number}/labels",
-                {"labels": ["new-job"]},
-            )
+            self._request_json("POST", f"/repos/{self.repository}/issues/{issue_number}/labels", {"labels": ["new-job"]})
         except GitHubNotificationError as error:
             LOGGER.warning("Created Issue #%s but could not apply optional new-job label: %s", issue_number, error)
         return issue_number
 
     def create_test_issue(self) -> int:
-        """Create the explicitly manual test Issue, without a job label."""
-
         return self._create_issue(title=test_issue_title(), body=build_test_issue_body())
 
 
 def send_test_notification(notifier: GitHubIssueNotifier) -> ManualTestNotificationResult:
-    """Create at most one manual test Issue without reading or changing tracker state."""
-
     existing_issue = notifier.find_issue_with_marker(TEST_NOTIFICATION_MARKER)
     if existing_issue is not None:
         return ManualTestNotificationResult(issue_number=existing_issue, created=False)
     return ManualTestNotificationResult(issue_number=notifier.create_test_issue(), created=True)
 
 
-def deliver_pending_notifications(
-    state: dict[str, Any], notifier: GitHubIssueNotifier
-) -> DeliveryResult:
-    """Attempt every pending batch and retain failed ones for a later retry."""
+def _jobs_for_batch(history: Mapping[str, Any], batch: Mapping[str, Any]) -> list[CanonicalJob]:
+    job_ids = batch.get("job_ids")
+    if isinstance(job_ids, list) and all(isinstance(item, str) for item in job_ids):
+        return [CanonicalJob.from_mapping(job_id, history[job_id]) for job_id in job_ids]
+    urls = batch.get("job_urls")
+    if not isinstance(urls, list) or not all(isinstance(url, str) for url in urls):
+        raise ValueError("batch has no valid job IDs or URLs")
+    # Schema-v1 batches intentionally retain URL hashes so an old hidden Issue
+    # marker remains valid after canonical-state migration.
+    jobs: list[CanonicalJob] = []
+    for url in urls:
+        match = next(
+            (
+                (canonical_id, record)
+                for canonical_id, record in history.items()
+                if isinstance(record, Mapping)
+                and (record.get("application_url") == url or url in record.get("url_aliases", []))
+            ),
+            None,
+        )
+        if match is None:
+            raise KeyError(url)
+        jobs.append(CanonicalJob.from_mapping(*match))
+    return jobs
+
+
+def deliver_pending_notifications(state: dict[str, Any], notifier: GitHubIssueNotifier) -> DeliveryResult:
+    """Attempt every pending batch and retain failures for a later retry."""
 
     pending = state.get("pending_notifications")
     history = state.get("jobs")
     if not isinstance(pending, dict) or not isinstance(history, dict):
         raise ValueError("State does not contain valid pending notifications and job history")
-
     delivered: list[str] = []
     failed: list[str] = []
     existing: list[str] = []
-    ordered_batches = sorted(
-        pending.items(), key=lambda item: (str(item[1].get("created_at", "")), item[0])
-    )
+    ordered_batches = sorted(pending.items(), key=lambda item: (str(item[1].get("created_at", "")), item[0]))
     for batch_id, batch in ordered_batches:
         if not isinstance(batch, dict) or batch.get("status") == "sent":
             continue
-        urls = batch.get("job_urls")
-        if not isinstance(urls, list) or not all(isinstance(url, str) for url in urls):
-            LOGGER.error("Notification batch %s has invalid URLs; leaving it pending", batch_id)
-            failed.append(batch_id)
-            continue
         try:
-            jobs = [Job.from_mapping(history[url]) for url in urls]
-        except (KeyError, ValueError) as error:
-            LOGGER.error("Notification batch %s cannot be rendered: %s", batch_id, error)
-            failed.append(batch_id)
-            continue
-
-        try:
+            jobs = _jobs_for_batch(history, batch)
             issue_number = notifier.find_issue_for_batch(batch_id)
             if issue_number is not None:
                 existing.append(batch_id)
@@ -282,12 +271,7 @@ def deliver_pending_notifications(
                 delivered.append(batch_id)
             batch["issue_number"] = issue_number
             batch["status"] = "sent"
-        except GitHubNotificationError as error:
+        except (GitHubNotificationError, KeyError, ValueError) as error:
             LOGGER.error("Notification batch %s remains pending: %s", batch_id, error)
             failed.append(batch_id)
-
-    return DeliveryResult(
-        delivered_batches=tuple(delivered),
-        failed_batches=tuple(failed),
-        existing_issue_batches=tuple(existing),
-    )
+    return DeliveryResult(tuple(delivered), tuple(failed), tuple(existing))

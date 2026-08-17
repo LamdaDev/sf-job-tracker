@@ -34,7 +34,7 @@ def test_dry_run_does_not_write_state_or_dashboard(tmp_path: Path) -> None:
     )
 
     assert summary.transition.baseline is True
-    assert summary.matching_count == 7
+    assert summary.matching_count == 5
     assert not (tmp_path / "data").exists()
     assert not (tmp_path / "jobs.md").exists()
 
@@ -62,11 +62,14 @@ def test_matching_location_is_filtered_before_duplicate_urls_are_collapsed(tmp_p
         timestamp="2026-08-16T12:00:00Z",
     )
 
-    assert summary.matching_count == 7
-    assert "https://boards.example.test/figma/123?gh_jid=123&source=fixture" in summary.transition.current_state["jobs"]
+    assert summary.matching_count == 5
+    assert any(
+        record["application_url"] == "https://boards.example.test/figma/123?gh_jid=123&source=fixture"
+        for record in summary.transition.current_state["jobs"].values()
+    )
 
 
-def test_parse_failure_preserves_existing_state_files(tmp_path: Path) -> None:
+def test_partial_parse_failure_preserves_failed_source_presence(tmp_path: Path) -> None:
     run_tracker(
         root=tmp_path,
         snapshot_fetcher=snapshot_from_fixtures,
@@ -84,10 +87,17 @@ def test_parse_failure_preserves_existing_state_files(tmp_path: Path) -> None:
             documents={SOURCES[0]: "not a compatible source", SOURCES[1]: snapshot.documents[SOURCES[1]]},
         )
 
-    with pytest.raises(UpstreamFormatError):
-        run_tracker(root=tmp_path, snapshot_fetcher=broken_snapshot)
+    summary = run_tracker(root=tmp_path, snapshot_fetcher=broken_snapshot)
 
     assert {path: path.read_text(encoding="utf-8") for path in before} == before
+    assert "speedyapply_internships" in summary.source_errors
+
+
+def test_all_parser_failures_raise_without_creating_tracker_files(tmp_path: Path) -> None:
+    broken = FetchedSnapshot(commit_sha="c" * 40, documents={SOURCES[0]: "not a compatible source"})
+    with pytest.raises(UpstreamFormatError, match="No configured source parsed successfully"):
+        run_tracker(root=tmp_path, snapshot_fetcher=lambda: broken)
+    assert not (tmp_path / "data").exists()
 
 
 def test_delivery_command_returns_nonzero_after_persisting_notification_failures(

@@ -35,12 +35,25 @@ def _render_rows(records: Iterable[dict[str, Any]]) -> list[str]:
     for record in records:
         url = str(record["application_url"])
         application = f"[Apply](<{url}>)"
+        source_records = record.get("sources", {})
+        source_labels = (
+            sorted(
+                {
+                    str(source.get("source_label") or source_id)
+                    for source_id, source in source_records.items()
+                    if isinstance(source, dict)
+                }
+            )
+            if isinstance(source_records, dict)
+            else []
+        )
         values = (
             record["company"],
             record["position"],
             record["job_type"],
             record["category"],
             record["location"],
+            ", ".join(source_labels) or "Unknown",
             record.get("salary") or "N/A",
             record["first_seen"],
             record["last_seen"],
@@ -54,14 +67,14 @@ def _render_rows(records: Iterable[dict[str, Any]]) -> list[str]:
 def render_jobs_markdown(state: dict[str, Any]) -> str:
     """Render all history with active jobs first and deterministic ordering."""
 
-    header = "| Company | Position | Type | Category | Location | Salary | First Seen | Last Seen | Active | Application |"
-    divider = "|---|---|---|---|---|---|---|---|---|---|"
+    header = "| Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |"
+    divider = "|---|---|---|---|---|---|---|---|---|---|---|"
     lines = [
         GENERATED_WARNING,
         "",
         f"# {TARGET_LOCATION_LABEL} SWE Job Tracker",
         "",
-        f"Tracks SpeedyApply USA internship and new-graduate postings whose displayed Location matches {TARGET_LOCATION_DESCRIPTION}.",
+        f"Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches {TARGET_LOCATION_DESCRIPTION}.",
         "",
     ]
 
@@ -82,12 +95,12 @@ def render_jobs_markdown(state: dict[str, Any]) -> str:
     if active:
         lines.extend(_render_rows(active))
     else:
-        lines.append("| _No active matching jobs_ |  |  |  |  |  |  |  |  |  |")
+        lines.append("| _No active matching jobs_ |  |  |  |  |  |  |  |  |  |  |")
 
     lines.extend(["", f"## Historical / Closed or Removed Jobs ({len(inactive)})", "", header, divider])
     if inactive:
         lines.extend(_render_rows(inactive))
     else:
-        lines.append("| _No historical matching jobs_ |  |  |  |  |  |  |  |  |  |")
+        lines.append("| _No historical matching jobs_ |  |  |  |  |  |  |  |  |  |  |")
     lines.append("")
     return "\n".join(lines)

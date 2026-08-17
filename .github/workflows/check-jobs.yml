@@ -1,4 +1,4 @@
-name: Check San Francisco Bay Area Jobs
+name: Check San Francisco Jobs
 
 on:
   schedule:
@@ -9,6 +9,11 @@ on:
         description: "Create one clearly marked test Issue only; do not run the tracker or change data."
         required: false
         default: false
+        type: boolean
+      dry_run:
+        description: "Safely fetch and validate the selected branch's sources without writing data or creating Issues."
+        required: false
+        default: true
         type: boolean
 
 permissions:
@@ -25,10 +30,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out main
+      - name: Check out requested revision
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: ${{ github.ref }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -43,9 +48,16 @@ jobs:
         run: python -m pytest
 
       - name: Collect and reconcile jobs
-        run: python -m src.check_jobs
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ inputs.dry_run }}" == "true" ]]; then
+            python -m src.check_jobs --dry-run
+          else
+            python -m src.check_jobs
+          fi
 
       - name: Commit tracker data
+        if: ${{ github.event_name == 'schedule' || (github.ref == 'refs/heads/main' && inputs.dry_run == false) }}
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -63,6 +75,7 @@ jobs:
       # State is pushed before delivery. If a notification succeeds but this
       # later commit fails, the hidden Issue marker prevents a duplicate retry.
       - name: Deliver pending GitHub Issue notifications
+        if: ${{ github.event_name == 'schedule' || (github.ref == 'refs/heads/main' && inputs.dry_run == false) }}
         id: deliver_notifications
         continue-on-error: true
         env:
@@ -72,6 +85,7 @@ jobs:
         run: python -m src.check_jobs --deliver-pending
 
       - name: Commit notification delivery state
+        if: ${{ github.event_name == 'schedule' || (github.ref == 'refs/heads/main' && inputs.dry_run == false) }}
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -87,7 +101,7 @@ jobs:
           fi
 
       - name: Surface pending notification delivery failures
-        if: steps.deliver_notifications.outcome == 'failure'
+        if: ${{ (github.event_name == 'schedule' || (github.ref == 'refs/heads/main' && inputs.dry_run == false)) && steps.deliver_notifications.outcome == 'failure' }}
         shell: bash
         run: |
           echo "One or more notification batches remain pending; see the delivery step logs."

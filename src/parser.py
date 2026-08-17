@@ -314,6 +314,11 @@ def _parse_category(
                 category=category,
                 job_type=source.job_type,
                 source_file=source.source_file,
+                source_id=source.id,
+                source_label=source.label,
+                # The direct apply URL is also the only per-row provenance
+                # SpeedyApply exposes in its generated table.
+                source_url=application_url,
             )
         )
     return jobs, CategoryParseStats(
@@ -351,3 +356,19 @@ def parse_source(markdown: str, source: SourceConfig) -> list[Job]:
     """
 
     return list(parse_source_with_diagnostics(markdown, source).jobs)
+
+
+def parse_configured_source_with_diagnostics(document: str, source: SourceConfig) -> ParsedSource:
+    """Dispatch a configured document to its intentionally small source adapter."""
+
+    if source.parser_id == "speedyapply":
+        return parse_source_with_diagnostics(document, source)
+    # Imported lazily so the adapter can reuse the public diagnostics types
+    # above without creating a module import cycle.
+    from .adapters import parse_applyguy_source, parse_simplify_source
+
+    if source.parser_id in {"applyguy_internships", "applyguy_new_grad"}:
+        return parse_applyguy_source(document, source)
+    if source.parser_id == "simplify":
+        return parse_simplify_source(document, source)
+    raise UpstreamFormatError(f"No parser is configured for source {source.id}")

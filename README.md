@@ -1,47 +1,68 @@
-# San Francisco Bay Area SWE Job Tracker
+# San Francisco SWE Job Tracker
 
-A job tracker for SWE jobs near San Francisco. Because I miss her.
+An unattended GitHub Actions tracker for public software-engineering internships and new-graduate jobs whose displayed location is in San Francisco.
 
-This is an unattended GitHub Actions tracker I made for public USA software-engineering roles in [SpeedyApply's 2027 college-jobs repository](https://github.com/speedyapply/2027-SWE-College-Jobs). It watches both:
+It combines public listings from three providers:
 
-- USA internships from `README.md`
-- USA new-graduate roles from `NEW_GRAD_USA.md`
+| Provider | Feed | Roles used |
+|---|---|---|
+| [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | `README.md` and `NEW_GRAD_USA.md` on `main` | USA internships and new-grad roles in the existing `FAANG+`, `Quant`, and `Other` tables |
+| [ApplyGuy internships](https://github.com/ApplyGuy/2027-Internships) | `data/internships.json` on `main` | `Software Engineering` internships |
+| [ApplyGuy new grads](https://github.com/ApplyGuy/2027-New-Grad-Jobs) | `data/new-grad-jobs.json` on `main` | SWE `New Grad` and `Entry Level` records from that dedicated feed |
+| [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | active `README.md` on `dev` | the active Software Engineering Internship Roles table only |
 
-For each file it parses the upstream `FAANG+`, `Quant`, and `Other` marker-delimited tables. A role matches when its displayed Location normalizes to an explicit **San Francisco Bay Area** city or regional alias. This includes `SF, CA`, `S.F., California`, `San Francisco, CA +1`, and cities such as San Mateo, Palo Alto, San Jose, Santa Clara, Berkeley, Fremont, and Sunnyvale.
+The tracker fetches listing feeds only. It does not scrape employer career sites, use private provider data, or need an external database.
 
-The scope is a deterministic, editable approximation of places roughly one hour from San Francisco by car in favorable traffic. It cannot promise a live one-hour commute: traffic, starting address, route, and time of day can change the result. The complete allowlist is in [src/config.py](src/config.py); plain `Remote`, all of California, and unlisted outer cities such as Santa Cruz, Morgan Hill, Gilroy, Livermore, Napa, and Petaluma do not match.
+## San Francisco location rule
 
-## How it works
+This is deliberately a **San Francisco-only** tracker, not a Bay Area radius or a commute-time calculation. Matching is performed on source-provided location text without changing what is displayed in the dashboard.
 
-1. The tracker resolves the upstream `main` branch to one commit SHA, then downloads both public USA Markdown files at that exact revision.
-2. It validates the three expected table sections and maps columns from each table header. `Other` tables can omit Salary.
-3. It extracts the company text and the apply link from the `Posting` cell's Apply anchor—not the company-homepage link.
-4. It normalizes the parsed Location field for comparison only, matches the configured Bay Area scope, then deduplicates only exact application URLs. The displayed source location remains unchanged.
-5. It records permanent URL-keyed history, active/inactive state, and a deterministic current snapshot.
-6. It regenerates [jobs.md](jobs.md), with active roles first and historical roles below.
+It accepts explicit San Francisco forms such as:
 
-The application URL is the identity. Similar company/title pairs with different URLs remain separate jobs; a role that disappears and later returns at the same URL is reactivated without a second alert.
+- `San Francisco, CA`, `San Francisco`, and `San Francisco, California`
+- `SF, CA`, `SF`, and punctuated `S.F.` forms
+- `South San Francisco, CA`
+- a multi-location field that contains one of those entries, for example `SF | NYC`
 
-## First-run baseline and alerts
+It does not treat nearby cities or broad regional phrases as San Francisco. For example, San Jose, San Mateo, Palo Alto, Santa Clara, Berkeley, Fremont, Sunnyvale, `Bay Area`, and `Silicon Valley` do not match unless the same location field also explicitly includes San Francisco. The editable alias policy is in [src/config.py](src/config.py).
 
-The first successful normal run establishes a baseline: it saves all currently matching jobs but creates no GitHub Issue. Later unseen URLs create a persisted pending notification batch. This geographic expansion carries a new scope version, so the next successful run baselines its already-existing nearby roles once rather than sending one large alert. If you later change the allowlist, also bump `LOCATION_SCOPE_VERSION` in `src/config.py` to get the same protection.
+## How collection and deduplication work
 
-The workflow commits that state before calling the GitHub Issues API. Each Issue contains a deterministic hidden batch marker, and retries search both open and closed Issues for that marker first. This prevents duplicate alerts if an Issue was created but the workflow was interrupted before recording success. Failed notifications stay pending for the next run; successful delivery records are committed first, then the workflow reports the remaining failure visibly.
+1. Each provider has its own adapter and is fetched independently. A failed fetch or parser/schema validation error is reported as a source failure; it is never treated as an empty feed.
+2. The SpeedyApply adapter preserves its category, salary, source table, and application URL. The ApplyGuy adapter prefers the direct `listingUrl`; its ApplyGuy `url` wrapper is retained only as provenance. The Simplify adapter reads only the active SWE table, carries `↳` company continuations forward, removes presentation markers from company names, handles multi-location cells, and prefers an employer Apply link over a `simplify.jobs` link.
+3. All matching observations are normalized into a common record and then reconciled into canonical employer requisitions. A canonical job can retain observations from SpeedyApply, ApplyGuy, and Simplify while producing only one dashboard row and at most one alert.
+4. Canonical identity uses a stable ATS requisition identity when one is safely known (including common Ashby, Greenhouse, Lever, Workday, Rippling, TikTok, and Amazon forms). Host case, fragments, safe trailing slashes, and tracking parameters are normalized conservatively; Ashby job URLs and their `/application?embed=true` presentation variants collapse. Distinct known requisition IDs remain distinct.
+5. When no direct/stable employer URL exists, an exact, conservative fingerprint of company, title, type, location, and season is used only when it cannot conflict with direct requisitions. Similar-looking jobs are never fuzzy-merged.
 
-When possible, the notification adds the optional `new-job` label. A missing label never prevents Issue creation.
+The generated [jobs.md](jobs.md) has one row per canonical job, a direct application link, and visible source names. It orders active jobs before historical jobs deterministically.
+
+## State, baselines, and alerts
+
+The permanent state in [data/seen_jobs.json](data/seen_jobs.json) uses schema version 2. It keeps canonical jobs, per-source membership, provenance URLs, lifecycle timestamps, source initialization state, and retry-safe pending notification batches. [data/current_jobs.json](data/current_jobs.json) is the active canonical snapshot.
+
+Existing schema-version-1 SpeedyApply state is migrated in memory on the next successful normal run. Its original `first_seen` and lifecycle data are preserved, prior notification batches keep their legacy URL markers, and the original SpeedyApply sources remain initialized. This prevents a migration or a newly added provider from flooding you with old-job alerts.
+
+The first successful normal run establishes a silent baseline. Each newly added source is also silently onboarded on its first successful run. A job that was already known and later appears from another source is updated with that source provenance but does not alert. A job is active while at least one successfully checked source still reports it; a source failure leaves its previous membership unknown rather than incorrectly marking the job inactive.
+
+Only new canonical jobs after their relevant source has been initialized enter a pending notification batch. The workflow persists state before delivery. Each batch has a deterministic hidden marker; retries search open and closed GitHub Issues for that marker before creating an Issue, making delivery idempotent even after an interrupted run. A single Issue lists every provider that reported each canonical job. The optional `new-job` label is best-effort and cannot block Issue creation.
 
 ## Repository files
 
 | Path | Purpose |
 |---|---|
-| `src/` | Standard-library fetcher, parser, state tracker, renderer, notifier, and CLI |
-| `data/seen_jobs.json` | Permanent URL-keyed history and notification batches |
-| `data/current_jobs.json` | Latest successfully parsed matching jobs |
-| `jobs.md` | Generated human-readable dashboard; do not edit manually |
-| `tests/` | Offline parser, tracking, renderer, notifier, and orchestration tests |
-| `.github/workflows/check-jobs.yml` | Scheduled/manual automation |
+| `src/adapters.py` | ApplyGuy JSON and Simplify active-table adapters |
+| `src/parser.py` | Existing SpeedyApply Markdown adapter and parser dispatch |
+| `src/canonical.py` | URL normalization, requisition identity, and cross-source aggregation |
+| `src/tracker.py` | San Francisco filtering and source-aware lifecycle reconciliation |
+| `src/storage.py` | Validated atomic storage and v1-to-v2 state migration |
+| `src/notifier.py` | Canonical GitHub Issue formatting and idempotent delivery |
+| `data/seen_jobs.json` | Permanent canonical history and notification batches |
+| `data/current_jobs.json` | Active canonical snapshot |
+| `jobs.md` | Generated dashboard; do not edit manually |
+| `tests/` | Offline adapter, location, URL, aggregation, migration, renderer, notifier, and orchestration tests |
+| `.github/workflows/check-jobs.yml` | Hourly and manually triggered automation |
 
-All timestamps are UTC ISO 8601. To avoid a meaningless commit every hour, `last_seen` changes only for a first observation, reactivation, or meaningful source metadata change. An inactive transition is separately recorded in `inactive_at`.
+State output is deterministic: ordinary unchanged polls do not advance `last_seen` or create meaningless diffs. Timestamps are UTC ISO 8601.
 
 ## Local use
 
@@ -52,52 +73,55 @@ python -m pip install -r requirements.txt
 python -m pytest
 ```
 
-Safely inspect live upstream parsing without changing local state or creating an Issue:
+Safely fetch, parse, filter, aggregate, and report every provider without changing files or creating a notification:
 
 ```bash
 python -m src.check_jobs --dry-run
 ```
 
-Run a normal local collection (it updates `data/` and `jobs.md`, but does not send notifications by itself):
+Run collection normally (this updates `data/` and `jobs.md`, but does not itself call GitHub):
 
 ```bash
 python -m src.check_jobs
 ```
 
-Explicitly refresh a baseline without alerting for previously unseen URLs:
+Explicitly establish or refresh a silent baseline:
 
 ```bash
 python -m src.check_jobs --initialize
 ```
 
-The notification delivery command is intentionally separate. It needs a GitHub token with Issues write permission and uses `GITHUB_REPOSITORY` when supplied:
+Deliver only persisted pending alerts. This needs `GITHUB_TOKEN` with Issues write permission and uses `GITHUB_REPOSITORY` when supplied:
 
 ```bash
 python -m src.check_jobs --deliver-pending
 ```
 
-Use `--log-level DEBUG` for more diagnostics. Fetch, structural-validation, and state-validation failures exit nonzero before the tracker writes a replacement state.
+For a local end-to-end notification test, set those environment variables and run:
 
-## GitHub Actions
+```bash
+python -m src.check_jobs --send-test-notification
+```
 
-`Check San Francisco Bay Area Jobs` runs at the top of every hour and also supports **Actions → Check San Francisco Bay Area Jobs → Run workflow**. It has only `contents: write` and `issues: write` permissions, has no `push` trigger, and uses a concurrency group so scheduled and manual runs cannot mutate state at the same time.
+That command creates or reuses one clearly marked test Issue and does not fetch jobs or modify `data/` or `jobs.md`. Use `--log-level DEBUG` for source diagnostics. If every source fails or persisted state is invalid, the command exits nonzero before replacing generated state; an individual provider failure is retained as unknown while healthy providers continue safely.
 
-After merging this repository to `main`, enable GitHub Actions if it is disabled. If your organization/repository policy prevents the workflow's default `GITHUB_TOKEN` from writing, allow workflow read/write permissions for this repository; no personal access token or external service is required.
+## GitHub Actions and phone/email notifications
 
-The workflow only commits when `data/seen_jobs.json`, `data/current_jobs.json`, or `jobs.md` has actually changed.
+`Check San Francisco Jobs` runs at the top of every hour and can also be started from **Actions -> Check San Francisco Jobs -> Run workflow**. Scheduled production runs operate from `main`; it has `contents: write` and `issues: write` permissions, no `push` trigger, and a concurrency group so two runs cannot mutate state at once.
 
-## Test your phone or email notification safely
+The collection job runs tests, updates state/dashboard only if files changed, pushes that state, then delivers pending GitHub Issue alerts and records delivery. If an alert delivery fails, the batch remains pending and the workflow fails visibly for retry on a later run.
 
-After you enable GitHub notifications for this repository, you can test the exact Issue-creation path without waiting for a real job:
+To test your GitHub Mobile or email notifications safely:
 
-1. Open **Actions** → **Check San Francisco Bay Area Jobs** → **Run workflow**.
-2. Check **send_test_notification**, then run the workflow.
-3. The normal `check-jobs` job will be skipped. The `send-test-notification` job creates at most one Issue titled `🧪 TEST — San Francisco Bay Area job tracker notification`.
+1. Enable repository notifications in GitHub and enable GitHub Mobile and/or email notifications in your account settings.
+2. Open **Actions -> Check San Francisco Jobs -> Run workflow**.
+3. Check `send_test_notification` and run it.
+4. The normal collection job is skipped; the test job creates at most one clearly marked San Francisco tracker test Issue.
 
-The test never fetches upstream jobs and never changes `data/seen_jobs.json`, `data/current_jobs.json`, or `jobs.md`. Its body states that it is a test, and it has a fixed hidden marker: rerunning it detects the original Issue (even if you closed it) instead of creating duplicates. If the job is green and the test Issue appears, GitHub successfully created the Issue; whether it reaches your phone or inbox then depends only on your GitHub notification settings.
+The test Issue has a fixed hidden marker, so re-running it finds the first Issue even if it was closed instead of creating duplicates. A successful test job and a visible test Issue confirm the repository can create Issues; delivery to a phone or inbox is then governed by your GitHub notification preferences.
+
+After merging to `main`, enable GitHub Actions if necessary. If repository policy prevents the default `GITHUB_TOKEN` from writing, allow workflow read/write permissions for the repository. No personal access token, email service, or third-party notification integration is required.
 
 ## Configuration and limits
 
-Edit [src/config.py](src/config.py) to change the Bay Area city scope, upstream repository/files, request behavior, or category marker pairs. The initial implementation intentionally reads only the two USA public Markdown files and never accesses SpeedyApply's private Supabase data or crawls individual employer sites.
-
-The tracker filters only the location text SpeedyApply displays. It does not expand `+N` locations by visiting employer pages, and it never uses a live routing/geocoding service. This project stores no credentials or personal application notes; if you later add personal notes, remember that a public repository makes them public.
+Edit [src/config.py](src/config.py) to change source feeds, the San Francisco aliases, request behavior, or SpeedyApply category markers. Keep the matcher narrow unless you intentionally want a different product scope. The tracker relies on the feeds' displayed locations and does not expand locations by visiting employer pages or use live routing/geocoding. The repository stores no credentials or personal application notes.
