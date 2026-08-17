@@ -1,18 +1,31 @@
-"""Validated, deterministic, atomic JSON storage helpers."""
+"""Validated, deterministic, atomic JSON storage with v1 history migration."""
 
 from __future__ import annotations
 
+import copy
 import json
 import os
 import tempfile
 from pathlib import Path
 from typing import Any, Mapping
 
-from .config import CURRENT_JOBS_SCHEMA_VERSION, LOCATION_SCOPE_VERSION, STATE_SCHEMA_VERSION
+from .canonical import aggregate_observations
+from .config import (
+    CURRENT_JOBS_SCHEMA_VERSION,
+    LEGACY_SPEEDY_SOURCE_IDS,
+    LOCATION_SCOPE_VERSION,
+    SOURCES,
+    STATE_SCHEMA_VERSION,
+)
+from .models import Job
 
 
 class StorageError(RuntimeError):
     """Raised when persisted tracker state is missing or invalid."""
+
+
+def _source_initialization_defaults() -> dict[str, bool]:
+    return {source.id: False for source in SOURCES}
 
 
 def empty_seen_state() -> dict[str, Any]:
@@ -21,6 +34,7 @@ def empty_seen_state() -> dict[str, Any]:
     return {
         "initialized": False,
         "initialized_at": None,
+        "initialized_sources": _source_initialization_defaults(),
         "jobs": {},
         "location_scope_version": LOCATION_SCOPE_VERSION,
         "pending_notifications": {},
@@ -49,14 +63,141 @@ def _require_mapping(value: Any, label: str) -> Mapping[str, Any]:
     return value
 
 
+def _legacy_lifecycle(record: Mapping[str, Any]) -> dict[str, Any]:
+    """Copy stateful fields exactly from a v1 source record."""
+
+    active = record.get("active")
+    first_seen = record.get("first_seen")
+    last_seen = record.get("last_seen")
+    inactive_at = record.get("inactive_at")
+    if not isinstance(active, bool):
+        raise StorageError("legacy seen job record has an invalid active flag")
+    for name, value in (("first_seen", first_seen), ("last_seen", last_seen)):
+        if not isinstance(value, str):
+            raise StorageError(f"legacy seen job record has an invalid {name}")
+    if inactive_at is not None and not isinstance(inactive_at, str):
+        raise StorageError("legacy seen job record has an invalid inactive_at")
+    return {
+        "active": active,
+        "first_seen": first_seen,
+        "inactive_at": inactive_at,
+        "last_seen": last_seen,
+    }
+
+
+def _record_for_migrated_job(job: Job, lifecycle: Mapping[str, Any]) -> tuple[str, dict[str, Any]]:
+    canonical_jobs, _ = aggregate_observations([job])
+    canonical = canonical_jobs[0]
+    record = canonical.to_dict()
+    record.update(lifecycle)
+    source_record = job.source_dict()
+    source_record.update(lifecycle)
+    record["sources"] = {job.source_id: source_record}
+    return canonical.canonical_id, record
+
+
+def _merge_migrated_records(existing: dict[str, Any], incoming: dict[str, Any]) -> None:
+    """Coalesce a rare legacy canonical collision without losing history."""
+
+    existing_sources = existing.setdefault("sources", {})
+    existing_sources.update(incoming.get("sources", {}))
+    existing_aliases = set(existing.get("url_aliases", [])) | set(incoming.get("url_aliases", []))
+    existing["url_aliases"] = sorted(alias for alias in existing_aliases if isinstance(alias, str))
+    if str(incoming.get("first_seen", "")) < str(existing.get("first_seen", "")):
+        for name in ("first_seen", "last_seen", "inactive_at"):
+            existing[name] = incoming.get(name)
+    existing["active"] = bool(existing.get("active")) or bool(incoming.get("active"))
+
+
+def _migrate_seen_v1(value: Mapping[str, Any]) -> dict[str, Any]:
+    """Upgrade URL-keyed SpeedyApply history into canonical source-aware state."""
+
+    if not isinstance(value.get("initialized"), bool):
+        raise StorageError("seen job state has an invalid initialized flag")
+    if value.get("initialized_at") is not None and not isinstance(value.get("initialized_at"), str):
+        raise StorageError("seen job state has an invalid initialized_at value")
+    location_scope_version = value.get("location_scope_version")
+    if location_scope_version is not None and not isinstance(location_scope_version, str):
+        raise StorageError("legacy seen job state has an invalid location_scope_version")
+    jobs = value.get("jobs")
+    pending = value.get("pending_notifications")
+    if not isinstance(jobs, Mapping) or not isinstance(pending, Mapping):
+        raise StorageError("legacy seen job state has invalid jobs or pending_notifications")
+
+    migrated = empty_seen_state()
+    migrated["initialized"] = value["initialized"]
+    migrated["initialized_at"] = value.get("initialized_at")
+    # Preserve the old scope marker when available. Its absence is meaningful:
+    # the tracker will silently rebaseline it instead of alerting a scope
+    # expansion after migration.
+    if location_scope_version is None:
+        migrated.pop("location_scope_version")
+    else:
+        migrated["location_scope_version"] = location_scope_version
+    # A v1 state only contained the original SpeedyApply sources. Mark them as
+    # onboarded so adding providers cannot re-alert historical jobs.
+    for source_id in LEGACY_SPEEDY_SOURCE_IDS:
+        migrated["initialized_sources"][source_id] = value["initialized"]
+    for raw_url, raw_record in jobs.items():
+        if not isinstance(raw_url, str) or not isinstance(raw_record, Mapping):
+            raise StorageError("legacy seen job records must be keyed by URL objects")
+        try:
+            job = Job.from_mapping(raw_record)
+        except ValueError as error:
+            raise StorageError(f"Could not migrate legacy job {raw_url}: {error}") from error
+        canonical_id, record = _record_for_migrated_job(job, _legacy_lifecycle(raw_record))
+        current = migrated["jobs"].get(canonical_id)
+        if current is None:
+            migrated["jobs"][canonical_id] = record
+        else:
+            _merge_migrated_records(current, record)
+    # Preserve old batch IDs and URL lists exactly: their hidden Issue markers
+    # were derived from those URL lists and must remain idempotent on retry.
+    migrated["pending_notifications"] = copy.deepcopy(dict(pending))
+    return migrated
+
+
+def _migrate_current_v1(value: Mapping[str, Any]) -> dict[str, Any]:
+    jobs = value.get("jobs")
+    if not isinstance(jobs, Mapping):
+        raise StorageError("legacy current job state has an invalid jobs mapping")
+    observations: list[Job] = []
+    for raw_url, raw_record in jobs.items():
+        if not isinstance(raw_url, str) or not isinstance(raw_record, Mapping):
+            raise StorageError("legacy current jobs must be URL-keyed objects")
+        try:
+            observations.append(Job.from_mapping(raw_record))
+        except ValueError as error:
+            raise StorageError(f"Could not migrate legacy current job {raw_url}: {error}") from error
+    canonical_jobs, _ = aggregate_observations(observations)
+    current = empty_current_state()
+    for canonical in canonical_jobs:
+        record = canonical.to_dict()
+        record["sources"] = {job.source_id: job.source_dict() for job in canonical.observations}
+        current["jobs"][canonical.canonical_id] = record
+    return current
+
+
+def _validate_initialized_sources(value: Any) -> dict[str, bool]:
+    if not isinstance(value, Mapping):
+        raise StorageError("seen job state has an invalid initialized_sources mapping")
+    result = _source_initialization_defaults()
+    for source_id, initialized in value.items():
+        if not isinstance(source_id, str) or not isinstance(initialized, bool):
+            raise StorageError("seen job state has invalid initialized_sources values")
+        result[source_id] = initialized
+    return result
+
+
 def validate_seen_state(value: Any) -> dict[str, Any]:
-    """Validate enough of the state contract to prevent unsafe mutations."""
+    """Validate a v2 state or safely migrate the original v1 format."""
 
     state = dict(_require_mapping(value, "seen job state"))
-    if state.get("schema_version") != STATE_SCHEMA_VERSION:
-        raise StorageError(
-            "Unsupported seen job state schema; refusing to overwrite existing history"
-        )
+    version = state.get("schema_version")
+    if version == 1:
+        state = _migrate_seen_v1(state)
+    elif version != STATE_SCHEMA_VERSION:
+        raise StorageError("Unsupported seen job state schema; refusing to overwrite existing history")
     if not isinstance(state.get("initialized"), bool):
         raise StorageError("seen job state has an invalid initialized flag")
     if state.get("initialized_at") is not None and not isinstance(state.get("initialized_at"), str):
@@ -64,21 +205,27 @@ def validate_seen_state(value: Any) -> dict[str, Any]:
     location_scope_version = state.get("location_scope_version")
     if location_scope_version is not None and not isinstance(location_scope_version, str):
         raise StorageError("seen job state has an invalid location_scope_version")
+    state["initialized_sources"] = _validate_initialized_sources(state.get("initialized_sources", {}))
     if not isinstance(state.get("jobs"), dict):
         raise StorageError("seen job state has an invalid jobs mapping")
     if not isinstance(state.get("pending_notifications"), dict):
         raise StorageError("seen job state has an invalid pending_notifications mapping")
+    state["schema_version"] = STATE_SCHEMA_VERSION
     return state
 
 
 def validate_current_state(value: Any) -> dict[str, Any]:
-    """Validate the current snapshot before using it for a byte comparison."""
+    """Validate a current snapshot, transparently upgrading v1 when needed."""
 
     current = dict(_require_mapping(value, "current job state"))
-    if current.get("schema_version") != CURRENT_JOBS_SCHEMA_VERSION:
+    version = current.get("schema_version")
+    if version == 1:
+        current = _migrate_current_v1(current)
+    elif version != CURRENT_JOBS_SCHEMA_VERSION:
         raise StorageError("Unsupported current job state schema")
     if not isinstance(current.get("jobs"), dict):
         raise StorageError("current job state has an invalid jobs mapping")
+    current["schema_version"] = CURRENT_JOBS_SCHEMA_VERSION
     return current
 
 
@@ -109,7 +256,6 @@ def serialise_json(value: Any) -> str:
 def atomic_write_text(path: Path, content: str) -> None:
     """Replace a file atomically after fully writing a sibling temporary file."""
 
-    path.parent.mkdir(parents=True, exist_ok=True)
     temporary_path: Path | None = None
     try:
         temporary_path = _stage_bytes(path, content.encode("utf-8"))
@@ -124,12 +270,8 @@ def atomic_write_text(path: Path, content: str) -> None:
 
 
 def _stage_bytes(path: Path, content: bytes) -> Path:
-    """Write and fsync a sibling temporary file without changing its target."""
-
     path.parent.mkdir(parents=True, exist_ok=True)
-    descriptor, temporary_name = tempfile.mkstemp(
-        prefix=f".{path.name}.", suffix=".tmp", dir=path.parent
-    )
+    descriptor, temporary_name = tempfile.mkstemp(prefix=f".{path.name}.", suffix=".tmp", dir=path.parent)
     temporary_path = Path(temporary_name)
     try:
         with os.fdopen(descriptor, "wb") as handle:
@@ -143,8 +285,6 @@ def _stage_bytes(path: Path, content: bytes) -> Path:
 
 
 def write_json_if_changed(path: Path, value: Any) -> bool:
-    """Atomically write JSON only when its deterministic bytes are different."""
-
     content = serialise_json(value)
     try:
         if path.read_text(encoding="utf-8") == content:
@@ -158,8 +298,6 @@ def write_json_if_changed(path: Path, value: Any) -> bool:
 
 
 def write_text_if_changed(path: Path, content: str) -> bool:
-    """Atomically write arbitrary generated text only when it has changed."""
-
     try:
         if path.read_text(encoding="utf-8") == content:
             return False
@@ -172,13 +310,7 @@ def write_text_if_changed(path: Path, content: str) -> bool:
 
 
 def write_texts_transactionally(entries: Mapping[Path, str]) -> tuple[Path, ...]:
-    """Stage generated files and roll back replacements if one write fails.
-
-    A filesystem cannot atomically replace several independent files in a
-    single operation. This provides the next best reliability guarantee: all
-    replacement content is fully staged before anything changes, and a failed
-    replacement restores the original bytes of every file already replaced.
-    """
+    """Stage generated files and roll back replacements if one write fails."""
 
     originals: dict[Path, bytes | None] = {}
     staged: dict[Path, Path] = {}

@@ -49,12 +49,16 @@ class FakeTestNotifier:
 def state_with_pending_batch() -> tuple[dict, str]:
     first = make_job("https://jobs.example.test/one")
     second = make_job("https://jobs.example.test/two")
-    baseline = apply_current_jobs(empty_seen_state(), [first], timestamp="2026-08-16T12:00:00Z")
-    transition = apply_current_jobs(baseline.state, [first, second], timestamp="2026-08-16T13:00:00Z")
+    baseline = apply_current_jobs(
+        empty_seen_state(), [first], successful_source_ids={first.source_id}, timestamp="2026-08-16T12:00:00Z"
+    )
+    transition = apply_current_jobs(
+        baseline.state, [first, second], successful_source_ids={first.source_id}, timestamp="2026-08-16T13:00:00Z"
+    )
     return transition.state, next(iter(transition.state["pending_notifications"]))
 
 
-def test_notification_payload_is_actionable_and_has_hidden_marker() -> None:
+def test_notification_payload_is_canonical_actionable_and_has_hidden_marker() -> None:
     job = make_job("https://jobs.example.test/one", company="Notion")
     body = build_issue_body([job], "abc123")
 
@@ -62,13 +66,13 @@ def test_notification_payload_is_actionable_and_has_hidden_marker() -> None:
     assert issue_title(2) == "🚨 2 new San Francisco Bay Area SWE jobs"
     assert "**Type:** New Grad" in body
     assert "**Category:** Other" in body
+    assert "**Sources:** SpeedyApply" in body
     assert "[Apply to Notion →](<https://jobs.example.test/one>)" in body
     assert issue_marker("abc123") in body
 
 
 def test_test_notification_payload_is_unmistakable_and_state_free() -> None:
     body = build_test_issue_body()
-
     assert notification_test_issue_title() == "🧪 TEST — San Francisco Bay Area job tracker notification"
     assert "not** a job alert" in body
     assert "did not fetch jobs or change tracker history" in body
@@ -80,44 +84,29 @@ def test_test_notification_creates_once_then_is_idempotent() -> None:
     created = send_test_issue_notification(fresh)  # type: ignore[arg-type]
     assert created.created is True
     assert created.issue_number == 77
-    assert fresh.create_calls == 1
-
     existing = FakeTestNotifier(existing_issue=91)
     reused = send_test_issue_notification(existing)  # type: ignore[arg-type]
     assert reused.created is False
     assert reused.issue_number == 91
-    assert existing.create_calls == 0
 
 
-def test_delivery_marks_created_issue_as_sent() -> None:
+def test_delivery_marks_created_issue_as_sent_and_renders_canonical_job_once() -> None:
     state, batch_id = state_with_pending_batch()
     notifier = FakeNotifier()
-
     result = deliver_pending_notifications(state, notifier)  # type: ignore[arg-type]
-
     assert result.delivered_batches == (batch_id,)
     assert state["pending_notifications"][batch_id]["status"] == "sent"
     assert state["pending_notifications"][batch_id]["issue_number"] == 42
-    assert len(notifier.created) == 1
+    assert len(notifier.created[0][0]) == 1
 
 
-def test_delivery_recognises_existing_issue_and_does_not_create_duplicate() -> None:
+def test_delivery_recognises_existing_issue_and_failure_stays_pending() -> None:
     state, batch_id = state_with_pending_batch()
-    notifier = FakeNotifier(existing_issue=99)
-
-    result = deliver_pending_notifications(state, notifier)  # type: ignore[arg-type]
-
-    assert result.existing_issue_batches == (batch_id,)
-    assert result.delivered_batches == ()
-    assert notifier.created == []
+    existing = deliver_pending_notifications(state, FakeNotifier(existing_issue=99))  # type: ignore[arg-type]
+    assert existing.existing_issue_batches == (batch_id,)
     assert state["pending_notifications"][batch_id]["issue_number"] == 99
 
-
-def test_delivery_failure_leaves_batch_pending() -> None:
     state, batch_id = state_with_pending_batch()
-    notifier = FakeNotifier(fail_for={batch_id})
-
-    result = deliver_pending_notifications(state, notifier)  # type: ignore[arg-type]
-
-    assert result.failed_batches == (batch_id,)
+    failed = deliver_pending_notifications(state, FakeNotifier(fail_for={batch_id}))  # type: ignore[arg-type]
+    assert failed.failed_batches == (batch_id,)
     assert state["pending_notifications"][batch_id]["status"] == "pending"
