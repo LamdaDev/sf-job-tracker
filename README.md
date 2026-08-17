@@ -1,6 +1,8 @@
 # San Francisco SWE Job Tracker
 
-An unattended GitHub Actions tracker for public software-engineering internships and new-graduate jobs whose displayed location is in San Francisco.
+A job tracker for SWE jobs near San Francisco. Because I miss her.
+
+This is an unattended GitHub Actions tracker for public software-engineering internships and new-graduate jobs whose displayed location is in San Francisco.
 
 It combines public listings from three providers:
 
