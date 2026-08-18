@@ -1,5 +1,26 @@
 {
   "scans": {
+    "lever:plus-2:083142f4-70ed-40f4-8726-a5f99ea52e36": {
+      "application_url": "https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36",
+      "attempt_count": 1,
+      "canonical_job_id": "lever:plus-2:083142f4-70ed-40f4-8726-a5f99ea52e36",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-18T13:44:39Z",
+      "http_status": 200,
+      "issue_number": 12,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-18T13:44:39Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "lever",
+      "questions": [],
+      "scanned_at": "2026-08-18T13:44:39Z",
+      "status": "unavailable"
+    },
     "tiktok:jobs.bytedance.com:7668650945276168453": {
       "application_url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -53,6 +74,47 @@
       ],
       "scanned_at": "2026-08-18T09:36:39Z",
       "status": "partial"
+    },
+    "url:https://careers.roblox.com/jobs/8123004?gh_jid=8123004": {
+      "application_url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
+      "completeness_reason": "Browser inspection failed before a safe form scan could finish.",
+      "error_message": "Error while running browser inspection.",
+      "error_type": "Error",
+      "first_scanned": "2026-08-18T13:44:41Z",
+      "http_status": null,
+      "issue_number": 12,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-18T13:44:41Z",
+      "metadata": {
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-18T13:44:41Z",
+      "status": "failed"
+    },
+    "workday:ebay.wd5.myworkdayjobs.com:software-engineer-2_r0076483": {
+      "application_url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/San-Jose/Software-Engineer-2_R0076483",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:ebay.wd5.myworkdayjobs.com:software-engineer-2_r0076483",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-18T13:44:43Z",
+      "http_status": 200,
+      "issue_number": 12,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-18T13:44:43Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-18T13:44:43Z",
+      "status": "unavailable"
     }
   },
   "schema_version": 1
