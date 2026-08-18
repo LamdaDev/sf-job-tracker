@@ -12879,6 +12879,114 @@
         "https://www.zipline.com/open-roles?gh_jid=7765240003"
       ]
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7891459003": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7891459003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "first_seen": "2026-08-18T22:37:06Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-18T22:37:06Z",
+      "location": "South San Francisco, CA",
+      "position": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
+      "posted": "2026-08-18",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "first_seen": "2026-08-18T22:37:06Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-18T22:37:06Z",
+          "location": "South San Francisco, CA",
+          "position": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
+          "posted": "2026-08-18",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "41ab861e-b694-4f75-b0b9-e97b02794ef7",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-18T22:30:29.813Z",
+            "id": "41ab861e-b694-4f75-b0b9-e97b02794ef7",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+            "posted": "2026-08-18",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7891459003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles?gh_jid=7893926003": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7893926003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "first_seen": "2026-08-18T22:37:06Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-18T22:37:06Z",
+      "location": "South San Francisco, CA",
+      "position": "Enterprise Systems Software Engineer Intern (Spring 2027)",
+      "posted": "2026-08-18",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "first_seen": "2026-08-18T22:37:06Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-18T22:37:06Z",
+          "location": "South San Francisco, CA",
+          "position": "Enterprise Systems Software Engineer Intern (Spring 2027)",
+          "posted": "2026-08-18",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "0b2b5108-335c-4f96-90aa-947e38a6fd7d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-18T22:30:29.813Z",
+            "id": "0b2b5108-335c-4f96-90aa-947e38a6fd7d",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+            "posted": "2026-08-18",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7893926003"
+      ]
+    },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
       "active": true,
       "age": "41d",
@@ -14638,6 +14746,20 @@
         "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify"
       ],
       "status": "sent"
+    },
+    "f47708b28c7e7bd9bfe8f81afba7158be9d48cd48840200617de98e09509b102": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-18T22:37:06Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://www.zipline.com/open-roles?gh_jid=7891459003",
+        "url:https://www.zipline.com/open-roles?gh_jid=7893926003"
+      ],
+      "job_urls": [
+        "https://www.zipline.com/open-roles?gh_jid=7891459003",
+        "https://www.zipline.com/open-roles?gh_jid=7893926003"
+      ],
+      "status": "pending"
     }
   },
   "schema_version": 2
