@@ -20,6 +20,39 @@
       "questions": [],
       "scanned_at": "2026-08-17T22:44:31Z",
       "status": "unavailable"
+    },
+    "tiktok:lifeattiktok.com:7675128776856029445": {
+      "application_url": "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7675128776856029445",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-18T09:36:39Z",
+      "http_status": 200,
+      "issue_number": 11,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-18T09:36:39Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-18T09:36:39Z",
+      "status": "partial"
     }
   },
   "schema_version": 1
