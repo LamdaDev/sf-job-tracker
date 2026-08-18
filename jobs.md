@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (268)
+## Active Jobs (269)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | Software Engineer Intern - TikTok Search Data Infra | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-18T09:36:36Z | 2026-08-18T09:36:36Z | Yes | [Apply](<https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify>) |
 | ByteDance | Software Engineer Intern - Global Payment | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-17T22:44:27Z | 2026-08-17T22:44:27Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify>) |
 | Bear Robotics | Software Engineering Intern, Developer Productivity | Internship | Software Engineering | Redwood City, CA | ApplyGuy | N/A | 2026-08-17T20:30:11Z | 2026-08-17T20:30:11Z | Yes | [Apply](<https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity>) |
 | Flow Engineering | Software Engineer, Early Career | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T18:42:34Z | 2026-08-17T18:42:34Z | Yes | [Apply](<https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5>) |

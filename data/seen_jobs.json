@@ -11260,6 +11260,53 @@
         "https://lifeattiktok.com/search/7673674252889246005"
       ]
     },
+    "tiktok:lifeattiktok.com:7675128776856029445": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:lifeattiktok.com:7675128776856029445",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "first_seen": "2026-08-18T09:36:36Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-18T09:36:36Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - TikTok Search Data Infra",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-18T09:36:36Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-18T09:36:36Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - TikTok Search Data Infra",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "b639bba8-cb2b-4262-9125-9b56aeefa4cb",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/b639bba8-cb2b-4262-9125-9b56aeefa4cb?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/b639bba8-cb2b-4262-9125-9b56aeefa4cb?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/b639bba8-cb2b-4262-9125-9b56aeefa4cb?utm_source=GHList"
+      ]
+    },
     "url:https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71": {
       "active": true,
       "age": "26d",
@@ -14358,6 +14405,18 @@
   },
   "location_scope_version": "sf-bay-area-roughly-one-hour-v1",
   "pending_notifications": {
+    "110de6690f9541a4268a5ce27f171f11e29bc869163e98f9fee772b04fb30397": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-18T09:36:36Z",
+      "issue_number": null,
+      "job_ids": [
+        "tiktok:lifeattiktok.com:7675128776856029445"
+      ],
+      "job_urls": [
+        "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
+    },
     "27b1e19f34e188483f293863c13a55f5c069fa1b0ee2c0481d23ca6a8c658ebb": {
       "created_at": "2026-08-17T18:42:34Z",
       "issue_number": 5,

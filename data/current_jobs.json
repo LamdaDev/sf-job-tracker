@@ -9239,6 +9239,45 @@
         "https://lifeattiktok.com/search/7673674252889246005"
       ]
     },
+    "tiktok:lifeattiktok.com:7675128776856029445": {
+      "age": "0d",
+      "application_url": "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:lifeattiktok.com:7675128776856029445",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - TikTok Search Data Infra",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - TikTok Search Data Infra",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "b639bba8-cb2b-4262-9125-9b56aeefa4cb",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/b639bba8-cb2b-4262-9125-9b56aeefa4cb?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/b639bba8-cb2b-4262-9125-9b56aeefa4cb?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/b639bba8-cb2b-4262-9125-9b56aeefa4cb?utm_source=GHList"
+      ]
+    },
     "url:https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71": {
       "age": "26d",
       "application_url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
