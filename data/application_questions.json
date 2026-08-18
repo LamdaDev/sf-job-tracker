@@ -77,7 +77,7 @@
     },
     "url:https://careers.roblox.com/jobs/8123004?gh_jid=8123004": {
       "application_url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
-      "attempt_count": 1,
+      "attempt_count": 2,
       "canonical_job_id": "url:https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "completeness_reason": "Browser inspection failed before a safe form scan could finish.",
       "error_message": "Error while running browser inspection.",
@@ -86,13 +86,13 @@
       "http_status": null,
       "issue_number": 12,
       "issue_update_pending": false,
-      "last_scanned": "2026-08-18T13:44:41Z",
+      "last_scanned": "2026-08-18T14:36:37Z",
       "metadata": {
         "inspection_method": "browser"
       },
       "provider": "generic",
       "questions": [],
-      "scanned_at": "2026-08-18T13:44:41Z",
+      "scanned_at": "2026-08-18T14:36:37Z",
       "status": "failed"
     },
     "workday:ebay.wd5.myworkdayjobs.com:software-engineer-2_r0076483": {
