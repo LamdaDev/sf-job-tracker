@@ -217,11 +217,38 @@
       "company": "Amazon",
       "job_type": "New Grad",
       "location": "San Francisco, CA",
-      "position": "Software Dev Engineer",
-      "posted": null,
+      "position": "Software Engineer I, Payments",
+      "posted": "2026-08-14",
       "salary": "$186k/yr",
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "4d",
+          "application_url": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments",
+          "category": "Unknown",
+          "company": "Amazon",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer I, Payments",
+          "posted": "2026-08-14",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "custom:amazon:8dac7b7753315479f633",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "4d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-08-18T18:31:02.327Z",
+            "id": "custom:amazon:8dac7b7753315479f633",
+            "listingUrl": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments",
+            "matchKind": "entry_level",
+            "posted": "2026-08-14",
+            "url": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments"
+          },
+          "source_url": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments"
+        },
         "speedyapply_new_grad": {
           "age": "5d",
           "application_url": "https://www.amazon.jobs/jobs/10502486/apply",
@@ -242,6 +269,7 @@
         }
       },
       "url_aliases": [
+        "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments",
         "https://www.amazon.jobs/jobs/10502486/apply"
       ]
     },
