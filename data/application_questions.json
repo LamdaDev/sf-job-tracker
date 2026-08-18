@@ -95,6 +95,48 @@
       "scanned_at": "2026-08-18T14:36:37Z",
       "status": "failed"
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7891459003": {
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles?gh_jid=7891459003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-18T22:37:10Z",
+      "http_status": 200,
+      "issue_number": 13,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-18T22:37:10Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-18T22:37:10Z",
+      "status": "unavailable"
+    },
+    "url:https://www.zipline.com/open-roles?gh_jid=7893926003": {
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles?gh_jid=7893926003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-18T22:37:13Z",
+      "http_status": 200,
+      "issue_number": 13,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-18T22:37:13Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-18T22:37:13Z",
+      "status": "unavailable"
+    },
     "workday:ebay.wd5.myworkdayjobs.com:software-engineer-2_r0076483": {
       "application_url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/San-Jose/Software-Engineer-2_R0076483",
       "attempt_count": 1,

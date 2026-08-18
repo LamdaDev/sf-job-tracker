@@ -14750,7 +14750,7 @@
     "f47708b28c7e7bd9bfe8f81afba7158be9d48cd48840200617de98e09509b102": {
       "application_scan_eligible": true,
       "created_at": "2026-08-18T22:37:06Z",
-      "issue_number": null,
+      "issue_number": 13,
       "job_ids": [
         "url:https://www.zipline.com/open-roles?gh_jid=7891459003",
         "url:https://www.zipline.com/open-roles?gh_jid=7893926003"
@@ -14759,7 +14759,7 @@
         "https://www.zipline.com/open-roles?gh_jid=7891459003",
         "https://www.zipline.com/open-roles?gh_jid=7893926003"
       ],
-      "status": "pending"
+      "status": "sent"
     }
   },
   "schema_version": 2
