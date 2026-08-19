@@ -116,6 +116,27 @@
       "scanned_at": "2026-08-18T14:36:37Z",
       "status": "failed"
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles?gh_jid=7886501003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-19T13:47:01Z",
+      "http_status": 200,
+      "issue_number": 16,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-19T13:47:01Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-19T13:47:01Z",
+      "status": "unavailable"
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7891459003": {
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
       "attempt_count": 1,
@@ -198,6 +219,48 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-19T12:50:06Z",
+      "status": "unavailable"
+    },
+    "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--systems-software-engineering_jr2023492": {
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--systems-software-engineering_jr2023492",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-19T13:47:04Z",
+      "http_status": 200,
+      "issue_number": 16,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-19T13:47:04Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-19T13:47:04Z",
+      "status": "unavailable"
+    },
+    "workday:nvidia.wd5.myworkdayjobs.com:nvidia-spring-2027-internships--developer-and-performance-technology_jr2023499": {
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:nvidia.wd5.myworkdayjobs.com:nvidia-spring-2027-internships--developer-and-performance-technology_jr2023499",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-19T13:47:06Z",
+      "http_status": 200,
+      "issue_number": 16,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-19T13:47:06Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-19T13:47:06Z",
       "status": "unavailable"
     }
   },

@@ -15037,7 +15037,7 @@
     "46752b60e806bce4e18d5f27afa98ae2fae688678fd2423afc7b642bc8c1add5": {
       "application_scan_eligible": true,
       "created_at": "2026-08-19T13:46:58Z",
-      "issue_number": null,
+      "issue_number": 16,
       "job_ids": [
         "url:https://www.zipline.com/open-roles?gh_jid=7886501003",
         "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--systems-software-engineering_jr2023492",
@@ -15048,7 +15048,7 @@
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
         "https://www.zipline.com/open-roles?gh_jid=7886501003"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "50ce491ae99add1aaecf860b8481241dde523170d45bd3283abc412f1e7aa98b": {
       "application_scan_eligible": true,
