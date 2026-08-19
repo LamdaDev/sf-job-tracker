@@ -11248,6 +11248,45 @@
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990"
       ]
     },
+    "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--software-engineering_jr2023495": {
+      "age": "0d",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--software-engineering_jr2023495",
+      "category": "FAANG+",
+      "company": "NVIDIA",
+      "job_type": "Internship",
+      "location": "Canada | Santa Clara, CA",
+      "position": "Software Engineering Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "NVIDIA",
+          "job_type": "Internship",
+          "location": "Canada | Santa Clara, CA",
+          "position": "Software Engineering Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "be628885-fde3-4b73-bb0a-58e11856e97b",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/be628885-fde3-4b73-bb0a-58e11856e97b?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/be628885-fde3-4b73-bb0a-58e11856e97b?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/be628885-fde3-4b73-bb0a-58e11856e97b?utm_source=GHList"
+      ]
+    },
     "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522": {
       "age": "87d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",

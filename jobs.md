@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (270)
+## Active Jobs (271)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| NVIDIA | Software Engineering Intern | Internship | FAANG+ | Canada \| Santa Clara, CA | Simplify | N/A | 2026-08-19T12:50:02Z | 2026-08-19T12:50:02Z | Yes | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify>) |
 | Koah | Software Engineer, Early Career | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-19T01:23:34Z | 2026-08-19T01:23:34Z | Yes | [Apply](<https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808>) |
 | Zipline | Enterprise Systems Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-18T22:37:06Z | 2026-08-18T22:37:06Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7893926003>) |
 | Zipline | Long Range Platform Embedded Firmware Intern (Summer 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-18T22:37:06Z | 2026-08-18T22:37:06Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7891459003>) |
