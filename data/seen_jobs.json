@@ -12965,13 +12965,44 @@
       "first_seen": "2026-08-19T13:46:58Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-19T13:46:58Z",
+      "last_seen": "2026-08-19T22:27:56Z",
       "location": "South San Francisco, CA",
       "position": "Enterprise Systems Software Engineer Intern - Spring 2027",
-      "posted": null,
+      "posted": "2026-08-18",
       "salary": null,
-      "season": null,
+      "season": "Summer 2027",
       "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "first_seen": "2026-08-19T22:27:56Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-19T22:27:56Z",
+          "location": "South San Francisco, CA",
+          "position": "Enterprise Systems Software Engineer Intern (Summer 2027)",
+          "posted": "2026-08-18",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-19T22:15:21.823Z",
+            "id": "3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7886501003",
+            "posted": "2026-08-18",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "active": true,
           "age": "0d",
@@ -12996,6 +13027,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://www.zipline.com/open-roles?gh_jid=7886501003"
       ]
     },
