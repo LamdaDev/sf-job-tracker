@@ -217,7 +217,7 @@
       "company": "Amazon",
       "job_type": "New Grad",
       "location": "San Francisco, CA",
-      "position": "Software Engineer I, Payments",
+      "position": "Software Engineer I - Payments",
       "posted": "2026-08-14",
       "salary": "$186k/yr",
       "season": null,
@@ -250,13 +250,13 @@
           "source_url": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments"
         },
         "speedyapply_new_grad": {
-          "age": "5d",
+          "age": "7d",
           "application_url": "https://www.amazon.jobs/jobs/10502486/apply",
           "category": "FAANG+",
           "company": "Amazon",
           "job_type": "New Grad",
           "location": "San Francisco, CA",
-          "position": "Software Dev Engineer",
+          "position": "Software Engineer I - Payments",
           "posted": null,
           "salary": "$186k/yr",
           "season": null,
@@ -1015,42 +1015,6 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02"
-      ]
-    },
-    "ashby:crusoe:8184c413-a95a-49d7-bb75-ff3162ca198f": {
-      "age": "12d",
-      "application_url": "https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f",
-      "canonical_id": "ashby:crusoe:8184c413-a95a-49d7-bb75-ff3162ca198f",
-      "category": "Other",
-      "company": "Crusoe",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer I - DCIE",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "12d",
-          "application_url": "https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f",
-          "category": "Other",
-          "company": "Crusoe",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer I - DCIE",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f"
       ]
     },
     "ashby:ctgt:f657c2f5-125e-42b6-a68a-646bbea3d155": {
@@ -1857,11 +1821,11 @@
       "age": "1d",
       "application_url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
       "canonical_id": "ashby:koahlabs:197c931d-3cda-44b3-b26b-470976730808",
-      "category": "Unknown",
-      "company": "Koah",
+      "category": "Other",
+      "company": "Koah Labs",
       "job_type": "New Grad",
       "location": "San Francisco, CA",
-      "position": "Software Engineer, Early Career",
+      "position": "Software Engineer - Early Career",
       "posted": "2026-08-18",
       "salary": null,
       "season": null,
@@ -1892,6 +1856,24 @@
             "url": "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
           "source_url": "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
+        "speedyapply_new_grad": {
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
+          "category": "Other",
+          "company": "Koah Labs",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Early Career",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808"
         }
       },
       "url_aliases": [
@@ -4212,42 +4194,6 @@
       "url_aliases": [
         "https://boards.greenhouse.io/spacex/jobs/8621757002?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/6339287b-3f1f-45ea-964d-65549925660a?utm_source=GHList"
-      ]
-    },
-    "greenhouse:spacex:8696080002": {
-      "age": "2d",
-      "application_url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
-      "canonical_id": "greenhouse:spacex:8696080002",
-      "category": "Other",
-      "company": "SpaceX",
-      "job_type": "New Grad",
-      "location": "Palo Alto, CA",
-      "position": "New Graduate Engineer - Software - '26/'27 - Starlink",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "2d",
-          "application_url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
-          "category": "Other",
-          "company": "SpaceX",
-          "job_type": "New Grad",
-          "location": "Palo Alto, CA",
-          "position": "New Graduate Engineer - Software - '26/'27 - Starlink",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002"
-        }
-      },
-      "url_aliases": [
-        "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002"
       ]
     },
     "greenhouse:tenstorrentuniversity:5186916007": {
@@ -10426,15 +10372,51 @@
         "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343"
       ]
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
+      "age": "0d",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7886501003",
+      "category": "Other",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Enterprise Systems Software Engineer Intern - Spring 2027",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
+          "category": "Other",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Enterprise Systems Software Engineer Intern - Spring 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles?gh_jid=7886501003"
+        }
+      },
+      "url_aliases": [
+        "https://www.zipline.com/open-roles?gh_jid=7886501003"
+      ]
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7891459003": {
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7891459003",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zipline",
       "job_type": "Internship",
       "location": "South San Francisco, CA",
-      "position": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
+      "position": "Long Range Platform Embedded Firmware Intern - Summer 2027",
       "posted": "2026-08-18",
       "salary": null,
       "season": "Summer 2027",
@@ -10465,6 +10447,24 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+          "category": "Other",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Long Range Platform Embedded Firmware Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles?gh_jid=7891459003"
         }
       },
       "url_aliases": [
@@ -10476,11 +10476,11 @@
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7893926003",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zipline",
       "job_type": "Internship",
       "location": "South San Francisco, CA",
-      "position": "Enterprise Systems Software Engineer Intern (Spring 2027)",
+      "position": "Enterprise Systems Software Engineer Intern - Spring 2027",
       "posted": "2026-08-18",
       "salary": null,
       "season": "Spring 2027",
@@ -10511,6 +10511,24 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+          "category": "Other",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Enterprise Systems Software Engineer Intern - Spring 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles?gh_jid=7893926003"
         }
       },
       "url_aliases": [
@@ -10552,42 +10570,6 @@
       },
       "url_aliases": [
         "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781"
-      ]
-    },
-    "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100506-1": {
-      "age": "6d",
-      "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1",
-      "canonical_id": "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100506-1",
-      "category": "Other",
-      "company": "Autodesk",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "6d",
-          "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1",
-          "category": "Other",
-          "company": "Autodesk",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1"
-        }
-      },
-      "url_aliases": [
-        "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1"
       ]
     },
     "workday:ebay.wd5.myworkdayjobs.com:software-engineer-2_r0076483": {
@@ -11250,15 +11232,15 @@
     },
     "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--software-engineering_jr2023495": {
       "age": "0d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--software-engineering_jr2023495",
       "category": "FAANG+",
       "company": "NVIDIA",
       "job_type": "Internship",
       "location": "Canada | Santa Clara, CA",
-      "position": "Software Engineering Intern",
+      "position": "NVIDIA 2027 Internships: Software Engineering",
       "posted": null,
-      "salary": null,
+      "salary": "$62/hr",
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
@@ -11280,11 +11262,102 @@
             "simplify_url": "https://simplify.jobs/p/be628885-fde3-4b73-bb0a-58e11856e97b?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/be628885-fde3-4b73-bb0a-58e11856e97b?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+          "category": "FAANG+",
+          "company": "NVIDIA",
+          "job_type": "Internship",
+          "location": "Santa Clara, CA",
+          "position": "NVIDIA 2027 Internships: Software Engineering",
+          "posted": null,
+          "salary": "$62/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
         }
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
+        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
         "https://simplify.jobs/p/be628885-fde3-4b73-bb0a-58e11856e97b?utm_source=GHList"
+      ]
+    },
+    "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--systems-software-engineering_jr2023492": {
+      "age": "0d",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--systems-software-engineering_jr2023492",
+      "category": "FAANG+",
+      "company": "NVIDIA",
+      "job_type": "Internship",
+      "location": "Santa Clara, CA",
+      "position": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "posted": null,
+      "salary": "$62/hr",
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+          "category": "FAANG+",
+          "company": "NVIDIA",
+          "job_type": "Internship",
+          "location": "Santa Clara, CA",
+          "position": "NVIDIA 2027 Internships: Systems Software Engineering",
+          "posted": null,
+          "salary": "$62/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
+        }
+      },
+      "url_aliases": [
+        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
+      ]
+    },
+    "workday:nvidia.wd5.myworkdayjobs.com:nvidia-spring-2027-internships--developer-and-performance-technology_jr2023499": {
+      "age": "0d",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:nvidia-spring-2027-internships--developer-and-performance-technology_jr2023499",
+      "category": "FAANG+",
+      "company": "NVIDIA",
+      "job_type": "Internship",
+      "location": "Santa Clara, CA",
+      "position": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+      "posted": null,
+      "salary": "$62/hr",
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+          "category": "FAANG+",
+          "company": "NVIDIA",
+          "job_type": "Internship",
+          "location": "Santa Clara, CA",
+          "position": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+          "posted": null,
+          "salary": "$62/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
+        }
+      },
+      "url_aliases": [
+        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522": {
@@ -11321,44 +11394,6 @@
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
-      ]
-    },
-    "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--deep-learning-libraries---new-college-graduate-2026_jr2023252": {
-      "age": "3d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--deep-learning-libraries---new-college-graduate-2026_jr2023252",
-      "category": "FAANG+",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Software Engineer - Deep Learning Libraries - New College Graduate 2026",
-      "posted": "2026-08-14",
-      "salary": "$172k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "3d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
-          "category": "FAANG+",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer - Deep Learning Libraries - New College Graduate 2026",
-          "posted": null,
-          "salary": "$172k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=NVIDIA&job=f5b64472-e47c-43c1-980d-a35770afd531&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
-        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659": {
@@ -11718,42 +11753,6 @@
         "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298"
       ]
     },
-    "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137195": {
-      "age": "12d",
-      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137195",
-      "canonical_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137195",
-      "category": "Other",
-      "company": "PayPal",
-      "job_type": "New Grad",
-      "location": "San Jose, CA",
-      "position": "Software Engineer",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "12d",
-          "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137195",
-          "category": "Other",
-          "company": "PayPal",
-          "job_type": "New Grad",
-          "location": "San Jose, CA",
-          "position": "Software Engineer",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137195"
-        }
-      },
-      "url_aliases": [
-        "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137195"
-      ]
-    },
     "workday:ptc.wd1.myworkdayjobs.com:junior-software-engineer_jr112167": {
       "age": "96d",
       "application_url": "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/USA-San-Mateo-CA/Junior-Software-Engineer_JR112167",
@@ -11834,42 +11833,6 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943"
-      ]
-    },
-    "workday:thales.wd3.myworkdayjobs.com:software-development-engineer-in-test_r0328540-1": {
-      "age": "61d",
-      "application_url": "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose/Software-Development-Engineer-in-Test_R0328540-1",
-      "canonical_id": "workday:thales.wd3.myworkdayjobs.com:software-development-engineer-in-test_r0328540-1",
-      "category": "Other",
-      "company": "Thales",
-      "job_type": "New Grad",
-      "location": "San Jose, CA",
-      "position": "Software Development Engineer in Test",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "61d",
-          "application_url": "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose/Software-Development-Engineer-in-Test_R0328540-1",
-          "category": "Other",
-          "company": "Thales",
-          "job_type": "New Grad",
-          "location": "San Jose, CA",
-          "position": "Software Development Engineer in Test",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose/Software-Development-Engineer-in-Test_R0328540-1"
-        }
-      },
-      "url_aliases": [
-        "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose/Software-Development-Engineer-in-Test_R0328540-1"
       ]
     }
   },
