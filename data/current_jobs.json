@@ -11297,33 +11297,6 @@
       "salary": "$172k/yr",
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "3d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
-          "category": "Unknown",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer, Deep Learning Libraries - New College Graduate 2026",
-          "posted": "2026-08-14",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "f5b64472-e47c-43c1-980d-a35770afd531",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "3d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "f5b64472-e47c-43c1-980d-a35770afd531",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
-            "matchKind": "explicit",
-            "posted": "2026-08-14",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=f5b64472-e47c-43c1-980d-a35770afd531&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=f5b64472-e47c-43c1-980d-a35770afd531&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "3d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
