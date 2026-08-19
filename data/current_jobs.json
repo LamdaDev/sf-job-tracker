@@ -1853,6 +1853,52 @@
         "https://jobs.ashbyhq.com/kayak/8333e351-7a08-4767-9966-f75411b78d80"
       ]
     },
+    "ashby:koahlabs:197c931d-3cda-44b3-b26b-470976730808": {
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
+      "canonical_id": "ashby:koahlabs:197c931d-3cda-44b3-b26b-470976730808",
+      "category": "Unknown",
+      "company": "Koah",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer, Early Career",
+      "posted": "2026-08-18",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
+          "category": "Unknown",
+          "company": "Koah",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, Early Career",
+          "posted": "2026-08-18",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "d9007a83-d60a-4e5e-9d1e-7bbba6779db3",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-19T01:15:44.584Z",
+            "id": "d9007a83-d60a-4e5e-9d1e-7bbba6779db3",
+            "listingUrl": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
+            "matchKind": "explicit",
+            "posted": "2026-08-18",
+            "url": "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808"
+      ]
+    },
     "ashby:kos.ai:efab6ffb-9658-47f7-8b5f-a295c55957d3": {
       "age": "101d",
       "application_url": "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3",
