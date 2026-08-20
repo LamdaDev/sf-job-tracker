@@ -1411,14 +1411,14 @@
       "age": "Today",
       "application_url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
       "canonical_id": "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
-      "category": "Unknown",
+      "category": "Other",
       "company": "Crusoe",
       "first_seen": "2026-08-20T06:51:19Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-08-20T06:51:19Z",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer I, Network",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Francisco, CA +1",
+      "position": "Software Engineer I - Network",
       "posted": "2026-08-20",
       "salary": null,
       "season": null,
@@ -1453,6 +1453,28 @@
             "url": "https://applyguy.ai/jobs?company=Crusoe&job=dc0399ce-23c6-4d75-8328-ff1ff317cee0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
           "source_url": "https://applyguy.ai/jobs?company=Crusoe&job=dc0399ce-23c6-4d75-8328-ff1ff317cee0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+          "category": "Other",
+          "company": "Crusoe",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Francisco, CA +1",
+          "position": "Software Engineer I - Network",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed"
         }
       },
       "url_aliases": [
@@ -1963,14 +1985,14 @@
       ]
     },
     "ashby:handshake:e871b11e-f6c2-4adf-aeb5-278eac4aa153": {
-      "active": true,
+      "active": false,
       "age": "11d",
       "application_url": "https://jobs.ashbyhq.com/handshake/e871b11e-f6c2-4adf-aeb5-278eac4aa153",
       "canonical_id": "ashby:handshake:e871b11e-f6c2-4adf-aeb5-278eac4aa153",
       "category": "Other",
       "company": "Handshake",
       "first_seen": "2026-08-17T05:05:43Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-20T13:50:27Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Francisco, CA",
@@ -1980,13 +2002,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "11d",
           "application_url": "https://jobs.ashbyhq.com/handshake/e871b11e-f6c2-4adf-aeb5-278eac4aa153",
           "category": "Other",
           "company": "Handshake",
           "first_seen": "2026-08-17T05:05:43Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-20T13:50:27Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -9494,25 +9516,25 @@
       "first_seen": "2026-08-17T07:00:52Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-08-17T17:45:31Z",
+      "last_seen": "2026-08-20T13:50:27Z",
       "location": "San Jose, CA",
-      "position": "Software Development Engineer in Test Graduate - Global E-commerce - 2027 Start",
+      "position": "Software Development Engineer Graduate - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Start",
       "posted": null,
       "salary": "$202k/yr",
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
           "active": true,
-          "age": "16d",
+          "age": "19d",
           "application_url": "https://lifeattiktok.com/search/7668827381435517237",
           "category": "FAANG+",
           "company": "TikTok",
           "first_seen": "2026-08-17T07:00:52Z",
           "inactive_at": null,
           "job_type": "New Grad",
-          "last_seen": "2026-08-17T17:45:31Z",
+          "last_seen": "2026-08-20T13:50:27Z",
           "location": "San Jose, CA",
-          "position": "Software Development Engineer in Test Graduate - Global E-commerce - 2027 Start",
+          "position": "Software Development Engineer Graduate - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Start",
           "posted": null,
           "salary": "$202k/yr",
           "season": null,
@@ -9570,6 +9592,50 @@
       },
       "url_aliases": [
         "https://lifeattiktok.com/search/7668831181590513925"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7668831188103481605": {
+      "active": true,
+      "age": "19d",
+      "application_url": "https://lifeattiktok.com/search/7668831188103481605",
+      "canonical_id": "tiktok:lifeattiktok.com:7668831188103481605",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "first_seen": "2026-08-20T13:50:27Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Jose, CA",
+      "position": "Neural Graphics and World Models Research Scientist/Software Engineer Graduate - TikTok - Engine&Tools - 2027 Start - PhD",
+      "posted": null,
+      "salary": "$202k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "19d",
+          "application_url": "https://lifeattiktok.com/search/7668831188103481605",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Neural Graphics and World Models Research Scientist/Software Engineer Graduate - TikTok - Engine&Tools - 2027 Start - PhD",
+          "posted": null,
+          "salary": "$202k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7668831188103481605"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7668831188103481605"
       ]
     },
     "tiktok:lifeattiktok.com:7668834837268138293": {
@@ -9652,25 +9718,25 @@
       "first_seen": "2026-08-17T07:00:52Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-17T17:45:31Z",
+      "last_seen": "2026-08-20T13:50:27Z",
       "location": "San Jose, CA",
-      "position": "Software Development Engineer in Test Intern - Global E-Commerce - 2027 Summer",
+      "position": "Software Development Engineer Intern - Global E-Commerce - Quality Platform & AI Test Automation - 2027 Summer",
       "posted": null,
       "salary": "$60/hr",
       "season": null,
       "sources": {
         "speedyapply_internships": {
           "active": true,
-          "age": "16d",
+          "age": "19d",
           "application_url": "https://lifeattiktok.com/search/7668837275459324213",
           "category": "FAANG+",
           "company": "TikTok",
           "first_seen": "2026-08-17T07:00:52Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-08-17T17:45:31Z",
+          "last_seen": "2026-08-20T13:50:27Z",
           "location": "San Jose, CA",
-          "position": "Software Development Engineer in Test Intern - Global E-Commerce - 2027 Summer",
+          "position": "Software Development Engineer Intern - Global E-Commerce - Quality Platform & AI Test Automation - 2027 Summer",
           "posted": null,
           "salary": "$60/hr",
           "season": null,
@@ -9684,6 +9750,50 @@
       },
       "url_aliases": [
         "https://lifeattiktok.com/search/7668837275459324213"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7668838052657678597": {
+      "active": true,
+      "age": "19d",
+      "application_url": "https://lifeattiktok.com/search/7668838052657678597",
+      "canonical_id": "tiktok:lifeattiktok.com:7668838052657678597",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "first_seen": "2026-08-20T13:50:27Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Jose, CA",
+      "position": "Machine Learning Software Engineer Graduate - TikTok Content Ecology - 2027 Start - PhD",
+      "posted": null,
+      "salary": "$202k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "19d",
+          "application_url": "https://lifeattiktok.com/search/7668838052657678597",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Machine Learning Software Engineer Graduate - TikTok Content Ecology - 2027 Start - PhD",
+          "posted": null,
+          "salary": "$202k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7668838052657678597"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7668838052657678597"
       ]
     },
     "tiktok:lifeattiktok.com:7668843238309824773": {
@@ -9772,6 +9882,50 @@
       },
       "url_aliases": [
         "https://lifeattiktok.com/search/7668845522007722245"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7668854153882011957": {
+      "active": true,
+      "age": "19d",
+      "application_url": "https://lifeattiktok.com/search/7668854153882011957",
+      "canonical_id": "tiktok:lifeattiktok.com:7668854153882011957",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "first_seen": "2026-08-20T13:50:27Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Jose, CA",
+      "position": "Research Scientist/Software Engineer - Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start - PhD",
+      "posted": null,
+      "salary": "$202k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "19d",
+          "application_url": "https://lifeattiktok.com/search/7668854153882011957",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Research Scientist/Software Engineer - Neural Graphics and World Models - Global Frontier Tech Recruitment Program - 2027 Start - PhD",
+          "posted": null,
+          "salary": "$202k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7668854153882011957"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7668854153882011957"
       ]
     },
     "tiktok:lifeattiktok.com:7668855346857019701": {
@@ -10940,6 +11094,50 @@
         "https://simplify.jobs/p/3eeac721-35f3-4f16-9019-05cfc80ad251?utm_source=GHList"
       ]
     },
+    "tiktok:lifeattiktok.com:7670874691332212997": {
+      "active": true,
+      "age": "14d",
+      "application_url": "https://lifeattiktok.com/search/7670874691332212997",
+      "canonical_id": "tiktok:lifeattiktok.com:7670874691332212997",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "first_seen": "2026-08-20T13:50:27Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Jose, CA",
+      "position": "Site Reliability Engineer Intern - Global SRE - 2027 Summer",
+      "posted": null,
+      "salary": "$60/hr",
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "active": true,
+          "age": "14d",
+          "application_url": "https://lifeattiktok.com/search/7670874691332212997",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Site Reliability Engineer Intern - Global SRE - 2027 Summer",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7670874691332212997"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7670874691332212997"
+      ]
+    },
     "tiktok:lifeattiktok.com:7671211313289398581": {
       "active": true,
       "age": "10d",
@@ -11145,18 +11343,18 @@
     "tiktok:lifeattiktok.com:7672930401597671733": {
       "active": true,
       "age": "0d",
-      "application_url": "https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://lifeattiktok.com/search/7672930401597671733",
       "canonical_id": "tiktok:lifeattiktok.com:7672930401597671733",
-      "category": "Unknown",
+      "category": "FAANG+",
       "company": "TikTok",
       "first_seen": "2026-08-20T02:59:52Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-20T02:59:52Z",
+      "last_seen": "2026-08-20T13:50:27Z",
       "location": "San Jose, CA",
-      "position": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+      "position": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Summer",
       "posted": null,
-      "salary": null,
+      "salary": "$60/hr",
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
@@ -11182,11 +11380,78 @@
             "simplify_url": "https://simplify.jobs/p/7a6d014a-e6ad-4587-8acf-9acfe710342d?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/7a6d014a-e6ad-4587-8acf-9acfe710342d?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "8d",
+          "application_url": "https://lifeattiktok.com/search/7672930401597671733",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Summer",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7672930401597671733"
         }
       },
       "url_aliases": [
+        "https://lifeattiktok.com/search/7672930401597671733",
         "https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/7a6d014a-e6ad-4587-8acf-9acfe710342d?utm_source=GHList"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7672934842451577141": {
+      "active": true,
+      "age": "8d",
+      "application_url": "https://lifeattiktok.com/search/7672934842451577141",
+      "canonical_id": "tiktok:lifeattiktok.com:7672934842451577141",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "first_seen": "2026-08-20T13:50:27Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Fall",
+      "posted": null,
+      "salary": "$60/hr",
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "active": true,
+          "age": "8d",
+          "application_url": "https://lifeattiktok.com/search/7672934842451577141",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Fall",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7672934842451577141"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7672934842451577141"
       ]
     },
     "tiktok:lifeattiktok.com:7672976491146004741": {
@@ -11570,18 +11835,18 @@
     "tiktok:lifeattiktok.com:7675128776856029445": {
       "active": true,
       "age": "0d",
-      "application_url": "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://lifeattiktok.com/search/7675128776856029445",
       "canonical_id": "tiktok:lifeattiktok.com:7675128776856029445",
       "category": "FAANG+",
       "company": "TikTok",
       "first_seen": "2026-08-18T09:36:36Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-18T09:36:36Z",
+      "last_seen": "2026-08-20T13:50:27Z",
       "location": "San Jose, CA",
-      "position": "Software Engineer Intern - TikTok Search Data Infra",
+      "position": "Software Engineer Intern - TikTok Search Data Infra - 2027 Summer",
       "posted": null,
-      "salary": null,
+      "salary": "$60/hr",
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
@@ -11607,28 +11872,95 @@
             "simplify_url": "https://simplify.jobs/p/b639bba8-cb2b-4262-9125-9b56aeefa4cb?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/b639bba8-cb2b-4262-9125-9b56aeefa4cb?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "2d",
+          "application_url": "https://lifeattiktok.com/search/7675128776856029445",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - TikTok Search Data Infra - 2027 Summer",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7675128776856029445"
         }
       },
       "url_aliases": [
+        "https://lifeattiktok.com/search/7675128776856029445",
         "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/b639bba8-cb2b-4262-9125-9b56aeefa4cb?utm_source=GHList"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7675129440242010421": {
+      "active": true,
+      "age": "2d",
+      "application_url": "https://lifeattiktok.com/search/7675129440242010421",
+      "canonical_id": "tiktok:lifeattiktok.com:7675129440242010421",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "first_seen": "2026-08-20T13:50:27Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - TikTok Search Data Infra - 2027 Fall",
+      "posted": null,
+      "salary": "$60/hr",
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "active": true,
+          "age": "2d",
+          "application_url": "https://lifeattiktok.com/search/7675129440242010421",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - TikTok Search Data Infra - 2027 Fall",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7675129440242010421"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7675129440242010421"
       ]
     },
     "tiktok:lifeattiktok.com:7675159726676101381": {
       "active": true,
       "age": "0d",
-      "application_url": "https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://lifeattiktok.com/search/7675159726676101381",
       "canonical_id": "tiktok:lifeattiktok.com:7675159726676101381",
       "category": "FAANG+",
       "company": "TikTok",
       "first_seen": "2026-08-20T02:59:52Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-20T02:59:52Z",
+      "last_seen": "2026-08-20T13:50:27Z",
       "location": "San Jose, CA",
-      "position": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+      "position": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Summer",
       "posted": null,
-      "salary": null,
+      "salary": "$60/hr",
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
@@ -11654,28 +11986,95 @@
             "simplify_url": "https://simplify.jobs/p/f9783cfd-0933-41da-8102-1c15ae7d9c3c?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/f9783cfd-0933-41da-8102-1c15ae7d9c3c?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "2d",
+          "application_url": "https://lifeattiktok.com/search/7675159726676101381",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Summer",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7675159726676101381"
         }
       },
       "url_aliases": [
+        "https://lifeattiktok.com/search/7675159726676101381",
         "https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/f9783cfd-0933-41da-8102-1c15ae7d9c3c?utm_source=GHList"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7675163472469444917": {
+      "active": true,
+      "age": "2d",
+      "application_url": "https://lifeattiktok.com/search/7675163472469444917",
+      "canonical_id": "tiktok:lifeattiktok.com:7675163472469444917",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "first_seen": "2026-08-20T13:50:27Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Fall",
+      "posted": null,
+      "salary": "$60/hr",
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "active": true,
+          "age": "2d",
+          "application_url": "https://lifeattiktok.com/search/7675163472469444917",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Fall",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7675163472469444917"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7675163472469444917"
       ]
     },
     "tiktok:lifeattiktok.com:7675517686256863541": {
       "active": true,
       "age": "0d",
-      "application_url": "https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://lifeattiktok.com/search/7675517686256863541",
       "canonical_id": "tiktok:lifeattiktok.com:7675517686256863541",
-      "category": "Unknown",
+      "category": "FAANG+",
       "company": "TikTok",
       "first_seen": "2026-08-20T02:59:52Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-20T02:59:52Z",
+      "last_seen": "2026-08-20T13:50:27Z",
       "location": "San Jose, CA",
-      "position": "Software Engineer Intern - TikTok Search Architecture",
+      "position": "Software Engineer Intern - TikTok Search Architecture - 2027 Summer",
       "posted": null,
-      "salary": null,
+      "salary": "$60/hr",
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
@@ -11701,11 +12100,122 @@
             "simplify_url": "https://simplify.jobs/p/c2b2c451-d750-4afe-a76b-18cec45fff86?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/c2b2c451-d750-4afe-a76b-18cec45fff86?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://lifeattiktok.com/search/7675517686256863541",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - TikTok Search Architecture - 2027 Summer",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7675517686256863541"
         }
       },
       "url_aliases": [
+        "https://lifeattiktok.com/search/7675517686256863541",
         "https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/c2b2c451-d750-4afe-a76b-18cec45fff86?utm_source=GHList"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7675524738811218229": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://lifeattiktok.com/search/7675524738811218229",
+      "canonical_id": "tiktok:lifeattiktok.com:7675524738811218229",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "first_seen": "2026-08-20T13:50:27Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - TikTok Search Architecture - 2027 Fall",
+      "posted": null,
+      "salary": "$60/hr",
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://lifeattiktok.com/search/7675524738811218229",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - TikTok Search Architecture - 2027 Fall",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7675524738811218229"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7675524738811218229"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7675829388634392837": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://lifeattiktok.com/search/7675829388634392837",
+      "canonical_id": "tiktok:lifeattiktok.com:7675829388634392837",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "first_seen": "2026-08-20T13:50:27Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Graduate - TikTok Search Data Infra - 2027 Start",
+      "posted": null,
+      "salary": "$202k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://lifeattiktok.com/search/7675829388634392837",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Graduate - TikTok Search Data Infra - 2027 Start",
+          "posted": null,
+          "salary": "$202k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7675829388634392837"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7675829388634392837"
       ]
     },
     "url:https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71": {
@@ -13268,9 +13778,9 @@
       "first_seen": "2026-08-19T13:46:58Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-19T22:27:56Z",
+      "last_seen": "2026-08-20T13:50:27Z",
       "location": "South San Francisco, CA",
-      "position": "Enterprise Systems Software Engineer Intern - Spring 2027",
+      "position": "Enterprise Systems Software Engineer Intern - Summer 2027",
       "posted": "2026-08-18",
       "salary": null,
       "season": "Summer 2027",
@@ -13308,16 +13818,16 @@
         },
         "speedyapply_internships": {
           "active": true,
-          "age": "0d",
+          "age": "1d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
           "category": "Other",
           "company": "Zipline",
           "first_seen": "2026-08-19T13:46:58Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-08-19T13:46:58Z",
+          "last_seen": "2026-08-20T13:50:27Z",
           "location": "South San Francisco, CA",
-          "position": "Enterprise Systems Software Engineer Intern - Spring 2027",
+          "position": "Enterprise Systems Software Engineer Intern - Summer 2027",
           "posted": null,
           "salary": null,
           "season": null,
@@ -13491,14 +14001,14 @@
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7893955003",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zipline",
       "first_seen": "2026-08-20T04:40:09Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-20T04:40:09Z",
+      "last_seen": "2026-08-20T13:50:27Z",
       "location": "South San Francisco, CA",
-      "position": "Software Systems Validation Intern (Spring 2027)",
+      "position": "Software Systems Validation Intern - Spring 2027",
       "posted": "2026-08-20",
       "salary": null,
       "season": "Spring 2027",
@@ -13533,6 +14043,28 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+          "category": "Other",
+          "company": "Zipline",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern - Spring 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles?gh_jid=7893955003"
         }
       },
       "url_aliases": [
@@ -13545,14 +14077,14 @@
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7894335003",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zipline",
       "first_seen": "2026-08-20T04:40:09Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-20T04:40:09Z",
+      "last_seen": "2026-08-20T13:50:27Z",
       "location": "South San Francisco, CA",
-      "position": "Software Systems Validation Intern (Summer 2027)",
+      "position": "Software Systems Validation Intern - Summer 2027",
       "posted": "2026-08-20",
       "salary": null,
       "season": "Summer 2027",
@@ -13587,6 +14119,28 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
+          "category": "Other",
+          "company": "Zipline",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles?gh_jid=7894335003"
         }
       },
       "url_aliases": [
@@ -13680,6 +14234,50 @@
       },
       "url_aliases": [
         "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1"
+      ]
+    },
+    "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
+      "canonical_id": "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686",
+      "category": "Other",
+      "company": "Autodesk",
+      "first_seen": "2026-08-20T13:50:27Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-20T13:50:27Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
+          "category": "Other",
+          "company": "Autodesk",
+          "first_seen": "2026-08-20T13:50:27Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-20T13:50:27Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686"
+        }
+      },
+      "url_aliases": [
+        "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686"
       ]
     },
     "workday:cohesity.wd5.myworkdayjobs.com:software-engineer_r01282": {
@@ -13982,14 +14580,14 @@
       ]
     },
     "workday:guidewire.wd5.myworkdayjobs.com:software-engineer-ii_jr_14273": {
-      "active": true,
+      "active": false,
       "age": "5d",
       "application_url": "https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---San-Mateo-CA/Software-Engineer-II_JR_14273",
       "canonical_id": "workday:guidewire.wd5.myworkdayjobs.com:software-engineer-ii_jr_14273",
       "category": "Other",
       "company": "Guidewire",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-20T13:50:27Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Mateo, CA",
@@ -13999,13 +14597,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "5d",
           "application_url": "https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---San-Mateo-CA/Software-Engineer-II_JR_14273",
           "category": "Other",
           "company": "Guidewire",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-20T13:50:27Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Mateo, CA",
@@ -15352,14 +15950,14 @@
       ]
     },
     "workday:ptc.wd1.myworkdayjobs.com:junior-software-engineer_jr112167": {
-      "active": true,
+      "active": false,
       "age": "96d",
       "application_url": "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/USA-San-Mateo-CA/Junior-Software-Engineer_JR112167",
       "canonical_id": "workday:ptc.wd1.myworkdayjobs.com:junior-software-engineer_jr112167",
       "category": "Other",
       "company": "PTC",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-20T13:50:27Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "USA-San Mateo, CA",
@@ -15369,13 +15967,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "96d",
           "application_url": "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/USA-San-Mateo-CA/Junior-Software-Engineer_JR112167",
           "category": "Other",
           "company": "PTC",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-20T13:50:27Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "USA-San Mateo, CA",
@@ -15663,6 +16261,36 @@
         "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify"
       ],
       "status": "sent"
+    },
+    "e3b228e8e783e5d615f5c1008a6ac69fa61301e7a1b0e948187546953df836a9": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-20T13:50:27Z",
+      "issue_number": null,
+      "job_ids": [
+        "tiktok:lifeattiktok.com:7668831188103481605",
+        "tiktok:lifeattiktok.com:7668838052657678597",
+        "tiktok:lifeattiktok.com:7668854153882011957",
+        "tiktok:lifeattiktok.com:7670874691332212997",
+        "tiktok:lifeattiktok.com:7672934842451577141",
+        "tiktok:lifeattiktok.com:7675129440242010421",
+        "tiktok:lifeattiktok.com:7675163472469444917",
+        "tiktok:lifeattiktok.com:7675524738811218229",
+        "tiktok:lifeattiktok.com:7675829388634392837",
+        "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686"
+      ],
+      "job_urls": [
+        "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
+        "https://lifeattiktok.com/search/7668831188103481605",
+        "https://lifeattiktok.com/search/7668838052657678597",
+        "https://lifeattiktok.com/search/7668854153882011957",
+        "https://lifeattiktok.com/search/7670874691332212997",
+        "https://lifeattiktok.com/search/7672934842451577141",
+        "https://lifeattiktok.com/search/7675129440242010421",
+        "https://lifeattiktok.com/search/7675163472469444917",
+        "https://lifeattiktok.com/search/7675524738811218229",
+        "https://lifeattiktok.com/search/7675829388634392837"
+      ],
+      "status": "pending"
     },
     "f47708b28c7e7bd9bfe8f81afba7158be9d48cd48840200617de98e09509b102": {
       "application_scan_eligible": true,
