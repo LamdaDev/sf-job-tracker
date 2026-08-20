@@ -8769,6 +8769,45 @@
         "https://lifeattiktok.com/search/7672559124790102277"
       ]
     },
+    "tiktok:lifeattiktok.com:7672930401597671733": {
+      "age": "0d",
+      "application_url": "https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:lifeattiktok.com:7672930401597671733",
+      "category": "Unknown",
+      "company": "TikTok",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "TikTok",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "7a6d014a-e6ad-4587-8acf-9acfe710342d",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/7a6d014a-e6ad-4587-8acf-9acfe710342d?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/7a6d014a-e6ad-4587-8acf-9acfe710342d?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/7a6d014a-e6ad-4587-8acf-9acfe710342d?utm_source=GHList"
+      ]
+    },
     "tiktok:lifeattiktok.com:7672976491146004741": {
       "age": "5d",
       "application_url": "https://lifeattiktok.com/search/7672976491146004741",
@@ -9116,6 +9155,84 @@
       "url_aliases": [
         "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/b639bba8-cb2b-4262-9125-9b56aeefa4cb?utm_source=GHList"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7675159726676101381": {
+      "age": "0d",
+      "application_url": "https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:lifeattiktok.com:7675159726676101381",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "f9783cfd-0933-41da-8102-1c15ae7d9c3c",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/f9783cfd-0933-41da-8102-1c15ae7d9c3c?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/f9783cfd-0933-41da-8102-1c15ae7d9c3c?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/f9783cfd-0933-41da-8102-1c15ae7d9c3c?utm_source=GHList"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7675517686256863541": {
+      "age": "0d",
+      "application_url": "https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:lifeattiktok.com:7675517686256863541",
+      "category": "Unknown",
+      "company": "TikTok",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern - TikTok Search Architecture",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "TikTok",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - TikTok Search Architecture",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "c2b2c451-d750-4afe-a76b-18cec45fff86",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/c2b2c451-d750-4afe-a76b-18cec45fff86?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/c2b2c451-d750-4afe-a76b-18cec45fff86?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/c2b2c451-d750-4afe-a76b-18cec45fff86?utm_source=GHList"
       ]
     },
     "url:https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71": {
@@ -11038,6 +11155,52 @@
       },
       "url_aliases": [
         "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2637811"
+      ]
+    },
+    "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {
+      "age": "Today",
+      "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
+      "canonical_id": "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095",
+      "category": "Software Engineering",
+      "company": "LiveRamp",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Co-Op, DevOps Engineer",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Co-op",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
+          "category": "Software Engineering",
+          "company": "LiveRamp",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Co-Op, DevOps Engineer",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Co-op",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "91a0f288-3460-4ea3-9c2e-a975de546b10",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-20T02:45:36.507Z",
+            "id": "91a0f288-3460-4ea3-9c2e-a975de546b10",
+            "listingUrl": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
+            "posted": "2026-08-20",
+            "season": "Co-op",
+            "url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:ai-and-ml-infra-software-engineer--gpu-clusters---new-college-grad-2026_jr2021591": {

@@ -4,10 +4,14 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (268)
+## Active Jobs (272)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| LiveRamp | Co-Op, DevOps Engineer | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-08-20T02:59:52Z | 2026-08-20T02:59:52Z | Yes | [Apply](<https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095>) |
+| TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-08-20T02:59:52Z | 2026-08-20T02:59:52Z | Yes | [Apply](<https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify>) |
+| TikTok | Software Engineer Intern - Recommendation Infra - Performance Efficiency | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-20T02:59:52Z | 2026-08-20T02:59:52Z | Yes | [Apply](<https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify>) |
+| TikTok | Software Engineer Intern - TikTok Search Architecture | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-08-20T02:59:52Z | 2026-08-20T02:59:52Z | Yes | [Apply](<https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify>) |
 | NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | Internship | FAANG+ | Santa Clara, CA | SpeedyApply | $62/hr | 2026-08-19T13:46:58Z | 2026-08-19T13:46:58Z | Yes | [Apply](<https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492>) |
 | NVIDIA | NVIDIA Spring 2027 Internships: Developer and Performance Technology | Internship | FAANG+ | Santa Clara, CA | SpeedyApply | $62/hr | 2026-08-19T13:46:58Z | 2026-08-19T13:46:58Z | Yes | [Apply](<https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499>) |
 | Zipline | Enterprise Systems Software Engineer Intern - Spring 2027 | Internship | Other | South San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-19T13:46:58Z | 2026-08-19T22:27:56Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7886501003>) |
