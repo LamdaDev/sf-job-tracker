@@ -8,6 +8,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Roberthalf | Software Engineer I | New Grad | Unknown | San Ramon, CA | ApplyGuy | N/A | 2026-08-20T23:28:31Z | 2026-08-20T23:28:31Z | Yes | [Apply](<https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277>) |
 | Zipline | Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-20T22:30:45Z | 2026-08-20T22:30:45Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7907191003>) |
 | Autodesk | Software Engineer | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-20T13:50:27Z | 2026-08-20T13:50:27Z | Yes | [Apply](<https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686>) |
 | TikTok | Machine Learning Software Engineer Graduate - TikTok Content Ecology - 2027 Start - PhD | New Grad | FAANG+ | San Jose, CA | SpeedyApply | $202k/yr | 2026-08-20T13:50:27Z | 2026-08-20T13:50:27Z | Yes | [Apply](<https://lifeattiktok.com/search/7668838052657678597>) |
@@ -72,7 +73,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | NXP Semiconductors | NFC System Software Engineer - Entry Level | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298>) |
 | Observe.AI | Software Engineer I - AI Agents | New Grad | Unknown | Redwood City, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://www.observe.ai/position?gh_jid=5383979008>) |
 | Pivotal | Internship, GNC Engineering (Fall) | Internship | Software Engineering | Palo Alto, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7>) |
-| Roberthalf | Software Engineer I | New Grad | Unknown | San Ramon, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943>) |
 | Roblox | Software Engineer Intern | Internship | FAANG+ | San Mateo, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://careers.roblox.com/jobs/8072713?gh_jid=8072713&utm_source=Simplify&ref=Simplify>) |
 | RTX | Software Engineer I (Onsite) | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385>) |
 | RTX | Software Engineering Intern (Summer 2027) | Internship | Software Engineering | San Jose, CA | ApplyGuy, Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392>) |
@@ -294,10 +294,11 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | VantageScore | Software Engineer - Contract | New Grad | Other | South San Francisco, CA +1 | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/vantagescore/jobs/4305333009>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (17)
+## Historical / Closed or Removed Jobs (18)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Roberthalf | Software Engineer I | New Grad | Unknown | San Ramon, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943>) |
 | Cohesity | Software Engineer - New Grad 2026 | New Grad | Other | Santa Clara, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282>) |
 | Guidewire | Software Engineer II | New Grad | Other | San Mateo, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---San-Mateo-CA/Software-Engineer-II_JR_14273>) |
 | NVIDIA | Software Engineer - Deep Learning Libraries - New College Graduate 2026 | New Grad | FAANG+ | Santa Clara, CA | ApplyGuy, SpeedyApply | $172k/yr | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252>) |

@@ -12584,50 +12584,50 @@
         "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298"
       ]
     },
-    "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-259943": {
-      "age": "26d",
-      "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
-      "canonical_id": "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-259943",
+    "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-261277": {
+      "age": "Today",
+      "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277",
+      "canonical_id": "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-261277",
       "category": "Unknown",
       "company": "Roberthalf",
       "job_type": "New Grad",
       "location": "San Ramon, CA",
       "position": "Software Engineer I",
-      "posted": "2026-07-22",
+      "posted": "2026-08-20",
       "salary": null,
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "age": "26d",
-          "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
+          "age": "Today",
+          "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277",
           "category": "Unknown",
           "company": "Roberthalf",
           "job_type": "New Grad",
           "location": "San Ramon, CA",
           "position": "Software Engineer I",
-          "posted": "2026-07-22",
+          "posted": "2026-08-20",
           "salary": null,
           "season": null,
           "source_file": "data/new-grad-jobs.json",
           "source_id": "applyguy_new_grad",
-          "source_job_id": "e1482e27-bed2-405f-b1b5-dea7e6e8439e",
+          "source_job_id": "3cbc2b10-d9ab-4cc6-9e02-997ae8443a12",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "26d",
+            "age": "Today",
             "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "e1482e27-bed2-405f-b1b5-dea7e6e8439e",
-            "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
+            "feedUpdatedAt": "2026-08-20T23:15:44.928Z",
+            "id": "3cbc2b10-d9ab-4cc6-9e02-997ae8443a12",
+            "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277",
             "matchKind": "entry_level",
-            "posted": "2026-07-22",
-            "url": "https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+            "posted": "2026-08-20",
+            "url": "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
-          "source_url": "https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          "source_url": "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         }
       },
       "url_aliases": [
-        "https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943"
+        "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
       ]
     }
   },
