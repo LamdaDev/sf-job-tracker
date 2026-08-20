@@ -63,6 +63,39 @@
       "scanned_at": "2026-08-17T22:44:31Z",
       "status": "unavailable"
     },
+    "tiktok:lifeattiktok.com:7672930401597671733": {
+      "application_url": "https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7672930401597671733",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T02:59:56Z",
+      "http_status": 200,
+      "issue_number": 17,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T02:59:56Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T02:59:56Z",
+      "status": "partial"
+    },
     "tiktok:lifeattiktok.com:7675128776856029445": {
       "application_url": "https://lifeattiktok.com/search/7675128776856029445?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -94,6 +127,72 @@
         }
       ],
       "scanned_at": "2026-08-18T09:36:39Z",
+      "status": "partial"
+    },
+    "tiktok:lifeattiktok.com:7675159726676101381": {
+      "application_url": "https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7675159726676101381",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T02:59:59Z",
+      "http_status": 200,
+      "issue_number": 17,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T02:59:59Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T02:59:59Z",
+      "status": "partial"
+    },
+    "tiktok:lifeattiktok.com:7675517686256863541": {
+      "application_url": "https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7675517686256863541",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T03:00:02Z",
+      "http_status": 200,
+      "issue_number": 17,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T03:00:02Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T03:00:02Z",
       "status": "partial"
     },
     "url:https://careers.roblox.com/jobs/8123004?gh_jid=8123004": {
@@ -198,6 +297,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-18T13:44:43Z",
+      "status": "unavailable"
+    },
+    "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {
+      "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T03:00:05Z",
+      "http_status": 200,
+      "issue_number": 17,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T03:00:05Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-20T03:00:05Z",
       "status": "unavailable"
     },
     "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--software-engineering_jr2023495": {
