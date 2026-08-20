@@ -10719,6 +10719,98 @@
         "https://www.zipline.com/open-roles?gh_jid=7893926003"
       ]
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7893955003": {
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7893955003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Software Systems Validation Intern (Spring 2027)",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern (Spring 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "67afcec4-ce5b-4f35-84aa-42094350f041",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-20T04:30:16.541Z",
+            "id": "67afcec4-ce5b-4f35-84aa-42094350f041",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+            "posted": "2026-08-20",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7893955003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles?gh_jid=7894335003": {
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7894335003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Software Systems Validation Intern (Summer 2027)",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern (Summer 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "442133eb-2198-429b-b807-a75804e9c224",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-20T04:30:16.541Z",
+            "id": "442133eb-2198-429b-b807-a75804e9c224",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7894335003",
+            "posted": "2026-08-20",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7894335003"
+      ]
+    },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
       "age": "41d",
       "application_url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781",

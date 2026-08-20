@@ -13432,6 +13432,114 @@
         "https://www.zipline.com/open-roles?gh_jid=7893926003"
       ]
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7893955003": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7893955003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "first_seen": "2026-08-20T04:40:09Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-20T04:40:09Z",
+      "location": "South San Francisco, CA",
+      "position": "Software Systems Validation Intern (Spring 2027)",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "first_seen": "2026-08-20T04:40:09Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T04:40:09Z",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern (Spring 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "67afcec4-ce5b-4f35-84aa-42094350f041",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-20T04:30:16.541Z",
+            "id": "67afcec4-ce5b-4f35-84aa-42094350f041",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+            "posted": "2026-08-20",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7893955003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles?gh_jid=7894335003": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7894335003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "first_seen": "2026-08-20T04:40:09Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-20T04:40:09Z",
+      "location": "South San Francisco, CA",
+      "position": "Software Systems Validation Intern (Summer 2027)",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "first_seen": "2026-08-20T04:40:09Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T04:40:09Z",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern (Summer 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "442133eb-2198-429b-b807-a75804e9c224",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-20T04:30:16.541Z",
+            "id": "442133eb-2198-429b-b807-a75804e9c224",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7894335003",
+            "posted": "2026-08-20",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7894335003"
+      ]
+    },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
       "active": true,
       "age": "41d",
@@ -15445,6 +15553,20 @@
         "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
       ],
       "status": "sent"
+    },
+    "a324846b7ebe6d85fca0417b4923337917d42ac5c0c74fa431b449b5e3d69fe5": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-20T04:40:09Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://www.zipline.com/open-roles?gh_jid=7893955003",
+        "url:https://www.zipline.com/open-roles?gh_jid=7894335003"
+      ],
+      "job_urls": [
+        "https://www.zipline.com/open-roles?gh_jid=7893955003",
+        "https://www.zipline.com/open-roles?gh_jid=7894335003"
+      ],
+      "status": "pending"
     },
     "b2fb2626e5e5078b18bb5876224150caa1186d1c4cf74561ae45a89694565530": {
       "application_scan_eligible": true,
