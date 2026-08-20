@@ -4,10 +4,12 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (272)
+## Active Jobs (274)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Kikoff | Software Engineer - Recent Grad | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-20T03:54:20Z | 2026-08-20T03:54:20Z | Yes | [Apply](<https://job-boards.greenhouse.io/kikoff/jobs/4376677009>) |
+| Western Magnetics | Software Engineering Intern | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-20T03:54:20Z | 2026-08-20T03:54:20Z | Yes | [Apply](<https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics>) |
 | LiveRamp | Co-Op, DevOps Engineer | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-08-20T02:59:52Z | 2026-08-20T02:59:52Z | Yes | [Apply](<https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095>) |
 | TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-08-20T02:59:52Z | 2026-08-20T02:59:52Z | Yes | [Apply](<https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify>) |
 | TikTok | Software Engineer Intern - Recommendation Infra - Performance Efficiency | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-20T02:59:52Z | 2026-08-20T02:59:52Z | Yes | [Apply](<https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify>) |

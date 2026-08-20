@@ -3821,6 +3821,52 @@
         "https://job-boards.greenhouse.io/kargo/jobs/6120133004"
       ]
     },
+    "greenhouse:kikoff:4376677009": {
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+      "canonical_id": "greenhouse:kikoff:4376677009",
+      "category": "Unknown",
+      "company": "Kikoff",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - Recent Grad",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+          "category": "Unknown",
+          "company": "Kikoff",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Recent Grad",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "4e646993-5eda-4baf-a943-0fec9dafef7f",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-20T03:45:56.975Z",
+            "id": "4e646993-5eda-4baf-a943-0fec9dafef7f",
+            "listingUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+            "matchKind": "explicit",
+            "posted": "2026-08-20",
+            "url": "https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://job-boards.greenhouse.io/kikoff/jobs/4376677009"
+      ]
+    },
     "greenhouse:mercury:6101145004": {
       "age": "47d",
       "application_url": "https://job-boards.greenhouse.io/mercury/jobs/6101145004",
@@ -9842,6 +9888,52 @@
       },
       "url_aliases": [
         "https://jobs.smartrecruiters.com/ServiceNow/744000141814009-software-engineer-agentic-ai-harness-quality-moveworks?oga=true"
+      ]
+    },
+    "url:https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics": {
+      "age": "Today",
+      "application_url": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
+      "canonical_id": "url:https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
+      "category": "Software Engineering",
+      "company": "Western Magnetics",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Software Engineering Intern",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
+          "category": "Software Engineering",
+          "company": "Western Magnetics",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineering Intern",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "03ead34e-2086-4dd5-97e6-2e1c14f2896f",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-20T03:45:29.762Z",
+            "id": "03ead34e-2086-4dd5-97e6-2e1c14f2896f",
+            "listingUrl": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
+            "posted": "2026-08-20",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Western+Magnetics&job=03ead34e-2086-4dd5-97e6-2e1c14f2896f&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Western+Magnetics&job=03ead34e-2086-4dd5-97e6-2e1c14f2896f&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Western+Magnetics&job=03ead34e-2086-4dd5-97e6-2e1c14f2896f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics"
       ]
     },
     "url:https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759?ref=Simplify": {
