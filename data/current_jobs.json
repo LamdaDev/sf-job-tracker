@@ -990,6 +990,52 @@
         "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02"
       ]
     },
+    "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed": {
+      "age": "Today",
+      "application_url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+      "canonical_id": "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+      "category": "Unknown",
+      "company": "Crusoe",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer I, Network",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "Today",
+          "application_url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+          "category": "Unknown",
+          "company": "Crusoe",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer I, Network",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "dc0399ce-23c6-4d75-8328-ff1ff317cee0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-08-20T06:45:39.970Z",
+            "id": "dc0399ce-23c6-4d75-8328-ff1ff317cee0",
+            "listingUrl": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+            "matchKind": "entry_level",
+            "posted": "2026-08-20",
+            "url": "https://applyguy.ai/jobs?company=Crusoe&job=dc0399ce-23c6-4d75-8328-ff1ff317cee0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Crusoe&job=dc0399ce-23c6-4d75-8328-ff1ff317cee0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Crusoe&job=dc0399ce-23c6-4d75-8328-ff1ff317cee0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed"
+      ]
+    },
     "ashby:ctgt:f657c2f5-125e-42b6-a68a-646bbea3d155": {
       "age": "51d",
       "application_url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155",

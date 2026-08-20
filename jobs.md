@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (276)
+## Active Jobs (277)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Crusoe | Software Engineer I, Network | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-20T06:51:19Z | 2026-08-20T06:51:19Z | Yes | [Apply](<https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed>) |
 | Zipline | Software Systems Validation Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-20T04:40:09Z | 2026-08-20T04:40:09Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7893955003>) |
 | Zipline | Software Systems Validation Intern (Summer 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-20T04:40:09Z | 2026-08-20T04:40:09Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7894335003>) |
 | Kikoff | Software Engineer - Recent Grad | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-20T03:54:20Z | 2026-08-20T03:54:20Z | Yes | [Apply](<https://job-boards.greenhouse.io/kikoff/jobs/4376677009>) |
