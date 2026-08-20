@@ -1,5 +1,26 @@
 {
   "scans": {
+    "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed": {
+      "application_url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T06:51:22Z",
+      "http_status": 200,
+      "issue_number": 20,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T06:51:22Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-08-20T06:51:22Z",
+      "status": "unavailable"
+    },
     "ashby:koahlabs:197c931d-3cda-44b3-b26b-470976730808": {
       "application_url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
       "attempt_count": 1,
