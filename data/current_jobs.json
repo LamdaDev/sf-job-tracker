@@ -722,33 +722,6 @@
       "salary": null,
       "season": "Not specified",
       "sources": {
-        "applyguy_internships": {
-          "age": "27d",
-          "application_url": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364",
-          "category": "Software Engineering",
-          "company": "Bild AI",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "AI/SWE Intern",
-          "posted": "2026-07-21",
-          "salary": null,
-          "season": "Not specified",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "394e6325-35f0-4acd-9083-c75b82e476ae",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "27d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "394e6325-35f0-4acd-9083-c75b82e476ae",
-            "listingUrl": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364",
-            "posted": "2026-07-21",
-            "season": "Not specified",
-            "url": "https://applyguy.ai/jobs?company=Bild+AI&job=394e6325-35f0-4acd-9083-c75b82e476ae&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Bild+AI&job=394e6325-35f0-4acd-9083-c75b82e476ae&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "27d",
           "application_url": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364",
@@ -1348,33 +1321,6 @@
       "salary": null,
       "season": "Not specified",
       "sources": {
-        "applyguy_internships": {
-          "age": "27d",
-          "application_url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
-          "category": "Software Engineering",
-          "company": "Gritt Robotics Inc",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "ML & Cloud Infrastructure Engineer Intern",
-          "posted": "2026-07-21",
-          "salary": null,
-          "season": "Not specified",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "efb7914e-3f2e-4c00-a510-0a226b8407aa",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "27d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "efb7914e-3f2e-4c00-a510-0a226b8407aa",
-            "listingUrl": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
-            "posted": "2026-07-21",
-            "season": "Not specified",
-            "url": "https://applyguy.ai/jobs?company=Gritt+Robotics+Inc&job=efb7914e-3f2e-4c00-a510-0a226b8407aa&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Gritt+Robotics+Inc&job=efb7914e-3f2e-4c00-a510-0a226b8407aa&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "27d",
           "application_url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
