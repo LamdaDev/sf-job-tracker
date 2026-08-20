@@ -21,6 +21,159 @@
       "scanned_at": "2026-08-19T01:23:37Z",
       "status": "unavailable"
     },
+    "greenhouse:kikoff:4376677009": {
+      "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:kikoff:4376677009",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T03:54:23Z",
+      "http_status": 200,
+      "issue_number": 18,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T03:54:23Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7288126009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7288127009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_7288128009",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Transcript",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_7288129009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Cumulative GPA and the scale your school uses (e.g. 3.7/4.0, 85%, 10/12)",
+          "options": [],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "location_questions"
+        }
+      ],
+      "scanned_at": "2026-08-20T03:54:23Z",
+      "status": "complete"
+    },
     "lever:plus-2:083142f4-70ed-40f4-8726-a5f99ea52e36": {
       "application_url": "https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36",
       "attempt_count": 1,
@@ -214,6 +367,27 @@
       "questions": [],
       "scanned_at": "2026-08-18T14:36:37Z",
       "status": "failed"
+    },
+    "url:https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics": {
+      "application_url": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T03:54:24Z",
+      "http_status": 200,
+      "issue_number": 18,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T03:54:24Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-20T03:54:24Z",
+      "status": "unavailable"
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",

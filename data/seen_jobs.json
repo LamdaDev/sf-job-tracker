@@ -15361,7 +15361,7 @@
     "1396521b4dbd8f64bba77717321f39b420956d85b7a76851dbcc4272f9d2f6b7": {
       "application_scan_eligible": true,
       "created_at": "2026-08-20T03:54:20Z",
-      "issue_number": null,
+      "issue_number": 18,
       "job_ids": [
         "greenhouse:kikoff:4376677009",
         "url:https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics"
@@ -15370,7 +15370,7 @@
         "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
         "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "27b1e19f34e188483f293863c13a55f5c069fa1b0ee2c0481d23ca6a8c658ebb": {
       "created_at": "2026-08-17T18:42:34Z",
