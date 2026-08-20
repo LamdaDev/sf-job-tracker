@@ -16415,14 +16415,14 @@
     "eb3550188134c58775d9d05059f894a30b1ba8bf0f25ca8a96d34d866f9ac3c9": {
       "application_scan_eligible": true,
       "created_at": "2026-08-20T23:28:31Z",
-      "issue_number": null,
+      "issue_number": 23,
       "job_ids": [
         "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-261277"
       ],
       "job_urls": [
         "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "f47708b28c7e7bd9bfe8f81afba7158be9d48cd48840200617de98e09509b102": {
       "application_scan_eligible": true,
