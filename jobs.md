@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (284)
+## Active Jobs (285)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Zipline | Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-20T22:30:45Z | 2026-08-20T22:30:45Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7907191003>) |
 | Autodesk | Software Engineer | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-20T13:50:27Z | 2026-08-20T13:50:27Z | Yes | [Apply](<https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686>) |
 | TikTok | Machine Learning Software Engineer Graduate - TikTok Content Ecology - 2027 Start - PhD | New Grad | FAANG+ | San Jose, CA | SpeedyApply | $202k/yr | 2026-08-20T13:50:27Z | 2026-08-20T13:50:27Z | Yes | [Apply](<https://lifeattiktok.com/search/7668838052657678597>) |
 | TikTok | Neural Graphics and World Models Research Scientist/Software Engineer Graduate - TikTok - Engine&Tools - 2027 Start - PhD | New Grad | FAANG+ | San Jose, CA | SpeedyApply | $202k/yr | 2026-08-20T13:50:27Z | 2026-08-20T13:50:27Z | Yes | [Apply](<https://lifeattiktok.com/search/7668831188103481605>) |

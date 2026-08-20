@@ -11275,6 +11275,52 @@
         "https://www.zipline.com/open-roles?gh_jid=7894335003"
       ]
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7907191003": {
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7907191003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Software Engineer Intern (Spring 2027)",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern (Spring 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-20T22:30:30.805Z",
+            "id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+            "posted": "2026-08-20",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7907191003"
+      ]
+    },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
       "age": "41d",
       "application_url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781",

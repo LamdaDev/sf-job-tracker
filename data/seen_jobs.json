@@ -14148,6 +14148,60 @@
         "https://www.zipline.com/open-roles?gh_jid=7894335003"
       ]
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7907191003": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7907191003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "first_seen": "2026-08-20T22:30:45Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-20T22:30:45Z",
+      "location": "South San Francisco, CA",
+      "position": "Software Engineer Intern (Spring 2027)",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "first_seen": "2026-08-20T22:30:45Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-20T22:30:45Z",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern (Spring 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-20T22:30:30.805Z",
+            "id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+            "posted": "2026-08-20",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7907191003"
+      ]
+    },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
       "active": true,
       "age": "41d",
@@ -16174,6 +16228,18 @@
         "https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36"
       ],
       "status": "sent"
+    },
+    "66ed109bb9bc7c57ec8c9e81dc84f9c4f07dc451c6309bfa95b5408c585eaa66": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-20T22:30:45Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://www.zipline.com/open-roles?gh_jid=7907191003"
+      ],
+      "job_urls": [
+        "https://www.zipline.com/open-roles?gh_jid=7907191003"
+      ],
+      "status": "pending"
     },
     "6cb26ca53e151f1d97fd211ee5d78eb753e989d24136a89dbbe86ec8e383873c": {
       "application_scan_eligible": true,
