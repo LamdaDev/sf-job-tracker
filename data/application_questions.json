@@ -237,6 +237,138 @@
       "scanned_at": "2026-08-17T22:44:31Z",
       "status": "unavailable"
     },
+    "tiktok:lifeattiktok.com:7668831188103481605": {
+      "application_url": "https://lifeattiktok.com/search/7668831188103481605",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7668831188103481605",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T13:50:30Z",
+      "http_status": 200,
+      "issue_number": 21,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T13:50:30Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T13:50:30Z",
+      "status": "partial"
+    },
+    "tiktok:lifeattiktok.com:7668838052657678597": {
+      "application_url": "https://lifeattiktok.com/search/7668838052657678597",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7668838052657678597",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T13:50:34Z",
+      "http_status": 200,
+      "issue_number": 21,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T13:50:34Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T13:50:34Z",
+      "status": "partial"
+    },
+    "tiktok:lifeattiktok.com:7668854153882011957": {
+      "application_url": "https://lifeattiktok.com/search/7668854153882011957",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7668854153882011957",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T13:50:36Z",
+      "http_status": 200,
+      "issue_number": 21,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T13:50:36Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T13:50:36Z",
+      "status": "partial"
+    },
+    "tiktok:lifeattiktok.com:7670874691332212997": {
+      "application_url": "https://lifeattiktok.com/search/7670874691332212997",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7670874691332212997",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T13:50:39Z",
+      "http_status": 200,
+      "issue_number": 21,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T13:50:39Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T13:50:39Z",
+      "status": "partial"
+    },
     "tiktok:lifeattiktok.com:7672930401597671733": {
       "application_url": "https://lifeattiktok.com/search/7672930401597671733?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -268,6 +400,39 @@
         }
       ],
       "scanned_at": "2026-08-20T02:59:56Z",
+      "status": "partial"
+    },
+    "tiktok:lifeattiktok.com:7672934842451577141": {
+      "application_url": "https://lifeattiktok.com/search/7672934842451577141",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7672934842451577141",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T13:50:42Z",
+      "http_status": 200,
+      "issue_number": 21,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T13:50:42Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T13:50:42Z",
       "status": "partial"
     },
     "tiktok:lifeattiktok.com:7675128776856029445": {
@@ -303,6 +468,39 @@
       "scanned_at": "2026-08-18T09:36:39Z",
       "status": "partial"
     },
+    "tiktok:lifeattiktok.com:7675129440242010421": {
+      "application_url": "https://lifeattiktok.com/search/7675129440242010421",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7675129440242010421",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T13:50:45Z",
+      "http_status": 200,
+      "issue_number": 21,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T13:50:45Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T13:50:45Z",
+      "status": "partial"
+    },
     "tiktok:lifeattiktok.com:7675159726676101381": {
       "application_url": "https://lifeattiktok.com/search/7675159726676101381?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -336,6 +534,39 @@
       "scanned_at": "2026-08-20T02:59:59Z",
       "status": "partial"
     },
+    "tiktok:lifeattiktok.com:7675163472469444917": {
+      "application_url": "https://lifeattiktok.com/search/7675163472469444917",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7675163472469444917",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T13:50:48Z",
+      "http_status": 200,
+      "issue_number": 21,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T13:50:48Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T13:50:48Z",
+      "status": "partial"
+    },
     "tiktok:lifeattiktok.com:7675517686256863541": {
       "application_url": "https://lifeattiktok.com/search/7675517686256863541?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -367,6 +598,59 @@
         }
       ],
       "scanned_at": "2026-08-20T03:00:02Z",
+      "status": "partial"
+    },
+    "tiktok:lifeattiktok.com:7675524738811218229": {
+      "application_url": "https://lifeattiktok.com/search/7675524738811218229",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7675524738811218229",
+      "completeness_reason": "Application inspection failed without affecting the job notification.",
+      "error_message": "IncompleteRead while orchestrating application inspection.",
+      "error_type": "IncompleteRead",
+      "first_scanned": "2026-08-20T13:50:51Z",
+      "http_status": null,
+      "issue_number": 21,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T13:50:51Z",
+      "metadata": {
+        "inspection_method": "orchestrator"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-20T13:50:51Z",
+      "status": "failed"
+    },
+    "tiktok:lifeattiktok.com:7675829388634392837": {
+      "application_url": "https://lifeattiktok.com/search/7675829388634392837",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7675829388634392837",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T13:50:53Z",
+      "http_status": 200,
+      "issue_number": 21,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T13:50:53Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-20T13:50:53Z",
       "status": "partial"
     },
     "url:https://careers.roblox.com/jobs/8123004?gh_jid=8123004": {
@@ -513,6 +797,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-08-20T04:40:16Z",
+      "status": "unavailable"
+    },
+    "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686": {
+      "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-20T13:50:57Z",
+      "http_status": 200,
+      "issue_number": 21,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-20T13:50:57Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-20T13:50:57Z",
       "status": "unavailable"
     },
     "workday:ebay.wd5.myworkdayjobs.com:software-engineer-2_r0076483": {

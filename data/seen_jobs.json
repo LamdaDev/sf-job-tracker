@@ -16265,7 +16265,7 @@
     "e3b228e8e783e5d615f5c1008a6ac69fa61301e7a1b0e948187546953df836a9": {
       "application_scan_eligible": true,
       "created_at": "2026-08-20T13:50:27Z",
-      "issue_number": null,
+      "issue_number": 21,
       "job_ids": [
         "tiktok:lifeattiktok.com:7668831188103481605",
         "tiktok:lifeattiktok.com:7668838052657678597",
@@ -16290,7 +16290,7 @@
         "https://lifeattiktok.com/search/7675524738811218229",
         "https://lifeattiktok.com/search/7675829388634392837"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "f47708b28c7e7bd9bfe8f81afba7158be9d48cd48840200617de98e09509b102": {
       "application_scan_eligible": true,
