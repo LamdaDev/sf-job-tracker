@@ -1085,6 +1085,27 @@
       "scanned_at": "2026-08-20T23:28:34Z",
       "status": "unavailable"
     },
+    "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432": {
+      "application_url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-21T21:27:39Z",
+      "http_status": 200,
+      "issue_number": 27,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-21T21:27:39Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-21T21:27:39Z",
+      "status": "unavailable"
+    },
     "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129": {
       "application_url": "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Concord-CA-94523/Front-End_REQ148129",
       "attempt_count": 1,
