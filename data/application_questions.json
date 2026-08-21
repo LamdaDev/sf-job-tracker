@@ -728,6 +728,27 @@
       "scanned_at": "2026-08-18T14:36:37Z",
       "status": "failed"
     },
+    "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
+      "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-21T13:49:22Z",
+      "http_status": 200,
+      "issue_number": 25,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-21T13:49:22Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-21T13:49:22Z",
+      "status": "unavailable"
+    },
     "url:https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics": {
       "application_url": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
       "attempt_count": 1,
@@ -747,6 +768,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-08-20T03:54:24Z",
+      "status": "unavailable"
+    },
+    "url:https://www.driveseres.com/career?gh_jid=8146278": {
+      "application_url": "https://www.driveseres.com/career/?gh_jid=8146278",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.driveseres.com/career?gh_jid=8146278",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-21T13:49:25Z",
+      "http_status": 200,
+      "issue_number": 25,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-21T13:49:25Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-21T13:49:25Z",
       "status": "unavailable"
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
@@ -1020,6 +1062,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-20T23:28:34Z",
+      "status": "unavailable"
+    },
+    "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129": {
+      "application_url": "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Concord-CA-94523/Front-End_REQ148129",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-21T13:49:30Z",
+      "http_status": 200,
+      "issue_number": 25,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-21T13:49:30Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-21T13:49:30Z",
       "status": "unavailable"
     }
   },
