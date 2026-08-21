@@ -666,6 +666,48 @@
       "scanned_at": "2026-08-20T13:50:53Z",
       "status": "partial"
     },
+    "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify": {
+      "application_url": "https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-21T06:52:57Z",
+      "http_status": 200,
+      "issue_number": 24,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-21T06:52:57Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-21T06:52:57Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.amd.com/jobs/91176?icims=1&ref=Simplify": {
+      "application_url": "https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.amd.com/jobs/91176?icims=1&ref=Simplify",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-21T06:52:59Z",
+      "http_status": 200,
+      "issue_number": 24,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-21T06:52:59Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-21T06:52:59Z",
+      "status": "unavailable"
+    },
     "url:https://careers.roblox.com/jobs/8123004?gh_jid=8123004": {
       "application_url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "attempt_count": 2,
