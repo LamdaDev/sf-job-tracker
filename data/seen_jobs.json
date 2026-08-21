@@ -12360,6 +12360,100 @@
         "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
       ]
     },
+    "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify",
+      "category": "Unknown",
+      "company": "AMD",
+      "first_seen": "2026-08-21T06:52:53Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-21T06:52:53Z",
+      "location": "San Jose, CA | Santa Clara, CA",
+      "position": "Software Engineer Intern/Co-op",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "AMD",
+          "first_seen": "2026-08-21T06:52:53Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-21T06:52:53Z",
+          "location": "San Jose, CA | Santa Clara, CA",
+          "position": "Software Engineer Intern/Co-op",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d?utm_source=GHList"
+      ]
+    },
+    "url:https://careers.amd.com/jobs/91176?icims=1&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.amd.com/jobs/91176?icims=1&ref=Simplify",
+      "category": "FAANG+",
+      "company": "AMD",
+      "first_seen": "2026-08-21T06:52:53Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-21T06:52:53Z",
+      "location": "San Jose, CA | Santa Clara, CA",
+      "position": "Software Engineer Intern/Co-op - Masters 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "AMD",
+          "first_seen": "2026-08-21T06:52:53Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-21T06:52:53Z",
+          "location": "San Jose, CA | Santa Clara, CA",
+          "position": "Software Engineer Intern/Co-op - Masters 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "2057d1a3-289b-49ae-8328-fa3527c533c5",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/2057d1a3-289b-49ae-8328-fa3527c533c5?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/2057d1a3-289b-49ae-8328-fa3527c533c5?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/2057d1a3-289b-49ae-8328-fa3527c533c5?utm_source=GHList"
+      ]
+    },
     "url:https://careers.roblox.com/jobs/8025021?gh_jid=8025021": {
       "active": true,
       "age": "52d",
@@ -16337,6 +16431,20 @@
         "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
       ],
       "status": "sent"
+    },
+    "a0492dd774bba9c037f6f5d9c004132b17509d464acdbfd6e9b45519cdceeb8b": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-21T06:52:53Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify",
+        "url:https://careers.amd.com/jobs/91176?icims=1&ref=Simplify"
+      ],
+      "job_urls": [
+        "https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify",
+        "https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "a324846b7ebe6d85fca0417b4923337917d42ac5c0c74fa431b449b5e3d69fe5": {
       "application_scan_eligible": true,

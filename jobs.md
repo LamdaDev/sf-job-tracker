@@ -4,10 +4,12 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (284)
+## Active Jobs (286)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| AMD | Software Engineer Intern/Co-op | Internship | Unknown | San Jose, CA \| Santa Clara, CA | Simplify | N/A | 2026-08-21T06:52:53Z | 2026-08-21T06:52:53Z | Yes | [Apply](<https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify>) |
+| AMD | Software Engineer Intern/Co-op - Masters 🎓 | Internship | FAANG+ | San Jose, CA \| Santa Clara, CA | Simplify | N/A | 2026-08-21T06:52:53Z | 2026-08-21T06:52:53Z | Yes | [Apply](<https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify>) |
 | Roberthalf | Software Engineer I | New Grad | Unknown | San Ramon, CA | ApplyGuy | N/A | 2026-08-20T23:28:31Z | 2026-08-20T23:28:31Z | Yes | [Apply](<https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277>) |
 | Zipline | Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-20T22:30:45Z | 2026-08-20T22:30:45Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7907191003>) |
 | Autodesk | Software Engineer | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-20T13:50:27Z | 2026-08-20T13:50:27Z | Yes | [Apply](<https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686>) |
