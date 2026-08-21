@@ -1103,33 +1103,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "56d",
-          "application_url": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735",
-          "category": "Unknown",
-          "company": "Cylake",
-          "job_type": "New Grad",
-          "location": "Sunnyvale, CA",
-          "position": "Software Engineer (2027 University Grad)",
-          "posted": "2026-06-22",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "269f3ffa-3122-4277-b54c-d3b1857399b1",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "56d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "269f3ffa-3122-4277-b54c-d3b1857399b1",
-            "listingUrl": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735",
-            "matchKind": "explicit",
-            "posted": "2026-06-22",
-            "url": "https://applyguy.ai/jobs?company=Cylake&job=269f3ffa-3122-4277-b54c-d3b1857399b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Cylake&job=269f3ffa-3122-4277-b54c-d3b1857399b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "55d",
           "application_url": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735",
