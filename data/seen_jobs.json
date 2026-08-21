@@ -14806,13 +14806,13 @@
           "source_url": "https://applyguy.ai/jobs?company=RTX&job=97ea48ee-4101-4eb1-b502-d18b18dc23d3&utm_source=github&utm_medium=listing&utm_campaign=internships"
         },
         "simplify_summer_2027": {
-          "active": true,
+          "active": false,
           "age": "3d",
           "application_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392?utm_source=Simplify&ref=Simplify",
           "category": "Unknown",
           "company": "RTX",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-21T14:38:34Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Jose, CA",
