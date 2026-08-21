@@ -16251,6 +16251,60 @@
         "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/USA-San-Mateo-CA/Junior-Software-Engineer_JR112167"
       ]
     },
+    "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+      "canonical_id": "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930",
+      "category": "Unknown",
+      "company": "Quickenloans",
+      "first_seen": "2026-08-21T17:31:56Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-21T17:31:56Z",
+      "location": "San Francisco, CA",
+      "position": "Software Developer I - Search",
+      "posted": "2026-08-21",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+          "category": "Unknown",
+          "company": "Quickenloans",
+          "first_seen": "2026-08-21T17:31:56Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-21T17:31:56Z",
+          "location": "San Francisco, CA",
+          "position": "Software Developer I - Search",
+          "posted": "2026-08-21",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "49bef747-c371-45e0-a524-5475cb4bdce7",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-08-21T17:30:54.971Z",
+            "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
+            "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+            "matchKind": "entry_level",
+            "posted": "2026-08-21",
+            "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
+      ]
+    },
     "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-259943": {
       "active": false,
       "age": "26d",
@@ -16498,6 +16552,18 @@
         "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5"
       ],
       "status": "sent"
+    },
+    "3cfa5da1d257bad7ad1911eb46c7825bf70e3eaca3e6e8635789bd1232e7387c": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-21T17:31:56Z",
+      "issue_number": null,
+      "job_ids": [
+        "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930"
+      ],
+      "job_urls": [
+        "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
+      ],
+      "status": "pending"
     },
     "46752b60e806bce4e18d5f27afa98ae2fae688678fd2423afc7b642bc8c1add5": {
       "application_scan_eligible": true,
