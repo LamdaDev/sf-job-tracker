@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (285)
+## Active Jobs (284)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -74,7 +74,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Observe.AI | Software Engineer I - AI Agents | New Grad | Unknown | Redwood City, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://www.observe.ai/position?gh_jid=5383979008>) |
 | Pivotal | Internship, GNC Engineering (Fall) | Internship | Software Engineering | Palo Alto, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7>) |
 | Roblox | Software Engineer Intern | Internship | FAANG+ | San Mateo, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://careers.roblox.com/jobs/8072713?gh_jid=8072713&utm_source=Simplify&ref=Simplify>) |
-| RTX | Software Engineer I (Onsite) | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385>) |
 | RTX | Software Engineering Intern (Summer 2027) | Internship | Software Engineering | San Jose, CA | ApplyGuy, Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392>) |
 | SK hynix memory solutions America Inc. | Test Automation Software Engineer Intern | Internship | Software Engineering | San Jose, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009>) |
 | SpaceX | Software Engineering Intern/Co-op | Internship | FAANG+ | Palo Alto, CA \| Bastrop, TX \| Irvine, CA \| Cape Canaveral, FL \| Brownsville, TX \| Redmond, WA \| McGregor, TX \| Hawthorne, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://boards.greenhouse.io/spacex/jobs/8621757002?utm_source=Simplify&ref=Simplify>) |
@@ -294,11 +293,12 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | VantageScore | Software Engineer - Contract | New Grad | Other | South San Francisco, CA +1 | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/vantagescore/jobs/4305333009>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (18)
+## Historical / Closed or Removed Jobs (19)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Roberthalf | Software Engineer I | New Grad | Unknown | San Ramon, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943>) |
+| RTX | Software Engineer I (Onsite) | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385>) |
 | Cohesity | Software Engineer - New Grad 2026 | New Grad | Other | Santa Clara, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282>) |
 | Guidewire | Software Engineer II | New Grad | Other | San Mateo, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---San-Mateo-CA/Software-Engineer-II_JR_14273>) |
 | NVIDIA | Software Engineer - Deep Learning Libraries - New College Graduate 2026 | New Grad | FAANG+ | Santa Clara, CA | ApplyGuy, SpeedyApply | $172k/yr | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252>) |

@@ -11438,52 +11438,6 @@
         "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759"
       ]
     },
-    "workday:globalhr.wd5.myworkdayjobs.com:software-engineer-i--onsite-_01867385": {
-      "age": "3d",
-      "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385",
-      "canonical_id": "workday:globalhr.wd5.myworkdayjobs.com:software-engineer-i--onsite-_01867385",
-      "category": "Unknown",
-      "company": "RTX",
-      "job_type": "New Grad",
-      "location": "San Jose, CA",
-      "position": "Software Engineer I (Onsite)",
-      "posted": "2026-08-14",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "3d",
-          "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385",
-          "category": "Unknown",
-          "company": "RTX",
-          "job_type": "New Grad",
-          "location": "San Jose, CA",
-          "position": "Software Engineer I (Onsite)",
-          "posted": "2026-08-14",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "1cd5f716-4191-4355-a907-26f07f5ec150",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "3d",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "1cd5f716-4191-4355-a907-26f07f5ec150",
-            "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385",
-            "matchKind": "entry_level",
-            "posted": "2026-08-14",
-            "url": "https://applyguy.ai/jobs?company=RTX&job=1cd5f716-4191-4355-a907-26f07f5ec150&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=RTX&job=1cd5f716-4191-4355-a907-26f07f5ec150&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=RTX&job=1cd5f716-4191-4355-a907-26f07f5ec150&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385"
-      ]
-    },
     "workday:globalhr.wd5.myworkdayjobs.com:software-engineering-intern--summer-2027-_01867392": {
       "age": "3d",
       "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",

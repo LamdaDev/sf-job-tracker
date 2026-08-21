@@ -14500,14 +14500,14 @@
       ]
     },
     "workday:globalhr.wd5.myworkdayjobs.com:software-engineer-i--onsite-_01867385": {
-      "active": true,
+      "active": false,
       "age": "3d",
       "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385",
       "canonical_id": "workday:globalhr.wd5.myworkdayjobs.com:software-engineer-i--onsite-_01867385",
       "category": "Unknown",
       "company": "RTX",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-21T03:05:39Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Jose, CA",
@@ -14517,13 +14517,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "3d",
           "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385",
           "category": "Unknown",
           "company": "RTX",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-21T03:05:39Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Jose, CA",
