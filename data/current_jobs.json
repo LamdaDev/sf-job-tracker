@@ -3436,42 +3436,6 @@
         "https://job-boards.greenhouse.io/astranis/jobs/4619289006"
       ]
     },
-    "greenhouse:astranis:4681183006": {
-      "age": "95d",
-      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4681183006",
-      "canonical_id": "greenhouse:astranis:4681183006",
-      "category": "Other",
-      "company": "Astranis Space Technologies",
-      "job_type": "Internship",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer- Backend Intern - Fall 2026",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_internships": {
-          "age": "95d",
-          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4681183006",
-          "category": "Other",
-          "company": "Astranis Space Technologies",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer- Backend Intern - Fall 2026",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://job-boards.greenhouse.io/astranis/jobs/4681183006"
-        }
-      },
-      "url_aliases": [
-        "https://job-boards.greenhouse.io/astranis/jobs/4681183006"
-      ]
-    },
     "greenhouse:astranis:4699071006": {
       "age": "24d",
       "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
@@ -4008,7 +3972,7 @@
       "age": "18d",
       "application_url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004",
       "canonical_id": "greenhouse:redwoodmaterials:6126784004",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "Redwood Materials",
       "job_type": "Internship",
       "location": "San Francisco, CA",
@@ -4043,24 +4007,6 @@
             "url": "https://applyguy.ai/jobs?company=Redwood+Materials&job=3881a4fa-7f03-4d58-bce2-4d0309e724c6&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Redwood+Materials&job=3881a4fa-7f03-4d58-bce2-4d0309e724c6&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
-        "speedyapply_internships": {
-          "age": "18d",
-          "application_url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004",
-          "category": "Other",
-          "company": "Redwood Materials",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Embedded Software Engineer Intern - Fall 2026",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004"
         }
       },
       "url_aliases": [
@@ -4505,42 +4451,6 @@
       },
       "url_aliases": [
         "https://job-boards.greenhouse.io/verkada/jobs/5194716007"
-      ]
-    },
-    "greenhouse:verkada:5195281007": {
-      "age": "23d",
-      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5195281007",
-      "canonical_id": "greenhouse:verkada:5195281007",
-      "category": "Other",
-      "company": "Verkada",
-      "job_type": "New Grad",
-      "location": "San Mateo, CA",
-      "position": "Frontend Engineer - Access Control",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "23d",
-          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5195281007",
-          "category": "Other",
-          "company": "Verkada",
-          "job_type": "New Grad",
-          "location": "San Mateo, CA",
-          "position": "Frontend Engineer - Access Control",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://job-boards.greenhouse.io/verkada/jobs/5195281007"
-        }
-      },
-      "url_aliases": [
-        "https://job-boards.greenhouse.io/verkada/jobs/5195281007"
       ]
     },
     "greenhouse:verkada:5195995007": {
@@ -10225,6 +10135,42 @@
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
       ]
     },
+    "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
+      "age": "0d",
+      "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+      "canonical_id": "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+      "category": "FAANG+",
+      "company": "Databricks",
+      "job_type": "Internship",
+      "location": "Mountain View, CA +2",
+      "position": "Software Engineering Intern - 2027 Start - Winter",
+      "posted": null,
+      "salary": "$72/hr",
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+          "category": "FAANG+",
+          "company": "Databricks",
+          "job_type": "Internship",
+          "location": "Mountain View, CA +2",
+          "position": "Software Engineering Intern - 2027 Start - Winter",
+          "posted": null,
+          "salary": "$72/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+        }
+      },
+      "url_aliases": [
+        "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+      ]
+    },
     "url:https://jobs.apple.com/en-us/details/200665472-0836": {
       "age": "81d",
       "application_url": "https://jobs.apple.com/en-us/details/200665472-0836",
@@ -10680,6 +10626,42 @@
         "https://nuro.ai/careersitem?gh_jid=8122537"
       ]
     },
+    "url:https://www.driveseres.com/career?gh_jid=8146278": {
+      "age": "0d",
+      "application_url": "https://www.driveseres.com/career/?gh_jid=8146278",
+      "canonical_id": "url:https://www.driveseres.com/career?gh_jid=8146278",
+      "category": "Other",
+      "company": "SERES",
+      "job_type": "New Grad",
+      "location": "Milpitas, CA",
+      "position": "Embedded Firmware Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "0d",
+          "application_url": "https://www.driveseres.com/career/?gh_jid=8146278",
+          "category": "Other",
+          "company": "SERES",
+          "job_type": "New Grad",
+          "location": "Milpitas, CA",
+          "position": "Embedded Firmware Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.driveseres.com/career/?gh_jid=8146278"
+        }
+      },
+      "url_aliases": [
+        "https://www.driveseres.com/career/?gh_jid=8146278"
+      ]
+    },
     "url:https://www.fastly.com/about/jobs/apply?gh_jid=8128535": {
       "age": "3d",
       "application_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8128535",
@@ -11074,11 +11056,11 @@
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7891459003",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "Zipline",
       "job_type": "Internship",
       "location": "South San Francisco, CA",
-      "position": "Long Range Platform Embedded Firmware Intern - Summer 2027",
+      "position": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
       "posted": "2026-08-18",
       "salary": null,
       "season": "Summer 2027",
@@ -11109,24 +11091,6 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
-        "speedyapply_internships": {
-          "age": "0d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
-          "category": "Other",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Long Range Platform Embedded Firmware Intern - Summer 2027",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://www.zipline.com/open-roles?gh_jid=7891459003"
         }
       },
       "url_aliases": [
@@ -11330,11 +11294,11 @@
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7907191003",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zipline",
       "job_type": "Internship",
       "location": "South San Francisco, CA",
-      "position": "Software Engineer Intern (Spring 2027)",
+      "position": "Software Engineer Intern - Spring 2027",
       "posted": "2026-08-20",
       "salary": null,
       "season": "Spring 2027",
@@ -11365,6 +11329,24 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+          "category": "Other",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern - Spring 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles?gh_jid=7907191003"
         }
       },
       "url_aliases": [
@@ -12633,6 +12615,42 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
+      ]
+    },
+    "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129": {
+      "age": "1d",
+      "application_url": "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Concord-CA-94523/Front-End_REQ148129",
+      "canonical_id": "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129",
+      "category": "Other",
+      "company": "TJX",
+      "job_type": "New Grad",
+      "location": "Concord, CA",
+      "position": "Front End",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "1d",
+          "application_url": "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Concord-CA-94523/Front-End_REQ148129",
+          "category": "Other",
+          "company": "TJX",
+          "job_type": "New Grad",
+          "location": "Concord, CA",
+          "position": "Front End",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Concord-CA-94523/Front-End_REQ148129"
+        }
+      },
+      "url_aliases": [
+        "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Concord-CA-94523/Front-End_REQ148129"
       ]
     }
   },
