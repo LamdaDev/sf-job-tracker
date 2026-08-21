@@ -11354,6 +11354,52 @@
         "https://www.zipline.com/open-roles?gh_jid=7907191003"
       ]
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7929236003": {
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7929236003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Software Engineer Intern (Summer 2027)",
+      "posted": "2026-08-21",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern (Summer 2027)",
+          "posted": "2026-08-21",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "2eb3f992-0013-439a-86d9-316e292a1264",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-21T23:15:22.808Z",
+            "id": "2eb3f992-0013-439a-86d9-316e292a1264",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+            "posted": "2026-08-21",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7929236003"
+      ]
+    },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
       "age": "41d",
       "application_url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781",
@@ -11616,52 +11662,6 @@
       },
       "url_aliases": [
         "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2"
-      ]
-    },
-    "workday:hp.wd5.myworkdayjobs.com:software-engineering-intern--device-experiences_3164166": {
-      "age": "26d",
-      "application_url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166",
-      "canonical_id": "workday:hp.wd5.myworkdayjobs.com:software-engineering-intern--device-experiences_3164166",
-      "category": "Software Engineering",
-      "company": "HP",
-      "job_type": "Internship",
-      "location": "San Francisco, CA",
-      "position": "Software Engineering Intern, Device Experiences",
-      "posted": "2026-07-22",
-      "salary": null,
-      "season": "Not specified",
-      "sources": {
-        "applyguy_internships": {
-          "age": "26d",
-          "application_url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166",
-          "category": "Software Engineering",
-          "company": "HP",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Software Engineering Intern, Device Experiences",
-          "posted": "2026-07-22",
-          "salary": null,
-          "season": "Not specified",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "b4ac60b4-dd12-495c-9d76-f86274c8b1b6",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "26d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "b4ac60b4-dd12-495c-9d76-f86274c8b1b6",
-            "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166",
-            "posted": "2026-07-22",
-            "season": "Not specified",
-            "url": "https://applyguy.ai/jobs?company=HP&job=b4ac60b4-dd12-495c-9d76-f86274c8b1b6&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=HP&job=b4ac60b4-dd12-495c-9d76-f86274c8b1b6&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=HP&job=b4ac60b4-dd12-495c-9d76-f86274c8b1b6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166"
       ]
     },
     "workday:hpe.wd5.myworkdayjobs.com:sw-engineering--systems----software-engineer-i--embedded-system_1200169-2": {

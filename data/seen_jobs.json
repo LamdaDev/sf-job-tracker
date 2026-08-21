@@ -14406,6 +14406,60 @@
         "https://www.zipline.com/open-roles?gh_jid=7907191003"
       ]
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7929236003": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7929236003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "first_seen": "2026-08-21T23:26:53Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-21T23:26:53Z",
+      "location": "South San Francisco, CA",
+      "position": "Software Engineer Intern (Summer 2027)",
+      "posted": "2026-08-21",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "first_seen": "2026-08-21T23:26:53Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-21T23:26:53Z",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern (Summer 2027)",
+          "posted": "2026-08-21",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "2eb3f992-0013-439a-86d9-316e292a1264",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-21T23:15:22.808Z",
+            "id": "2eb3f992-0013-439a-86d9-316e292a1264",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+            "posted": "2026-08-21",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7929236003"
+      ]
+    },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
       "active": true,
       "age": "41d",
@@ -14970,14 +15024,14 @@
       ]
     },
     "workday:hp.wd5.myworkdayjobs.com:software-engineering-intern--device-experiences_3164166": {
-      "active": true,
+      "active": false,
       "age": "26d",
       "application_url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166",
       "canonical_id": "workday:hp.wd5.myworkdayjobs.com:software-engineering-intern--device-experiences_3164166",
       "category": "Software Engineering",
       "company": "HP",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-21T23:26:53Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Francisco, CA",
@@ -14987,13 +15041,13 @@
       "season": "Not specified",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "26d",
           "application_url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166",
           "category": "Software Engineering",
           "company": "HP",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-21T23:26:53Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -16650,6 +16704,18 @@
         "https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36"
       ],
       "status": "sent"
+    },
+    "525f3351f8b15efa5b6ede6142270f57d2a4feb4bf24af5981cc4a67aba04b2a": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-21T23:26:53Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://www.zipline.com/open-roles?gh_jid=7929236003"
+      ],
+      "job_urls": [
+        "https://www.zipline.com/open-roles?gh_jid=7929236003"
+      ],
+      "status": "pending"
     },
     "66ed109bb9bc7c57ec8c9e81dc84f9c4f07dc451c6309bfa95b5408c585eaa66": {
       "application_scan_eligible": true,
