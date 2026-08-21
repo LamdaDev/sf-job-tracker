@@ -12643,6 +12643,52 @@
         "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
       ]
     },
+    "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432": {
+      "age": "Today",
+      "application_url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
+      "canonical_id": "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432",
+      "category": "Unknown",
+      "company": "Synnex",
+      "job_type": "New Grad",
+      "location": "Fremont, CA",
+      "position": "Software Engineer (New College Grad)",
+      "posted": "2026-08-21",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "Today",
+          "application_url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
+          "category": "Unknown",
+          "company": "Synnex",
+          "job_type": "New Grad",
+          "location": "Fremont, CA",
+          "position": "Software Engineer (New College Grad)",
+          "posted": "2026-08-21",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "fe162183-4467-4c46-afc7-3a93a72b3055",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-21T21:15:46.401Z",
+            "id": "fe162183-4467-4c46-afc7-3a93a72b3055",
+            "listingUrl": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
+            "matchKind": "explicit",
+            "posted": "2026-08-21",
+            "url": "https://applyguy.ai/jobs?company=Synnex&job=fe162183-4467-4c46-afc7-3a93a72b3055&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Synnex&job=fe162183-4467-4c46-afc7-3a93a72b3055&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Synnex&job=fe162183-4467-4c46-afc7-3a93a72b3055&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432"
+      ]
+    },
     "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129": {
       "age": "1d",
       "application_url": "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Concord-CA-94523/Front-End_REQ148129",

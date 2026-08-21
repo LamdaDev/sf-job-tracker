@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (288)
+## Active Jobs (289)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Synnex | Software Engineer (New College Grad) | New Grad | Unknown | Fremont, CA | ApplyGuy | N/A | 2026-08-21T21:27:37Z | 2026-08-21T21:27:37Z | Yes | [Apply](<https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432>) |
 | Quickenloans | Software Developer I - Search | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-21T17:31:56Z | 2026-08-21T17:31:56Z | Yes | [Apply](<https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930>) |
 | Databricks | Software Engineering Intern - 2027 Start - Winter | Internship | FAANG+ | Mountain View, CA +2 | SpeedyApply | $72/hr | 2026-08-21T13:49:19Z | 2026-08-21T13:49:19Z | Yes | [Apply](<https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002>) |
 | SERES | Embedded Firmware Engineer | New Grad | Other | Milpitas, CA | SpeedyApply | N/A | 2026-08-21T13:49:19Z | 2026-08-21T13:49:19Z | Yes | [Apply](<https://www.driveseres.com/career/?gh_jid=8146278>) |
