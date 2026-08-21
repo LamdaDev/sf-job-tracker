@@ -16708,14 +16708,14 @@
     "525f3351f8b15efa5b6ede6142270f57d2a4feb4bf24af5981cc4a67aba04b2a": {
       "application_scan_eligible": true,
       "created_at": "2026-08-21T23:26:53Z",
-      "issue_number": null,
+      "issue_number": 28,
       "job_ids": [
         "url:https://www.zipline.com/open-roles?gh_jid=7929236003"
       ],
       "job_urls": [
         "https://www.zipline.com/open-roles?gh_jid=7929236003"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "66ed109bb9bc7c57ec8c9e81dc84f9c4f07dc451c6309bfa95b5408c585eaa66": {
       "application_scan_eligible": true,

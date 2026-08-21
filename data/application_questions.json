@@ -917,6 +917,27 @@
       "scanned_at": "2026-08-20T22:30:49Z",
       "status": "unavailable"
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7929236003": {
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles?gh_jid=7929236003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-21T23:26:56Z",
+      "http_status": 200,
+      "issue_number": 28,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-21T23:26:56Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-21T23:26:56Z",
+      "status": "unavailable"
+    },
     "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686": {
       "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
       "attempt_count": 1,
