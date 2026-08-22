@@ -15078,14 +15078,14 @@
       ]
     },
     "workday:hpe.wd5.myworkdayjobs.com:sw-engineering--systems----software-engineer-i--embedded-system_1200169-2": {
-      "active": true,
+      "active": false,
       "age": "55d",
       "application_url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2",
       "canonical_id": "workday:hpe.wd5.myworkdayjobs.com:sw-engineering--systems----software-engineer-i--embedded-system_1200169-2",
       "category": "Unknown",
       "company": "Hpe",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-22T01:21:45Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Sunnyvale, CA",
@@ -15095,13 +15095,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "55d",
           "application_url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2",
           "category": "Unknown",
           "company": "Hpe",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-22T01:21:45Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Sunnyvale, CA",

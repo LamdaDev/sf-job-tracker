@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (289)
+## Active Jobs (288)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -66,7 +66,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | ByteDance | Software Engineer Intern - Global Payment Infra and SRE | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7668315137242351925/detail?utm_source=Simplify&ref=Simplify>) |
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7672557061679483189/detail?utm_source=Simplify&ref=Simplify>) |
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7672626707586746629/detail?utm_source=Simplify&ref=Simplify>) |
-| Hpe | Software Engineer I -Embedded System | New Grad | Unknown | Sunnyvale, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2>) |
 | JP Morgan Chase | Software Engineer Intern - Software Engineer Program | Internship | Unknown | Palo Alto, CA \| Houston, TX \| Tampa, FL \| Plano, TX \| Chicago, IL \| Jersey City, NJ \| Columbus, OH \| NYC \| Wilmington, DE | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759?utm_source=Simplify&ref=Simplify>) |
 | KAYAK | Associate Software Engineer | New Grad | Unknown | Concord, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/kayak/8333e351-7a08-4767-9966-f75411b78d80>) |
 | Notion | Software Engineer, Early Career | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f>) |
@@ -298,11 +297,12 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | VantageScore | Software Engineer - Contract | New Grad | Other | South San Francisco, CA +1 | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/vantagescore/jobs/4305333009>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (22)
+## Historical / Closed or Removed Jobs (23)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
 | HP | Software Engineering Intern, Device Experiences | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166>) |
+| Hpe | Software Engineer I -Embedded System | New Grad | Unknown | Sunnyvale, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2>) |
 | Roberthalf | Software Engineer I | New Grad | Unknown | San Ramon, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943>) |
 | RTX | Software Engineer I (Onsite) | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385>) |
 | Cohesity | Software Engineer - New Grad 2026 | New Grad | Other | Santa Clara, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282>) |
