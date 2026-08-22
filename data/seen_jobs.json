@@ -14507,6 +14507,60 @@
         "https://www.zipline.com/open-roles?gh_jid=7929236003"
       ]
     },
+    "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+      "canonical_id": "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398",
+      "category": "Unknown",
+      "company": "Amat",
+      "first_seen": "2026-08-22T04:35:44Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-22T04:35:44Z",
+      "location": "Santa Clara, CA",
+      "position": "Software Engineer II (New College Grad - Santa Clara, CA)",
+      "posted": "2026-08-21",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+          "category": "Unknown",
+          "company": "Amat",
+          "first_seen": "2026-08-22T04:35:44Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-22T04:35:44Z",
+          "location": "Santa Clara, CA",
+          "position": "Software Engineer II (New College Grad - Santa Clara, CA)",
+          "posted": "2026-08-21",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "f21717f5-f341-4c3e-a233-a9184bfc2e05",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-22T04:30:40.326Z",
+            "id": "f21717f5-f341-4c3e-a233-a9184bfc2e05",
+            "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+            "matchKind": "explicit",
+            "posted": "2026-08-21",
+            "url": "https://applyguy.ai/jobs?company=Amat&job=f21717f5-f341-4c3e-a233-a9184bfc2e05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Amat&job=f21717f5-f341-4c3e-a233-a9184bfc2e05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+        "https://applyguy.ai/jobs?company=Amat&job=f21717f5-f341-4c3e-a233-a9184bfc2e05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+      ]
+    },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
       "active": true,
       "age": "41d",
@@ -16956,6 +17010,18 @@
         "https://www.zipline.com/open-roles?gh_jid=7893926003"
       ],
       "status": "sent"
+    },
+    "f68c95542f6be1e157243d9fb7365267dbf72c9ad4fd8f1f5b0f565ef79d7828": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-22T04:35:44Z",
+      "issue_number": null,
+      "job_ids": [
+        "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398"
+      ],
+      "job_urls": [
+        "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398"
+      ],
+      "status": "pending"
     },
     "ff83ba5c360403a72d8c6313dc540fba55370b0f84d1675b89d51285b038b1f3": {
       "application_scan_eligible": true,

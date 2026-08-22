@@ -11439,6 +11439,52 @@
         "https://www.zipline.com/open-roles?gh_jid=7929236003"
       ]
     },
+    "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398": {
+      "age": "1d",
+      "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+      "canonical_id": "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398",
+      "category": "Unknown",
+      "company": "Amat",
+      "job_type": "New Grad",
+      "location": "Santa Clara, CA",
+      "position": "Software Engineer II (New College Grad - Santa Clara, CA)",
+      "posted": "2026-08-21",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+          "category": "Unknown",
+          "company": "Amat",
+          "job_type": "New Grad",
+          "location": "Santa Clara, CA",
+          "position": "Software Engineer II (New College Grad - Santa Clara, CA)",
+          "posted": "2026-08-21",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "f21717f5-f341-4c3e-a233-a9184bfc2e05",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-22T04:30:40.326Z",
+            "id": "f21717f5-f341-4c3e-a233-a9184bfc2e05",
+            "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+            "matchKind": "explicit",
+            "posted": "2026-08-21",
+            "url": "https://applyguy.ai/jobs?company=Amat&job=f21717f5-f341-4c3e-a233-a9184bfc2e05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Amat&job=f21717f5-f341-4c3e-a233-a9184bfc2e05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+        "https://applyguy.ai/jobs?company=Amat&job=f21717f5-f341-4c3e-a233-a9184bfc2e05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+      ]
+    },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
       "age": "41d",
       "application_url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781",
