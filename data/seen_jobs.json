@@ -503,13 +503,13 @@
           "source_url": "https://applyguy.ai/jobs?company=Abridge&job=06d73bd3-0dab-4b7b-9797-80ee55635eb8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         },
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "9d",
           "application_url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
           "category": "Other",
           "company": "Abridge",
           "first_seen": "2026-08-17T05:05:43Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-22T13:34:16Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -1862,6 +1862,50 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Flow+Engineering&job=7740a069-0585-43fe-8e89-6236d9ff4493&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5"
+      ]
+    },
+    "ashby:greptile:ce412761-a605-4540-9fb5-624c67ba2b02": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02",
+      "canonical_id": "ashby:greptile:ce412761-a605-4540-9fb5-624c67ba2b02",
+      "category": "Other",
+      "company": "Greptile",
+      "first_seen": "2026-08-22T13:34:16Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-22T13:34:16Z",
+      "location": "San Francisco, CA",
+      "position": "Frontend Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02",
+          "category": "Other",
+          "company": "Greptile",
+          "first_seen": "2026-08-22T13:34:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-22T13:34:16Z",
+          "location": "San Francisco, CA",
+          "position": "Frontend Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02"
       ]
     },
     "ashby:gritt:46af6e69-40fc-4e53-940e-a99757137523": {
@@ -3669,14 +3713,14 @@
       ]
     },
     "ashby:rivianvw.tech:4dfbf1e6-3778-4101-8ac7-cd4015d47eff": {
-      "active": true,
+      "active": false,
       "age": "75d",
       "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
       "canonical_id": "ashby:rivianvw.tech:4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
       "category": "FAANG+",
       "company": "Rivian",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-22T13:34:16Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Palo Alto, CA +1",
@@ -3686,13 +3730,13 @@
       "season": null,
       "sources": {
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "75d",
           "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff",
           "category": "FAANG+",
           "company": "Rivian",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-22T13:34:16Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Palo Alto, CA +1",
@@ -3713,14 +3757,14 @@
       ]
     },
     "ashby:rivianvw.tech:5633bb03-cc16-47fc-af02-db9dc355eddd": {
-      "active": true,
+      "active": false,
       "age": "74d",
       "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd",
       "canonical_id": "ashby:rivianvw.tech:5633bb03-cc16-47fc-af02-db9dc355eddd",
       "category": "FAANG+",
       "company": "Rivian",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-22T13:34:16Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Palo Alto, CA",
@@ -3730,13 +3774,13 @@
       "season": null,
       "sources": {
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "74d",
           "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd",
           "category": "FAANG+",
           "company": "Rivian",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-22T13:34:16Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Palo Alto, CA",
@@ -4261,14 +4305,14 @@
       ]
     },
     "ashby:valeriehealth:ee23652a-c33f-4e88-b0eb-a750e444d14b": {
-      "active": true,
+      "active": false,
       "age": "115d",
       "application_url": "https://jobs.ashbyhq.com/valeriehealth/ee23652a-c33f-4e88-b0eb-a750e444d14b",
       "canonical_id": "ashby:valeriehealth:ee23652a-c33f-4e88-b0eb-a750e444d14b",
       "category": "Other",
       "company": "Valerie Health",
       "first_seen": "2026-08-17T05:05:43Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-22T13:34:16Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Francisco, CA",
@@ -4278,13 +4322,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "115d",
           "application_url": "https://jobs.ashbyhq.com/valeriehealth/ee23652a-c33f-4e88-b0eb-a750e444d14b",
           "category": "Other",
           "company": "Valerie Health",
           "first_seen": "2026-08-17T05:05:43Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-22T13:34:16Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -4642,6 +4686,50 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Astranis&job=bb560116-fe84-4885-8318-4bf816c78158&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
+      ]
+    },
+    "greenhouse:chime:8606649002": {
+      "active": true,
+      "age": "22d",
+      "application_url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
+      "canonical_id": "greenhouse:chime:8606649002",
+      "category": "Other",
+      "company": "Chime",
+      "first_seen": "2026-08-22T13:34:16Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-22T13:34:16Z",
+      "location": "San Francisco, CA",
+      "position": "Full-Stack Engineer - Human Agent Tooling",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "22d",
+          "application_url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
+          "category": "Other",
+          "company": "Chime",
+          "first_seen": "2026-08-22T13:34:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-22T13:34:16Z",
+          "location": "San Francisco, CA",
+          "position": "Full-Stack Engineer - Human Agent Tooling",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002"
+        }
+      },
+      "url_aliases": [
+        "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002"
       ]
     },
     "greenhouse:cssmerge:8687896002": {
@@ -5768,14 +5856,14 @@
       ]
     },
     "greenhouse:vantagescore:4305333009": {
-      "active": true,
+      "active": false,
       "age": "45d",
       "application_url": "https://job-boards.greenhouse.io/vantagescore/jobs/4305333009",
       "canonical_id": "greenhouse:vantagescore:4305333009",
       "category": "Other",
       "company": "VantageScore",
       "first_seen": "2026-08-17T05:05:43Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-22T13:34:16Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "South San Francisco, CA +1",
@@ -5785,13 +5873,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "45d",
           "application_url": "https://job-boards.greenhouse.io/vantagescore/jobs/4305333009",
           "category": "Other",
           "company": "VantageScore",
           "first_seen": "2026-08-17T05:05:43Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-22T13:34:16Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "South San Francisco, CA +1",
@@ -11218,7 +11306,7 @@
       "first_seen": "2026-08-17T07:00:52Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-08-17T17:45:31Z",
+      "last_seen": "2026-08-22T13:34:16Z",
       "location": "San Jose, CA",
       "position": "Software Engineer Graduate - Recommendation - TikTok AI Search & Visual Search Infra Team - 2027 Start",
       "posted": null,
@@ -11227,16 +11315,16 @@
       "sources": {
         "speedyapply_new_grad": {
           "active": true,
-          "age": "6d",
+          "age": "11d",
           "application_url": "https://lifeattiktok.com/search/7672517471946000645",
           "category": "FAANG+",
           "company": "TikTok",
           "first_seen": "2026-08-17T07:00:52Z",
           "inactive_at": null,
           "job_type": "New Grad",
-          "last_seen": "2026-08-17T17:45:31Z",
+          "last_seen": "2026-08-22T13:34:16Z",
           "location": "San Jose, CA",
-          "position": "Software Engineer Graduate - Recommendation - TikTok AI Search & Visual Search Infra Team - 2027 Start",
+          "position": "Software Engineer Graduate - TikTok AI Search & Visual Search Infra Team - 2027 Start",
           "posted": null,
           "salary": "$202k/yr",
           "season": null,
@@ -12221,18 +12309,18 @@
     "tiktok:lifeattiktok.com:7676276048527214901": {
       "active": true,
       "age": "0d",
-      "application_url": "https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://lifeattiktok.com/search/7676276048527214901",
       "canonical_id": "tiktok:lifeattiktok.com:7676276048527214901",
       "category": "FAANG+",
       "company": "TikTok",
       "first_seen": "2026-08-22T02:56:43Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-22T02:56:43Z",
+      "last_seen": "2026-08-22T13:34:16Z",
       "location": "San Jose, CA",
-      "position": "Software Engineer Intern",
+      "position": "Software Engineer Intern - TikTok AI Search & Visual Search Infra Team - 2027 Summer",
       "posted": null,
-      "salary": null,
+      "salary": "$60/hr",
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
@@ -12258,9 +12346,32 @@
             "simplify_url": "https://simplify.jobs/p/b9776d83-bf68-42d9-88e2-4ebdd4ffda09?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/b9776d83-bf68-42d9-88e2-4ebdd4ffda09?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://lifeattiktok.com/search/7676276048527214901",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "first_seen": "2026-08-22T13:34:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-22T13:34:16Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - TikTok AI Search & Visual Search Infra Team - 2027 Summer",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7676276048527214901"
         }
       },
       "url_aliases": [
+        "https://lifeattiktok.com/search/7676276048527214901",
         "https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/b9776d83-bf68-42d9-88e2-4ebdd4ffda09?utm_source=GHList"
       ]
@@ -14002,14 +14113,14 @@
       "age": "0d",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7886501003",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "Zipline",
       "first_seen": "2026-08-19T13:46:58Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-20T13:50:27Z",
+      "last_seen": "2026-08-22T13:34:16Z",
       "location": "South San Francisco, CA",
-      "position": "Enterprise Systems Software Engineer Intern - Summer 2027",
+      "position": "Enterprise Systems Software Engineer Intern (Summer 2027)",
       "posted": "2026-08-18",
       "salary": null,
       "season": "Summer 2027",
@@ -14046,13 +14157,13 @@
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships"
         },
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
           "category": "Other",
           "company": "Zipline",
           "first_seen": "2026-08-19T13:46:58Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-22T13:34:16Z",
           "job_type": "Internship",
           "last_seen": "2026-08-20T13:50:27Z",
           "location": "South San Francisco, CA",
@@ -14458,14 +14569,14 @@
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7929236003",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zipline",
       "first_seen": "2026-08-21T23:26:53Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-21T23:26:53Z",
+      "last_seen": "2026-08-22T13:34:16Z",
       "location": "South San Francisco, CA",
-      "position": "Software Engineer Intern (Summer 2027)",
+      "position": "Software Engineer Intern - Summer 2027",
       "posted": "2026-08-21",
       "salary": null,
       "season": "Summer 2027",
@@ -14500,6 +14611,28 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+          "category": "Other",
+          "company": "Zipline",
+          "first_seen": "2026-08-22T13:34:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-22T13:34:16Z",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles?gh_jid=7929236003"
         }
       },
       "url_aliases": [
@@ -16571,16 +16704,16 @@
     "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432": {
       "active": true,
       "age": "Today",
-      "application_url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
+      "application_url": "https://synnex.wd5.myworkdayjobs.com/en-US/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
       "canonical_id": "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432",
-      "category": "Unknown",
-      "company": "Synnex",
+      "category": "Other",
+      "company": "Hyve Solutions",
       "first_seen": "2026-08-21T21:27:37Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-08-21T21:27:37Z",
+      "last_seen": "2026-08-22T13:34:16Z",
       "location": "Fremont, CA",
-      "position": "Software Engineer (New College Grad)",
+      "position": "Software Engineer - New College Grad",
       "posted": "2026-08-21",
       "salary": null,
       "season": null,
@@ -16615,10 +16748,33 @@
             "url": "https://applyguy.ai/jobs?company=Synnex&job=fe162183-4467-4c46-afc7-3a93a72b3055&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
           "source_url": "https://applyguy.ai/jobs?company=Synnex&job=fe162183-4467-4c46-afc7-3a93a72b3055&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://synnex.wd5.myworkdayjobs.com/en-US/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
+          "category": "Other",
+          "company": "Hyve Solutions",
+          "first_seen": "2026-08-22T13:34:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-22T13:34:16Z",
+          "location": "Fremont, CA",
+          "position": "Software Engineer - New College Grad",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://synnex.wd5.myworkdayjobs.com/en-US/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Synnex&job=fe162183-4467-4c46-afc7-3a93a72b3055&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://synnex.wd5.myworkdayjobs.com/en-US/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
         "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432"
       ]
     },
@@ -16942,6 +17098,20 @@
         "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
       ],
       "status": "sent"
+    },
+    "ce7313245413f52b4784253d179f455cddf875463006875aab4543b961e10af9": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-22T13:34:16Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:greptile:ce412761-a605-4540-9fb5-624c67ba2b02",
+        "greenhouse:chime:8606649002"
+      ],
+      "job_urls": [
+        "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
+        "https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02"
+      ],
+      "status": "pending"
     },
     "e2c0b3781c37bf1ac0d218e08cc2776fec66a53e779957624a1b9ebb5932490c": {
       "application_scan_eligible": true,
