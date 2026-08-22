@@ -4081,52 +4081,6 @@
         "https://simplify.jobs/p/6339287b-3f1f-45ea-964d-65549925660a?utm_source=GHList"
       ]
     },
-    "greenhouse:tenstorrentuniversity:5186916007": {
-      "age": "25d",
-      "application_url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
-      "canonical_id": "greenhouse:tenstorrentuniversity:5186916007",
-      "category": "Software Engineering",
-      "company": "Tenstorrent University Jobs",
-      "job_type": "Internship",
-      "location": "Santa Clara, CA",
-      "position": "Software Engineering Intern, Power Modeling & AI Tools",
-      "posted": "2026-07-23",
-      "salary": null,
-      "season": "Not specified",
-      "sources": {
-        "applyguy_internships": {
-          "age": "25d",
-          "application_url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
-          "category": "Software Engineering",
-          "company": "Tenstorrent University Jobs",
-          "job_type": "Internship",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineering Intern, Power Modeling & AI Tools",
-          "posted": "2026-07-23",
-          "salary": null,
-          "season": "Not specified",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "19fa38fe-e3ea-4823-a101-56b56ee7a25b",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "25d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "19fa38fe-e3ea-4823-a101-56b56ee7a25b",
-            "listingUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
-            "posted": "2026-07-23",
-            "season": "Not specified",
-            "url": "https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=19fa38fe-e3ea-4823-a101-56b56ee7a25b&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=19fa38fe-e3ea-4823-a101-56b56ee7a25b&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Tenstorrent+University+Jobs&job=19fa38fe-e3ea-4823-a101-56b56ee7a25b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007"
-      ]
-    },
     "greenhouse:twitch:8623578002": {
       "age": "33d",
       "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",

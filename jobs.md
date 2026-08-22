@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (288)
+## Active Jobs (287)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -87,7 +87,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | RTX | Software Engineering Intern (Summer 2027) | Internship | Software Engineering | San Jose, CA | ApplyGuy, Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392>) |
 | SK hynix memory solutions America Inc. | Test Automation Software Engineer Intern | Internship | Software Engineering | San Jose, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009>) |
 | SpaceX | Software Engineering Intern/Co-op | Internship | FAANG+ | Palo Alto, CA \| Bastrop, TX \| Irvine, CA \| Cape Canaveral, FL \| Brownsville, TX \| Redmond, WA \| McGregor, TX \| Hawthorne, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://boards.greenhouse.io/spacex/jobs/8621757002?utm_source=Simplify&ref=Simplify>) |
-| Tenstorrent University Jobs | Software Engineering Intern, Power Modeling & AI Tools | Internship | Software Engineering | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | Replit | Software Engineering Intern - Summer 2027 | Internship | Other | Foster City, CA | ApplyGuy, Simplify, SpeedyApply | N/A | 2026-08-17T13:41:22Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1>) |
 | Amazon | Physical Design Engineer - Static Timing Analysis - Annapurna Labs - Cloud Scale Machine Learning | New Grad | FAANG+ | Cupertino, CA | SpeedyApply | $186k/yr | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://www.amazon.jobs/jobs/10454007/apply>) |
 | Amazon | Software Development Engineer I - ML Infra Services - Annapurna Labs | New Grad | FAANG+ | Cupertino, CA | ApplyGuy, SpeedyApply | $186k/yr | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://www.amazon.jobs/jobs/10464055/apply>) |
@@ -297,7 +296,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (27)
+## Historical / Closed or Removed Jobs (28)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -305,6 +304,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Hpe | Software Engineer I -Embedded System | New Grad | Unknown | Sunnyvale, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2>) |
 | Roberthalf | Software Engineer I | New Grad | Unknown | San Ramon, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943>) |
 | RTX | Software Engineer I (Onsite) | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385>) |
+| Tenstorrent University Jobs | Software Engineering Intern, Power Modeling & AI Tools | Internship | Software Engineering | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | Cohesity | Software Engineer - New Grad 2026 | New Grad | Other | Santa Clara, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282>) |
 | Guidewire | Software Engineer II | New Grad | Other | San Mateo, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---San-Mateo-CA/Software-Engineer-II_JR_14273>) |
 | NVIDIA | Software Engineer - Deep Learning Libraries - New College Graduate 2026 | New Grad | FAANG+ | Santa Clara, CA | ApplyGuy, SpeedyApply | $172k/yr | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252>) |

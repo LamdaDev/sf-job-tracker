@@ -5562,14 +5562,14 @@
       ]
     },
     "greenhouse:tenstorrentuniversity:5186916007": {
-      "active": true,
+      "active": false,
       "age": "25d",
       "application_url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
       "canonical_id": "greenhouse:tenstorrentuniversity:5186916007",
       "category": "Software Engineering",
       "company": "Tenstorrent University Jobs",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-22T19:24:54Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Santa Clara, CA",
@@ -5579,13 +5579,13 @@
       "season": "Not specified",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "25d",
           "application_url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007",
           "category": "Software Engineering",
           "company": "Tenstorrent University Jobs",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-22T19:24:54Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Santa Clara, CA",
