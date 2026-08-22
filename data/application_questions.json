@@ -21,6 +21,27 @@
       "scanned_at": "2026-08-20T06:51:22Z",
       "status": "unavailable"
     },
+    "ashby:greptile:ce412761-a605-4540-9fb5-624c67ba2b02": {
+      "application_url": "https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:greptile:ce412761-a605-4540-9fb5-624c67ba2b02",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-22T13:34:18Z",
+      "http_status": 200,
+      "issue_number": 31,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-22T13:34:18Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-08-22T13:34:18Z",
+      "status": "unavailable"
+    },
     "ashby:koahlabs:197c931d-3cda-44b3-b26b-470976730808": {
       "application_url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
       "attempt_count": 1,
@@ -41,6 +62,248 @@
       "questions": [],
       "scanned_at": "2026-08-19T01:23:37Z",
       "status": "unavailable"
+    },
+    "greenhouse:chime:8606649002": {
+      "application_url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:chime:8606649002",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-22T13:34:19Z",
+      "http_status": 200,
+      "issue_number": 31,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-22T13:34:19Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_37073662002",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_37073663002",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "How did you hear about this job?",
+          "options": [],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_37073664002",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you currently eligible to work legally in the United States of America?",
+          "options": [
+            "No",
+            "Yes"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_37073665002",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you now or in the future require immigration support or visa sponsorship to continue working in the United States?",
+          "options": [
+            "No",
+            "Yes"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_37073666002",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Do you acknowledge that this is a hybrid role based in San Francisco, New York and/or Chicago and you will be required to come into the office four days a week?",
+          "options": [
+            "No",
+            "Yes"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_37073667002",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you currently subject to any agreement with a former employer/third party (such as a non-solicitation or non-compete agreement) that may potentially limit your ability to perform the duties of the position you are applying for? If yes, you may be asked to provide a copy for review. Please note, answering \"yes\" will not disqualify your application from consideration.",
+          "options": [
+            "No",
+            "Yes"
+          ],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I identify my gender as",
+          "options": [],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I identify as",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I identify my sexual orientation as",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Veteran Status",
+          "options": [],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I have a disability",
+          "options": [],
+          "ordinal": 18,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "I identify my race/ethnicity as (please mark all that apply)",
+          "options": [],
+          "ordinal": 19,
+          "required": true,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-08-22T13:34:19Z",
+      "status": "complete"
     },
     "greenhouse:kikoff:4376677009": {
       "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
