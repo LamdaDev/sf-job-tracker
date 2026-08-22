@@ -9592,6 +9592,45 @@
         "https://lifeattiktok.com/search/7675829388634392837"
       ]
     },
+    "tiktok:lifeattiktok.com:7676276048527214901": {
+      "age": "0d",
+      "application_url": "https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:lifeattiktok.com:7676276048527214901",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "b9776d83-bf68-42d9-88e2-4ebdd4ffda09",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/b9776d83-bf68-42d9-88e2-4ebdd4ffda09?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/b9776d83-bf68-42d9-88e2-4ebdd4ffda09?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/b9776d83-bf68-42d9-88e2-4ebdd4ffda09?utm_source=GHList"
+      ]
+    },
     "url:https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71": {
       "age": "26d",
       "application_url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",

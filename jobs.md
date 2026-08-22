@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (288)
+## Active Jobs (289)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | Software Engineer Intern | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-22T02:56:43Z | 2026-08-22T02:56:43Z | Yes | [Apply](<https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify>) |
 | Zipline | Software Engineer Intern (Summer 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-21T23:26:53Z | 2026-08-21T23:26:53Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7929236003>) |
 | Synnex | Software Engineer (New College Grad) | New Grad | Unknown | Fremont, CA | ApplyGuy | N/A | 2026-08-21T21:27:37Z | 2026-08-21T21:27:37Z | Yes | [Apply](<https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432>) |
 | Quickenloans | Software Developer I - Search | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-21T17:31:56Z | 2026-08-21T17:31:56Z | Yes | [Apply](<https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930>) |
