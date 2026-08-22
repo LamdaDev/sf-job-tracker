@@ -666,6 +666,39 @@
       "scanned_at": "2026-08-20T13:50:53Z",
       "status": "partial"
     },
+    "tiktok:lifeattiktok.com:7676276048527214901": {
+      "application_url": "https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7676276048527214901",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-22T02:56:47Z",
+      "http_status": 200,
+      "issue_number": 29,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-22T02:56:47Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-22T02:56:47Z",
+      "status": "partial"
+    },
     "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify": {
       "application_url": "https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,

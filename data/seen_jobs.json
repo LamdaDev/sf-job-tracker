@@ -16823,14 +16823,14 @@
     "86ee37e39a68ba78445c26b0151ebf2d72cd10a43dc6b133bfbd8e2e897b406f": {
       "application_scan_eligible": true,
       "created_at": "2026-08-22T02:56:43Z",
-      "issue_number": null,
+      "issue_number": 29,
       "job_ids": [
         "tiktok:lifeattiktok.com:7676276048527214901"
       ],
       "job_urls": [
         "https://lifeattiktok.com/search/7676276048527214901?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "89b16b9baa53973d52ecdb18d84e1f969e44e3abd08ed82935e6eae4bc93406b": {
       "created_at": "2026-08-17T20:30:11Z",
