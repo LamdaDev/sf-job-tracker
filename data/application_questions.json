@@ -971,6 +971,27 @@
       "scanned_at": "2026-08-21T23:26:56Z",
       "status": "unavailable"
     },
+    "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398": {
+      "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-22T04:35:47Z",
+      "http_status": 200,
+      "issue_number": 30,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-22T04:35:47Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-22T04:35:47Z",
+      "status": "unavailable"
+    },
     "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686": {
       "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
       "attempt_count": 1,
