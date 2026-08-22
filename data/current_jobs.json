@@ -3359,33 +3359,6 @@
       "salary": null,
       "season": "Fall 2026",
       "sources": {
-        "applyguy_internships": {
-          "age": "25d",
-          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
-          "category": "Software Engineering",
-          "company": "Astranis",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer Intern - Enterprise Systems (Fall 2026)",
-          "posted": "2026-07-23",
-          "salary": null,
-          "season": "Fall 2026",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "bb560116-fe84-4885-8318-4bf816c78158",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "25d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "bb560116-fe84-4885-8318-4bf816c78158",
-            "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
-            "posted": "2026-07-23",
-            "season": "Fall 2026",
-            "url": "https://applyguy.ai/jobs?company=Astranis&job=bb560116-fe84-4885-8318-4bf816c78158&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Astranis&job=bb560116-fe84-4885-8318-4bf816c78158&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "24d",
           "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",

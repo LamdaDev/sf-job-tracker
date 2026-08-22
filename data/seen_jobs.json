@@ -4630,13 +4630,13 @@
       "season": "Fall 2026",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "25d",
           "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
           "category": "Software Engineering",
           "company": "Astranis",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-22T22:25:25Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
