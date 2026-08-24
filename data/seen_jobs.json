@@ -16398,14 +16398,14 @@
       ]
     },
     "workday:nxp.wd3.myworkdayjobs.com:nfc-system-software-engineer---entry-level_r-10064298": {
-      "active": true,
+      "active": false,
       "age": "53d",
       "application_url": "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298",
       "canonical_id": "workday:nxp.wd3.myworkdayjobs.com:nfc-system-software-engineer---entry-level_r-10064298",
       "category": "Unknown",
       "company": "NXP Semiconductors",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-24T01:27:15Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Jose, CA",
@@ -16415,13 +16415,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "53d",
           "application_url": "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298",
           "category": "Unknown",
           "company": "NXP Semiconductors",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-24T01:27:15Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Jose, CA",

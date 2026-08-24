@@ -12400,52 +12400,6 @@
         "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957"
       ]
     },
-    "workday:nxp.wd3.myworkdayjobs.com:nfc-system-software-engineer---entry-level_r-10064298": {
-      "age": "53d",
-      "application_url": "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298",
-      "canonical_id": "workday:nxp.wd3.myworkdayjobs.com:nfc-system-software-engineer---entry-level_r-10064298",
-      "category": "Unknown",
-      "company": "NXP Semiconductors",
-      "job_type": "New Grad",
-      "location": "San Jose, CA",
-      "position": "NFC System Software Engineer - Entry Level",
-      "posted": "2026-06-25",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "53d",
-          "application_url": "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298",
-          "category": "Unknown",
-          "company": "NXP Semiconductors",
-          "job_type": "New Grad",
-          "location": "San Jose, CA",
-          "position": "NFC System Software Engineer - Entry Level",
-          "posted": "2026-06-25",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "26f2287a-112c-4c77-80d6-0f41ff1670e4",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "53d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "26f2287a-112c-4c77-80d6-0f41ff1670e4",
-            "listingUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298",
-            "matchKind": "explicit",
-            "posted": "2026-06-25",
-            "url": "https://applyguy.ai/jobs?company=NXP+Semiconductors&job=26f2287a-112c-4c77-80d6-0f41ff1670e4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=NXP+Semiconductors&job=26f2287a-112c-4c77-80d6-0f41ff1670e4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=NXP+Semiconductors&job=26f2287a-112c-4c77-80d6-0f41ff1670e4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298"
-      ]
-    },
     "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930": {
       "age": "Today",
       "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
