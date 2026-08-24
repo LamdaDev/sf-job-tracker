@@ -1318,6 +1318,27 @@
       "scanned_at": "2026-08-18T13:44:43Z",
       "status": "unavailable"
     },
+    "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602": {
+      "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-24T23:24:51Z",
+      "http_status": 200,
+      "issue_number": 33,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-24T23:24:51Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-24T23:24:51Z",
+      "status": "unavailable"
+    },
     "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {
       "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
       "attempt_count": 1,

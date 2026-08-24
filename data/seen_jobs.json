@@ -17219,14 +17219,14 @@
     "dd7bf46e15709f40d02ccd3c5a38f68ce3dc12b7f60b074d42585a7e1601e7f4": {
       "application_scan_eligible": true,
       "created_at": "2026-08-24T23:24:48Z",
-      "issue_number": null,
+      "issue_number": 33,
       "job_ids": [
         "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602"
       ],
       "job_urls": [
         "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "e2c0b3781c37bf1ac0d218e08cc2776fec66a53e779957624a1b9ebb5932490c": {
       "application_scan_eligible": true,
