@@ -17021,14 +17021,14 @@
     "653e9e7b5817e6f1cedde9efaf6ede57ba7e57fe3eabe40f43476acbb7401da7": {
       "application_scan_eligible": true,
       "created_at": "2026-08-24T13:54:39Z",
-      "issue_number": null,
+      "issue_number": 32,
       "job_ids": [
         "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
       ],
       "job_urls": [
         "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "66ed109bb9bc7c57ec8c9e81dc84f9c4f07dc451c6309bfa95b5408c585eaa66": {
       "application_scan_eligible": true,
