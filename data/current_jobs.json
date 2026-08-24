@@ -11569,6 +11569,45 @@
         "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2"
       ]
     },
+    "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602": {
+      "age": "0d",
+      "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602",
+      "category": "Unknown",
+      "company": "Johnson & Johnson",
+      "job_type": "Internship",
+      "location": "West Chester, PA | Horsham, PA | Spring House, PA | New Brunswick, NJ | Irvine, CA | Raritan, NJ | Santa Clara, CA | Hopewell Township, NJ | Fort Washington, PA | Jacksonville, FL | Palm Beach Gardens, FL",
+      "position": "Technology Intern - Technology LDP",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Johnson & Johnson",
+          "job_type": "Internship",
+          "location": "West Chester, PA | Horsham, PA | Spring House, PA | New Brunswick, NJ | Irvine, CA | Raritan, NJ | Santa Clara, CA | Hopewell Township, NJ | Fort Washington, PA | Jacksonville, FL | Palm Beach Gardens, FL",
+          "position": "Technology Intern - Technology LDP",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "eb1c0149-e214-495c-9f38-fab6db73b250",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/eb1c0149-e214-495c-9f38-fab6db73b250?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/eb1c0149-e214-495c-9f38-fab6db73b250?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/eb1c0149-e214-495c-9f38-fab6db73b250?utm_source=GHList"
+      ]
+    },
     "workday:kla.wd1.myworkdayjobs.com:hpc-software-engineer_2638794": {
       "age": "27d",
       "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/HPC-Software-Engineer_2638794",

@@ -15409,6 +15409,53 @@
         "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2"
       ]
     },
+    "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602",
+      "category": "Unknown",
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-08-24T23:24:48Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-24T23:24:48Z",
+      "location": "West Chester, PA | Horsham, PA | Spring House, PA | New Brunswick, NJ | Irvine, CA | Raritan, NJ | Santa Clara, CA | Hopewell Township, NJ | Fort Washington, PA | Jacksonville, FL | Palm Beach Gardens, FL",
+      "position": "Technology Intern - Technology LDP",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Johnson & Johnson",
+          "first_seen": "2026-08-24T23:24:48Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-24T23:24:48Z",
+          "location": "West Chester, PA | Horsham, PA | Spring House, PA | New Brunswick, NJ | Irvine, CA | Raritan, NJ | Santa Clara, CA | Hopewell Township, NJ | Fort Washington, PA | Jacksonville, FL | Palm Beach Gardens, FL",
+          "position": "Technology Intern - Technology LDP",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "eb1c0149-e214-495c-9f38-fab6db73b250",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/eb1c0149-e214-495c-9f38-fab6db73b250?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/eb1c0149-e214-495c-9f38-fab6db73b250?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/eb1c0149-e214-495c-9f38-fab6db73b250?utm_source=GHList"
+      ]
+    },
     "workday:kla.wd1.myworkdayjobs.com:hpc-software-engineer_2638794": {
       "active": true,
       "age": "27d",
@@ -17168,6 +17215,18 @@
         "https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02"
       ],
       "status": "sent"
+    },
+    "dd7bf46e15709f40d02ccd3c5a38f68ce3dc12b7f60b074d42585a7e1601e7f4": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-24T23:24:48Z",
+      "issue_number": null,
+      "job_ids": [
+        "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602"
+      ],
+      "job_urls": [
+        "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "e2c0b3781c37bf1ac0d218e08cc2776fec66a53e779957624a1b9ebb5932490c": {
       "application_scan_eligible": true,
