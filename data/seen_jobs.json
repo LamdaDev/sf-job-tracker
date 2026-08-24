@@ -1110,6 +1110,50 @@
         "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f"
       ]
     },
+    "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
+      "canonical_id": "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
+      "category": "Other",
+      "company": "Clera",
+      "first_seen": "2026-08-24T13:54:39Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-24T13:54:39Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - AI & Data Systems",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
+          "category": "Other",
+          "company": "Clera",
+          "first_seen": "2026-08-24T13:54:39Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-24T13:54:39Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - AI & Data Systems",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
+      ]
+    },
     "ashby:clera:cea943d6-817f-441c-baa1-d295916ace46": {
       "active": true,
       "age": "74d",
@@ -1155,14 +1199,14 @@
       ]
     },
     "ashby:clera:d1a632c6-648f-4457-bdff-8dd188e292ab": {
-      "active": true,
+      "active": false,
       "age": "3d",
       "application_url": "https://jobs.ashbyhq.com/clera/d1a632c6-648f-4457-bdff-8dd188e292ab",
       "canonical_id": "ashby:clera:d1a632c6-648f-4457-bdff-8dd188e292ab",
       "category": "Other",
       "company": "Clera",
       "first_seen": "2026-08-17T05:05:43Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-24T13:54:39Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Francisco, CA",
@@ -1172,13 +1216,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "3d",
           "application_url": "https://jobs.ashbyhq.com/clera/d1a632c6-648f-4457-bdff-8dd188e292ab",
           "category": "Other",
           "company": "Clera",
           "first_seen": "2026-08-17T05:05:43Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-24T13:54:39Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -1603,14 +1647,14 @@
       ]
     },
     "ashby:dexmate:eac26b6f-1a53-441f-8e52-ee0a0b1bc119": {
-      "active": true,
+      "active": false,
       "age": "113d",
       "application_url": "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119",
       "canonical_id": "ashby:dexmate:eac26b6f-1a53-441f-8e52-ee0a0b1bc119",
       "category": "Other",
       "company": "Dexmate",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-24T13:54:39Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Fremont, CA",
@@ -1620,13 +1664,13 @@
       "season": null,
       "sources": {
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "113d",
           "application_url": "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119",
           "category": "Other",
           "company": "Dexmate",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-24T13:54:39Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Fremont, CA",
@@ -15906,14 +15950,14 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522": {
-      "active": true,
+      "active": false,
       "age": "87d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522",
       "category": "FAANG+",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-24T13:54:39Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Santa Clara, CA",
@@ -15923,13 +15967,13 @@
       "season": null,
       "sources": {
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "87d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
           "category": "FAANG+",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-24T13:54:39Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Santa Clara, CA",
@@ -16973,6 +17017,18 @@
         "https://www.zipline.com/open-roles?gh_jid=7929236003"
       ],
       "status": "sent"
+    },
+    "653e9e7b5817e6f1cedde9efaf6ede57ba7e57fe3eabe40f43476acbb7401da7": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-24T13:54:39Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
+      ],
+      "job_urls": [
+        "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
+      ],
+      "status": "pending"
     },
     "66ed109bb9bc7c57ec8c9e81dc84f9c4f07dc451c6309bfa95b5408c585eaa66": {
       "application_scan_eligible": true,

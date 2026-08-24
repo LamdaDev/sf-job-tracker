@@ -764,6 +764,42 @@
         "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f"
       ]
     },
+    "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2": {
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
+      "canonical_id": "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
+      "category": "Other",
+      "company": "Clera",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - AI & Data Systems",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
+          "category": "Other",
+          "company": "Clera",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - AI & Data Systems",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
+      ]
+    },
     "ashby:clera:cea943d6-817f-441c-baa1-d295916ace46": {
       "age": "74d",
       "application_url": "https://jobs.ashbyhq.com/clera/cea943d6-817f-441c-baa1-d295916ace46",
@@ -798,42 +834,6 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/clera/cea943d6-817f-441c-baa1-d295916ace46"
-      ]
-    },
-    "ashby:clera:d1a632c6-648f-4457-bdff-8dd188e292ab": {
-      "age": "3d",
-      "application_url": "https://jobs.ashbyhq.com/clera/d1a632c6-648f-4457-bdff-8dd188e292ab",
-      "canonical_id": "ashby:clera:d1a632c6-648f-4457-bdff-8dd188e292ab",
-      "category": "Other",
-      "company": "Clera",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer - AI & Data Systems",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "3d",
-          "application_url": "https://jobs.ashbyhq.com/clera/d1a632c6-648f-4457-bdff-8dd188e292ab",
-          "category": "Other",
-          "company": "Clera",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer - AI & Data Systems",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/clera/d1a632c6-648f-4457-bdff-8dd188e292ab"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/clera/d1a632c6-648f-4457-bdff-8dd188e292ab"
       ]
     },
     "ashby:composio:01e0e7ad-44a2-44e8-9340-64ca70eff491": {
@@ -1107,42 +1107,6 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Cylake&job=269f3ffa-3122-4277-b54c-d3b1857399b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735"
-      ]
-    },
-    "ashby:dexmate:eac26b6f-1a53-441f-8e52-ee0a0b1bc119": {
-      "age": "113d",
-      "application_url": "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119",
-      "canonical_id": "ashby:dexmate:eac26b6f-1a53-441f-8e52-ee0a0b1bc119",
-      "category": "Other",
-      "company": "Dexmate",
-      "job_type": "Internship",
-      "location": "Fremont, CA",
-      "position": "Frontend Engineer Intern",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_internships": {
-          "age": "113d",
-          "application_url": "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119",
-          "category": "Other",
-          "company": "Dexmate",
-          "job_type": "Internship",
-          "location": "Fremont, CA",
-          "position": "Frontend Engineer Intern",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119"
       ]
     },
     "ashby:etched:27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8": {
@@ -12051,42 +12015,6 @@
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
-      ]
-    },
-    "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522": {
-      "age": "87d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522",
-      "category": "FAANG+",
-      "company": "NVIDIA",
-      "job_type": "Internship",
-      "location": "Santa Clara, CA",
-      "position": "PhD Software Engineering Intern - Decision Intelligence - Fall 2026",
-      "posted": null,
-      "salary": "$62/hr",
-      "season": null,
-      "sources": {
-        "speedyapply_internships": {
-          "age": "87d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
-          "category": "FAANG+",
-          "company": "NVIDIA",
-          "job_type": "Internship",
-          "location": "Santa Clara, CA",
-          "position": "PhD Software Engineering Intern - Decision Intelligence - Fall 2026",
-          "posted": null,
-          "salary": "$62/hr",
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
-        }
-      },
-      "url_aliases": [
-        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659": {
