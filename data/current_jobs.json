@@ -4241,6 +4241,162 @@
         "https://job-boards.greenhouse.io/verkada/jobs/5195995007"
       ]
     },
+    "greenhouse:verkada:5210813007": {
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "greenhouse:verkada:5210813007",
+      "category": "Unknown",
+      "company": "Verkada",
+      "job_type": "Internship",
+      "location": "San Mateo, CA",
+      "position": "Backend Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Verkada",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Backend Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "27ec0955-4e9f-417f-b354-3581a4623c59",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/27ec0955-4e9f-417f-b354-3581a4623c59?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/27ec0955-4e9f-417f-b354-3581a4623c59?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/27ec0955-4e9f-417f-b354-3581a4623c59?utm_source=GHList"
+      ]
+    },
+    "greenhouse:verkada:5210942007": {
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "greenhouse:verkada:5210942007",
+      "category": "Unknown",
+      "company": "Verkada",
+      "job_type": "Internship",
+      "location": "San Mateo, CA",
+      "position": "Frontend Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Verkada",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Frontend Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "20898b37-1e46-4759-b318-1a51ae4d1200",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/20898b37-1e46-4759-b318-1a51ae4d1200?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/20898b37-1e46-4759-b318-1a51ae4d1200?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/20898b37-1e46-4759-b318-1a51ae4d1200?utm_source=GHList"
+      ]
+    },
+    "greenhouse:verkada:5213881007": {
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "greenhouse:verkada:5213881007",
+      "category": "Unknown",
+      "company": "Verkada",
+      "job_type": "Internship",
+      "location": "San Mateo, CA",
+      "position": "Security Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Verkada",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Security Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "d16387c0-00df-452f-95bb-dd8aab25a372",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/d16387c0-00df-452f-95bb-dd8aab25a372?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/d16387c0-00df-452f-95bb-dd8aab25a372?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/d16387c0-00df-452f-95bb-dd8aab25a372?utm_source=GHList"
+      ]
+    },
+    "greenhouse:verkada:5219131007": {
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "greenhouse:verkada:5219131007",
+      "category": "Unknown",
+      "company": "Verkada",
+      "job_type": "Internship",
+      "location": "San Mateo, CA",
+      "position": "Mobile Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Verkada",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Mobile Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "5dc175a4-02e4-4a5c-a8b7-054139db1ef9",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/5dc175a4-02e4-4a5c-a8b7-054139db1ef9?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/5dc175a4-02e4-4a5c-a8b7-054139db1ef9?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/5dc175a4-02e4-4a5c-a8b7-054139db1ef9?utm_source=GHList"
+      ]
+    },
     "lever:avivesolutions:6d982360-d21c-4389-8a75-9a971d644f1d": {
       "age": "80d",
       "application_url": "https://jobs.lever.co/AviveSolutions/6d982360-d21c-4389-8a75-9a971d644f1d",

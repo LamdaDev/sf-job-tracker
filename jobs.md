@@ -4,10 +4,14 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (285)
+## Active Jobs (289)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Verkada | Backend Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify>) |
+| Verkada | Frontend Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify>) |
+| Verkada | Mobile Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify>) |
+| Verkada | Security Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify>) |
 | The Voleon Group | Software Engineer Intern - (Summer 2027) | Internship | Software Engineering | Berkeley, CA | ApplyGuy | N/A | 2026-08-25T16:40:36Z | 2026-08-25T16:40:36Z | Yes | [Apply](<https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6>) |
 | Applied Intuition | Embedded Test Engineer - New Grad - December 2026 | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-25T13:53:03Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c>) |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad - December 2026 | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-25T13:53:03Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95>) |
