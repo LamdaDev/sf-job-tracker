@@ -3074,6 +3074,52 @@
         "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b"
       ]
     },
+    "ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6": {
+      "age": "11d",
+      "application_url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
+      "canonical_id": "ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
+      "category": "Software Engineering",
+      "company": "The Voleon Group",
+      "job_type": "Internship",
+      "location": "Berkeley, CA",
+      "position": "Software Engineer Intern - (Summer 2027)",
+      "posted": "2026-08-14",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "11d",
+          "application_url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
+          "category": "Software Engineering",
+          "company": "The Voleon Group",
+          "job_type": "Internship",
+          "location": "Berkeley, CA",
+          "position": "Software Engineer Intern - (Summer 2027)",
+          "posted": "2026-08-14",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "68ee3b6b-28a0-48eb-b95d-bb1fc797fefe",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "11d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-25T16:30:34.829Z",
+            "id": "68ee3b6b-28a0-48eb-b95d-bb1fc797fefe",
+            "listingUrl": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
+            "posted": "2026-08-14",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=The+Voleon+Group&job=68ee3b6b-28a0-48eb-b95d-bb1fc797fefe&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=The+Voleon+Group&job=68ee3b6b-28a0-48eb-b95d-bb1fc797fefe&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=The+Voleon+Group&job=68ee3b6b-28a0-48eb-b95d-bb1fc797fefe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"
+      ]
+    },
     "ashby:voxel:9614f69a-b74b-486f-97b9-081f769cf804": {
       "age": "67d",
       "application_url": "https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804",
@@ -3289,45 +3335,6 @@
       },
       "url_aliases": [
         "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002"
-      ]
-    },
-    "greenhouse:cssmerge:8687896002": {
-      "age": "9d",
-      "application_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
-      "canonical_id": "greenhouse:cssmerge:8687896002",
-      "category": "Unknown",
-      "company": "Atoms",
-      "job_type": "Internship",
-      "location": "Seattle, WA | SF | LA | NYC | Mountain View, CA",
-      "position": "Software Engineer Intern - Summer 2027",
-      "posted": null,
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "simplify_summer_2027": {
-          "age": "9d",
-          "application_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
-          "company": "Atoms",
-          "job_type": "Internship",
-          "location": "Seattle, WA | SF | LA | NYC | Mountain View, CA",
-          "position": "Software Engineer Intern - Summer 2027",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "2751af83-9f4f-48b8-8aba-6f534e9681e7",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/2751af83-9f4f-48b8-8aba-6f534e9681e7?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/2751af83-9f4f-48b8-8aba-6f534e9681e7?utm_source=GHList"
-        }
-      },
-      "url_aliases": [
-        "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
-        "https://simplify.jobs/p/2751af83-9f4f-48b8-8aba-6f534e9681e7?utm_source=GHList"
       ]
     },
     "greenhouse:cssmerge:8693034002": {
