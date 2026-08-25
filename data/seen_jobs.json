@@ -17435,7 +17435,7 @@
     "032c7677b15dceb39c88612c2d31a278f8ed5de3714f81a5c194912a2e712099": {
       "application_scan_eligible": true,
       "created_at": "2026-08-25T18:43:03Z",
-      "issue_number": null,
+      "issue_number": 37,
       "job_ids": [
         "greenhouse:verkada:5210813007",
         "greenhouse:verkada:5210942007",
@@ -17448,7 +17448,7 @@
         "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
         "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "05e10eaf5e41ce3d05a7fd8061c9a0dec95fb67b1463b3339a4ee3cd3a60f59b": {
       "application_scan_eligible": true,
