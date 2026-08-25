@@ -17447,7 +17447,7 @@
     "b777aa2e01ed3b915f6c463efe5876f00ed70f7875aaa1ea11172ed80dcb69e9": {
       "application_scan_eligible": true,
       "created_at": "2026-08-25T13:53:03Z",
-      "issue_number": null,
+      "issue_number": 35,
       "job_ids": [
         "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c",
         "ashby:applied:e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
@@ -17460,7 +17460,7 @@
         "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
         "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "ce7313245413f52b4784253d179f455cddf875463006875aab4543b961e10af9": {
       "application_scan_eligible": true,

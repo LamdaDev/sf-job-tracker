@@ -1,5 +1,47 @@
 {
   "scans": {
+    "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c": {
+      "application_url": "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-25T13:53:06Z",
+      "http_status": 200,
+      "issue_number": 35,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-25T13:53:06Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-08-25T13:53:06Z",
+      "status": "unavailable"
+    },
+    "ashby:applied:e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95": {
+      "application_url": "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:applied:e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-25T13:53:07Z",
+      "http_status": 200,
+      "issue_number": 35,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-25T13:53:07Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-08-25T13:53:07Z",
+      "status": "unavailable"
+    },
     "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2": {
       "application_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
       "attempt_count": 1,
@@ -477,6 +519,320 @@
         }
       ],
       "scanned_at": "2026-08-20T03:54:23Z",
+      "status": "complete"
+    },
+    "greenhouse:sonyinteractiveentertainmentglobal:6145057004": {
+      "application_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145057004",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:sonyinteractiveentertainmentglobal:6145057004",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-25T13:53:08Z",
+      "http_status": 200,
+      "issue_number": 35,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-25T13:53:08Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19454873004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Have you ever worked for a Sony company previously?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_19454874004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you authorized to work in the United States?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_19454875004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now, or in the future, require sponsorship to work in the United States?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "location_logistics",
+          "field_name": "question_19454876004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you need relocation assistance to work at this role's specified location?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19454877004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you related to, or in a close personal relationship with, anyone who currently works for SIE or any SIE-affiliated studios? (This includes spouses, domestic partners, and significant others.)",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19454878004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "If yes, please state their name, the department or studio they work for, and their job title (if you know it).",
+          "options": [],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19454879004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "By selecting \"Yes\", I am certifying that, to the best of my knowledge, the information I have provided in this employment application is true and correct.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19454880004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile URL",
+          "options": [],
+          "ordinal": 15,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "question_19454881004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Portfolio Website",
+          "options": [],
+          "ordinal": 16,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [],
+          "ordinal": 18,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender Identity",
+          "options": [],
+          "ordinal": 19,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "What are your personal pronouns?",
+          "options": [],
+          "ordinal": 20,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Sexual Orientation",
+          "options": [],
+          "ordinal": 21,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you Hispanic/Latinx?",
+          "options": [],
+          "ordinal": 22,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Please identify your race/ethnicity",
+          "options": [],
+          "ordinal": 23,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you a protected veteran?",
+          "options": [],
+          "ordinal": 24,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you have a disability?",
+          "options": [],
+          "ordinal": 25,
+          "required": true,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-08-25T13:53:08Z",
       "status": "complete"
     },
     "lever:plus-2:083142f4-70ed-40f4-8726-a5f99ea52e36": {
@@ -1106,6 +1462,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-08-21T13:49:25Z",
+      "status": "unavailable"
+    },
+    "url:https://www.google.com/about/careers/applications/jobs/results/91436104816698054": {
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.google.com/about/careers/applications/jobs/results/91436104816698054",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-25T13:53:09Z",
+      "http_status": 200,
+      "issue_number": 35,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-25T13:53:09Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-25T13:53:09Z",
       "status": "unavailable"
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
