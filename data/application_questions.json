@@ -126,6 +126,27 @@
       "scanned_at": "2026-08-19T01:23:37Z",
       "status": "unavailable"
     },
+    "ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6": {
+      "application_url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-25T16:40:42Z",
+      "http_status": 200,
+      "issue_number": 36,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-25T16:40:42Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-08-25T16:40:42Z",
+      "status": "unavailable"
+    },
     "greenhouse:chime:8606649002": {
       "application_url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
       "attempt_count": 1,
