@@ -1297,6 +1297,27 @@
       "scanned_at": "2026-08-20T13:50:57Z",
       "status": "unavailable"
     },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-25T04:42:17Z",
+      "http_status": 200,
+      "issue_number": 34,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-25T04:42:17Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-25T04:42:17Z",
+      "status": "unavailable"
+    },
     "workday:ebay.wd5.myworkdayjobs.com:software-engineer-2_r0076483": {
       "application_url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/San-Jose/Software-Engineer-2_R0076483",
       "attempt_count": 1,

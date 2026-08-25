@@ -17122,14 +17122,14 @@
     "61bb933df77ead62533210f77d3eecf0124322bc609d0efc2a9b78c5545c5f97": {
       "application_scan_eligible": true,
       "created_at": "2026-08-25T04:42:13Z",
-      "issue_number": null,
+      "issue_number": 34,
       "job_ids": [
         "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527"
       ],
       "job_urls": [
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "653e9e7b5817e6f1cedde9efaf6ede57ba7e57fe3eabe40f43476acbb7401da7": {
       "application_scan_eligible": true,
