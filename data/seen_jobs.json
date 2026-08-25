@@ -4490,8 +4490,8 @@
       "first_seen": "2026-08-25T16:40:36Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-25T16:40:36Z",
-      "location": "Berkeley, CA",
+      "last_seen": "2026-08-25T21:31:37Z",
+      "location": "Berkeley, CA | NYC",
       "position": "Software Engineer Intern - (Summer 2027)",
       "posted": "2026-08-14",
       "salary": null,
@@ -4527,11 +4527,37 @@
             "url": "https://applyguy.ai/jobs?company=The+Voleon+Group&job=68ee3b6b-28a0-48eb-b95d-bb1fc797fefe&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=The+Voleon+Group&job=68ee3b6b-28a0-48eb-b95d-bb1fc797fefe&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true&utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "The Voleon Group",
+          "first_seen": "2026-08-25T21:31:37Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-25T21:31:37Z",
+          "location": "Berkeley, CA | NYC",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "a767329d-41e2-4902-a15c-d28cb21ad5e1",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/a767329d-41e2-4902-a15c-d28cb21ad5e1?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/a767329d-41e2-4902-a15c-d28cb21ad5e1?utm_source=GHList"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=The+Voleon+Group&job=68ee3b6b-28a0-48eb-b95d-bb1fc797fefe&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"
+        "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
+        "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/a767329d-41e2-4902-a15c-d28cb21ad5e1?utm_source=GHList"
       ]
     },
     "ashby:voxel:9614f69a-b74b-486f-97b9-081f769cf804": {
