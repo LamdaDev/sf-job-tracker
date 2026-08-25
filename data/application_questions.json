@@ -2621,6 +2621,27 @@
       "scanned_at": "2026-08-21T23:26:56Z",
       "status": "unavailable"
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7974897003": {
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles?gh_jid=7974897003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-25T23:27:22Z",
+      "http_status": 200,
+      "issue_number": 38,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-25T23:27:22Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-25T23:27:22Z",
+      "status": "unavailable"
+    },
     "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398": {
       "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
       "attempt_count": 1,
