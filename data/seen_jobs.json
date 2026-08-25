@@ -530,6 +530,50 @@
         "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace"
       ]
     },
+    "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c": {
+      "active": true,
+      "age": "10d",
+      "application_url": "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c",
+      "canonical_id": "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c",
+      "category": "Other",
+      "company": "Applied Intuition",
+      "first_seen": "2026-08-25T13:53:03Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-25T13:53:03Z",
+      "location": "Sunnyvale, CA",
+      "position": "Embedded Test Engineer - New Grad - December 2026",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "10d",
+          "application_url": "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c",
+          "category": "Other",
+          "company": "Applied Intuition",
+          "first_seen": "2026-08-25T13:53:03Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-25T13:53:03Z",
+          "location": "Sunnyvale, CA",
+          "position": "Embedded Test Engineer - New Grad - December 2026",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c"
+      ]
+    },
     "ashby:applied:250080bd-10a8-4e5f-82b8-506029292d19": {
       "active": true,
       "age": "2d",
@@ -575,14 +619,14 @@
       ]
     },
     "ashby:applied:43286c63-937d-4384-a5ff-12cb31baa225": {
-      "active": true,
+      "active": false,
       "age": "3d",
       "application_url": "https://jobs.ashbyhq.com/applied/43286c63-937d-4384-a5ff-12cb31baa225",
       "canonical_id": "ashby:applied:43286c63-937d-4384-a5ff-12cb31baa225",
       "category": "Other",
       "company": "Applied Intuition",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-25T13:53:03Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Sunnyvale, CA",
@@ -592,13 +636,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "3d",
           "application_url": "https://jobs.ashbyhq.com/applied/43286c63-937d-4384-a5ff-12cb31baa225",
           "category": "Other",
           "company": "Applied Intuition",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-25T13:53:03Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Sunnyvale, CA",
@@ -770,15 +814,59 @@
         "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"
       ]
     },
-    "ashby:applied:ffd8635d-43d5-4298-a29c-67eaa45c5a4a": {
+    "ashby:applied:e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95": {
       "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
+      "canonical_id": "ashby:applied:e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
+      "category": "Other",
+      "company": "Applied Intuition",
+      "first_seen": "2026-08-25T13:53:03Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-25T13:53:03Z",
+      "location": "Sunnyvale, CA",
+      "position": "OTA/Cloud Validation Engineer - New Grad - December 2026",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
+          "category": "Other",
+          "company": "Applied Intuition",
+          "first_seen": "2026-08-25T13:53:03Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-25T13:53:03Z",
+          "location": "Sunnyvale, CA",
+          "position": "OTA/Cloud Validation Engineer - New Grad - December 2026",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95"
+      ]
+    },
+    "ashby:applied:ffd8635d-43d5-4298-a29c-67eaa45c5a4a": {
+      "active": false,
       "age": "11d",
       "application_url": "https://jobs.ashbyhq.com/applied/ffd8635d-43d5-4298-a29c-67eaa45c5a4a",
       "canonical_id": "ashby:applied:ffd8635d-43d5-4298-a29c-67eaa45c5a4a",
       "category": "Other",
       "company": "Applied Intuition",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-25T13:53:03Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Sunnyvale, CA",
@@ -788,13 +876,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "11d",
           "application_url": "https://jobs.ashbyhq.com/applied/ffd8635d-43d5-4298-a29c-67eaa45c5a4a",
           "category": "Other",
           "company": "Applied Intuition",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-25T13:53:03Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Sunnyvale, CA",
@@ -2165,13 +2253,13 @@
           "source_url": "https://applyguy.ai/jobs?company=Handshake&job=8cc764e1-9b3d-44a9-a1d8-97733e9f468c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         },
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "5d",
           "application_url": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8",
           "category": "Other",
           "company": "Handshake",
           "first_seen": "2026-08-17T05:05:43Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-25T13:53:03Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -3527,14 +3615,14 @@
       "age": "1d",
       "application_url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
       "canonical_id": "ashby:replit:7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "Replit",
       "first_seen": "2026-08-17T13:41:22Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-24T09:51:35Z",
+      "last_seen": "2026-08-25T13:53:03Z",
       "location": "Foster City, CA",
-      "position": "Software Engineering Intern - Summer 2027",
+      "position": "Software Engineering Intern (Summer 2027)",
       "posted": "2026-08-15",
       "salary": null,
       "season": "Summer 2027",
@@ -3595,13 +3683,13 @@
           "source_url": "https://simplify.jobs/p/7e21b76f-fae1-4564-9f64-456d019b46b2?utm_source=GHList"
         },
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
           "category": "Other",
           "company": "Replit",
           "first_seen": "2026-08-17T13:41:22Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-25T13:53:03Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Foster City, CA",
@@ -4569,14 +4657,14 @@
       ]
     },
     "greenhouse:astranis:4619289006": {
-      "active": true,
+      "active": false,
       "age": "109d",
       "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4619289006",
       "canonical_id": "greenhouse:astranis:4619289006",
       "category": "Other",
       "company": "Astranis Space Technologies",
       "first_seen": "2026-08-17T05:05:43Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-25T13:53:03Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Francisco, CA",
@@ -4586,13 +4674,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "109d",
           "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4619289006",
           "category": "Other",
           "company": "Astranis Space Technologies",
           "first_seen": "2026-08-17T05:05:43Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-25T13:53:03Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -5512,6 +5600,50 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=da083c4f-058c-4b8d-8b5d-54e824e988e3&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009"
+      ]
+    },
+    "greenhouse:sonyinteractiveentertainmentglobal:6145057004": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145057004",
+      "canonical_id": "greenhouse:sonyinteractiveentertainmentglobal:6145057004",
+      "category": "Other",
+      "company": "PlayStation",
+      "first_seen": "2026-08-25T13:53:03Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-25T13:53:03Z",
+      "location": "San Mateo, CA",
+      "position": "Audio and UX Software Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145057004",
+          "category": "Other",
+          "company": "PlayStation",
+          "first_seen": "2026-08-25T13:53:03Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-25T13:53:03Z",
+          "location": "San Mateo, CA",
+          "position": "Audio and UX Software Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145057004"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145057004"
       ]
     },
     "greenhouse:spacex:8621757002": {
@@ -13846,6 +13978,50 @@
         "https://www.google.com/about/careers/applications/jobs/results/78703249065943750"
       ]
     },
+    "url:https://www.google.com/about/careers/applications/jobs/results/91436104816698054": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054",
+      "canonical_id": "url:https://www.google.com/about/careers/applications/jobs/results/91436104816698054",
+      "category": "FAANG+",
+      "company": "Google",
+      "first_seen": "2026-08-25T13:53:03Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-25T13:53:03Z",
+      "location": "Mountain View, CA +29",
+      "position": "Software Engineering Intern - PhD - Summer 2027",
+      "posted": null,
+      "salary": "$63/hr",
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054",
+          "category": "FAANG+",
+          "company": "Google",
+          "first_seen": "2026-08-25T13:53:03Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-25T13:53:03Z",
+          "location": "Mountain View, CA +29",
+          "position": "Software Engineering Intern - PhD - Summer 2027",
+          "posted": null,
+          "salary": "$63/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
+        }
+      },
+      "url_aliases": [
+        "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
+      ]
+    },
     "url:https://www.ixl.com/company/jobs?gh_jid=8662881002": {
       "active": true,
       "age": "10d",
@@ -13977,14 +14153,14 @@
       ]
     },
     "url:https://www.rubrik.com/company/careers/departments/job.8076167?gh_jid=8076167": {
-      "active": true,
+      "active": false,
       "age": "25d",
       "application_url": "https://www.rubrik.com/company/careers/departments/job.8076167?gh_jid=8076167",
       "canonical_id": "url:https://www.rubrik.com/company/careers/departments/job.8076167?gh_jid=8076167",
       "category": "Other",
       "company": "rubrik",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-25T13:53:03Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Palo Alto, CA",
@@ -13994,13 +14170,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "25d",
           "application_url": "https://www.rubrik.com/company/careers/departments/job.8076167?gh_jid=8076167",
           "category": "Other",
           "company": "rubrik",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-25T13:53:03Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Palo Alto, CA",
@@ -14065,14 +14241,14 @@
       ]
     },
     "url:https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343": {
-      "active": true,
+      "active": false,
       "age": "13d",
       "application_url": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
       "canonical_id": "url:https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
       "category": "Other",
       "company": "Samsara",
       "first_seen": "2026-08-17T05:05:43Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-25T13:53:03Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Francisco, CA",
@@ -14082,13 +14258,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "13d",
           "application_url": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
           "category": "Other",
           "company": "Samsara",
           "first_seen": "2026-08-17T05:05:43Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-25T13:53:03Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -16051,16 +16227,16 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522": {
-      "active": false,
+      "active": true,
       "age": "87d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522",
       "category": "FAANG+",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": "2026-08-24T13:54:39Z",
+      "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-17T17:45:31Z",
+      "last_seen": "2026-08-25T13:53:03Z",
       "location": "Santa Clara, CA",
       "position": "PhD Software Engineering Intern - Decision Intelligence - Fall 2026",
       "posted": null,
@@ -16068,15 +16244,15 @@
       "season": null,
       "sources": {
         "speedyapply_internships": {
-          "active": false,
-          "age": "87d",
+          "active": true,
+          "age": "95d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
           "category": "FAANG+",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": "2026-08-24T13:54:39Z",
+          "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-08-17T17:45:31Z",
+          "last_seen": "2026-08-25T13:53:03Z",
           "location": "Santa Clara, CA",
           "position": "PhD Software Engineering Intern - Decision Intelligence - Fall 2026",
           "posted": null,
@@ -16847,14 +17023,14 @@
       ]
     },
     "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432": {
-      "active": true,
+      "active": false,
       "age": "Today",
       "application_url": "https://synnex.wd5.myworkdayjobs.com/en-US/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
       "canonical_id": "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432",
       "category": "Other",
       "company": "Hyve Solutions",
       "first_seen": "2026-08-21T21:27:37Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-25T13:53:03Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-24T09:51:35Z",
       "location": "Fremont, CA",
@@ -16895,13 +17071,13 @@
           "source_url": "https://applyguy.ai/jobs?company=Synnex&job=fe162183-4467-4c46-afc7-3a93a72b3055&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         },
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://synnex.wd5.myworkdayjobs.com/en-US/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
           "category": "Other",
           "company": "Hyve Solutions",
           "first_seen": "2026-08-22T13:34:16Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-25T13:53:03Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-22T13:34:16Z",
           "location": "Fremont, CA",
@@ -17267,6 +17443,24 @@
         "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
       ],
       "status": "sent"
+    },
+    "b777aa2e01ed3b915f6c463efe5876f00ed70f7875aaa1ea11172ed80dcb69e9": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-25T13:53:03Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c",
+        "ashby:applied:e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
+        "greenhouse:sonyinteractiveentertainmentglobal:6145057004",
+        "url:https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
+      ],
+      "job_urls": [
+        "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145057004",
+        "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c",
+        "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
+        "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
+      ],
+      "status": "pending"
     },
     "ce7313245413f52b4784253d179f455cddf875463006875aab4543b961e10af9": {
       "application_scan_eligible": true,
