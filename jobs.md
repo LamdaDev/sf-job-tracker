@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (289)
+## Active Jobs (290)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Zipline | Embedded Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-25T23:27:18Z | 2026-08-25T23:27:18Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7974897003>) |
 | Verkada | Backend Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify>) |
 | Verkada | Frontend Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify>) |
 | Verkada | Mobile Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify>) |
