@@ -14870,6 +14870,60 @@
         "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686"
       ]
     },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527",
+      "category": "Unknown",
+      "company": "Cisco",
+      "first_seen": "2026-08-25T04:42:13Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-25T04:42:13Z",
+      "location": "Milpitas California",
+      "position": "Software Engineer I (Full Time) - United States",
+      "posted": "2026-08-24",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
+          "category": "Unknown",
+          "company": "Cisco",
+          "first_seen": "2026-08-25T04:42:13Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-25T04:42:13Z",
+          "location": "Milpitas California",
+          "position": "Software Engineer I (Full Time) - United States",
+          "posted": "2026-08-24",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "b048e099-00f4-4bfc-8f2f-70c3e4e190f2",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-08-25T04:30:52.329Z",
+            "id": "b048e099-00f4-4bfc-8f2f-70c3e4e190f2",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
+            "matchKind": "entry_level",
+            "posted": "2026-08-24",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
+      ]
+    },
     "workday:cohesity.wd5.myworkdayjobs.com:software-engineer_r01282": {
       "active": false,
       "age": "6d",
@@ -17064,6 +17118,18 @@
         "https://www.zipline.com/open-roles?gh_jid=7929236003"
       ],
       "status": "sent"
+    },
+    "61bb933df77ead62533210f77d3eecf0124322bc609d0efc2a9b78c5545c5f97": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-25T04:42:13Z",
+      "issue_number": null,
+      "job_ids": [
+        "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527"
+      ],
+      "job_urls": [
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
+      ],
+      "status": "pending"
     },
     "653e9e7b5817e6f1cedde9efaf6ede57ba7e57fe3eabe40f43476acbb7401da7": {
       "application_scan_eligible": true,

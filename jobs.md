@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (285)
+## Active Jobs (286)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Cisco | Software Engineer I (Full Time) - United States | New Grad | Unknown | Milpitas California | ApplyGuy | N/A | 2026-08-25T04:42:13Z | 2026-08-25T04:42:13Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527>) |
 | Johnson & Johnson | Technology Intern - Technology LDP | Internship | Unknown | West Chester, PA \| Horsham, PA \| Spring House, PA \| New Brunswick, NJ \| Irvine, CA \| Raritan, NJ \| Santa Clara, CA \| Hopewell Township, NJ \| Fort Washington, PA \| Jacksonville, FL \| Palm Beach Gardens, FL | Simplify | N/A | 2026-08-24T23:24:48Z | 2026-08-24T23:24:48Z | Yes | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify>) |
 | Clera | Software Engineer - AI & Data Systems | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-24T13:54:39Z | 2026-08-24T13:54:39Z | Yes | [Apply](<https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2>) |
 | Chime | Full-Stack Engineer - Human Agent Tooling | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-22T13:34:16Z | 2026-08-22T13:34:16Z | Yes | [Apply](<https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002>) |
