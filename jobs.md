@@ -4,15 +4,18 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (290)
+## Active Jobs (293)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Prophet Security | Software Engineer, Backend Intern | Internship | Software Engineering | Palo Alto, CA | ApplyGuy | N/A | 2026-08-26T01:27:15Z | 2026-08-26T01:27:15Z | Yes | [Apply](<https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612>) |
+| Prophet Security | Software Engineer, Backend New Graduate | New Grad | Unknown | Palo Alto, CA | ApplyGuy | N/A | 2026-08-26T01:27:15Z | 2026-08-26T01:27:15Z | Yes | [Apply](<https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069>) |
+| Verkada | Embedded Software Engineering Intern 2027 | Internship | Software Engineering | San Mateo, CA | ApplyGuy | N/A | 2026-08-26T01:27:15Z | 2026-08-26T01:27:15Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5211595007>) |
 | Zipline | Embedded Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-08-25T23:27:18Z | 2026-08-25T23:27:18Z | Yes | [Apply](<https://www.zipline.com/open-roles?gh_jid=7974897003>) |
-| Verkada | Backend Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify>) |
-| Verkada | Frontend Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify>) |
-| Verkada | Mobile Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify>) |
-| Verkada | Security Software Engineer Intern | Internship | Unknown | San Mateo, CA | Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-25T18:43:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify>) |
+| Verkada | Backend Software Engineering Intern 2027 | Internship | Software Engineering | San Mateo, CA | ApplyGuy, Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-26T01:27:15Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5210813007>) |
+| Verkada | Frontend Software Engineering Intern 2027 | Internship | Software Engineering | San Mateo, CA | ApplyGuy, Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-26T01:27:15Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5210942007>) |
+| Verkada | Mobile Software Engineering Intern 2027 | Internship | Software Engineering | San Mateo, CA | ApplyGuy, Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-26T01:27:15Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5219131007>) |
+| Verkada | Security Software Engineering Intern 2027 | Internship | Software Engineering | San Mateo, CA | ApplyGuy, Simplify | N/A | 2026-08-25T18:43:03Z | 2026-08-26T01:27:15Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5213881007>) |
 | The Voleon Group | Software Engineer Intern - (Summer 2027) | Internship | Software Engineering | Berkeley, CA \| NYC | ApplyGuy, Simplify | N/A | 2026-08-25T16:40:36Z | 2026-08-25T21:31:37Z | Yes | [Apply](<https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6>) |
 | Applied Intuition | Embedded Test Engineer - New Grad - December 2026 | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-25T13:53:03Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c>) |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad - December 2026 | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-25T13:53:03Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95>) |

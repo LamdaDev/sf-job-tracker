@@ -3490,6 +3490,114 @@
         "https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b"
       ]
     },
+    "ashby:prophet-security:51415149-9b19-4164-84b9-2ffa78478069": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069",
+      "canonical_id": "ashby:prophet-security:51415149-9b19-4164-84b9-2ffa78478069",
+      "category": "Unknown",
+      "company": "Prophet Security",
+      "first_seen": "2026-08-26T01:27:15Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-26T01:27:15Z",
+      "location": "Palo Alto, CA",
+      "position": "Software Engineer, Backend New Graduate",
+      "posted": "2026-08-25",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069",
+          "category": "Unknown",
+          "company": "Prophet Security",
+          "first_seen": "2026-08-26T01:27:15Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-26T01:27:15Z",
+          "location": "Palo Alto, CA",
+          "position": "Software Engineer, Backend New Graduate",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "65d2d79f-2141-4350-a344-f529146e250c",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-08-26T01:15:59.995Z",
+            "id": "65d2d79f-2141-4350-a344-f529146e250c",
+            "listingUrl": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069",
+            "matchKind": "explicit",
+            "posted": "2026-08-25",
+            "url": "https://applyguy.ai/jobs?company=Prophet+Security&job=65d2d79f-2141-4350-a344-f529146e250c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Prophet+Security&job=65d2d79f-2141-4350-a344-f529146e250c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Prophet+Security&job=65d2d79f-2141-4350-a344-f529146e250c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069"
+      ]
+    },
+    "ashby:prophet-security:6319cd03-3d5f-47b9-815b-0f8b0d184612": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612",
+      "canonical_id": "ashby:prophet-security:6319cd03-3d5f-47b9-815b-0f8b0d184612",
+      "category": "Software Engineering",
+      "company": "Prophet Security",
+      "first_seen": "2026-08-26T01:27:15Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-26T01:27:15Z",
+      "location": "Palo Alto, CA",
+      "position": "Software Engineer, Backend Intern",
+      "posted": "2026-08-25",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612",
+          "category": "Software Engineering",
+          "company": "Prophet Security",
+          "first_seen": "2026-08-26T01:27:15Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T01:27:15Z",
+          "location": "Palo Alto, CA",
+          "position": "Software Engineer, Backend Intern",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-26T01:15:31.558Z",
+            "id": "b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723",
+            "listingUrl": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612",
+            "posted": "2026-08-25",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Prophet+Security&job=b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Prophet+Security&job=b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Prophet+Security&job=b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612"
+      ]
+    },
     "ashby:pylon-labs:38814ce7-217b-40f2-9ba5-8a7733a5691d": {
       "active": true,
       "age": "38d",
@@ -6378,20 +6486,51 @@
     "greenhouse:verkada:5210813007": {
       "active": true,
       "age": "0d",
-      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
       "canonical_id": "greenhouse:verkada:5210813007",
-      "category": "Unknown",
+      "category": "Software Engineering",
       "company": "Verkada",
       "first_seen": "2026-08-25T18:43:03Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-25T18:43:03Z",
+      "last_seen": "2026-08-26T01:27:15Z",
       "location": "San Mateo, CA",
-      "position": "Backend Software Engineer Intern",
-      "posted": null,
+      "position": "Backend Software Engineering Intern 2027",
+      "posted": "2026-08-25",
       "salary": null,
-      "season": "Summer 2027",
+      "season": "2027",
       "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+          "category": "Software Engineering",
+          "company": "Verkada",
+          "first_seen": "2026-08-26T01:27:15Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T01:27:15Z",
+          "location": "San Mateo, CA",
+          "position": "Backend Software Engineering Intern 2027",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-26T01:15:31.558Z",
+            "id": "e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79",
+            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+            "posted": "2026-08-25",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Verkada&job=e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "simplify_summer_2027": {
           "active": true,
           "age": "0d",
@@ -6418,6 +6557,8 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Verkada&job=e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
         "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/27ec0955-4e9f-417f-b354-3581a4623c59?utm_source=GHList"
       ]
@@ -6425,20 +6566,51 @@
     "greenhouse:verkada:5210942007": {
       "active": true,
       "age": "0d",
-      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
       "canonical_id": "greenhouse:verkada:5210942007",
-      "category": "Unknown",
+      "category": "Software Engineering",
       "company": "Verkada",
       "first_seen": "2026-08-25T18:43:03Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-25T18:43:03Z",
+      "last_seen": "2026-08-26T01:27:15Z",
       "location": "San Mateo, CA",
-      "position": "Frontend Software Engineer Intern",
-      "posted": null,
+      "position": "Frontend Software Engineering Intern 2027",
+      "posted": "2026-08-25",
       "salary": null,
-      "season": "Summer 2027",
+      "season": "2027",
       "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+          "category": "Software Engineering",
+          "company": "Verkada",
+          "first_seen": "2026-08-26T01:27:15Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T01:27:15Z",
+          "location": "San Mateo, CA",
+          "position": "Frontend Software Engineering Intern 2027",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "dd6e9c1e-920a-43d2-a078-18914384469b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-26T01:15:31.558Z",
+            "id": "dd6e9c1e-920a-43d2-a078-18914384469b",
+            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+            "posted": "2026-08-25",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Verkada&job=dd6e9c1e-920a-43d2-a078-18914384469b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=dd6e9c1e-920a-43d2-a078-18914384469b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "simplify_summer_2027": {
           "active": true,
           "age": "0d",
@@ -6465,27 +6637,114 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Verkada&job=dd6e9c1e-920a-43d2-a078-18914384469b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
         "https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/20898b37-1e46-4759-b318-1a51ae4d1200?utm_source=GHList"
+      ]
+    },
+    "greenhouse:verkada:5211595007": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+      "canonical_id": "greenhouse:verkada:5211595007",
+      "category": "Software Engineering",
+      "company": "Verkada",
+      "first_seen": "2026-08-26T01:27:15Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-26T01:27:15Z",
+      "location": "San Mateo, CA",
+      "position": "Embedded Software Engineering Intern 2027",
+      "posted": "2026-08-25",
+      "salary": null,
+      "season": "2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+          "category": "Software Engineering",
+          "company": "Verkada",
+          "first_seen": "2026-08-26T01:27:15Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T01:27:15Z",
+          "location": "San Mateo, CA",
+          "position": "Embedded Software Engineering Intern 2027",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "71f6de1a-ab6c-4263-8108-ff3787f5418a",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-26T01:15:31.558Z",
+            "id": "71f6de1a-ab6c-4263-8108-ff3787f5418a",
+            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+            "posted": "2026-08-25",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/verkada/jobs/5211595007"
       ]
     },
     "greenhouse:verkada:5213881007": {
       "active": true,
       "age": "0d",
-      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
       "canonical_id": "greenhouse:verkada:5213881007",
-      "category": "Unknown",
+      "category": "Software Engineering",
       "company": "Verkada",
       "first_seen": "2026-08-25T18:43:03Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-25T18:43:03Z",
+      "last_seen": "2026-08-26T01:27:15Z",
       "location": "San Mateo, CA",
-      "position": "Security Software Engineer Intern",
-      "posted": null,
+      "position": "Security Software Engineering Intern 2027",
+      "posted": "2026-08-25",
       "salary": null,
-      "season": "Summer 2027",
+      "season": "2027",
       "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+          "category": "Software Engineering",
+          "company": "Verkada",
+          "first_seen": "2026-08-26T01:27:15Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T01:27:15Z",
+          "location": "San Mateo, CA",
+          "position": "Security Software Engineering Intern 2027",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "6f984838-bd2b-40fb-a8b0-b126b5ea822c",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-26T01:15:31.558Z",
+            "id": "6f984838-bd2b-40fb-a8b0-b126b5ea822c",
+            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+            "posted": "2026-08-25",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Verkada&job=6f984838-bd2b-40fb-a8b0-b126b5ea822c&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=6f984838-bd2b-40fb-a8b0-b126b5ea822c&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "simplify_summer_2027": {
           "active": true,
           "age": "0d",
@@ -6512,6 +6771,8 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Verkada&job=6f984838-bd2b-40fb-a8b0-b126b5ea822c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
         "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/d16387c0-00df-452f-95bb-dd8aab25a372?utm_source=GHList"
       ]
@@ -6519,20 +6780,51 @@
     "greenhouse:verkada:5219131007": {
       "active": true,
       "age": "0d",
-      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
       "canonical_id": "greenhouse:verkada:5219131007",
-      "category": "Unknown",
+      "category": "Software Engineering",
       "company": "Verkada",
       "first_seen": "2026-08-25T18:43:03Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-25T18:43:03Z",
+      "last_seen": "2026-08-26T01:27:15Z",
       "location": "San Mateo, CA",
-      "position": "Mobile Software Engineer Intern",
-      "posted": null,
+      "position": "Mobile Software Engineering Intern 2027",
+      "posted": "2026-08-25",
       "salary": null,
-      "season": "Summer 2027",
+      "season": "2027",
       "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+          "category": "Software Engineering",
+          "company": "Verkada",
+          "first_seen": "2026-08-26T01:27:15Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T01:27:15Z",
+          "location": "San Mateo, CA",
+          "position": "Mobile Software Engineering Intern 2027",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "f7836b53-a95f-45f3-8e30-e3e2a68a620a",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-26T01:15:31.558Z",
+            "id": "f7836b53-a95f-45f3-8e30-e3e2a68a620a",
+            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+            "posted": "2026-08-25",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Verkada&job=f7836b53-a95f-45f3-8e30-e3e2a68a620a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=f7836b53-a95f-45f3-8e30-e3e2a68a620a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "simplify_summer_2027": {
           "active": true,
           "age": "0d",
@@ -6559,6 +6851,8 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Verkada&job=f7836b53-a95f-45f3-8e30-e3e2a68a620a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
         "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/5dc175a4-02e4-4a5c-a8b7-054139db1ef9?utm_source=GHList"
       ]
@@ -17567,6 +17861,22 @@
         "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics"
       ],
       "status": "sent"
+    },
+    "154b2e54a4d0b958963593430e1dd44389a83dbdb355c95c49f2ce544b214237": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-26T01:27:15Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:prophet-security:51415149-9b19-4164-84b9-2ffa78478069",
+        "ashby:prophet-security:6319cd03-3d5f-47b9-815b-0f8b0d184612",
+        "greenhouse:verkada:5211595007"
+      ],
+      "job_urls": [
+        "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+        "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069",
+        "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612"
+      ],
+      "status": "pending"
     },
     "27b1e19f34e188483f293863c13a55f5c069fa1b0ee2c0481d23ca6a8c658ebb": {
       "created_at": "2026-08-17T18:42:34Z",
