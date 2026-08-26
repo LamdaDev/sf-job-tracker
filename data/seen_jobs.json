@@ -18105,14 +18105,14 @@
     "8fdf78629e7ff0ad4e67ccebbe55390dace809b08a31280dca0684c8d2987b82": {
       "application_scan_eligible": true,
       "created_at": "2026-08-26T03:08:30Z",
-      "issue_number": null,
+      "issue_number": 40,
       "job_ids": [
         "ashby:zip:249837b3-106f-4751-a4f2-03a2c5df5faf"
       ],
       "job_urls": [
         "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "94a152a7e4549ad10ea872a1e79d515d21a8b8dc391c4b7687f5b8631c6e824e": {
       "application_scan_eligible": true,
