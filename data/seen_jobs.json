@@ -422,6 +422,59 @@
         "https://www.amazon.jobs/jobs/10514569/apply"
       ]
     },
+    "amazon:10515912": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships",
+      "canonical_id": "amazon:10515912",
+      "category": "Unknown",
+      "company": "Amazon",
+      "first_seen": "2026-08-26T19:05:18Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-26T19:05:18Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer I, Memberships",
+      "posted": "2026-08-26",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships",
+          "category": "Unknown",
+          "company": "Amazon",
+          "first_seen": "2026-08-26T19:05:18Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-26T19:05:18Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer I, Memberships",
+          "posted": "2026-08-26",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "custom:amazon:1bcd77e56ccd10ad7bf3",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-08-26T19:01:04.443Z",
+            "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
+            "listingUrl": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships",
+            "matchKind": "entry_level",
+            "posted": "2026-08-26",
+            "url": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships"
+          },
+          "source_url": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships"
+        }
+      },
+      "url_aliases": [
+        "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships"
+      ]
+    },
     "ashby:abridge:3f07a457-dc14-4238-bf4e-5c33b5c1f883": {
       "active": true,
       "age": "2d",
@@ -5261,16 +5314,16 @@
       ]
     },
     "greenhouse:cssmerge:8687896002": {
-      "active": false,
+      "active": true,
       "age": "9d",
       "application_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
       "canonical_id": "greenhouse:cssmerge:8687896002",
       "category": "Unknown",
       "company": "Atoms",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": "2026-08-25T16:40:36Z",
+      "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-17T17:45:31Z",
+      "last_seen": "2026-08-26T19:05:18Z",
       "location": "Seattle, WA | SF | LA | NYC | Mountain View, CA",
       "position": "Software Engineer Intern - Summer 2027",
       "posted": null,
@@ -5278,15 +5331,15 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "active": false,
-          "age": "9d",
+          "active": true,
+          "age": "18d",
           "application_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
           "category": "Unknown",
           "company": "Atoms",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": "2026-08-25T16:40:36Z",
+          "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-08-17T17:45:31Z",
+          "last_seen": "2026-08-26T19:05:18Z",
           "location": "Seattle, WA | SF | LA | NYC | Mountain View, CA",
           "position": "Software Engineer Intern - Summer 2027",
           "posted": null,
@@ -6425,6 +6478,60 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Twitch&job=2df2e586-e68d-4406-a287-c54178f64e37&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://job-boards.greenhouse.io/twitch/jobs/8700578002"
+      ]
+    },
+    "greenhouse:twitch:8748320002": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
+      "canonical_id": "greenhouse:twitch:8748320002",
+      "category": "Unknown",
+      "company": "Twitch",
+      "first_seen": "2026-08-26T19:05:18Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-26T19:05:18Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer I, Memberships",
+      "posted": "2026-08-26",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
+          "category": "Unknown",
+          "company": "Twitch",
+          "first_seen": "2026-08-26T19:05:18Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-26T19:05:18Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer I, Memberships",
+          "posted": "2026-08-26",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "d7d31318-32c4-4527-bb3e-6e7b98166860",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-08-26T19:01:04.443Z",
+            "id": "d7d31318-32c4-4527-bb3e-6e7b98166860",
+            "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
+            "matchKind": "entry_level",
+            "posted": "2026-08-26",
+            "url": "https://applyguy.ai/jobs?company=Twitch&job=d7d31318-32c4-4527-bb3e-6e7b98166860&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Twitch&job=d7d31318-32c4-4527-bb3e-6e7b98166860&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Twitch&job=d7d31318-32c4-4527-bb3e-6e7b98166860&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://job-boards.greenhouse.io/twitch/jobs/8748320002"
       ]
     },
     "greenhouse:vantagescore:4305333009": {
@@ -15905,14 +16012,14 @@
       ]
     },
     "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
       "canonical_id": "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398",
       "category": "Unknown",
       "company": "Amat",
       "first_seen": "2026-08-22T04:35:44Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-26T19:05:18Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-22T04:35:44Z",
       "location": "Santa Clara, CA",
@@ -15922,13 +16029,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
           "category": "Unknown",
           "company": "Amat",
           "first_seen": "2026-08-22T04:35:44Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-26T19:05:18Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-22T04:35:44Z",
           "location": "Santa Clara, CA",
@@ -18388,6 +18495,20 @@
         "https://www.zipline.com/open-roles?gh_jid=7886501003"
       ],
       "status": "sent"
+    },
+    "4a29a0c08d2d75ea6663396c646ab6ba1fde0e283389e7b43e7f12749d7ca4c9": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-26T19:05:18Z",
+      "issue_number": null,
+      "job_ids": [
+        "amazon:10515912",
+        "greenhouse:twitch:8748320002"
+      ],
+      "job_urls": [
+        "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
+        "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships"
+      ],
+      "status": "pending"
     },
     "50ce491ae99add1aaecf860b8481241dde523170d45bd3283abc412f1e7aa98b": {
       "application_scan_eligible": true,
