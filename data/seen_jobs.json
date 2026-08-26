@@ -4756,6 +4756,60 @@
         "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b"
       ]
     },
+    "ashby:zip:249837b3-106f-4751-a4f2-03a2c5df5faf": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+      "canonical_id": "ashby:zip:249837b3-106f-4751-a4f2-03a2c5df5faf",
+      "category": "Software Engineering",
+      "company": "Zip",
+      "first_seen": "2026-08-26T03:08:30Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-26T03:08:30Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern (Summer 2027)",
+      "posted": "2026-08-25",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+          "category": "Software Engineering",
+          "company": "Zip",
+          "first_seen": "2026-08-26T03:08:30Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T03:08:30Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern (Summer 2027)",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "c95c1e0e-bb15-4bc7-bd3e-18234f72f52b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-26T03:00:22.827Z",
+            "id": "c95c1e0e-bb15-4bc7-bd3e-18234f72f52b",
+            "listingUrl": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+            "posted": "2026-08-25",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
+      ]
+    },
     "greenhouse:ascend21:5351565008": {
       "active": true,
       "age": "33d",
@@ -18047,6 +18101,18 @@
         "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
       ],
       "status": "sent"
+    },
+    "8fdf78629e7ff0ad4e67ccebbe55390dace809b08a31280dca0684c8d2987b82": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-26T03:08:30Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:zip:249837b3-106f-4751-a4f2-03a2c5df5faf"
+      ],
+      "job_urls": [
+        "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
+      ],
+      "status": "pending"
     },
     "94a152a7e4549ad10ea872a1e79d515d21a8b8dc391c4b7687f5b8631c6e824e": {
       "application_scan_eligible": true,

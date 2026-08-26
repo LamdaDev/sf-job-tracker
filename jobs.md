@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (293)
+## Active Jobs (294)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Zip | Software Engineer Intern (Summer 2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-08-26T03:08:30Z | 2026-08-26T03:08:30Z | Yes | [Apply](<https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf>) |
 | Prophet Security | Software Engineer, Backend Intern | Internship | Software Engineering | Palo Alto, CA | ApplyGuy | N/A | 2026-08-26T01:27:15Z | 2026-08-26T01:27:15Z | Yes | [Apply](<https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612>) |
 | Prophet Security | Software Engineer, Backend New Graduate | New Grad | Unknown | Palo Alto, CA | ApplyGuy | N/A | 2026-08-26T01:27:15Z | 2026-08-26T01:27:15Z | Yes | [Apply](<https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069>) |
 | Verkada | Embedded Software Engineering Intern 2027 | Internship | Software Engineering | San Mateo, CA | ApplyGuy | N/A | 2026-08-26T01:27:15Z | 2026-08-26T01:27:15Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5211595007>) |

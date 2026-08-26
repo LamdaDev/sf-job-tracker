@@ -3306,6 +3306,52 @@
         "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b"
       ]
     },
+    "ashby:zip:249837b3-106f-4751-a4f2-03a2c5df5faf": {
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+      "canonical_id": "ashby:zip:249837b3-106f-4751-a4f2-03a2c5df5faf",
+      "category": "Software Engineering",
+      "company": "Zip",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern (Summer 2027)",
+      "posted": "2026-08-25",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+          "category": "Software Engineering",
+          "company": "Zip",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern (Summer 2027)",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "c95c1e0e-bb15-4bc7-bd3e-18234f72f52b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-26T03:00:22.827Z",
+            "id": "c95c1e0e-bb15-4bc7-bd3e-18234f72f52b",
+            "listingUrl": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+            "posted": "2026-08-25",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
+      ]
+    },
     "greenhouse:ascend21:5351565008": {
       "age": "33d",
       "application_url": "https://job-boards.greenhouse.io/ascend21/jobs/5351565008",
