@@ -18679,7 +18679,7 @@
     "ea5c1c2b46979bd0c49a722e97f0ecb9417a9bdc5c3e32372b9832692b15328c": {
       "application_scan_eligible": true,
       "created_at": "2026-08-26T13:58:49Z",
-      "issue_number": null,
+      "issue_number": 41,
       "job_ids": [
         "amazon:10514569",
         "ashby:zip:df6eb1ee-b360-46fe-b23f-658626ec59ea",
@@ -18696,7 +18696,7 @@
         "https://www.amazon.jobs/jobs/10514569/apply",
         "https://www.metacareers.com/jobs/2145505832666693"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "eb3550188134c58775d9d05059f894a30b1ba8bf0f25ca8a96d34d866f9ac3c9": {
       "application_scan_eligible": true,

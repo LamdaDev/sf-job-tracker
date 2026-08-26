@@ -1,5 +1,26 @@
 {
   "scans": {
+    "amazon:10514569": {
+      "application_url": "https://www.amazon.jobs/applicant/dashboard/applications",
+      "attempt_count": 1,
+      "canonical_job_id": "amazon:10514569",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-26T13:58:53Z",
+      "http_status": 200,
+      "issue_number": 41,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-26T13:58:53Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-26T13:58:53Z",
+      "status": "unavailable"
+    },
     "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c": {
       "application_url": "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c",
       "attempt_count": 1,
@@ -209,6 +230,274 @@
       "questions": [],
       "scanned_at": "2026-08-26T03:08:33Z",
       "status": "unavailable"
+    },
+    "ashby:zip:df6eb1ee-b360-46fe-b23f-658626ec59ea": {
+      "application_url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:zip:df6eb1ee-b360-46fe-b23f-658626ec59ea",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-26T13:58:57Z",
+      "http_status": 200,
+      "issue_number": 41,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-26T13:58:57Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-08-26T13:58:57Z",
+      "status": "unavailable"
+    },
+    "greenhouse:archer56:7977707003": {
+      "application_url": "https://job-boards.greenhouse.io/archer56/jobs/7977707003",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:archer56:7977707003",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-26T13:58:58Z",
+      "http_status": 200,
+      "issue_number": 41,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-26T13:58:58Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 6,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_32478593003",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you legally authorized to work in the United States?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_32478594003",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now or in the future require sponsorship for an immigration-related employment benefit?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_32478595003",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you willing to accept a salary in the range of $169,208.00 to $177,668.40 per year?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_32478596003",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you willing to work in San Jose, CA?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_32478597003",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you have a Bachelor’s degree in Computer Science or Computer Engineering?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_32478598003",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Do you have 12 months of experience with Python, AWS, Data Governance, ETL Pipeline, and Docker?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 15,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 16,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-08-26T13:58:58Z",
+      "status": "complete"
     },
     "greenhouse:chime:8606649002": {
       "application_url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
@@ -917,6 +1206,137 @@
         }
       ],
       "scanned_at": "2026-08-25T13:53:08Z",
+      "status": "complete"
+    },
+    "greenhouse:vercel:6161129004": {
+      "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:vercel:6161129004",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-26T13:59:00Z",
+      "http_status": 200,
+      "issue_number": 41,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-26T13:59:00Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19651388004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19651389004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "location_questions"
+        }
+      ],
+      "scanned_at": "2026-08-26T13:59:00Z",
       "status": "complete"
     },
     "greenhouse:verkada:5210813007": {
@@ -2779,6 +3199,27 @@
       "scanned_at": "2026-08-25T13:53:09Z",
       "status": "unavailable"
     },
+    "url:https://www.metacareers.com/jobs/2145505832666693": {
+      "application_url": "https://www.metacareers.com/jobs/2145505832666693",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.metacareers.com/jobs/2145505832666693",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-26T13:59:01Z",
+      "http_status": 200,
+      "issue_number": 41,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-26T13:59:01Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-26T13:59:01Z",
+      "status": "unavailable"
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
       "attempt_count": 1,
@@ -3176,6 +3617,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-20T23:28:34Z",
+      "status": "unavailable"
+    },
+    "workday:salesforce.wd12.myworkdayjobs.com:software-engineer--ai-applications_jr357086": {
+      "application_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:salesforce.wd12.myworkdayjobs.com:software-engineer--ai-applications_jr357086",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-26T13:59:03Z",
+      "http_status": 200,
+      "issue_number": 41,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-26T13:59:03Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-26T13:59:03Z",
       "status": "unavailable"
     },
     "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432": {
