@@ -378,6 +378,50 @@
         "https://www.amazon.jobs/jobs/10502486/apply"
       ]
     },
+    "amazon:10514569": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://www.amazon.jobs/jobs/10514569/apply",
+      "canonical_id": "amazon:10514569",
+      "category": "FAANG+",
+      "company": "Amazon",
+      "first_seen": "2026-08-26T13:58:49Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-26T13:58:49Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - Browser Client",
+      "posted": null,
+      "salary": "$186k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.amazon.jobs/jobs/10514569/apply",
+          "category": "FAANG+",
+          "company": "Amazon",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Browser Client",
+          "posted": null,
+          "salary": "$186k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.amazon.jobs/jobs/10514569/apply"
+        }
+      },
+      "url_aliases": [
+        "https://www.amazon.jobs/jobs/10514569/apply"
+      ]
+    },
     "ashby:abridge:3f07a457-dc14-4238-bf4e-5c33b5c1f883": {
       "active": true,
       "age": "2d",
@@ -3909,14 +3953,14 @@
       ]
     },
     "ashby:rivianvw.tech:2c209e52-8723-4c78-abf7-f0394f6537bc": {
-      "active": true,
+      "active": false,
       "age": "81d",
       "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc",
       "canonical_id": "ashby:rivianvw.tech:2c209e52-8723-4c78-abf7-f0394f6537bc",
       "category": "FAANG+",
       "company": "Rivian",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-26T13:58:49Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Palo Alto, CA",
@@ -3926,13 +3970,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "81d",
           "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc",
           "category": "FAANG+",
           "company": "Rivian",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-26T13:58:49Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Palo Alto, CA",
@@ -4761,14 +4805,14 @@
       "age": "1d",
       "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
       "canonical_id": "ashby:zip:249837b3-106f-4751-a4f2-03a2c5df5faf",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zip",
       "first_seen": "2026-08-26T03:08:30Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-26T03:08:30Z",
+      "last_seen": "2026-08-26T13:58:49Z",
       "location": "San Francisco, CA",
-      "position": "Software Engineer Intern (Summer 2027)",
+      "position": "Software Engineer Intern - Summer 2027",
       "posted": "2026-08-25",
       "salary": null,
       "season": "Summer 2027",
@@ -4803,11 +4847,121 @@
             "url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+          "category": "Other",
+          "company": "Zip",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
+      ]
+    },
+    "ashby:zip:df6eb1ee-b360-46fe-b23f-658626ec59ea": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+      "canonical_id": "ashby:zip:df6eb1ee-b360-46fe-b23f-658626ec59ea",
+      "category": "Other",
+      "company": "Zip",
+      "first_seen": "2026-08-26T13:58:49Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-26T13:58:49Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - New Grad - 2027 Start",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+          "category": "Other",
+          "company": "Zip",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - New Grad - 2027 Start",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea"
+      ]
+    },
+    "greenhouse:archer56:7977707003": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/archer56/jobs/7977707003",
+      "canonical_id": "greenhouse:archer56:7977707003",
+      "category": "Other",
+      "company": "Archer",
+      "first_seen": "2026-08-26T13:58:49Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-26T13:58:49Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer - SJ2026BS",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/archer56/jobs/7977707003",
+          "category": "Other",
+          "company": "Archer",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer - SJ2026BS",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/archer56/jobs/7977707003"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/archer56/jobs/7977707003"
       ]
     },
     "greenhouse:ascend21:5351565008": {
@@ -6317,6 +6471,50 @@
         "https://job-boards.greenhouse.io/vantagescore/jobs/4305333009"
       ]
     },
+    "greenhouse:vercel:6161129004": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
+      "canonical_id": "greenhouse:vercel:6161129004",
+      "category": "Other",
+      "company": "Vercel",
+      "first_seen": "2026-08-26T13:58:49Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-26T13:58:49Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - Data Platform",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
+          "category": "Other",
+          "company": "Vercel",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Data Platform",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/vercel/jobs/6161129004"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/vercel/jobs/6161129004"
+      ]
+    },
     "greenhouse:verkada:5191604007": {
       "active": true,
       "age": "26d",
@@ -6542,12 +6740,12 @@
       "age": "0d",
       "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
       "canonical_id": "greenhouse:verkada:5210813007",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Verkada",
       "first_seen": "2026-08-25T18:43:03Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-26T01:27:15Z",
+      "last_seen": "2026-08-26T13:58:49Z",
       "location": "San Mateo, CA",
       "position": "Backend Software Engineering Intern 2027",
       "posted": "2026-08-25",
@@ -6608,6 +6806,28 @@
             "simplify_url": "https://simplify.jobs/p/27ec0955-4e9f-417f-b354-3581a4623c59?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/27ec0955-4e9f-417f-b354-3581a4623c59?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+          "category": "Other",
+          "company": "Verkada",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Mateo, CA",
+          "position": "Backend Software Engineering Intern 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007"
         }
       },
       "url_aliases": [
@@ -6622,12 +6842,12 @@
       "age": "0d",
       "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
       "canonical_id": "greenhouse:verkada:5210942007",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Verkada",
       "first_seen": "2026-08-25T18:43:03Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-26T01:27:15Z",
+      "last_seen": "2026-08-26T13:58:49Z",
       "location": "San Mateo, CA",
       "position": "Frontend Software Engineering Intern 2027",
       "posted": "2026-08-25",
@@ -6688,6 +6908,28 @@
             "simplify_url": "https://simplify.jobs/p/20898b37-1e46-4759-b318-1a51ae4d1200?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/20898b37-1e46-4759-b318-1a51ae4d1200?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+          "category": "Other",
+          "company": "Verkada",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Mateo, CA",
+          "position": "Frontend Software Engineering Intern 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007"
         }
       },
       "url_aliases": [
@@ -6702,12 +6944,12 @@
       "age": "1d",
       "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
       "canonical_id": "greenhouse:verkada:5211595007",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Verkada",
       "first_seen": "2026-08-26T01:27:15Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-26T01:27:15Z",
+      "last_seen": "2026-08-26T13:58:49Z",
       "location": "San Mateo, CA",
       "position": "Embedded Software Engineering Intern 2027",
       "posted": "2026-08-25",
@@ -6744,6 +6986,28 @@
             "url": "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+          "category": "Other",
+          "company": "Verkada",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Mateo, CA",
+          "position": "Embedded Software Engineering Intern 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007"
         }
       },
       "url_aliases": [
@@ -6756,12 +7020,12 @@
       "age": "0d",
       "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
       "canonical_id": "greenhouse:verkada:5213881007",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Verkada",
       "first_seen": "2026-08-25T18:43:03Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-26T01:27:15Z",
+      "last_seen": "2026-08-26T13:58:49Z",
       "location": "San Mateo, CA",
       "position": "Security Software Engineering Intern 2027",
       "posted": "2026-08-25",
@@ -6822,6 +7086,28 @@
             "simplify_url": "https://simplify.jobs/p/d16387c0-00df-452f-95bb-dd8aab25a372?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/d16387c0-00df-452f-95bb-dd8aab25a372?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+          "category": "Other",
+          "company": "Verkada",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Mateo, CA",
+          "position": "Security Software Engineering Intern 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
         }
       },
       "url_aliases": [
@@ -6836,12 +7122,12 @@
       "age": "0d",
       "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
       "canonical_id": "greenhouse:verkada:5219131007",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Verkada",
       "first_seen": "2026-08-25T18:43:03Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-26T01:27:15Z",
+      "last_seen": "2026-08-26T13:58:49Z",
       "location": "San Mateo, CA",
       "position": "Mobile Software Engineering Intern 2027",
       "posted": "2026-08-25",
@@ -6902,6 +7188,28 @@
             "simplify_url": "https://simplify.jobs/p/5dc175a4-02e4-4a5c-a8b7-054139db1ef9?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/5dc175a4-02e4-4a5c-a8b7-054139db1ef9?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+          "category": "Other",
+          "company": "Verkada",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Mateo, CA",
+          "position": "Mobile Software Engineering Intern 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007"
         }
       },
       "url_aliases": [
@@ -14714,6 +15022,50 @@
         "https://www.ixl.com/company/jobs?gh_jid=8662881002"
       ]
     },
+    "url:https://www.metacareers.com/jobs/2145505832666693": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://www.metacareers.com/jobs/2145505832666693",
+      "canonical_id": "url:https://www.metacareers.com/jobs/2145505832666693",
+      "category": "FAANG+",
+      "company": "Meta",
+      "first_seen": "2026-08-26T13:58:49Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-26T13:58:49Z",
+      "location": "Sunnyvale, CA",
+      "position": "Software Engineer - Systems ML - Compilers / Backend",
+      "posted": null,
+      "salary": "$186k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.metacareers.com/jobs/2145505832666693",
+          "category": "FAANG+",
+          "company": "Meta",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "Sunnyvale, CA",
+          "position": "Software Engineer - Systems ML - Compilers / Backend",
+          "posted": null,
+          "salary": "$186k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.metacareers.com/jobs/2145505832666693"
+        }
+      },
+      "url_aliases": [
+        "https://www.metacareers.com/jobs/2145505832666693"
+      ]
+    },
     "url:https://www.observe.ai/position?gh_jid=5383979008": {
       "active": true,
       "age": "7d",
@@ -15101,14 +15453,14 @@
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7893926003",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "Zipline",
       "first_seen": "2026-08-18T22:37:06Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-24T09:51:35Z",
+      "last_seen": "2026-08-26T13:58:49Z",
       "location": "South San Francisco, CA",
-      "position": "Enterprise Systems Software Engineer Intern - Spring 2027",
+      "position": "Enterprise Systems Software Engineer Intern (Spring 2027)",
       "posted": "2026-08-18",
       "salary": null,
       "season": "Spring 2027",
@@ -15145,13 +15497,13 @@
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
         },
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "0d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
           "category": "Other",
           "company": "Zipline",
           "first_seen": "2026-08-19T13:46:58Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-26T13:58:49Z",
           "job_type": "Internship",
           "last_seen": "2026-08-19T13:46:58Z",
           "location": "South San Francisco, CA",
@@ -15481,14 +15833,14 @@
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7974897003",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zipline",
       "first_seen": "2026-08-25T23:27:18Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-25T23:27:18Z",
+      "last_seen": "2026-08-26T13:58:49Z",
       "location": "South San Francisco, CA",
-      "position": "Embedded Software Engineer Intern (Spring 2027)",
+      "position": "Embedded Software Engineer Intern - Spring 2027",
       "posted": "2026-08-25",
       "salary": null,
       "season": "Spring 2027",
@@ -15523,6 +15875,28 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=aebc61e4-6d42-4c65-8621-41e79d8d092b&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=aebc61e4-6d42-4c65-8621-41e79d8d092b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
+          "category": "Other",
+          "company": "Zipline",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "South San Francisco, CA",
+          "position": "Embedded Software Engineer Intern - Spring 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles?gh_jid=7974897003"
         }
       },
       "url_aliases": [
@@ -15848,14 +16222,14 @@
       ]
     },
     "workday:ebay.wd5.myworkdayjobs.com:software-engineer-2_r0076483": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/San-Jose/Software-Engineer-2_R0076483",
       "canonical_id": "workday:ebay.wd5.myworkdayjobs.com:software-engineer-2_r0076483",
       "category": "Other",
       "company": "eBay",
       "first_seen": "2026-08-18T13:44:34Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-26T13:58:49Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-18T13:44:34Z",
       "location": "San Jose, CA",
@@ -15865,13 +16239,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/San-Jose/Software-Engineer-2_R0076483",
           "category": "Other",
           "company": "eBay",
           "first_seen": "2026-08-18T13:44:34Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-26T13:58:49Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-18T13:44:34Z",
           "location": "San Jose, CA",
@@ -17692,6 +18066,50 @@
         "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
       ]
     },
+    "workday:salesforce.wd12.myworkdayjobs.com:software-engineer--ai-applications_jr357086": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086",
+      "canonical_id": "workday:salesforce.wd12.myworkdayjobs.com:software-engineer--ai-applications_jr357086",
+      "category": "FAANG+",
+      "company": "Salesforce",
+      "first_seen": "2026-08-26T13:58:49Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-26T13:58:49Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - AI Applications",
+      "posted": null,
+      "salary": "$176k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086",
+          "category": "FAANG+",
+          "company": "Salesforce",
+          "first_seen": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-26T13:58:49Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - AI Applications",
+          "posted": null,
+          "salary": "$176k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086"
+        }
+      },
+      "url_aliases": [
+        "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086"
+      ]
+    },
     "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432": {
       "active": false,
       "age": "Today",
@@ -18257,6 +18675,28 @@
         "https://lifeattiktok.com/search/7675829388634392837"
       ],
       "status": "sent"
+    },
+    "ea5c1c2b46979bd0c49a722e97f0ecb9417a9bdc5c3e32372b9832692b15328c": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-26T13:58:49Z",
+      "issue_number": null,
+      "job_ids": [
+        "amazon:10514569",
+        "ashby:zip:df6eb1ee-b360-46fe-b23f-658626ec59ea",
+        "greenhouse:archer56:7977707003",
+        "greenhouse:vercel:6161129004",
+        "url:https://www.metacareers.com/jobs/2145505832666693",
+        "workday:salesforce.wd12.myworkdayjobs.com:software-engineer--ai-applications_jr357086"
+      ],
+      "job_urls": [
+        "https://job-boards.greenhouse.io/archer56/jobs/7977707003",
+        "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
+        "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+        "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086",
+        "https://www.amazon.jobs/jobs/10514569/apply",
+        "https://www.metacareers.com/jobs/2145505832666693"
+      ],
+      "status": "pending"
     },
     "eb3550188134c58775d9d05059f894a30b1ba8bf0f25ca8a96d34d866f9ac3c9": {
       "application_scan_eligible": true,
