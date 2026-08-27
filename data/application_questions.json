@@ -168,6 +168,27 @@
       "scanned_at": "2026-08-19T01:23:37Z",
       "status": "unavailable"
     },
+    "ashby:kognitos:a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5": {
+      "application_url": "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:kognitos:a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-27T04:23:59Z",
+      "http_status": 200,
+      "issue_number": 43,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-27T04:23:59Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-08-27T04:23:59Z",
+      "status": "unavailable"
+    },
     "ashby:prophet-security:51415149-9b19-4164-84b9-2ffa78478069": {
       "application_url": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069",
       "attempt_count": 1,
@@ -761,6 +782,26 @@
       ],
       "scanned_at": "2026-08-22T13:34:19Z",
       "status": "complete"
+    },
+    "greenhouse:energysolutions:5222428007": {
+      "application_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:energysolutions:5222428007",
+      "completeness_reason": "Application appears to be closed or unavailable.",
+      "error_message": "GreenhouseFetchError while fetching the public Greenhouse schema.",
+      "error_type": "GreenhouseFetchError",
+      "first_scanned": "2026-08-27T04:24:00Z",
+      "http_status": 404,
+      "issue_number": 43,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-27T04:24:00Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [],
+      "scanned_at": "2026-08-27T04:24:00Z",
+      "status": "unavailable"
     },
     "greenhouse:kikoff:4376677009": {
       "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
@@ -4222,6 +4263,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-08-21T23:26:56Z",
+      "status": "unavailable"
+    },
+    "url:https://www.zipline.com/open-roles?gh_jid=7974890003": {
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles?gh_jid=7974890003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-27T04:24:01Z",
+      "http_status": 200,
+      "issue_number": 43,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-27T04:24:01Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-27T04:24:01Z",
       "status": "unavailable"
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7974897003": {
