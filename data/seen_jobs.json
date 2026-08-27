@@ -17431,13 +17431,13 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "active": true,
+          "active": false,
           "age": "0d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
           "category": "FAANG+",
           "company": "NVIDIA",
           "first_seen": "2026-08-19T12:50:02Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-27T16:13:42Z",
           "job_type": "Internship",
           "last_seen": "2026-08-19T12:50:02Z",
           "location": "Canada | Santa Clara, CA",
