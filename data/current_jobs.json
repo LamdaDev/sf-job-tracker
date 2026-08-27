@@ -1454,10 +1454,37 @@
       "job_type": "New Grad",
       "location": "San Francisco, CA",
       "position": "Software Engineer I - Handshake AI",
-      "posted": null,
+      "posted": "2026-07-30",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "28d",
+          "application_url": "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3",
+          "category": "Unknown",
+          "company": "Handshake",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer I, Handshake AI",
+          "posted": "2026-07-30",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "b6a921c1-881c-4552-b56b-92eb4c2c8020",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "28d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-08-27T04:16:07.536Z",
+            "id": "b6a921c1-881c-4552-b56b-92eb4c2c8020",
+            "listingUrl": "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3",
+            "matchKind": "entry_level",
+            "posted": "2026-07-30",
+            "url": "https://applyguy.ai/jobs?company=Handshake&job=b6a921c1-881c-4552-b56b-92eb4c2c8020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Handshake&job=b6a921c1-881c-4552-b56b-92eb4c2c8020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "17d",
           "application_url": "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3",
@@ -1478,6 +1505,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Handshake&job=b6a921c1-881c-4552-b56b-92eb4c2c8020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3"
       ]
     },
@@ -1871,6 +1899,52 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808"
+      ]
+    },
+    "ashby:kognitos:a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5": {
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5",
+      "canonical_id": "ashby:kognitos:a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5",
+      "category": "Software Engineering",
+      "company": "Kognitos",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern (AI-Native) — Fall 2026",
+      "posted": "2026-08-26",
+      "salary": null,
+      "season": "Fall 2026",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5",
+          "category": "Software Engineering",
+          "company": "Kognitos",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern (AI-Native) — Fall 2026",
+          "posted": "2026-08-26",
+          "salary": null,
+          "season": "Fall 2026",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "941d7482-e7ef-4dd8-987f-42c8668e9809",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-27T04:15:14.158Z",
+            "id": "941d7482-e7ef-4dd8-987f-42c8668e9809",
+            "listingUrl": "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5",
+            "posted": "2026-08-26",
+            "season": "Fall 2026",
+            "url": "https://applyguy.ai/jobs?company=Kognitos&job=941d7482-e7ef-4dd8-987f-42c8668e9809&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Kognitos&job=941d7482-e7ef-4dd8-987f-42c8668e9809&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Kognitos&job=941d7482-e7ef-4dd8-987f-42c8668e9809&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5"
       ]
     },
     "ashby:kos.ai:efab6ffb-9658-47f7-8b5f-a295c55957d3": {
@@ -3744,6 +3818,52 @@
       },
       "url_aliases": [
         "https://job-boards.greenhouse.io/discord/jobs/8609250002"
+      ]
+    },
+    "greenhouse:energysolutions:5222428007": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
+      "canonical_id": "greenhouse:energysolutions:5222428007",
+      "category": "Unknown",
+      "company": "Energy Solutions - USA",
+      "job_type": "New Grad",
+      "location": "Oakland, CA",
+      "position": "Software Engineer I (Oakland, CA - US)",
+      "posted": "2026-08-26",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
+          "category": "Unknown",
+          "company": "Energy Solutions - USA",
+          "job_type": "New Grad",
+          "location": "Oakland, CA",
+          "position": "Software Engineer I (Oakland, CA - US)",
+          "posted": "2026-08-26",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-08-27T04:16:07.536Z",
+            "id": "52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6",
+            "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
+            "matchKind": "entry_level",
+            "posted": "2026-08-26",
+            "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007"
       ]
     },
     "greenhouse:figma:6131089004": {
@@ -12016,6 +12136,52 @@
         "https://www.zipline.com/open-roles?gh_jid=7929236003"
       ]
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7974890003": {
+      "age": "1d",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7974890003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Embedded Software Engineer Intern (Spring 2027)",
+      "posted": "2026-08-26",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Embedded Software Engineer Intern (Spring 2027)",
+          "posted": "2026-08-26",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "78639e6b-9f9c-41be-9733-89de49ac7963",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-08-27T04:15:14.158Z",
+            "id": "78639e6b-9f9c-41be-9733-89de49ac7963",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+            "posted": "2026-08-26",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7974890003"
+      ]
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7974897003": {
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
@@ -12029,33 +12195,6 @@
       "salary": null,
       "season": "Spring 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "Today",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
-          "category": "Software Engineering",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Embedded Software Engineer Intern (Spring 2027)",
-          "posted": "2026-08-25",
-          "salary": null,
-          "season": "Spring 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "aebc61e4-6d42-4c65-8621-41e79d8d092b",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "Today",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-25T23:15:30.286Z",
-            "id": "aebc61e4-6d42-4c65-8621-41e79d8d092b",
-            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7974897003",
-            "posted": "2026-08-25",
-            "season": "Spring 2027",
-            "url": "https://applyguy.ai/jobs?company=Zipline&job=aebc61e4-6d42-4c65-8621-41e79d8d092b&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=aebc61e4-6d42-4c65-8621-41e79d8d092b&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
@@ -13144,7 +13283,7 @@
     },
     "workday:nvidia.wd5.myworkdayjobs.com:systems-software-engineer--accelerated-kubernetes-performance-and-scale---new-college-grad-2026_jr2020957": {
       "age": "31d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:systems-software-engineer--accelerated-kubernetes-performance-and-scale---new-college-grad-2026_jr2020957",
       "category": "Unknown",
       "company": "NVIDIA",
@@ -13156,8 +13295,8 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "age": "31d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
+          "age": "41d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
           "category": "Unknown",
           "company": "NVIDIA",
           "job_type": "New Grad",
@@ -13168,24 +13307,26 @@
           "season": null,
           "source_file": "data/new-grad-jobs.json",
           "source_id": "applyguy_new_grad",
-          "source_job_id": "b2aaed45-a5bb-4a9b-b91a-6ac0121afcca",
+          "source_job_id": "6cf5ac51-4c91-4148-aaba-a328718ab5fe",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "31d",
+            "age": "41d",
             "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "b2aaed45-a5bb-4a9b-b91a-6ac0121afcca",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
+            "feedUpdatedAt": "2026-08-27T04:16:07.536Z",
+            "id": "6cf5ac51-4c91-4148-aaba-a328718ab5fe",
+            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
             "matchKind": "explicit",
             "posted": "2026-07-17",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=b2aaed45-a5bb-4a9b-b91a-6ac0121afcca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=6cf5ac51-4c91-4148-aaba-a328718ab5fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=b2aaed45-a5bb-4a9b-b91a-6ac0121afcca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=6cf5ac51-4c91-4148-aaba-a328718ab5fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=NVIDIA&job=6cf5ac51-4c91-4148-aaba-a328718ab5fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://applyguy.ai/jobs?company=NVIDIA&job=b2aaed45-a5bb-4a9b-b91a-6ac0121afcca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957"
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
+        "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957"
       ]
     },
     "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930": {
