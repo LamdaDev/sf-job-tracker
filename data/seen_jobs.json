@@ -5148,14 +5148,14 @@
       ]
     },
     "greenhouse:astranis:4619283006": {
-      "active": true,
+      "active": false,
       "age": "109d",
       "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4619283006",
       "canonical_id": "greenhouse:astranis:4619283006",
       "category": "Other",
       "company": "Astranis Space Technologies",
       "first_seen": "2026-08-17T05:05:43Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-28T01:21:17Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Francisco, CA",
@@ -5165,13 +5165,13 @@
       "season": null,
       "sources": {
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "109d",
           "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4619283006",
           "category": "Other",
           "company": "Astranis Space Technologies",
           "first_seen": "2026-08-17T05:05:43Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-28T01:21:17Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -5400,14 +5400,14 @@
       ]
     },
     "greenhouse:cssmerge:8687896002": {
-      "active": true,
+      "active": false,
       "age": "9d",
       "application_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
       "canonical_id": "greenhouse:cssmerge:8687896002",
       "category": "Unknown",
       "company": "Atoms",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-28T01:21:17Z",
       "job_type": "Internship",
       "last_seen": "2026-08-26T19:05:18Z",
       "location": "Seattle, WA | SF | LA | NYC | Mountain View, CA",
@@ -5417,13 +5417,13 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "active": true,
+          "active": false,
           "age": "18d",
           "application_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
           "category": "Unknown",
           "company": "Atoms",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-28T01:21:17Z",
           "job_type": "Internship",
           "last_seen": "2026-08-26T19:05:18Z",
           "location": "Seattle, WA | SF | LA | NYC | Mountain View, CA",
@@ -15499,6 +15499,53 @@
         "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343"
       ]
     },
+    "url:https://www.tesla.com/careers/search/job/281097?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://www.tesla.com/careers/search/job/281097?ref=Simplify",
+      "category": "FAANG+",
+      "company": "Tesla",
+      "first_seen": "2026-08-28T01:21:17Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-28T01:21:17Z",
+      "location": "Palo Alto, CA",
+      "position": "Software Engineer Intern - Vehicle Software - Summer 2027",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Tesla",
+          "first_seen": "2026-08-28T01:21:17Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-28T01:21:17Z",
+          "location": "Palo Alto, CA",
+          "position": "Software Engineer Intern - Vehicle Software - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "c5bd1b3f-c4a1-4606-b687-e4afcc112363",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/c5bd1b3f-c4a1-4606-b687-e4afcc112363?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/c5bd1b3f-c4a1-4606-b687-e4afcc112363?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/c5bd1b3f-c4a1-4606-b687-e4afcc112363?utm_source=GHList",
+        "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify"
+      ]
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7765240003": {
       "active": false,
       "age": "71d",
@@ -16348,14 +16395,14 @@
       ]
     },
     "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
       "canonical_id": "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686",
       "category": "Other",
       "company": "Autodesk",
       "first_seen": "2026-08-20T13:50:27Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-28T01:21:17Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-20T13:50:27Z",
       "location": "San Francisco, CA",
@@ -16365,13 +16412,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
           "category": "Other",
           "company": "Autodesk",
           "first_seen": "2026-08-20T13:50:27Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-28T01:21:17Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-20T13:50:27Z",
           "location": "San Francisco, CA",
@@ -17370,14 +17417,14 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:developer-technology-engineer--public-sector---new-college-grad-2026_jr2008990": {
-      "active": true,
+      "active": false,
       "age": "26d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:developer-technology-engineer--public-sector---new-college-grad-2026_jr2008990",
       "category": "FAANG+",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-28T01:21:17Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Santa Clara, CA",
@@ -17387,13 +17434,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "26d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
           "category": "FAANG+",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-28T01:21:17Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Santa Clara, CA",
@@ -17572,14 +17619,14 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522": {
-      "active": true,
+      "active": false,
       "age": "87d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522",
       "category": "FAANG+",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-28T01:21:17Z",
       "job_type": "Internship",
       "last_seen": "2026-08-25T13:53:03Z",
       "location": "Santa Clara, CA",
@@ -17589,13 +17636,13 @@
       "season": null,
       "sources": {
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "95d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
           "category": "FAANG+",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-28T01:21:17Z",
           "job_type": "Internship",
           "last_seen": "2026-08-25T13:53:03Z",
           "location": "Santa Clara, CA",
@@ -17791,14 +17838,14 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--tensorrt-specialized-platforms---new-college-grad-2025_jr2002870": {
-      "active": true,
+      "active": false,
       "age": "80d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--tensorrt-specialized-platforms---new-college-grad-2025_jr2002870",
       "category": "FAANG+",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-28T01:21:17Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Santa Clara, CA",
@@ -17808,13 +17855,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "80d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
           "category": "FAANG+",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-28T01:21:17Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Santa Clara, CA",
@@ -18210,14 +18257,14 @@
     "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930": {
       "active": true,
       "age": "Today",
-      "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+      "application_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
       "canonical_id": "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930",
-      "category": "Unknown",
-      "company": "Quickenloans",
+      "category": "Other",
+      "company": "Rocket Companies",
       "first_seen": "2026-08-21T17:31:56Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-08-21T17:31:56Z",
+      "last_seen": "2026-08-28T01:21:17Z",
       "location": "San Francisco, CA",
       "position": "Software Developer I - Search",
       "posted": "2026-08-21",
@@ -18254,10 +18301,33 @@
             "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
           "source_url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "6d",
+          "application_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+          "category": "Other",
+          "company": "Rocket Companies",
+          "first_seen": "2026-08-28T01:21:17Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-28T01:21:17Z",
+          "location": "San Francisco, CA",
+          "position": "Software Developer I - Search",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
         "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
       ]
     },
@@ -18940,6 +19010,18 @@
         "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
       ],
       "status": "sent"
+    },
+    "c0d81571163b2b4475daeb51d028a4a3b899d0e92b7fc45b913d737df2b7d91a": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-28T01:21:17Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://www.tesla.com/careers/search/job/281097?ref=Simplify"
+      ],
+      "job_urls": [
+        "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "ce7313245413f52b4784253d179f455cddf875463006875aab4543b961e10af9": {
       "application_scan_eligible": true,

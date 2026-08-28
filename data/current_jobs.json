@@ -3597,42 +3597,6 @@
         "https://job-boards.greenhouse.io/ascend21/jobs/5351565008"
       ]
     },
-    "greenhouse:astranis:4619283006": {
-      "age": "109d",
-      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4619283006",
-      "canonical_id": "greenhouse:astranis:4619283006",
-      "category": "Other",
-      "company": "Astranis Space Technologies",
-      "job_type": "Internship",
-      "location": "San Francisco, CA",
-      "position": "Flight Software Intern - Fall 2026",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_internships": {
-          "age": "109d",
-          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4619283006",
-          "category": "Other",
-          "company": "Astranis Space Technologies",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Flight Software Intern - Fall 2026",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://job-boards.greenhouse.io/astranis/jobs/4619283006"
-        }
-      },
-      "url_aliases": [
-        "https://job-boards.greenhouse.io/astranis/jobs/4619283006"
-      ]
-    },
     "greenhouse:astranis:4699071006": {
       "age": "24d",
       "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
@@ -3704,45 +3668,6 @@
       },
       "url_aliases": [
         "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002"
-      ]
-    },
-    "greenhouse:cssmerge:8687896002": {
-      "age": "9d",
-      "application_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
-      "canonical_id": "greenhouse:cssmerge:8687896002",
-      "category": "Unknown",
-      "company": "Atoms",
-      "job_type": "Internship",
-      "location": "Seattle, WA | SF | LA | NYC | Mountain View, CA",
-      "position": "Software Engineer Intern - Summer 2027",
-      "posted": null,
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "simplify_summer_2027": {
-          "age": "18d",
-          "application_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
-          "company": "Atoms",
-          "job_type": "Internship",
-          "location": "Seattle, WA | SF | LA | NYC | Mountain View, CA",
-          "position": "Software Engineer Intern - Summer 2027",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "2751af83-9f4f-48b8-8aba-6f534e9681e7",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/2751af83-9f4f-48b8-8aba-6f534e9681e7?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/2751af83-9f4f-48b8-8aba-6f534e9681e7?utm_source=GHList"
-        }
-      },
-      "url_aliases": [
-        "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=Simplify&ref=Simplify",
-        "https://simplify.jobs/p/2751af83-9f4f-48b8-8aba-6f534e9681e7?utm_source=GHList"
       ]
     },
     "greenhouse:cssmerge:8693034002": {
@@ -11742,6 +11667,45 @@
         "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
       ]
     },
+    "url:https://www.tesla.com/careers/search/job/281097?ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://www.tesla.com/careers/search/job/281097?ref=Simplify",
+      "category": "FAANG+",
+      "company": "Tesla",
+      "job_type": "Internship",
+      "location": "Palo Alto, CA",
+      "position": "Software Engineer Intern - Vehicle Software - Summer 2027",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Tesla",
+          "job_type": "Internship",
+          "location": "Palo Alto, CA",
+          "position": "Software Engineer Intern - Vehicle Software - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "c5bd1b3f-c4a1-4606-b687-e4afcc112363",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/c5bd1b3f-c4a1-4606-b687-e4afcc112363?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/c5bd1b3f-c4a1-4606-b687-e4afcc112363?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/c5bd1b3f-c4a1-4606-b687-e4afcc112363?utm_source=GHList",
+        "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify"
+      ]
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
       "age": "0d",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
@@ -12253,42 +12217,6 @@
       },
       "url_aliases": [
         "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781"
-      ]
-    },
-    "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686": {
-      "age": "1d",
-      "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
-      "canonical_id": "workday:autodesk.wd1.myworkdayjobs.com:software-engineer_26wd100686",
-      "category": "Other",
-      "company": "Autodesk",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "1d",
-          "application_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686",
-          "category": "Other",
-          "company": "Autodesk",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686"
-        }
-      },
-      "url_aliases": [
-        "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686"
       ]
     },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
@@ -12814,42 +12742,6 @@
         "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071"
       ]
     },
-    "workday:nvidia.wd5.myworkdayjobs.com:developer-technology-engineer--public-sector---new-college-grad-2026_jr2008990": {
-      "age": "26d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:developer-technology-engineer--public-sector---new-college-grad-2026_jr2008990",
-      "category": "FAANG+",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Developer Technology Engineer - Public Sector - New College Grad 2026",
-      "posted": null,
-      "salary": "$172k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "26d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
-          "category": "FAANG+",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Developer Technology Engineer - Public Sector - New College Grad 2026",
-          "posted": null,
-          "salary": "$172k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990"
-        }
-      },
-      "url_aliases": [
-        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990"
-      ]
-    },
     "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--software-engineering_jr2023495": {
       "age": "0d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
@@ -12960,42 +12852,6 @@
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
       ]
     },
-    "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522": {
-      "age": "87d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:phd-software-engineering-intern--decision-intelligence---fall-2026_jr2017522",
-      "category": "FAANG+",
-      "company": "NVIDIA",
-      "job_type": "Internship",
-      "location": "Santa Clara, CA",
-      "position": "PhD Software Engineering Intern - Decision Intelligence - Fall 2026",
-      "posted": null,
-      "salary": "$62/hr",
-      "season": null,
-      "sources": {
-        "speedyapply_internships": {
-          "age": "95d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
-          "category": "FAANG+",
-          "company": "NVIDIA",
-          "job_type": "Internship",
-          "location": "Santa Clara, CA",
-          "position": "PhD Software Engineering Intern - Decision Intelligence - Fall 2026",
-          "posted": null,
-          "salary": "$62/hr",
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
-        }
-      },
-      "url_aliases": [
-        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
-      ]
-    },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659": {
       "age": "75d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
@@ -13076,42 +12932,6 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=NVIDIA&job=854d218e-1cac-42de-9f3e-f9323cbd8603&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823"
-      ]
-    },
-    "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--tensorrt-specialized-platforms---new-college-grad-2025_jr2002870": {
-      "age": "80d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--tensorrt-specialized-platforms---new-college-grad-2025_jr2002870",
-      "category": "FAANG+",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Software Engineer - TensorRT Specialized Platforms - New College Grad 2025",
-      "posted": null,
-      "salary": "$172k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "80d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
-          "category": "FAANG+",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer - TensorRT Specialized Platforms - New College Grad 2025",
-          "posted": null,
-          "salary": "$172k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870"
-        }
-      },
-      "url_aliases": [
-        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineering-intern--dynamo---fall-2026_jr2022295": {
@@ -13311,10 +13131,10 @@
     },
     "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930": {
       "age": "Today",
-      "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+      "application_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
       "canonical_id": "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930",
-      "category": "Unknown",
-      "company": "Quickenloans",
+      "category": "Other",
+      "company": "Rocket Companies",
       "job_type": "New Grad",
       "location": "San Francisco, CA",
       "position": "Software Developer I - Search",
@@ -13348,10 +13168,29 @@
             "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
           "source_url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
+        "speedyapply_new_grad": {
+          "age": "6d",
+          "application_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+          "category": "Other",
+          "company": "Rocket Companies",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Developer I - Search",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
         "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
       ]
     },
