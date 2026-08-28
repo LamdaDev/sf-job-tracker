@@ -19125,7 +19125,7 @@
     "09d4a8ee4e071dad20df7df7a5854ed13296cc3df188666e4ce801d7884a21d6": {
       "application_scan_eligible": true,
       "created_at": "2026-08-28T23:55:15Z",
-      "issue_number": null,
+      "issue_number": 45,
       "job_ids": [
         "ashby:rivianvw.tech:b6017142-1123-4999-8c04-d6d3b897f8d9",
         "greenhouse:twitch:8751076002",
@@ -19146,7 +19146,7 @@
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
         "https://www.zipline.com/open-roles?gh_jid=7978843003"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "110de6690f9541a4268a5ce27f171f11e29bc869163e98f9fee772b04fb30397": {
       "application_scan_eligible": true,
