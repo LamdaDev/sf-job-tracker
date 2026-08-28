@@ -12614,52 +12614,6 @@
         "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
       ]
     },
-    "workday:nvidia.wd5.myworkdayjobs.com:ai-and-ml-infra-software-engineer--gpu-clusters---new-college-grad-2026_jr2021591": {
-      "age": "25d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:ai-and-ml-infra-software-engineer--gpu-clusters---new-college-grad-2026_jr2021591",
-      "category": "Unknown",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026",
-      "posted": "2026-07-23",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "25d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
-          "category": "Unknown",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026",
-          "posted": "2026-07-23",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "df3d3cb1-db3f-4e10-839b-e7d17151123a",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "25d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "df3d3cb1-db3f-4e10-839b-e7d17151123a",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591",
-            "matchKind": "explicit",
-            "posted": "2026-07-23",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=df3d3cb1-db3f-4e10-839b-e7d17151123a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=df3d3cb1-db3f-4e10-839b-e7d17151123a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=NVIDIA&job=df3d3cb1-db3f-4e10-839b-e7d17151123a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591"
-      ]
-    },
     "workday:nvidia.wd5.myworkdayjobs.com:backend-compiler-engineer---new-college-grad-2026_jr2021242": {
       "age": "35d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
@@ -12755,6 +12709,26 @@
       "salary": "$62/hr",
       "season": "Summer 2027",
       "sources": {
+        "simplify_summer_2027": {
+          "age": "9d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "NVIDIA",
+          "job_type": "Internship",
+          "location": "Canada | Santa Clara, CA",
+          "position": "Software Engineering Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "be628885-fde3-4b73-bb0a-58e11856e97b",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/be628885-fde3-4b73-bb0a-58e11856e97b?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/be628885-fde3-4b73-bb0a-58e11856e97b?utm_source=GHList"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
@@ -12886,52 +12860,6 @@
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
-      ]
-    },
-    "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--physical-design-infrastructure---new-college-grad-2026_jr2021823": {
-      "age": "25d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--physical-design-infrastructure---new-college-grad-2026_jr2021823",
-      "category": "Unknown",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Software Engineer, Physical Design Infrastructure - New College Grad 2026",
-      "posted": "2026-07-23",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "25d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823",
-          "category": "Unknown",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer, Physical Design Infrastructure - New College Grad 2026",
-          "posted": "2026-07-23",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "854d218e-1cac-42de-9f3e-f9323cbd8603",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "25d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "854d218e-1cac-42de-9f3e-f9323cbd8603",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823",
-            "matchKind": "explicit",
-            "posted": "2026-07-23",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=854d218e-1cac-42de-9f3e-f9323cbd8603&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=854d218e-1cac-42de-9f3e-f9323cbd8603&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=NVIDIA&job=854d218e-1cac-42de-9f3e-f9323cbd8603&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineering-intern--dynamo---fall-2026_jr2022295": {
@@ -13079,54 +13007,6 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=NVIDIA&job=ec4383d0-2058-42e2-b744-e3371932228a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767"
-      ]
-    },
-    "workday:nvidia.wd5.myworkdayjobs.com:systems-software-engineer--accelerated-kubernetes-performance-and-scale---new-college-grad-2026_jr2020957": {
-      "age": "31d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:systems-software-engineer--accelerated-kubernetes-performance-and-scale---new-college-grad-2026_jr2020957",
-      "category": "Unknown",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026",
-      "posted": "2026-07-17",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "41d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
-          "category": "Unknown",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026",
-          "posted": "2026-07-17",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "6cf5ac51-4c91-4148-aaba-a328718ab5fe",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "41d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-27T04:16:07.536Z",
-            "id": "6cf5ac51-4c91-4148-aaba-a328718ab5fe",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
-            "matchKind": "explicit",
-            "posted": "2026-07-17",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=6cf5ac51-4c91-4148-aaba-a328718ab5fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=6cf5ac51-4c91-4148-aaba-a328718ab5fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=NVIDIA&job=6cf5ac51-4c91-4148-aaba-a328718ab5fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://applyguy.ai/jobs?company=NVIDIA&job=b2aaed45-a5bb-4a9b-b91a-6ac0121afcca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957",
-        "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957"
       ]
     },
     "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930": {
