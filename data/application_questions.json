@@ -4118,6 +4118,26 @@
       "scanned_at": "2026-08-26T13:59:01Z",
       "status": "unavailable"
     },
+    "url:https://www.tesla.com/careers/search/job/281097?ref=Simplify": {
+      "application_url": "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.tesla.com/careers/search/job/281097?ref=Simplify",
+      "completeness_reason": "Public application page requires authentication or denies access.",
+      "error_message": "PublicFetchError while fetching the public application page.",
+      "error_type": "PublicFetchError",
+      "first_scanned": "2026-08-28T01:21:21Z",
+      "http_status": 403,
+      "issue_number": 44,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-28T01:21:21Z",
+      "metadata": {
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-28T01:21:21Z",
+      "status": "unavailable"
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
       "attempt_count": 1,

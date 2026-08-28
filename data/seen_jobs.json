@@ -19014,14 +19014,14 @@
     "c0d81571163b2b4475daeb51d028a4a3b899d0e92b7fc45b913d737df2b7d91a": {
       "application_scan_eligible": true,
       "created_at": "2026-08-28T01:21:17Z",
-      "issue_number": null,
+      "issue_number": 44,
       "job_ids": [
         "url:https://www.tesla.com/careers/search/job/281097?ref=Simplify"
       ],
       "job_urls": [
         "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "ce7313245413f52b4784253d179f455cddf875463006875aab4543b961e10af9": {
       "application_scan_eligible": true,
