@@ -5253,52 +5253,6 @@
         "https://jobs.lever.co/Ketch/9835fb73-d8c3-4b96-b499-2ce10bc70e57"
       ]
     },
-    "lever:pivotal:b05be1f0-20ff-4264-8839-4f18f97cbfb7": {
-      "age": "18d",
-      "application_url": "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7",
-      "canonical_id": "lever:pivotal:b05be1f0-20ff-4264-8839-4f18f97cbfb7",
-      "category": "Software Engineering",
-      "company": "Pivotal",
-      "job_type": "Internship",
-      "location": "Palo Alto, CA",
-      "position": "Internship, GNC Engineering (Fall)",
-      "posted": "2026-07-30",
-      "salary": null,
-      "season": "Fall",
-      "sources": {
-        "applyguy_internships": {
-          "age": "18d",
-          "application_url": "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7",
-          "category": "Software Engineering",
-          "company": "Pivotal",
-          "job_type": "Internship",
-          "location": "Palo Alto, CA",
-          "position": "Internship, GNC Engineering (Fall)",
-          "posted": "2026-07-30",
-          "salary": null,
-          "season": "Fall",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "049c65cc-9a89-45ab-8568-c9d03df4ece7",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "18d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "049c65cc-9a89-45ab-8568-c9d03df4ece7",
-            "listingUrl": "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7",
-            "posted": "2026-07-30",
-            "season": "Fall",
-            "url": "https://applyguy.ai/jobs?company=Pivotal&job=049c65cc-9a89-45ab-8568-c9d03df4ece7&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Pivotal&job=049c65cc-9a89-45ab-8568-c9d03df4ece7&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Pivotal&job=049c65cc-9a89-45ab-8568-c9d03df4ece7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7"
-      ]
-    },
     "lever:plus-2:083142f4-70ed-40f4-8726-a5f99ea52e36": {
       "age": "66d",
       "application_url": "https://jobs.lever.co/plus-2/083142f4-70ed-40f4-8726-a5f99ea52e36",

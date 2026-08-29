@@ -7776,14 +7776,14 @@
       ]
     },
     "lever:pivotal:b05be1f0-20ff-4264-8839-4f18f97cbfb7": {
-      "active": true,
+      "active": false,
       "age": "18d",
       "application_url": "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7",
       "canonical_id": "lever:pivotal:b05be1f0-20ff-4264-8839-4f18f97cbfb7",
       "category": "Software Engineering",
       "company": "Pivotal",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-29T23:05:14Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Palo Alto, CA",
@@ -7793,13 +7793,13 @@
       "season": "Fall",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "18d",
           "application_url": "https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7",
           "category": "Software Engineering",
           "company": "Pivotal",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-29T23:05:14Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Palo Alto, CA",
