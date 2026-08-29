@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (297)
+## Active Jobs (298)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Intuit | Software Engineer Intern - Full Stack | Internship | Unknown | Charlotte, NC \| NYC \| Mountain View, CA \| Atlanta, GA \| San Diego, CA | Simplify | N/A | 2026-08-29T06:18:28Z | 2026-08-29T06:18:28Z | Yes | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify>) |
 | Anatomage | 3D Software Junior Developer | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-08-28T23:55:15Z | 2026-08-28T23:55:15Z | Yes | [Apply](<https://apply.workable.com/anatomage/j/9E0E93FEFF/>) |
 | Johnson & Johnson | Software Engineer - Infrastructure | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-08-28T23:55:15Z | 2026-08-28T23:55:15Z | Yes | [Apply](<https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Infrastructure_R-096093>) |
 | Johnson & Johnson | Software Engineer DevOps | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-08-28T23:55:15Z | 2026-08-28T23:55:15Z | Yes | [Apply](<https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632>) |

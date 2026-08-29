@@ -11020,6 +11020,45 @@
         "https://jobs.apple.com/en-us/details/200665480-0836"
       ]
     },
+    "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?ref=Simplify",
+      "category": "Unknown",
+      "company": "Intuit",
+      "job_type": "Internship",
+      "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+      "position": "Software Engineer Intern - Full Stack",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Intuit",
+          "job_type": "Internship",
+          "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+          "position": "Software Engineer Intern - Full Stack",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "1795d6df-fcca-45dc-836d-41a82dc36894",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/1795d6df-fcca-45dc-836d-41a82dc36894?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/1795d6df-fcca-45dc-836d-41a82dc36894?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/1795d6df-fcca-45dc-836d-41a82dc36894?utm_source=GHList"
+      ]
+    },
     "url:https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990013452026-1042-oracle-apex-and-python-developer?oga=true": {
       "age": "74d",
       "application_url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990013452026-1042-oracle-apex-and-python-developer?oga=true",
