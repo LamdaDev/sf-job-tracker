@@ -4873,7 +4873,7 @@
     },
     "url:https://careers.roblox.com/jobs/8115917?gh_jid=8115917": {
       "application_url": "https://careers.roblox.com/jobs/8115917?gh_jid=8115917",
-      "attempt_count": 1,
+      "attempt_count": 2,
       "canonical_job_id": "url:https://careers.roblox.com/jobs/8115917?gh_jid=8115917",
       "completeness_reason": "Browser inspection failed before a safe form scan could finish.",
       "error_message": "Error while running browser inspection.",
@@ -4882,13 +4882,13 @@
       "http_status": null,
       "issue_number": 45,
       "issue_update_pending": false,
-      "last_scanned": "2026-08-28T23:55:23Z",
+      "last_scanned": "2026-08-29T06:18:31Z",
       "metadata": {
         "inspection_method": "browser"
       },
       "provider": "generic",
       "questions": [],
-      "scanned_at": "2026-08-28T23:55:23Z",
+      "scanned_at": "2026-08-29T06:18:31Z",
       "status": "failed"
     },
     "url:https://careers.roblox.com/jobs/8123004?gh_jid=8123004": {
@@ -4930,6 +4930,61 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-08-21T13:49:22Z",
+      "status": "unavailable"
+    },
+    "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?ref=Simplify": {
+      "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?ref=Simplify",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-29T06:18:34Z",
+      "http_status": 200,
+      "issue_number": 46,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-29T06:18:34Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": "k",
+          "field_type": "unknown",
+          "is_custom": false,
+          "label": "Search Jobs by Keyword",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "l",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "joburl",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Job URL",
+          "options": [],
+          "ordinal": 3,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-29T06:18:34Z",
       "status": "unavailable"
     },
     "url:https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics": {
