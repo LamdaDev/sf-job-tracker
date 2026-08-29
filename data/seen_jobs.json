@@ -5046,13 +5046,13 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
           "category": "Software Engineering",
           "company": "Zip",
           "first_seen": "2026-08-26T03:08:30Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-29T20:39:03Z",
           "job_type": "Internship",
           "last_seen": "2026-08-26T03:08:30Z",
           "location": "San Francisco, CA",
