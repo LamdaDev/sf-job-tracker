@@ -4169,16 +4169,16 @@
       ]
     },
     "ashby:rivianvw.tech:2c209e52-8723-4c78-abf7-f0394f6537bc": {
-      "active": false,
+      "active": true,
       "age": "81d",
       "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc",
       "canonical_id": "ashby:rivianvw.tech:2c209e52-8723-4c78-abf7-f0394f6537bc",
       "category": "FAANG+",
       "company": "Rivian",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": "2026-08-26T13:58:49Z",
+      "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-08-17T17:45:31Z",
+      "last_seen": "2026-08-30T19:09:14Z",
       "location": "Palo Alto, CA",
       "position": "Systems Integration Engineer-Software Integration",
       "posted": null,
@@ -4186,15 +4186,15 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": false,
-          "age": "81d",
+          "active": true,
+          "age": "1d",
           "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc",
           "category": "FAANG+",
           "company": "Rivian",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": "2026-08-26T13:58:49Z",
+          "inactive_at": null,
           "job_type": "New Grad",
-          "last_seen": "2026-08-17T17:45:31Z",
+          "last_seen": "2026-08-30T19:09:14Z",
           "location": "Palo Alto, CA",
           "position": "Systems Integration Engineer-Software Integration",
           "posted": null,
@@ -5854,6 +5854,50 @@
         "https://job-boards.greenhouse.io/figureai/jobs/4691070006"
       ]
     },
+    "greenhouse:hpiq:6173700004": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
+      "canonical_id": "greenhouse:hpiq:6173700004",
+      "category": "Other",
+      "company": "HP IQ",
+      "first_seen": "2026-08-30T19:09:14Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-30T19:09:14Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - Tooling and Development Infrastructure",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
+          "category": "Other",
+          "company": "HP IQ",
+          "first_seen": "2026-08-30T19:09:14Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-30T19:09:14Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Tooling and Development Infrastructure",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/hpiq/jobs/6173700004"
+      ]
+    },
     "greenhouse:ionq:6096581004": {
       "active": true,
       "age": "58d",
@@ -6058,13 +6102,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "12d",
           "application_url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
           "category": "Unknown",
           "company": "Muon Space",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-30T19:09:14Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Jose, CA",
@@ -6281,14 +6325,14 @@
       ]
     },
     "greenhouse:skhynixmemorysolutionsamericainc:4342038009": {
-      "active": true,
+      "active": false,
       "age": "17d",
       "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
       "canonical_id": "greenhouse:skhynixmemorysolutionsamericainc:4342038009",
       "category": "Software Engineering",
       "company": "SK hynix memory solutions America Inc.",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-30T19:09:14Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Jose, CA",
@@ -6298,13 +6342,13 @@
       "season": "Not specified",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "17d",
           "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
           "category": "Software Engineering",
           "company": "SK hynix memory solutions America Inc.",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-30T19:09:14Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Jose, CA",
@@ -14256,6 +14300,50 @@
         "https://careers.roblox.com/jobs/8025021?gh_jid=8025021"
       ]
     },
+    "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+      "canonical_id": "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+      "category": "FAANG+",
+      "company": "Roblox",
+      "first_seen": "2026-08-30T19:09:14Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-08-30T19:09:14Z",
+      "location": "San Mateo, CA",
+      "position": "Software Engineer - Economy Platform",
+      "posted": null,
+      "salary": "$150k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+          "category": "FAANG+",
+          "company": "Roblox",
+          "first_seen": "2026-08-30T19:09:14Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-08-30T19:09:14Z",
+          "location": "San Mateo, CA",
+          "position": "Software Engineer - Economy Platform",
+          "posted": null,
+          "salary": "$150k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254"
+        }
+      },
+      "url_aliases": [
+        "https://careers.roblox.com/jobs/8060254?gh_jid=8060254"
+      ]
+    },
     "url:https://careers.roblox.com/jobs/8072244?gh_jid=8072244": {
       "active": true,
       "age": "11d",
@@ -15555,13 +15643,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "11d",
           "application_url": "https://www.ixl.com/company/jobs?gh_jid=8662881002",
           "category": "Unknown",
           "company": "IXL Learning",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-30T19:09:14Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Mateo, CA",
@@ -18260,14 +18348,14 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659": {
-      "active": true,
+      "active": false,
       "age": "75d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659",
       "category": "FAANG+",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-30T19:09:14Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Santa Clara, CA",
@@ -18277,13 +18365,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "75d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
           "category": "FAANG+",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-30T19:09:14Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Santa Clara, CA",
@@ -19594,6 +19682,20 @@
         "https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02"
       ],
       "status": "sent"
+    },
+    "d23d44a6827ee9285ccf016c106abb43afb638cd2f37c14050120276aa89bcc8": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-30T19:09:14Z",
+      "issue_number": null,
+      "job_ids": [
+        "greenhouse:hpiq:6173700004",
+        "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254"
+      ],
+      "job_urls": [
+        "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+        "https://job-boards.greenhouse.io/hpiq/jobs/6173700004"
+      ],
+      "status": "pending"
     },
     "dd7bf46e15709f40d02ccd3c5a38f68ce3dc12b7f60b074d42585a7e1601e7f4": {
       "application_scan_eligible": true,

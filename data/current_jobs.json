@@ -2961,6 +2961,42 @@
         "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463"
       ]
     },
+    "ashby:rivianvw.tech:2c209e52-8723-4c78-abf7-f0394f6537bc": {
+      "age": "81d",
+      "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc",
+      "canonical_id": "ashby:rivianvw.tech:2c209e52-8723-4c78-abf7-f0394f6537bc",
+      "category": "FAANG+",
+      "company": "Rivian",
+      "job_type": "New Grad",
+      "location": "Palo Alto, CA",
+      "position": "Systems Integration Engineer-Software Integration",
+      "posted": null,
+      "salary": "$124k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc",
+          "category": "FAANG+",
+          "company": "Rivian",
+          "job_type": "New Grad",
+          "location": "Palo Alto, CA",
+          "position": "Systems Integration Engineer-Software Integration",
+          "posted": null,
+          "salary": "$124k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc"
+      ]
+    },
     "ashby:rivianvw.tech:b6017142-1123-4999-8c04-d6d3b897f8d9": {
       "age": "1d",
       "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9",
@@ -3919,6 +3955,42 @@
         "https://job-boards.greenhouse.io/figureai/jobs/4691070006"
       ]
     },
+    "greenhouse:hpiq:6173700004": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
+      "canonical_id": "greenhouse:hpiq:6173700004",
+      "category": "Other",
+      "company": "HP IQ",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - Tooling and Development Infrastructure",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
+          "category": "Other",
+          "company": "HP IQ",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Tooling and Development Infrastructure",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/hpiq/jobs/6173700004"
+      ]
+    },
     "greenhouse:ionq:6096581004": {
       "age": "58d",
       "application_url": "https://job-boards.greenhouse.io/ionq/jobs/6096581004",
@@ -4086,33 +4158,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "12d",
-          "application_url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
-          "category": "Unknown",
-          "company": "Muon Space",
-          "job_type": "New Grad",
-          "location": "San Jose, CA",
-          "position": "Software Engineer, Entry-Level",
-          "posted": "2026-08-05",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "12d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f",
-            "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
-            "matchKind": "explicit",
-            "posted": "2026-08-05",
-            "url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "11d",
           "application_url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
@@ -4207,52 +4252,6 @@
       },
       "url_aliases": [
         "https://boards.greenhouse.io/ridgeline/jobs/7784169003?gh_jid=7784169003"
-      ]
-    },
-    "greenhouse:skhynixmemorysolutionsamericainc:4342038009": {
-      "age": "17d",
-      "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
-      "canonical_id": "greenhouse:skhynixmemorysolutionsamericainc:4342038009",
-      "category": "Software Engineering",
-      "company": "SK hynix memory solutions America Inc.",
-      "job_type": "Internship",
-      "location": "San Jose, CA",
-      "position": "Test Automation Software Engineer Intern",
-      "posted": "2026-07-31",
-      "salary": null,
-      "season": "Not specified",
-      "sources": {
-        "applyguy_internships": {
-          "age": "17d",
-          "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
-          "category": "Software Engineering",
-          "company": "SK hynix memory solutions America Inc.",
-          "job_type": "Internship",
-          "location": "San Jose, CA",
-          "position": "Test Automation Software Engineer Intern",
-          "posted": "2026-07-31",
-          "salary": null,
-          "season": "Not specified",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "da083c4f-058c-4b8d-8b5d-54e824e988e3",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "17d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "da083c4f-058c-4b8d-8b5d-54e824e988e3",
-            "listingUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
-            "posted": "2026-07-31",
-            "season": "Not specified",
-            "url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=da083c4f-058c-4b8d-8b5d-54e824e988e3&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=da083c4f-058c-4b8d-8b5d-54e824e988e3&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=da083c4f-058c-4b8d-8b5d-54e824e988e3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009"
       ]
     },
     "greenhouse:sonyinteractiveentertainmentglobal:6145057004": {
@@ -10358,6 +10357,42 @@
         "https://simplify.jobs/p/2057d1a3-289b-49ae-8328-fa3527c533c5?utm_source=GHList"
       ]
     },
+    "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254": {
+      "age": "1d",
+      "application_url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+      "canonical_id": "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+      "category": "FAANG+",
+      "company": "Roblox",
+      "job_type": "New Grad",
+      "location": "San Mateo, CA",
+      "position": "Software Engineer - Economy Platform",
+      "posted": null,
+      "salary": "$150k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "1d",
+          "application_url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+          "category": "FAANG+",
+          "company": "Roblox",
+          "job_type": "New Grad",
+          "location": "San Mateo, CA",
+          "position": "Software Engineer - Economy Platform",
+          "posted": null,
+          "salary": "$150k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254"
+        }
+      },
+      "url_aliases": [
+        "https://careers.roblox.com/jobs/8060254?gh_jid=8060254"
+      ]
+    },
     "url:https://careers.roblox.com/jobs/8072244?gh_jid=8072244": {
       "age": "11d",
       "application_url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
@@ -11392,33 +11427,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "11d",
-          "application_url": "https://www.ixl.com/company/jobs?gh_jid=8662881002",
-          "category": "Unknown",
-          "company": "IXL Learning",
-          "job_type": "New Grad",
-          "location": "San Mateo, CA",
-          "position": "Software Engineer, New Grad",
-          "posted": "2026-08-06",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "d9435815-b375-4349-b8b9-e62404b00c64",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "11d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "d9435815-b375-4349-b8b9-e62404b00c64",
-            "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8662881002",
-            "matchKind": "explicit",
-            "posted": "2026-08-06",
-            "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=d9435815-b375-4349-b8b9-e62404b00c64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=IXL+Learning&job=d9435815-b375-4349-b8b9-e62404b00c64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "10d",
           "application_url": "https://www.ixl.com/company/jobs?gh_jid=8662881002",
@@ -12798,42 +12806,6 @@
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
-      ]
-    },
-    "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659": {
-      "age": "75d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659",
-      "category": "FAANG+",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Software Engineer - Hardware Tools and Methodology - New College Grad 2026",
-      "posted": null,
-      "salary": "$172k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "75d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
-          "category": "FAANG+",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer - Hardware Tools and Methodology - New College Grad 2026",
-          "posted": null,
-          "salary": "$172k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
-        }
-      },
-      "url_aliases": [
-        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineering-intern--dynamo---fall-2026_jr2022295": {
