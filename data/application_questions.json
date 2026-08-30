@@ -5047,7 +5047,7 @@
     },
     "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254": {
       "application_url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
-      "attempt_count": 1,
+      "attempt_count": 2,
       "canonical_job_id": "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
       "completeness_reason": "Browser inspection failed before a safe form scan could finish.",
       "error_message": "Error while running browser inspection.",
@@ -5056,13 +5056,13 @@
       "http_status": null,
       "issue_number": 47,
       "issue_update_pending": false,
-      "last_scanned": "2026-08-30T19:09:18Z",
+      "last_scanned": "2026-08-30T22:30:52Z",
       "metadata": {
         "inspection_method": "browser"
       },
       "provider": "generic",
       "questions": [],
-      "scanned_at": "2026-08-30T19:09:18Z",
+      "scanned_at": "2026-08-30T22:30:52Z",
       "status": "failed"
     },
     "url:https://careers.roblox.com/jobs/8115917?gh_jid=8115917": {
