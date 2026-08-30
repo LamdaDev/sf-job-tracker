@@ -824,6 +824,180 @@
       "scanned_at": "2026-08-27T04:24:00Z",
       "status": "unavailable"
     },
+    "greenhouse:hpiq:6173700004": {
+      "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:hpiq:6173700004",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-30T19:09:17Z",
+      "http_status": 200,
+      "issue_number": 47,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-30T19:09:17Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 6,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19782508004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19782509004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 10,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 11,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-08-30T19:09:17Z",
+      "status": "complete"
+    },
     "greenhouse:kikoff:4376677009": {
       "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
       "attempt_count": 1,
@@ -4870,6 +5044,26 @@
       "questions": [],
       "scanned_at": "2026-08-21T06:52:59Z",
       "status": "unavailable"
+    },
+    "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254": {
+      "application_url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+      "completeness_reason": "Browser inspection failed before a safe form scan could finish.",
+      "error_message": "Error while running browser inspection.",
+      "error_type": "Error",
+      "first_scanned": "2026-08-30T19:09:18Z",
+      "http_status": null,
+      "issue_number": 47,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-30T19:09:18Z",
+      "metadata": {
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-08-30T19:09:18Z",
+      "status": "failed"
     },
     "url:https://careers.roblox.com/jobs/8115917?gh_jid=8115917": {
       "application_url": "https://careers.roblox.com/jobs/8115917?gh_jid=8115917",

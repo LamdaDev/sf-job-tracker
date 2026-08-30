@@ -19686,7 +19686,7 @@
     "d23d44a6827ee9285ccf016c106abb43afb638cd2f37c14050120276aa89bcc8": {
       "application_scan_eligible": true,
       "created_at": "2026-08-30T19:09:14Z",
-      "issue_number": null,
+      "issue_number": 47,
       "job_ids": [
         "greenhouse:hpiq:6173700004",
         "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254"
@@ -19695,7 +19695,7 @@
         "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
         "https://job-boards.greenhouse.io/hpiq/jobs/6173700004"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "dd7bf46e15709f40d02ccd3c5a38f68ce3dc12b7f60b074d42585a7e1601e7f4": {
       "application_scan_eligible": true,
