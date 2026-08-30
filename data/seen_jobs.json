@@ -18792,13 +18792,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
           "category": "Unknown",
           "company": "Quickenloans",
           "first_seen": "2026-08-21T17:31:56Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-30T15:14:33Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-21T17:31:56Z",
           "location": "San Francisco, CA",

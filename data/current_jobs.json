@@ -12996,33 +12996,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "Today",
-          "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
-          "category": "Unknown",
-          "company": "Quickenloans",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Developer I - Search",
-          "posted": "2026-08-21",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "49bef747-c371-45e0-a524-5475cb4bdce7",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "Today",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-08-21T17:30:54.971Z",
-            "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
-            "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
-            "matchKind": "entry_level",
-            "posted": "2026-08-21",
-            "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "6d",
           "application_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
