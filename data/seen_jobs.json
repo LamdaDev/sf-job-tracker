@@ -19621,14 +19621,14 @@
     "7c9f419ea1c05d14b1ad0050c313a0313f6a7b6469b3698d0c55cb897a791215": {
       "application_scan_eligible": true,
       "created_at": "2026-08-31T21:48:09Z",
-      "issue_number": null,
+      "issue_number": 49,
       "job_ids": [
         "url:https://c3.ai/job-description/8739037002?gh_jid=8739037002&ref=Simplify"
       ],
       "job_urls": [
         "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "7e12a00c56adf38f46e816143f3fbbc06c5ea88952c96a53dd6f469202921219": {
       "application_scan_eligible": true,

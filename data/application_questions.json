@@ -5003,6 +5003,39 @@
       "scanned_at": "2026-08-28T23:55:22Z",
       "status": "unavailable"
     },
+    "url:https://c3.ai/job-description/8739037002?gh_jid=8739037002&ref=Simplify": {
+      "application_url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://c3.ai/job-description/8739037002?gh_jid=8739037002&ref=Simplify",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-31T21:48:13Z",
+      "http_status": 200,
+      "issue_number": 49,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-31T21:48:13Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": "q",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Search C3 AI",
+          "options": [],
+          "ordinal": 1,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-08-31T21:48:13Z",
+      "status": "partial"
+    },
     "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify": {
       "application_url": "https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
