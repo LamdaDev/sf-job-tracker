@@ -10916,52 +10916,6 @@
         "https://simplify.jobs/p/33f7cf59-11b2-4422-b6b4-0d340392d3b9?utm_source=GHList"
       ]
     },
-    "url:https://nuro.ai/careersitem?gh_jid=6972272": {
-      "age": "32d",
-      "application_url": "https://nuro.ai/careersitem?gh_jid=6972272",
-      "canonical_id": "url:https://nuro.ai/careersitem?gh_jid=6972272",
-      "category": "Unknown",
-      "company": "Nuro",
-      "job_type": "New Grad",
-      "location": "Mountain View, California (HQ)",
-      "position": "Software Engineer, Performance - New Grad",
-      "posted": "2026-07-16",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "32d",
-          "application_url": "https://nuro.ai/careersitem?gh_jid=6972272",
-          "category": "Unknown",
-          "company": "Nuro",
-          "job_type": "New Grad",
-          "location": "Mountain View, California (HQ)",
-          "position": "Software Engineer, Performance - New Grad",
-          "posted": "2026-07-16",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "32d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6",
-            "listingUrl": "https://nuro.ai/careersitem?gh_jid=6972272",
-            "matchKind": "explicit",
-            "posted": "2026-07-16",
-            "url": "https://applyguy.ai/jobs?company=Nuro&job=4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Nuro&job=4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Nuro&job=4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nuro.ai/careersitem?gh_jid=6972272"
-      ]
-    },
     "url:https://nuro.ai/careersitem?gh_jid=7888575": {
       "age": "102d",
       "application_url": "https://nuro.ai/careersitem?gh_jid=7888575",
@@ -12422,52 +12376,6 @@
         "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2637811"
       ]
     },
-    "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {
-      "age": "Today",
-      "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
-      "canonical_id": "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095",
-      "category": "Software Engineering",
-      "company": "LiveRamp",
-      "job_type": "Internship",
-      "location": "San Francisco, CA",
-      "position": "Co-Op, DevOps Engineer",
-      "posted": "2026-08-20",
-      "salary": null,
-      "season": "Co-op",
-      "sources": {
-        "applyguy_internships": {
-          "age": "Today",
-          "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
-          "category": "Software Engineering",
-          "company": "LiveRamp",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Co-Op, DevOps Engineer",
-          "posted": "2026-08-20",
-          "salary": null,
-          "season": "Co-op",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "91a0f288-3460-4ea3-9c2e-a975de546b10",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "Today",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-20T02:45:36.507Z",
-            "id": "91a0f288-3460-4ea3-9c2e-a975de546b10",
-            "listingUrl": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
-            "posted": "2026-08-20",
-            "season": "Co-op",
-            "url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
-      ]
-    },
     "workday:nvidia.wd5.myworkdayjobs.com:backend-compiler-engineer---new-college-grad-2026_jr2021242": {
       "age": "35d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
@@ -12899,6 +12807,45 @@
         "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
         "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
+      ]
+    },
+    "workday:stryker.wd1.myworkdayjobs.com:summer-2027-internship---software-engineering---california_r572624": {
+      "age": "0d",
+      "application_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:stryker.wd1.myworkdayjobs.com:summer-2027-internship---software-engineering---california_r572624",
+      "category": "Unknown",
+      "company": "Stryker",
+      "job_type": "Internship",
+      "location": "Fremont, CA | San Jose, CA",
+      "position": "Software Engineering Intern - Multiple Teams",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Stryker",
+          "job_type": "Internship",
+          "location": "Fremont, CA | San Jose, CA",
+          "position": "Software Engineering Intern - Multiple Teams",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "ac16b37b-d5ee-4a02-8d77-305bc1ab5168",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/ac16b37b-d5ee-4a02-8d77-305bc1ab5168?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/ac16b37b-d5ee-4a02-8d77-305bc1ab5168?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/ac16b37b-d5ee-4a02-8d77-305bc1ab5168?utm_source=GHList",
+        "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624?utm_source=Simplify&ref=Simplify"
       ]
     },
     "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129": {
