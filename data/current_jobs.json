@@ -837,42 +837,6 @@
         "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f"
       ]
     },
-    "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2": {
-      "age": "0d",
-      "application_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
-      "canonical_id": "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
-      "category": "Other",
-      "company": "Clera",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer - AI & Data Systems",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "0d",
-          "application_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
-          "category": "Other",
-          "company": "Clera",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer - AI & Data Systems",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
-      ]
-    },
     "ashby:clera:cea943d6-817f-441c-baa1-d295916ace46": {
       "age": "74d",
       "application_url": "https://jobs.ashbyhq.com/clera/cea943d6-817f-441c-baa1-d295916ace46",
@@ -3745,43 +3709,6 @@
         "https://job-boards.greenhouse.io/discord/jobs/8609250002"
       ]
     },
-    "greenhouse:energysolutions:5222428007": {
-      "age": "1d",
-      "application_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
-      "canonical_id": "greenhouse:energysolutions:5222428007",
-      "category": "Other",
-      "company": "Energy Solutions - USA",
-      "job_type": "New Grad",
-      "location": "Remote - Oakland, CA",
-      "position": "Software Engineer I - Oakland - CA - US",
-      "posted": "2026-08-26",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "2d",
-          "application_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
-          "category": "Other",
-          "company": "Energy Solutions",
-          "job_type": "New Grad",
-          "location": "Remote - Oakland, CA",
-          "position": "Software Engineer I - Oakland - CA - US",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007"
-      ]
-    },
     "greenhouse:figma:6131089004": {
       "age": "6d",
       "application_url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
@@ -3795,33 +3722,6 @@
       "salary": "$60/hr",
       "season": "Winter 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "7d",
-          "application_url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
-          "category": "Software Engineering",
-          "company": "Figma",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer Intern (Winter 2027)",
-          "posted": "2026-08-10",
-          "salary": null,
-          "season": "Winter 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "2ce87c01-db63-4994-8c1a-e65612553daa",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "7d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "2ce87c01-db63-4994-8c1a-e65612553daa",
-            "listingUrl": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
-            "posted": "2026-08-10",
-            "season": "Winter 2027",
-            "url": "https://applyguy.ai/jobs?company=Figma&job=2ce87c01-db63-4994-8c1a-e65612553daa&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Figma&job=2ce87c01-db63-4994-8c1a-e65612553daa&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "6d",
           "application_url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
@@ -3880,42 +3780,6 @@
       },
       "url_aliases": [
         "https://job-boards.greenhouse.io/figureai/jobs/4691070006"
-      ]
-    },
-    "greenhouse:hpiq:6173700004": {
-      "age": "1d",
-      "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
-      "canonical_id": "greenhouse:hpiq:6173700004",
-      "category": "Other",
-      "company": "HP IQ",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer - Tooling and Development Infrastructure",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "1d",
-          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
-          "category": "Other",
-          "company": "HP IQ",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer - Tooling and Development Infrastructure",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004"
-        }
-      },
-      "url_aliases": [
-        "https://job-boards.greenhouse.io/hpiq/jobs/6173700004"
       ]
     },
     "greenhouse:ionq:6096581004": {
@@ -4223,33 +4087,6 @@
       "salary": "$193k/yr",
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "34d",
-          "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
-          "category": "Unknown",
-          "company": "Twitch",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer I, Discovery",
-          "posted": "2026-07-14",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "b16ee1a8-b215-4797-afea-9bf721d3a86e",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "34d",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "b16ee1a8-b215-4797-afea-9bf721d3a86e",
-            "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
-            "matchKind": "entry_level",
-            "posted": "2026-07-14",
-            "url": "https://applyguy.ai/jobs?company=Twitch&job=b16ee1a8-b215-4797-afea-9bf721d3a86e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Twitch&job=b16ee1a8-b215-4797-afea-9bf721d3a86e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "33d",
           "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
@@ -4287,33 +4124,6 @@
       "salary": "$193k/yr",
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "3d",
-          "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
-          "category": "Unknown",
-          "company": "Twitch",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer I, Payments",
-          "posted": "2026-08-14",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "2df2e586-e68d-4406-a287-c54178f64e37",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "3d",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "2df2e586-e68d-4406-a287-c54178f64e37",
-            "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
-            "matchKind": "entry_level",
-            "posted": "2026-08-14",
-            "url": "https://applyguy.ai/jobs?company=Twitch&job=2df2e586-e68d-4406-a287-c54178f64e37&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Twitch&job=2df2e586-e68d-4406-a287-c54178f64e37&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "2d",
           "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
@@ -4351,33 +4161,6 @@
       "salary": "$193k/yr",
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "Today",
-          "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
-          "category": "Unknown",
-          "company": "Twitch",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer I, Memberships",
-          "posted": "2026-08-26",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "d7d31318-32c4-4527-bb3e-6e7b98166860",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "Today",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-08-26T19:01:04.443Z",
-            "id": "d7d31318-32c4-4527-bb3e-6e7b98166860",
-            "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
-            "matchKind": "entry_level",
-            "posted": "2026-08-26",
-            "url": "https://applyguy.ai/jobs?company=Twitch&job=d7d31318-32c4-4527-bb3e-6e7b98166860&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Twitch&job=d7d31318-32c4-4527-bb3e-6e7b98166860&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "2d",
           "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
@@ -10160,6 +9943,45 @@
         "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
       ]
     },
+    "url:https://c3.ai/job-description/8739037002?gh_jid=8739037002&ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://c3.ai/job-description/8739037002?gh_jid=8739037002&ref=Simplify",
+      "category": "Unknown",
+      "company": "C3.ai",
+      "job_type": "Internship",
+      "location": "Redwood City, CA",
+      "position": "Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "C3.ai",
+          "job_type": "Internship",
+          "location": "Redwood City, CA",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "53349dba-052e-4667-bc87-a3162afa6b94",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/53349dba-052e-4667-bc87-a3162afa6b94?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/53349dba-052e-4667-bc87-a3162afa6b94?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/53349dba-052e-4667-bc87-a3162afa6b94?utm_source=GHList"
+      ]
+    },
     "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify": {
       "age": "0d",
       "application_url": "https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify",
@@ -11915,54 +11737,6 @@
       },
       "url_aliases": [
         "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759"
-      ]
-    },
-    "workday:globalhr.wd5.myworkdayjobs.com:software-engineering-intern--summer-2027-_01867392": {
-      "age": "3d",
-      "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
-      "canonical_id": "workday:globalhr.wd5.myworkdayjobs.com:software-engineering-intern--summer-2027-_01867392",
-      "category": "Software Engineering",
-      "company": "RTX",
-      "job_type": "Internship",
-      "location": "San Jose, CA",
-      "position": "Software Engineering Intern (Summer 2027)",
-      "posted": "2026-08-14",
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "applyguy_internships": {
-          "age": "3d",
-          "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
-          "category": "Software Engineering",
-          "company": "RTX",
-          "job_type": "Internship",
-          "location": "San Jose, CA",
-          "position": "Software Engineering Intern (Summer 2027)",
-          "posted": "2026-08-14",
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "97ea48ee-4101-4eb1-b502-d18b18dc23d3",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "3d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "97ea48ee-4101-4eb1-b502-d18b18dc23d3",
-            "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
-            "posted": "2026-08-14",
-            "season": "Summer 2027",
-            "url": "https://applyguy.ai/jobs?company=RTX&job=97ea48ee-4101-4eb1-b502-d18b18dc23d3&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=RTX&job=97ea48ee-4101-4eb1-b502-d18b18dc23d3&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=RTX&job=97ea48ee-4101-4eb1-b502-d18b18dc23d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392?utm_source=Simplify&ref=Simplify",
-        "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
-        "https://simplify.jobs/p/aa0ebb73-f646-4f78-ac9d-900e2925f3e9?utm_source=GHList"
       ]
     },
     "workday:hp.wd5.myworkdayjobs.com:ai-software-engineer---hp-iq_3163597-1": {

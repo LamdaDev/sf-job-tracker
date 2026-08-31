@@ -1319,14 +1319,14 @@
       ]
     },
     "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2": {
-      "active": true,
+      "active": false,
       "age": "0d",
       "application_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
       "canonical_id": "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
       "category": "Other",
       "company": "Clera",
       "first_seen": "2026-08-24T13:54:39Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-31T21:48:09Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-24T13:54:39Z",
       "location": "San Francisco, CA",
@@ -1336,13 +1336,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "0d",
           "application_url": "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2",
           "category": "Other",
           "company": "Clera",
           "first_seen": "2026-08-24T13:54:39Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-31T21:48:09Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-24T13:54:39Z",
           "location": "San Francisco, CA",
@@ -5659,14 +5659,14 @@
       ]
     },
     "greenhouse:energysolutions:5222428007": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
       "canonical_id": "greenhouse:energysolutions:5222428007",
       "category": "Other",
       "company": "Energy Solutions - USA",
       "first_seen": "2026-08-27T04:23:56Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-31T21:48:09Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-28T23:55:15Z",
       "location": "Remote - Oakland, CA",
@@ -5707,13 +5707,13 @@
           "source_url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         },
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "2d",
           "application_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
           "category": "Other",
           "company": "Energy Solutions",
           "first_seen": "2026-08-28T23:55:15Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-31T21:48:09Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-28T23:55:15Z",
           "location": "Remote - Oakland, CA",
@@ -5752,13 +5752,13 @@
       "season": "Winter 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "7d",
           "application_url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
           "category": "Software Engineering",
           "company": "Figma",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-31T21:48:09Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -5855,14 +5855,14 @@
       ]
     },
     "greenhouse:hpiq:6173700004": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
       "canonical_id": "greenhouse:hpiq:6173700004",
       "category": "Other",
       "company": "HP IQ",
       "first_seen": "2026-08-30T19:09:14Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-31T21:48:09Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-30T19:09:14Z",
       "location": "San Francisco, CA",
@@ -5872,13 +5872,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6173700004",
           "category": "Other",
           "company": "HP IQ",
           "first_seen": "2026-08-30T19:09:14Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-31T21:48:09Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-30T19:09:14Z",
           "location": "San Francisco, CA",
@@ -6673,13 +6673,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "34d",
           "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
           "category": "Unknown",
           "company": "Twitch",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-31T21:48:09Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -6749,13 +6749,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "3d",
           "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
           "category": "Unknown",
           "company": "Twitch",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-31T21:48:09Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -6825,13 +6825,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
           "category": "Unknown",
           "company": "Twitch",
           "first_seen": "2026-08-26T19:05:18Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-31T21:48:09Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-26T19:05:18Z",
           "location": "San Francisco, CA",
@@ -14162,6 +14162,53 @@
         "https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity"
       ]
     },
+    "url:https://c3.ai/job-description/8739037002?gh_jid=8739037002&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://c3.ai/job-description/8739037002?gh_jid=8739037002&ref=Simplify",
+      "category": "Unknown",
+      "company": "C3.ai",
+      "first_seen": "2026-08-31T21:48:09Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-08-31T21:48:09Z",
+      "location": "Redwood City, CA",
+      "position": "Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "C3.ai",
+          "first_seen": "2026-08-31T21:48:09Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-08-31T21:48:09Z",
+          "location": "Redwood City, CA",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "53349dba-052e-4667-bc87-a3162afa6b94",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/53349dba-052e-4667-bc87-a3162afa6b94?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/53349dba-052e-4667-bc87-a3162afa6b94?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/53349dba-052e-4667-bc87-a3162afa6b94?utm_source=GHList"
+      ]
+    },
     "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify": {
       "active": true,
       "age": "0d",
@@ -17188,14 +17235,14 @@
       ]
     },
     "workday:globalhr.wd5.myworkdayjobs.com:software-engineering-intern--summer-2027-_01867392": {
-      "active": true,
+      "active": false,
       "age": "3d",
       "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
       "canonical_id": "workday:globalhr.wd5.myworkdayjobs.com:software-engineering-intern--summer-2027-_01867392",
       "category": "Software Engineering",
       "company": "RTX",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-08-31T21:48:09Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Jose, CA",
@@ -17205,13 +17252,13 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "3d",
           "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
           "category": "Software Engineering",
           "company": "RTX",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-08-31T21:48:09Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Jose, CA",
@@ -19570,6 +19617,18 @@
         "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
       ],
       "status": "sent"
+    },
+    "7c9f419ea1c05d14b1ad0050c313a0313f6a7b6469b3698d0c55cb897a791215": {
+      "application_scan_eligible": true,
+      "created_at": "2026-08-31T21:48:09Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://c3.ai/job-description/8739037002?gh_jid=8739037002&ref=Simplify"
+      ],
+      "job_urls": [
+        "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "7e12a00c56adf38f46e816143f3fbbc06c5ea88952c96a53dd6f469202921219": {
       "application_scan_eligible": true,
