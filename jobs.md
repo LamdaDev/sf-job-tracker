@@ -4,14 +4,13 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (294)
+## Active Jobs (293)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Stryker | Software Engineering Intern - Multiple Teams | Internship | Unknown | Fremont, CA \| San Jose, CA | Simplify | N/A | 2026-08-31T08:19:45Z | 2026-08-31T08:19:45Z | Yes | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624?utm_source=Simplify&ref=Simplify>) |
 | HP IQ | Software Engineer - Tooling and Development Infrastructure | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-30T19:09:14Z | 2026-08-30T19:09:14Z | Yes | [Apply](<https://job-boards.greenhouse.io/hpiq/jobs/6173700004>) |
 | Roblox | Software Engineer - Economy Platform | New Grad | FAANG+ | San Mateo, CA | SpeedyApply | $150k/yr | 2026-08-30T19:09:14Z | 2026-08-30T19:09:14Z | Yes | [Apply](<https://careers.roblox.com/jobs/8060254?gh_jid=8060254>) |
-| Intuit | Software Engineer Intern - Full Stack | Internship | Unknown | Charlotte, NC \| NYC \| Mountain View, CA \| Atlanta, GA \| San Diego, CA | Simplify | N/A | 2026-08-29T06:18:28Z | 2026-08-29T06:18:28Z | Yes | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify>) |
 | Anatomage | 3D Software Junior Developer | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-08-28T23:55:15Z | 2026-08-28T23:55:15Z | Yes | [Apply](<https://apply.workable.com/anatomage/j/9E0E93FEFF/>) |
 | Johnson & Johnson | Software Engineer - Infrastructure | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-08-28T23:55:15Z | 2026-08-28T23:55:15Z | Yes | [Apply](<https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Infrastructure_R-096093>) |
 | Johnson & Johnson | Software Engineer DevOps | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-08-28T23:55:15Z | 2026-08-28T23:55:15Z | Yes | [Apply](<https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632>) |
@@ -106,7 +105,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Notion | Software Engineer, Early Career | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f>) |
 | Notion | Software Engineer, Early Career (AI) | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28>) |
 | NVIDIA | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071>) |
-| NVIDIA | System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767>) |
+| NVIDIA | System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-31T16:52:20Z | Yes | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767>) |
 | Observe.AI | Software Engineer I - AI Agents | New Grad | Unknown | Redwood City, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://www.observe.ai/position?gh_jid=5383979008>) |
 | Roblox | Software Engineer Intern | Internship | FAANG+ | San Mateo, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://careers.roblox.com/jobs/8072713?gh_jid=8072713&utm_source=Simplify&ref=Simplify>) |
 | RTX | Software Engineering Intern (Summer 2027) | Internship | Software Engineering | San Jose, CA | ApplyGuy, Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392>) |
@@ -303,10 +302,11 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (62)
+## Historical / Closed or Removed Jobs (63)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Intuit | Software Engineer Intern - Full Stack | Internship | Unknown | Charlotte, NC \| NYC \| Mountain View, CA \| Atlanta, GA \| San Diego, CA | Simplify | N/A | 2026-08-29T06:18:28Z | 2026-08-29T06:18:28Z | No | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify>) |
 | Salesforce | Software Engineer - AI Applications | New Grad | FAANG+ | San Francisco, CA | SpeedyApply | $176k/yr | 2026-08-26T13:58:49Z | 2026-08-26T13:58:49Z | No | [Apply](<https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086>) |
 | Cisco | Software Engineer I (Full Time) - United States | New Grad | Unknown | Milpitas California | ApplyGuy | N/A | 2026-08-25T04:42:13Z | 2026-08-25T04:42:13Z | No | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527>) |
 | Amat | Software Engineer II (New College Grad - Santa Clara, CA) | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-22T04:35:44Z | 2026-08-22T04:35:44Z | No | [Apply](<https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398>) |
