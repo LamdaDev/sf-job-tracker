@@ -5810,6 +5810,27 @@
       "scanned_at": "2026-08-26T13:59:03Z",
       "status": "unavailable"
     },
+    "workday:stryker.wd1.myworkdayjobs.com:summer-2027-internship---software-engineering---california_r572624": {
+      "application_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:stryker.wd1.myworkdayjobs.com:summer-2027-internship---software-engineering---california_r572624",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-08-31T08:19:48Z",
+      "http_status": 200,
+      "issue_number": 48,
+      "issue_update_pending": false,
+      "last_scanned": "2026-08-31T08:19:48Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-08-31T08:19:48Z",
+      "status": "unavailable"
+    },
     "workday:synnex.wd5.myworkdayjobs.com:software-engineer--new-college-grad-_r55432": {
       "application_url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
       "attempt_count": 1,

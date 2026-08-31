@@ -19747,14 +19747,14 @@
     "dacad0524a5ee0a66494f55754a23be420f1b07d739e33d49c7ae60f86bc3714": {
       "application_scan_eligible": true,
       "created_at": "2026-08-31T08:19:45Z",
-      "issue_number": null,
+      "issue_number": 48,
       "job_ids": [
         "workday:stryker.wd1.myworkdayjobs.com:summer-2027-internship---software-engineering---california_r572624"
       ],
       "job_urls": [
         "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "dd7bf46e15709f40d02ccd3c5a38f68ce3dc12b7f60b074d42585a7e1601e7f4": {
       "application_scan_eligible": true,
