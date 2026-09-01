@@ -3417,6 +3417,52 @@
         "https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804"
       ]
     },
+    "ashby:whatnot:928ffdca-b316-40ce-b82b-94b570919bcd": {
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd",
+      "canonical_id": "ashby:whatnot:928ffdca-b316-40ce-b82b-94b570919bcd",
+      "category": "Software Engineering",
+      "company": "Whatnot",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern (Summer 2027)",
+      "posted": "2026-08-31",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd",
+          "category": "Software Engineering",
+          "company": "Whatnot",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern (Summer 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "c1622077-c1f5-4e41-9a83-3d750eb1d3a7",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-01T07:15:45.009Z",
+            "id": "c1622077-c1f5-4e41-9a83-3d750eb1d3a7",
+            "listingUrl": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd",
+            "posted": "2026-08-31",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Whatnot&job=c1622077-c1f5-4e41-9a83-3d750eb1d3a7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Whatnot&job=c1622077-c1f5-4e41-9a83-3d750eb1d3a7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Whatnot&job=c1622077-c1f5-4e41-9a83-3d750eb1d3a7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd"
+      ]
+    },
     "ashby:windborne-systems:75c5c65c-8179-4ca0-9659-39bf0f8f7b8b": {
       "age": "41d",
       "application_url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b",
@@ -12144,54 +12190,6 @@
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1"
-      ]
-    },
-    "workday:nvidia.wd5.myworkdayjobs.com:system-software-engineer--dynamo-triton-inference-server---new-college-grad-2026_jr2020767": {
-      "age": "35d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:system-software-engineer--dynamo-triton-inference-server---new-college-grad-2026_jr2020767",
-      "category": "Unknown",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026",
-      "posted": "2026-07-13",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "49d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
-          "category": "Unknown",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026",
-          "posted": "2026-07-13",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "d1268a78-6d24-4be5-a373-b1aeba65a0f6",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "49d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-31T16:45:55.045Z",
-            "id": "d1268a78-6d24-4be5-a373-b1aeba65a0f6",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
-            "matchKind": "explicit",
-            "posted": "2026-07-13",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d1268a78-6d24-4be5-a373-b1aeba65a0f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=d1268a78-6d24-4be5-a373-b1aeba65a0f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=NVIDIA&job=d1268a78-6d24-4be5-a373-b1aeba65a0f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://applyguy.ai/jobs?company=NVIDIA&job=ec4383d0-2058-42e2-b744-e3371932228a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
-        "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767"
       ]
     },
     "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd": {
