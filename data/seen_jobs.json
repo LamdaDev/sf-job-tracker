@@ -15540,6 +15540,53 @@
         "https://www.fastly.com/about/jobs/apply?gh_jid=8128535"
       ]
     },
+    "url:https://www.google.com/about/careers/applications/jobs/results/100648618540573382?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://www.google.com/about/careers/applications/jobs/results/100648618540573382?ref=Simplify",
+      "category": "Unknown",
+      "company": "Google",
+      "first_seen": "2026-09-01T01:05:14Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-01T01:05:14Z",
+      "location": "Palo Alto, CA | Cambridge, MA | Madison, WI | Seattle, WA | Houston, TX | SF | Austin, TX | LA | San Jose, CA | Irvine, CA | South SF | Redwood City, CA | Raleigh, NC | San Bruno, CA | Redmond, WA | Durham, NC | Santa Cruz, CA | Chicago, IL | Goleta, CA | Pittsburgh, PA | Kirkland, WA | Reston, VA | NYC | Bellevue, WA | Sunnyvale, CA | Mountain View, CA | Portland, OR | Boulder, CO | Atlanta, GA | San Diego, CA | Santa Barbara, CA",
+      "position": "Software Engineer Intern - Multiple Teams",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Google",
+          "first_seen": "2026-09-01T01:05:14Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-01T01:05:14Z",
+          "location": "Palo Alto, CA | Cambridge, MA | Madison, WI | Seattle, WA | Houston, TX | SF | Austin, TX | LA | San Jose, CA | Irvine, CA | South SF | Redwood City, CA | Raleigh, NC | San Bruno, CA | Redmond, WA | Durham, NC | Santa Cruz, CA | Chicago, IL | Goleta, CA | Pittsburgh, PA | Kirkland, WA | Reston, VA | NYC | Bellevue, WA | Sunnyvale, CA | Mountain View, CA | Portland, OR | Boulder, CO | Atlanta, GA | San Diego, CA | Santa Barbara, CA",
+          "position": "Software Engineer Intern - Multiple Teams",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "c9bf8e11-07ee-42db-b773-dd7f4ce360fc",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/c9bf8e11-07ee-42db-b773-dd7f4ce360fc?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/c9bf8e11-07ee-42db-b773-dd7f4ce360fc?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/c9bf8e11-07ee-42db-b773-dd7f4ce360fc?utm_source=GHList",
+        "https://www.google.com/about/careers/applications/jobs/results/100648618540573382?utm_source=Simplify&ref=Simplify"
+      ]
+    },
     "url:https://www.google.com/about/careers/applications/jobs/results/77174102632080070": {
       "active": true,
       "age": "80d",
@@ -15670,6 +15717,53 @@
       },
       "url_aliases": [
         "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
+      ]
+    },
+    "url:https://www.google.com/about/careers/applications/jobs/results/94172495052972742?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://www.google.com/about/careers/applications/jobs/results/94172495052972742?ref=Simplify",
+      "category": "FAANG+",
+      "company": "Google",
+      "first_seen": "2026-09-01T01:05:14Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-01T01:05:14Z",
+      "location": "Palo Alto, CA | Cambridge, MA | Madison, WI | Seattle, WA | Houston, TX | SF | Austin, TX | LA | San Jose, CA | Irvine, CA | South SF | Redwood City, CA | Raleigh, NC | San Bruno, CA | Redmond, WA | Durham, NC | Santa Cruz, CA | Chicago, IL | Goleta, CA | Pittsburgh, PA | Kirkland, WA | Reston, VA | NYC | Bellevue, WA | Sunnyvale, CA | Mountain View, CA | Portland, OR | Boulder, CO | Atlanta, GA | San Diego, CA",
+      "position": "Software Engineer Intern - Multiple Teams",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Google",
+          "first_seen": "2026-09-01T01:05:14Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-01T01:05:14Z",
+          "location": "Palo Alto, CA | Cambridge, MA | Madison, WI | Seattle, WA | Houston, TX | SF | Austin, TX | LA | San Jose, CA | Irvine, CA | South SF | Redwood City, CA | Raleigh, NC | San Bruno, CA | Redmond, WA | Durham, NC | Santa Cruz, CA | Chicago, IL | Goleta, CA | Pittsburgh, PA | Kirkland, WA | Reston, VA | NYC | Bellevue, WA | Sunnyvale, CA | Mountain View, CA | Portland, OR | Boulder, CO | Atlanta, GA | San Diego, CA",
+          "position": "Software Engineer Intern - Multiple Teams",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "956086a7-d67a-4072-93ae-47bf3687b548",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/956086a7-d67a-4072-93ae-47bf3687b548?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/956086a7-d67a-4072-93ae-47bf3687b548?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/956086a7-d67a-4072-93ae-47bf3687b548?utm_source=GHList",
+        "https://www.google.com/about/careers/applications/jobs/results/94172495052972742?utm_source=Simplify&ref=Simplify"
       ]
     },
     "url:https://www.ixl.com/company/jobs?gh_jid=8662881002": {
@@ -16070,14 +16164,14 @@
       ]
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
-      "active": true,
+      "active": false,
       "age": "0d",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7886501003",
       "category": "Software Engineering",
       "company": "Zipline",
       "first_seen": "2026-08-19T13:46:58Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-01T01:05:14Z",
       "job_type": "Internship",
       "last_seen": "2026-08-22T13:34:16Z",
       "location": "South San Francisco, CA",
@@ -16087,13 +16181,13 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-08-19T22:27:56Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-01T01:05:14Z",
           "job_type": "Internship",
           "last_seen": "2026-08-19T22:27:56Z",
           "location": "South San Francisco, CA",
@@ -16146,14 +16240,14 @@
       ]
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7891459003": {
-      "active": true,
+      "active": false,
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7891459003",
       "category": "Software Engineering",
       "company": "Zipline",
       "first_seen": "2026-08-18T22:37:06Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-01T01:05:14Z",
       "job_type": "Internship",
       "last_seen": "2026-08-21T13:49:19Z",
       "location": "South San Francisco, CA",
@@ -16163,13 +16257,13 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-08-18T22:37:06Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-01T01:05:14Z",
           "job_type": "Internship",
           "last_seen": "2026-08-18T22:37:06Z",
           "location": "South San Francisco, CA",
@@ -16222,14 +16316,14 @@
       ]
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7893926003": {
-      "active": true,
+      "active": false,
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7893926003",
       "category": "Software Engineering",
       "company": "Zipline",
       "first_seen": "2026-08-18T22:37:06Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-01T01:05:14Z",
       "job_type": "Internship",
       "last_seen": "2026-08-26T13:58:49Z",
       "location": "South San Francisco, CA",
@@ -16239,13 +16333,13 @@
       "season": "Spring 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-08-18T22:37:06Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-01T01:05:14Z",
           "job_type": "Internship",
           "last_seen": "2026-08-18T22:37:06Z",
           "location": "South San Francisco, CA",
@@ -16315,13 +16409,13 @@
       "season": "Spring 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-08-20T04:40:09Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-01T01:05:14Z",
           "job_type": "Internship",
           "last_seen": "2026-08-20T04:40:09Z",
           "location": "South San Francisco, CA",
@@ -16374,14 +16468,14 @@
       ]
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7894335003": {
-      "active": true,
+      "active": false,
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7894335003",
       "category": "Software Engineering",
       "company": "Zipline",
       "first_seen": "2026-08-20T04:40:09Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-01T01:05:14Z",
       "job_type": "Internship",
       "last_seen": "2026-08-28T23:55:15Z",
       "location": "South San Francisco, CA",
@@ -16391,13 +16485,13 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-08-20T04:40:09Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-01T01:05:14Z",
           "job_type": "Internship",
           "last_seen": "2026-08-20T04:40:09Z",
           "location": "South San Francisco, CA",
@@ -16467,13 +16561,13 @@
       "season": "Spring 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-08-20T22:30:45Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-01T01:05:14Z",
           "job_type": "Internship",
           "last_seen": "2026-08-20T22:30:45Z",
           "location": "South San Francisco, CA",
@@ -16543,13 +16637,13 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-08-21T23:26:53Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-01T01:05:14Z",
           "job_type": "Internship",
           "last_seen": "2026-08-21T23:26:53Z",
           "location": "South San Francisco, CA",
@@ -16602,14 +16696,14 @@
       ]
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7974890003": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
       "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7974890003",
       "category": "Software Engineering",
       "company": "Zipline",
       "first_seen": "2026-08-27T04:23:56Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-01T01:05:14Z",
       "job_type": "Internship",
       "last_seen": "2026-08-27T04:23:56Z",
       "location": "South San Francisco, CA",
@@ -16619,13 +16713,13 @@
       "season": "Spring 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-08-27T04:23:56Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-01T01:05:14Z",
           "job_type": "Internship",
           "last_seen": "2026-08-27T04:23:56Z",
           "location": "South San Francisco, CA",
@@ -18911,6 +19005,53 @@
         "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/USA-San-Mateo-CA/Junior-Software-Engineer_JR112167"
       ]
     },
+    "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd",
+      "category": "Unknown",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "first_seen": "2026-09-01T01:05:14Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-01T01:05:14Z",
+      "location": "Boston, MA | Seattle, WA | Houston, TX | Washington, DC | SF | LA | Dallas, TX | Philadelphia, PA | Rosemont, IL | Chicago, IL | Silicon Valley, CA | NYC | Minneapolis, MN | Atlanta, GA",
+      "position": "Connected Physical Products Intern - Summer 2027",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "PricewaterhouseCoopers (PwC)",
+          "first_seen": "2026-09-01T01:05:14Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-01T01:05:14Z",
+          "location": "Boston, MA | Seattle, WA | Houston, TX | Washington, DC | SF | LA | Dallas, TX | Philadelphia, PA | Rosemont, IL | Chicago, IL | Silicon Valley, CA | NYC | Minneapolis, MN | Atlanta, GA",
+          "position": "Connected Physical Products Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "2f2aadeb-1b18-46b7-8798-5eaf3007f689",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/2f2aadeb-1b18-46b7-8798-5eaf3007f689?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/2f2aadeb-1b18-46b7-8798-5eaf3007f689?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/2f2aadeb-1b18-46b7-8798-5eaf3007f689?utm_source=GHList"
+      ]
+    },
     "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930": {
       "active": true,
       "age": "Today",
@@ -19764,6 +19905,22 @@
         "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
       ],
       "status": "sent"
+    },
+    "bd9557217215ad7132517fbb410710a1d9eef75cb16e33b86d6cdcf6673b038c": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-01T01:05:14Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://www.google.com/about/careers/applications/jobs/results/100648618540573382?ref=Simplify",
+        "url:https://www.google.com/about/careers/applications/jobs/results/94172495052972742?ref=Simplify",
+        "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd"
+      ],
+      "job_urls": [
+        "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD?utm_source=Simplify&ref=Simplify",
+        "https://www.google.com/about/careers/applications/jobs/results/100648618540573382?utm_source=Simplify&ref=Simplify",
+        "https://www.google.com/about/careers/applications/jobs/results/94172495052972742?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "c0d81571163b2b4475daeb51d028a4a3b899d0e92b7fc45b913d737df2b7d91a": {
       "application_scan_eligible": true,
