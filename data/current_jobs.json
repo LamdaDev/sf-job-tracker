@@ -12582,52 +12582,6 @@
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290"
       ]
     },
-    "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071": {
-      "age": "28d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071",
-      "category": "Unknown",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026",
-      "posted": "2026-07-20",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "28d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
-          "category": "Unknown",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026",
-          "posted": "2026-07-20",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "c843e37e-72c9-4f89-88aa-d0d902c16020",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "28d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "c843e37e-72c9-4f89-88aa-d0d902c16020",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
-            "matchKind": "explicit",
-            "posted": "2026-07-20",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=c843e37e-72c9-4f89-88aa-d0d902c16020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=c843e37e-72c9-4f89-88aa-d0d902c16020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=NVIDIA&job=c843e37e-72c9-4f89-88aa-d0d902c16020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071"
-      ]
-    },
     "workday:nvidia.wd5.myworkdayjobs.com:developer-technology-engineer--ai---new-college-graduate-2026_jr2024557": {
       "age": "1d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557",
@@ -12807,33 +12761,6 @@
       "salary": "$62/hr",
       "season": "Fall 2026",
       "sources": {
-        "applyguy_internships": {
-          "age": "11d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
-          "category": "Software Engineering",
-          "company": "NVIDIA",
-          "job_type": "Internship",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineering Intern, Dynamo - Fall 2026",
-          "posted": "2026-08-06",
-          "salary": null,
-          "season": "Fall 2026",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "6b556750-92e8-4d68-877d-f4d4afe0828f",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "11d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "6b556750-92e8-4d68-877d-f4d4afe0828f",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
-            "posted": "2026-08-06",
-            "season": "Fall 2026",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=6b556750-92e8-4d68-877d-f4d4afe0828f&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=6b556750-92e8-4d68-877d-f4d4afe0828f&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "12d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",

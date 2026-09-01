@@ -19146,14 +19146,14 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071": {
-      "active": true,
+      "active": false,
       "age": "28d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071",
       "category": "Unknown",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-01T20:45:40Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Santa Clara, CA",
@@ -19163,13 +19163,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "28d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
           "category": "Unknown",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-01T20:45:40Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Santa Clara, CA",
@@ -19726,13 +19726,13 @@
       "season": "Fall 2026",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "11d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
           "category": "Software Engineering",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-01T20:45:40Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Santa Clara, CA",

@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (309)
+## Active Jobs (308)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -125,7 +125,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | KAYAK | Associate Software Engineer | New Grad | Unknown | Concord, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/kayak/8333e351-7a08-4767-9966-f75411b78d80>) |
 | Notion | Software Engineer, Early Career | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f>) |
 | Notion | Software Engineer, Early Career (AI) | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28>) |
-| NVIDIA | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071>) |
 | Roblox | Software Engineer Intern | Internship | FAANG+ | San Mateo, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://careers.roblox.com/jobs/8072713?gh_jid=8072713&utm_source=Simplify&ref=Simplify>) |
 | SpaceX | Software Engineering Intern/Co-op | Internship | FAANG+ | Palo Alto, CA \| Bastrop, TX \| Irvine, CA \| Cape Canaveral, FL \| Brownsville, TX \| Redmond, WA \| McGregor, TX \| Hawthorne, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://boards.greenhouse.io/spacex/jobs/8621757002?utm_source=Simplify&ref=Simplify>) |
 | Replit | Software Engineering Intern (Summer 2027) | Internship | Software Engineering | Foster City, CA | ApplyGuy, Simplify, SpeedyApply | N/A | 2026-08-17T13:41:22Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1>) |
@@ -318,7 +317,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (76)
+## Historical / Closed or Removed Jobs (77)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -345,6 +344,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Hpe | Software Engineer I -Embedded System | New Grad | Unknown | Sunnyvale, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2>) |
 | Nuro | Software Engineer, Performance - New Grad | New Grad | Unknown | Mountain View, California (HQ) | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://nuro.ai/careersitem?gh_jid=6972272>) |
 | NVIDIA | AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591>) |
+| NVIDIA | Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071>) |
 | NVIDIA | Software Engineer, Physical Design Infrastructure - New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | No | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823>) |
 | NVIDIA | System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-31T16:52:20Z | No | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767>) |
 | NVIDIA | Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-27T04:23:56Z | No | [Apply](<https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957>) |
