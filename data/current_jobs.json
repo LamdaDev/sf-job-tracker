@@ -11175,52 +11175,6 @@
         "https://www.metacareers.com/jobs/2145505832666693"
       ]
     },
-    "url:https://www.observe.ai/position?gh_jid=5383979008": {
-      "age": "7d",
-      "application_url": "https://www.observe.ai/position?gh_jid=5383979008",
-      "canonical_id": "url:https://www.observe.ai/position?gh_jid=5383979008",
-      "category": "Unknown",
-      "company": "Observe.AI",
-      "job_type": "New Grad",
-      "location": "Redwood City, CA",
-      "position": "Software Engineer I - AI Agents",
-      "posted": "2026-08-10",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "7d",
-          "application_url": "https://www.observe.ai/position?gh_jid=5383979008",
-          "category": "Unknown",
-          "company": "Observe.AI",
-          "job_type": "New Grad",
-          "location": "Redwood City, CA",
-          "position": "Software Engineer I - AI Agents",
-          "posted": "2026-08-10",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "7d",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
-            "listingUrl": "https://www.observe.ai/position?gh_jid=5383979008",
-            "matchKind": "entry_level",
-            "posted": "2026-08-10",
-            "url": "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://www.observe.ai/position?gh_jid=5383979008"
-      ]
-    },
     "url:https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091": {
       "age": "13d",
       "application_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
