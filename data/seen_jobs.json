@@ -19816,14 +19816,14 @@
     "7b0271635ba30fb2f6f570b9a250799d342ad492f522bc76308f59b020e5f3b9": {
       "application_scan_eligible": true,
       "created_at": "2026-09-01T07:28:48Z",
-      "issue_number": null,
+      "issue_number": 51,
       "job_ids": [
         "ashby:whatnot:928ffdca-b316-40ce-b82b-94b570919bcd"
       ],
       "job_urls": [
         "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "7c9f419ea1c05d14b1ad0050c313a0313f6a7b6469b3698d0c55cb897a791215": {
       "application_scan_eligible": true,

@@ -273,6 +273,27 @@
       "scanned_at": "2026-08-25T16:40:42Z",
       "status": "unavailable"
     },
+    "ashby:whatnot:928ffdca-b316-40ce-b82b-94b570919bcd": {
+      "application_url": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:whatnot:928ffdca-b316-40ce-b82b-94b570919bcd",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-01T07:28:51Z",
+      "http_status": 200,
+      "issue_number": 51,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-01T07:28:51Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-01T07:28:51Z",
+      "status": "unavailable"
+    },
     "ashby:zip:249837b3-106f-4751-a4f2-03a2c5df5faf": {
       "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
       "attempt_count": 1,
