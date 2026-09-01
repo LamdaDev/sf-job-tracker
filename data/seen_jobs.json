@@ -21030,7 +21030,7 @@
     "afe2191347ce1cddc82d506fb7a60cf8ac5210fda783ca6276785fafd1b32459": {
       "application_scan_eligible": true,
       "created_at": "2026-09-01T17:42:25Z",
-      "issue_number": null,
+      "issue_number": 52,
       "job_ids": [
         "ashby:clera:431bb19f-3118-4184-9fc9-65179adbb139",
         "ashby:sierra:149f368c-52d5-408f-ba26-ad888f318a00",
@@ -21083,7 +21083,7 @@
         "https://www.ixl.com/company/jobs?gh_jid=8765715002",
         "https://www.ixl.com/company/jobs?gh_jid=8765770002"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "b2fb2626e5e5078b18bb5876224150caa1186d1c4cf74561ae45a89694565530": {
       "application_scan_eligible": true,
