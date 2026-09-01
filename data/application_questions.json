@@ -5256,6 +5256,27 @@
       "scanned_at": "2026-08-21T13:49:25Z",
       "status": "unavailable"
     },
+    "url:https://www.google.com/about/careers/applications/jobs/results/100648618540573382?ref=Simplify": {
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.google.com/about/careers/applications/jobs/results/100648618540573382?ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-01T01:05:17Z",
+      "http_status": 200,
+      "issue_number": 50,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-01T01:05:17Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-01T01:05:17Z",
+      "status": "unavailable"
+    },
     "url:https://www.google.com/about/careers/applications/jobs/results/91436104816698054": {
       "application_url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054",
       "attempt_count": 1,
@@ -5275,6 +5296,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-08-25T13:53:09Z",
+      "status": "unavailable"
+    },
+    "url:https://www.google.com/about/careers/applications/jobs/results/94172495052972742?ref=Simplify": {
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.google.com/about/careers/applications/jobs/results/94172495052972742?ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-01T01:05:18Z",
+      "http_status": 200,
+      "issue_number": 50,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-01T01:05:18Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-01T01:05:18Z",
       "status": "unavailable"
     },
     "url:https://www.metacareers.com/jobs/2145505832666693": {
@@ -5778,6 +5820,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-19T13:47:06Z",
+      "status": "unavailable"
+    },
+    "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd": {
+      "application_url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-01T01:05:19Z",
+      "http_status": 200,
+      "issue_number": 50,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-01T01:05:19Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-01T01:05:19Z",
       "status": "unavailable"
     },
     "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930": {

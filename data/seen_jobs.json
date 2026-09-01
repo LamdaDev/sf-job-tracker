@@ -19909,7 +19909,7 @@
     "bd9557217215ad7132517fbb410710a1d9eef75cb16e33b86d6cdcf6673b038c": {
       "application_scan_eligible": true,
       "created_at": "2026-09-01T01:05:14Z",
-      "issue_number": null,
+      "issue_number": 50,
       "job_ids": [
         "url:https://www.google.com/about/careers/applications/jobs/results/100648618540573382?ref=Simplify",
         "url:https://www.google.com/about/careers/applications/jobs/results/94172495052972742?ref=Simplify",
@@ -19920,7 +19920,7 @@
         "https://www.google.com/about/careers/applications/jobs/results/100648618540573382?utm_source=Simplify&ref=Simplify",
         "https://www.google.com/about/careers/applications/jobs/results/94172495052972742?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "c0d81571163b2b4475daeb51d028a4a3b899d0e92b7fc45b913d737df2b7d91a": {
       "application_scan_eligible": true,
