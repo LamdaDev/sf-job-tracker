@@ -2248,10 +2248,37 @@
       "job_type": "New Grad",
       "location": "San Francisco, CA",
       "position": "Software Engineer - New Grad",
-      "posted": null,
+      "posted": "2026-08-05",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "28d",
+          "application_url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53",
+          "category": "Unknown",
+          "company": "Nooks",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, New Grad",
+          "posted": "2026-08-05",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "9e02545f-8dbb-4d99-9313-046620ec9144",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "28d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "9e02545f-8dbb-4d99-9313-046620ec9144",
+            "listingUrl": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53",
+            "matchKind": "explicit",
+            "posted": "2026-08-05",
+            "url": "https://applyguy.ai/jobs?company=Nooks&job=9e02545f-8dbb-4d99-9313-046620ec9144&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Nooks&job=9e02545f-8dbb-4d99-9313-046620ec9144&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "11d",
           "application_url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53",
@@ -2272,6 +2299,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Nooks&job=9e02545f-8dbb-4d99-9313-046620ec9144&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53"
       ]
     },
@@ -3530,6 +3558,33 @@
       "salary": null,
       "season": "Summer 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "8d",
+          "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+          "category": "Software Engineering",
+          "company": "Zip",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern (Summer 2027)",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "c95c1e0e-bb15-4bc7-bd3e-18234f72f52b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "8d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "c95c1e0e-bb15-4bc7-bd3e-18234f72f52b",
+            "listingUrl": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
+            "posted": "2026-08-25",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
@@ -3662,6 +3717,52 @@
         "https://job-boards.greenhouse.io/ascend21/jobs/5351565008"
       ]
     },
+    "greenhouse:c3ascend:8739036002": {
+      "age": "2d",
+      "application_url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
+      "canonical_id": "greenhouse:c3ascend:8739036002",
+      "category": "Software Engineering",
+      "company": "C 3 Ascend",
+      "job_type": "Internship",
+      "location": "Redwood City, CA",
+      "position": "Software Engineer - Intern (Summer 2027)",
+      "posted": "2026-08-31",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
+          "category": "Software Engineering",
+          "company": "C 3 Ascend",
+          "job_type": "Internship",
+          "location": "Redwood City, CA",
+          "position": "Software Engineer - Intern (Summer 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b9db3390-dbd1-4c8b-b5d2-5a60e1273612",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "b9db3390-dbd1-4c8b-b5d2-5a60e1273612",
+            "listingUrl": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
+            "posted": "2026-08-31",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=C+3+Ascend&job=b9db3390-dbd1-4c8b-b5d2-5a60e1273612&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=C+3+Ascend&job=b9db3390-dbd1-4c8b-b5d2-5a60e1273612&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=C+3+Ascend&job=b9db3390-dbd1-4c8b-b5d2-5a60e1273612&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002"
+      ]
+    },
     "greenhouse:chime:8606649002": {
       "age": "22d",
       "application_url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
@@ -3773,6 +3874,52 @@
         "https://job-boards.greenhouse.io/discord/jobs/8609250002"
       ]
     },
+    "greenhouse:energysolutions:5222428007": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
+      "canonical_id": "greenhouse:energysolutions:5222428007",
+      "category": "Other",
+      "company": "Energy Solutions - USA",
+      "job_type": "New Grad",
+      "location": "Remote - Oakland, CA",
+      "position": "Software Engineer I - Oakland - CA - US",
+      "posted": "2026-08-26",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "7d",
+          "application_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
+          "category": "Unknown",
+          "company": "Energy Solutions - USA",
+          "job_type": "New Grad",
+          "location": "Oakland, CA",
+          "position": "Software Engineer I (Oakland, CA - US)",
+          "posted": "2026-08-26",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "7d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6",
+            "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
+            "matchKind": "entry_level",
+            "posted": "2026-08-26",
+            "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007"
+      ]
+    },
     "greenhouse:everlaw:4705236006": {
       "age": "0d",
       "application_url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
@@ -3782,10 +3929,37 @@
       "job_type": "New Grad",
       "location": "Oakland, CA",
       "position": "Software Engineer I",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "2d",
+          "application_url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
+          "category": "Unknown",
+          "company": "Everlaw",
+          "job_type": "New Grad",
+          "location": "Oakland, CA",
+          "position": "Software Engineer I",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "4b8e4618-1876-4b59-b08f-7a990b1f3600",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "4b8e4618-1876-4b59-b08f-7a990b1f3600",
+            "listingUrl": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
+            "matchKind": "entry_level",
+            "posted": "2026-08-31",
+            "url": "https://applyguy.ai/jobs?company=Everlaw&job=4b8e4618-1876-4b59-b08f-7a990b1f3600&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Everlaw&job=4b8e4618-1876-4b59-b08f-7a990b1f3600&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
@@ -3806,6 +3980,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Everlaw&job=4b8e4618-1876-4b59-b08f-7a990b1f3600&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://job-boards.greenhouse.io/everlaw/jobs/4705236006"
       ]
     },
@@ -3822,6 +3997,33 @@
       "salary": "$60/hr",
       "season": "Winter 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "23d",
+          "application_url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+          "category": "Software Engineering",
+          "company": "Figma",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern (Winter 2027)",
+          "posted": "2026-08-10",
+          "salary": null,
+          "season": "Winter 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "2ce87c01-db63-4994-8c1a-e65612553daa",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "23d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "2ce87c01-db63-4994-8c1a-e65612553daa",
+            "listingUrl": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+            "posted": "2026-08-10",
+            "season": "Winter 2027",
+            "url": "https://applyguy.ai/jobs?company=Figma&job=2ce87c01-db63-4994-8c1a-e65612553daa&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Figma&job=2ce87c01-db63-4994-8c1a-e65612553daa&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "6d",
           "application_url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
@@ -3891,10 +4093,37 @@
       "job_type": "Internship",
       "location": "San Francisco, CA",
       "position": "Software Engineer Intern - Cloud Services - Summer 2027",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
-      "season": null,
+      "season": "Summer 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6111955004",
+          "category": "Software Engineering",
+          "company": "HP IQ",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern, Cloud Services (Summer 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7aae1c4e-a7b4-493c-8841-d1e649a957fa",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "7aae1c4e-a7b4-493c-8841-d1e649a957fa",
+            "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6111955004",
+            "posted": "2026-08-31",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=HP+IQ&job=7aae1c4e-a7b4-493c-8841-d1e649a957fa&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=HP+IQ&job=7aae1c4e-a7b4-493c-8841-d1e649a957fa&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6111955004",
@@ -3915,7 +4144,54 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=HP+IQ&job=7aae1c4e-a7b4-493c-8841-d1e649a957fa&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/hpiq/jobs/6111955004"
+      ]
+    },
+    "greenhouse:hpiq:6114781004": {
+      "age": "2d",
+      "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004",
+      "canonical_id": "greenhouse:hpiq:6114781004",
+      "category": "Software Engineering",
+      "company": "HP IQ",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineering Intern, AML Platform (Summer 2027)",
+      "posted": "2026-08-31",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004",
+          "category": "Software Engineering",
+          "company": "HP IQ",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern, AML Platform (Summer 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "0717d0a1-e2d3-4f63-adb9-edf6e8391846",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "0717d0a1-e2d3-4f63-adb9-edf6e8391846",
+            "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004",
+            "posted": "2026-08-31",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=HP+IQ&job=0717d0a1-e2d3-4f63-adb9-edf6e8391846&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=HP+IQ&job=0717d0a1-e2d3-4f63-adb9-edf6e8391846&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=HP+IQ&job=0717d0a1-e2d3-4f63-adb9-edf6e8391846&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/hpiq/jobs/6114781004"
       ]
     },
     "greenhouse:hpiq:6114890004": {
@@ -3927,10 +4203,37 @@
       "job_type": "Internship",
       "location": "San Francisco, CA",
       "position": "Software Engineering Intern - Product & Developer Productivity - Summer 2027",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
-      "season": null,
+      "season": "Summer 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004",
+          "category": "Software Engineering",
+          "company": "HP IQ",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern, Product & Developer Productivity  (Summer 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "3757b397-ae21-451a-8844-bb4757b9dc5a",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "3757b397-ae21-451a-8844-bb4757b9dc5a",
+            "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004",
+            "posted": "2026-08-31",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=HP+IQ&job=3757b397-ae21-451a-8844-bb4757b9dc5a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=HP+IQ&job=3757b397-ae21-451a-8844-bb4757b9dc5a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004",
@@ -3951,6 +4254,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=HP+IQ&job=3757b397-ae21-451a-8844-bb4757b9dc5a&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/hpiq/jobs/6114890004"
       ]
     },
@@ -3963,10 +4267,37 @@
       "job_type": "Internship",
       "location": "San Francisco, CA",
       "position": "Software Engineering Intern - Device Experiences - Summer 2027",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
-      "season": null,
+      "season": "Summer 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004",
+          "category": "Software Engineering",
+          "company": "HP IQ",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern, Device Experiences (Summer 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "d0f1d597-2305-4988-b6e1-26880a1154ca",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "d0f1d597-2305-4988-b6e1-26880a1154ca",
+            "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004",
+            "posted": "2026-08-31",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=HP+IQ&job=d0f1d597-2305-4988-b6e1-26880a1154ca&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=HP+IQ&job=d0f1d597-2305-4988-b6e1-26880a1154ca&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004",
@@ -3987,6 +4318,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=HP+IQ&job=d0f1d597-2305-4988-b6e1-26880a1154ca&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/hpiq/jobs/6114912004"
       ]
     },
@@ -3999,10 +4331,37 @@
       "job_type": "Internship",
       "location": "San Francisco, CA",
       "position": "Software Engineering Intern - Product Security - Summer 2027",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
-      "season": null,
+      "season": "Summer 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
+          "category": "Software Engineering",
+          "company": "HP IQ",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern, Product Security (Summer 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "3221f8e4-9d37-4e82-8c31-d13f4d664c0b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "3221f8e4-9d37-4e82-8c31-d13f4d664c0b",
+            "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
+            "posted": "2026-08-31",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=HP+IQ&job=3221f8e4-9d37-4e82-8c31-d13f4d664c0b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=HP+IQ&job=3221f8e4-9d37-4e82-8c31-d13f4d664c0b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
@@ -4023,6 +4382,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=HP+IQ&job=3221f8e4-9d37-4e82-8c31-d13f4d664c0b&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/hpiq/jobs/6116398004"
       ]
     },
@@ -4035,10 +4395,37 @@
       "job_type": "Internship",
       "location": "San Francisco, CA",
       "position": "Software Engineering Intern - Software Systems - Summer 2027",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
-      "season": null,
+      "season": "Summer 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6140119004",
+          "category": "Software Engineering",
+          "company": "HP IQ",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern, Software Systems (Summer 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "e888dbf6-4dbe-4337-a621-99de0957ff1f",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "e888dbf6-4dbe-4337-a621-99de0957ff1f",
+            "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6140119004",
+            "posted": "2026-08-31",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=HP+IQ&job=e888dbf6-4dbe-4337-a621-99de0957ff1f&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=HP+IQ&job=e888dbf6-4dbe-4337-a621-99de0957ff1f&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6140119004",
@@ -4059,7 +4446,54 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=HP+IQ&job=e888dbf6-4dbe-4337-a621-99de0957ff1f&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/hpiq/jobs/6140119004"
+      ]
+    },
+    "greenhouse:hpiq:6176783004": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+      "canonical_id": "greenhouse:hpiq:6176783004",
+      "category": "Software Engineering",
+      "company": "HP IQ",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineering Intern, Connectivity (Summer 2027)",
+      "posted": "2026-09-01",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+          "category": "Software Engineering",
+          "company": "HP IQ",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern, Connectivity (Summer 2027)",
+          "posted": "2026-09-01",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "8ca4c109-75ea-4aff-aae0-229e8870636b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "8ca4c109-75ea-4aff-aae0-229e8870636b",
+            "listingUrl": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+            "posted": "2026-09-01",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=HP+IQ&job=8ca4c109-75ea-4aff-aae0-229e8870636b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=HP+IQ&job=8ca4c109-75ea-4aff-aae0-229e8870636b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=HP+IQ&job=8ca4c109-75ea-4aff-aae0-229e8870636b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
       ]
     },
     "greenhouse:ionq:6096581004": {
@@ -4134,6 +4568,52 @@
         "https://job-boards.greenhouse.io/kargo/jobs/6120133004"
       ]
     },
+    "greenhouse:kikoff:4376677009": {
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+      "canonical_id": "greenhouse:kikoff:4376677009",
+      "category": "Unknown",
+      "company": "Kikoff",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - Recent Grad",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "13d",
+          "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+          "category": "Unknown",
+          "company": "Kikoff",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Recent Grad",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "4e646993-5eda-4baf-a943-0fec9dafef7f",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "13d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "4e646993-5eda-4baf-a943-0fec9dafef7f",
+            "listingUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
+            "matchKind": "explicit",
+            "posted": "2026-08-20",
+            "url": "https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://job-boards.greenhouse.io/kikoff/jobs/4376677009"
+      ]
+    },
     "greenhouse:mercury:6101145004": {
       "age": "47d",
       "application_url": "https://job-boards.greenhouse.io/mercury/jobs/6101145004",
@@ -4183,6 +4663,33 @@
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "28d",
+          "application_url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
+          "category": "Unknown",
+          "company": "Muon Space",
+          "job_type": "New Grad",
+          "location": "San Jose, CA",
+          "position": "Software Engineer, Entry-Level",
+          "posted": "2026-08-05",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "28d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f",
+            "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
+            "matchKind": "explicit",
+            "posted": "2026-08-05",
+            "url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "11d",
           "application_url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
@@ -4279,6 +4786,52 @@
         "https://boards.greenhouse.io/ridgeline/jobs/7784169003?gh_jid=7784169003"
       ]
     },
+    "greenhouse:skhynixmemorysolutionsamericainc:4387708009": {
+      "age": "2d",
+      "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009",
+      "canonical_id": "greenhouse:skhynixmemorysolutionsamericainc:4387708009",
+      "category": "Software Engineering",
+      "company": "SK hynix memory solutions America Inc.",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "SSD Firmware Development Engineer Intern",
+      "posted": "2026-08-31",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009",
+          "category": "Software Engineering",
+          "company": "SK hynix memory solutions America Inc.",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "SSD Firmware Development Engineer Intern",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "285da5bf-6aff-4268-87c6-237bc6be5b16",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "285da5bf-6aff-4268-87c6-237bc6be5b16",
+            "listingUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009",
+            "posted": "2026-08-31",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=285da5bf-6aff-4268-87c6-237bc6be5b16&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=285da5bf-6aff-4268-87c6-237bc6be5b16&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=285da5bf-6aff-4268-87c6-237bc6be5b16&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009"
+      ]
+    },
     "greenhouse:sonyinteractiveentertainmentglobal:6145057004": {
       "age": "0d",
       "application_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145057004",
@@ -4367,6 +4920,33 @@
       "salary": "$193k/yr",
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "50d",
+          "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
+          "category": "Unknown",
+          "company": "Twitch",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer I, Discovery",
+          "posted": "2026-07-14",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "b16ee1a8-b215-4797-afea-9bf721d3a86e",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "50d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "b16ee1a8-b215-4797-afea-9bf721d3a86e",
+            "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
+            "matchKind": "entry_level",
+            "posted": "2026-07-14",
+            "url": "https://applyguy.ai/jobs?company=Twitch&job=b16ee1a8-b215-4797-afea-9bf721d3a86e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Twitch&job=b16ee1a8-b215-4797-afea-9bf721d3a86e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "33d",
           "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002",
@@ -4404,6 +4984,33 @@
       "salary": "$193k/yr",
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "19d",
+          "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
+          "category": "Unknown",
+          "company": "Twitch",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer I, Payments",
+          "posted": "2026-08-14",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "2df2e586-e68d-4406-a287-c54178f64e37",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "19d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "2df2e586-e68d-4406-a287-c54178f64e37",
+            "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
+            "matchKind": "entry_level",
+            "posted": "2026-08-14",
+            "url": "https://applyguy.ai/jobs?company=Twitch&job=2df2e586-e68d-4406-a287-c54178f64e37&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Twitch&job=2df2e586-e68d-4406-a287-c54178f64e37&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "2d",
           "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8700578002",
@@ -4441,6 +5048,33 @@
       "salary": "$193k/yr",
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "7d",
+          "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
+          "category": "Unknown",
+          "company": "Twitch",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer I, Memberships",
+          "posted": "2026-08-26",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "d7d31318-32c4-4527-bb3e-6e7b98166860",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "7d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "d7d31318-32c4-4527-bb3e-6e7b98166860",
+            "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
+            "matchKind": "entry_level",
+            "posted": "2026-08-26",
+            "url": "https://applyguy.ai/jobs?company=Twitch&job=d7d31318-32c4-4527-bb3e-6e7b98166860&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Twitch&job=d7d31318-32c4-4527-bb3e-6e7b98166860&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "2d",
           "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
@@ -4692,8 +5326,35 @@
       "position": "Backend Software Engineering Intern 2027",
       "posted": "2026-08-25",
       "salary": null,
-      "season": "Summer 2027",
+      "season": "2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "8d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+          "category": "Software Engineering",
+          "company": "Verkada",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Backend Software Engineering Intern 2027",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "8d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79",
+            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+            "posted": "2026-08-25",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Verkada&job=e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "simplify_summer_2027": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify",
@@ -4751,8 +5412,35 @@
       "position": "Frontend Software Engineering Intern 2027",
       "posted": "2026-08-25",
       "salary": null,
-      "season": "Summer 2027",
+      "season": "2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "8d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+          "category": "Software Engineering",
+          "company": "Verkada",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Frontend Software Engineering Intern 2027",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "dd6e9c1e-920a-43d2-a078-18914384469b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "8d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "dd6e9c1e-920a-43d2-a078-18914384469b",
+            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+            "posted": "2026-08-25",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Verkada&job=dd6e9c1e-920a-43d2-a078-18914384469b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=dd6e9c1e-920a-43d2-a078-18914384469b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "simplify_summer_2027": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify",
@@ -4812,6 +5500,33 @@
       "salary": null,
       "season": "2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "8d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+          "category": "Software Engineering",
+          "company": "Verkada",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Embedded Software Engineering Intern 2027",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "71f6de1a-ab6c-4263-8108-ff3787f5418a",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "8d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "71f6de1a-ab6c-4263-8108-ff3787f5418a",
+            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+            "posted": "2026-08-25",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
@@ -4847,8 +5562,35 @@
       "position": "Security Software Engineering Intern 2027",
       "posted": "2026-08-25",
       "salary": null,
-      "season": "Summer 2027",
+      "season": "2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "8d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+          "category": "Software Engineering",
+          "company": "Verkada",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Security Software Engineering Intern 2027",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "6f984838-bd2b-40fb-a8b0-b126b5ea822c",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "8d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "6f984838-bd2b-40fb-a8b0-b126b5ea822c",
+            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+            "posted": "2026-08-25",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Verkada&job=6f984838-bd2b-40fb-a8b0-b126b5ea822c&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=6f984838-bd2b-40fb-a8b0-b126b5ea822c&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "simplify_summer_2027": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
@@ -4906,8 +5648,35 @@
       "position": "Mobile Software Engineering Intern 2027",
       "posted": "2026-08-25",
       "salary": null,
-      "season": "Summer 2027",
+      "season": "2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "8d",
+          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+          "category": "Software Engineering",
+          "company": "Verkada",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Mobile Software Engineering Intern 2027",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "f7836b53-a95f-45f3-8e30-e3e2a68a620a",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "8d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "f7836b53-a95f-45f3-8e30-e3e2a68a620a",
+            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+            "posted": "2026-08-25",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Verkada&job=f7836b53-a95f-45f3-8e30-e3e2a68a620a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=f7836b53-a95f-45f3-8e30-e3e2a68a620a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "simplify_summer_2027": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
@@ -5878,6 +6647,45 @@
       "url_aliases": [
         "https://jobs.bytedance.com/en/position/7678449088065997109/detail?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/98ba4abf-1726-45e5-a03c-c711dfb81c84?utm_source=GHList"
+      ]
+    },
+    "tiktok:jobs.bytedance.com:7678450462765254965": {
+      "age": "0d",
+      "application_url": "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:jobs.bytedance.com:7678450462765254965",
+      "category": "FAANG+",
+      "company": "ByteDance",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Research Intern - AI-Native Databases 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "ByteDance",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Research Intern - AI-Native Databases 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "a35fbd54-2c09-4c0e-8677-4b9065708400",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/a35fbd54-2c09-4c0e-8677-4b9065708400?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/a35fbd54-2c09-4c0e-8677-4b9065708400?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/a35fbd54-2c09-4c0e-8677-4b9065708400?utm_source=GHList"
       ]
     },
     "tiktok:lifeattiktok.com:7646621925436131637": {
@@ -10346,10 +11154,37 @@
       "job_type": "Internship",
       "location": "Redwood City, CA",
       "position": "Software Engineer - Intern - Summer 2027",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
-      "season": null,
+      "season": "Summer 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002",
+          "category": "Software Engineering",
+          "company": "C3 AI",
+          "job_type": "Internship",
+          "location": "Redwood City, CA",
+          "position": "Software Engineer - Intern (Summer 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "688de8d6-cb68-427f-a18b-17e590d9e7b9",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "688de8d6-cb68-427f-a18b-17e590d9e7b9",
+            "listingUrl": "https://c3.ai/job-description/8739037002?gh_jid=8739037002",
+            "posted": "2026-08-31",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=C3+AI&job=688de8d6-cb68-427f-a18b-17e590d9e7b9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=C3+AI&job=688de8d6-cb68-427f-a18b-17e590d9e7b9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002",
@@ -10370,6 +11205,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=C3+AI&job=688de8d6-cb68-427f-a18b-17e590d9e7b9&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://c3.ai/job-description/8739037002?gh_jid=8739037002"
       ]
     },
@@ -10617,6 +11453,33 @@
       "salary": "$150k/yr",
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "28d",
+          "application_url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
+          "category": "Unknown",
+          "company": "Roblox",
+          "job_type": "New Grad",
+          "location": "San Mateo, CA",
+          "position": "[2027] Software Engineer, Early Career",
+          "posted": "2026-08-05",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "b787bb89-547d-4d4a-a2a3-59018fdd7969",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "28d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "b787bb89-547d-4d4a-a2a3-59018fdd7969",
+            "listingUrl": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
+            "matchKind": "explicit",
+            "posted": "2026-08-05",
+            "url": "https://applyguy.ai/jobs?company=Roblox&job=b787bb89-547d-4d4a-a2a3-59018fdd7969&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Roblox&job=b787bb89-547d-4d4a-a2a3-59018fdd7969&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "11d",
           "application_url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
@@ -10654,6 +11517,33 @@
       "salary": "$64/hr",
       "season": "Summer 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "28d",
+          "application_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+          "category": "Software Engineering",
+          "company": "Roblox",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "[Summer 2027] Software Engineer Intern",
+          "posted": "2026-08-05",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "96fd05a5-17a7-4f93-a8b5-c2fcd38b452e",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "28d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "96fd05a5-17a7-4f93-a8b5-c2fcd38b452e",
+            "listingUrl": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+            "posted": "2026-08-05",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Roblox&job=96fd05a5-17a7-4f93-a8b5-c2fcd38b452e&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Roblox&job=96fd05a5-17a7-4f93-a8b5-c2fcd38b452e&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "11d",
           "application_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
@@ -11126,6 +12016,52 @@
         "https://simplify.jobs/p/33f7cf59-11b2-4422-b6b4-0d340392d3b9?utm_source=GHList"
       ]
     },
+    "url:https://nuro.ai/careersitem?gh_jid=6972272": {
+      "age": "32d",
+      "application_url": "https://nuro.ai/careersitem?gh_jid=6972272",
+      "canonical_id": "url:https://nuro.ai/careersitem?gh_jid=6972272",
+      "category": "Unknown",
+      "company": "Nuro",
+      "job_type": "New Grad",
+      "location": "Mountain View, California (HQ)",
+      "position": "Software Engineer, Performance - New Grad",
+      "posted": "2026-07-16",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "48d",
+          "application_url": "https://nuro.ai/careersitem?gh_jid=6972272",
+          "category": "Unknown",
+          "company": "Nuro",
+          "job_type": "New Grad",
+          "location": "Mountain View, California (HQ)",
+          "position": "Software Engineer, Performance - New Grad",
+          "posted": "2026-07-16",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "48d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6",
+            "listingUrl": "https://nuro.ai/careersitem?gh_jid=6972272",
+            "matchKind": "explicit",
+            "posted": "2026-07-16",
+            "url": "https://applyguy.ai/jobs?company=Nuro&job=4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Nuro&job=4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Nuro&job=4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://nuro.ai/careersitem?gh_jid=6972272"
+      ]
+    },
     "url:https://nuro.ai/careersitem?gh_jid=7888575": {
       "age": "102d",
       "application_url": "https://nuro.ai/careersitem?gh_jid=7888575",
@@ -11315,10 +12251,37 @@
       "job_type": "New Grad",
       "location": "San Francisco, CA",
       "position": "Software Engineer - New Grad",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": "$207k/yr",
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "2d",
+          "application_url": "https://stripe.com/jobs/search?gh_jid=8128744",
+          "category": "Unknown",
+          "company": "Stripe",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, New Grad",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "13c8afc0-3a16-47c3-848e-4a953b43c278",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "13c8afc0-3a16-47c3-848e-4a953b43c278",
+            "listingUrl": "https://stripe.com/jobs/search?gh_jid=8128744",
+            "matchKind": "explicit",
+            "posted": "2026-08-31",
+            "url": "https://applyguy.ai/jobs?company=Stripe&job=13c8afc0-3a16-47c3-848e-4a953b43c278&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Stripe&job=13c8afc0-3a16-47c3-848e-4a953b43c278&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "0d",
           "application_url": "https://stripe.com/jobs/search?gh_jid=8128744",
@@ -11339,6 +12302,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Stripe&job=13c8afc0-3a16-47c3-848e-4a953b43c278&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://stripe.com/jobs/search?gh_jid=8128744"
       ]
     },
@@ -11351,10 +12315,37 @@
       "job_type": "Internship",
       "location": "San Francisco, CA",
       "position": "Software Engineer - Intern - Summer or Winter",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": "$60/hr",
-      "season": null,
+      "season": "Summer",
       "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://stripe.com/jobs/search?gh_jid=8128745",
+          "category": "Software Engineering",
+          "company": "Stripe",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, Intern (Summer or Winter)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "4cbb4f91-e14f-4776-b6ac-80eb14e2c669",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "4cbb4f91-e14f-4776-b6ac-80eb14e2c669",
+            "listingUrl": "https://stripe.com/jobs/search?gh_jid=8128745",
+            "posted": "2026-08-31",
+            "season": "Summer",
+            "url": "https://applyguy.ai/jobs?company=Stripe&job=4cbb4f91-e14f-4776-b6ac-80eb14e2c669&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Stripe&job=4cbb4f91-e14f-4776-b6ac-80eb14e2c669&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://stripe.com/jobs/search?gh_jid=8128745",
@@ -11375,6 +12366,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Stripe&job=4cbb4f91-e14f-4776-b6ac-80eb14e2c669&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://stripe.com/jobs/search?gh_jid=8128745"
       ]
     },
@@ -11753,10 +12745,37 @@
       "job_type": "New Grad",
       "location": "San Mateo, CA",
       "position": "Software Engineer - New Grad",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "2d",
+          "application_url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
+          "category": "Unknown",
+          "company": "IXL Learning",
+          "job_type": "New Grad",
+          "location": "San Mateo, CA",
+          "position": "Software Engineer, New Grad",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "51f4550a-91bc-41c3-a7d9-ea79a1f10f0d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "51f4550a-91bc-41c3-a7d9-ea79a1f10f0d",
+            "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
+            "matchKind": "explicit",
+            "posted": "2026-08-31",
+            "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=51f4550a-91bc-41c3-a7d9-ea79a1f10f0d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=IXL+Learning&job=51f4550a-91bc-41c3-a7d9-ea79a1f10f0d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "0d",
           "application_url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
@@ -11777,6 +12796,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=IXL+Learning&job=51f4550a-91bc-41c3-a7d9-ea79a1f10f0d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://www.ixl.com/company/jobs?gh_jid=8765715002"
       ]
     },
@@ -11789,10 +12809,37 @@
       "job_type": "Internship",
       "location": "San Mateo, CA",
       "position": "Software Engineer - Intern",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
-      "season": null,
+      "season": "Not specified",
       "sources": {
+        "applyguy_internships": {
+          "age": "2d",
+          "application_url": "https://www.ixl.com/company/jobs?gh_jid=8765770002",
+          "category": "Software Engineering",
+          "company": "IXL Learning",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Software Engineer, Intern",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "0d64e527-26d6-479a-9af4-30e76e3eb225",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "0d64e527-26d6-479a-9af4-30e76e3eb225",
+            "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8765770002",
+            "posted": "2026-08-31",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=0d64e527-26d6-479a-9af4-30e76e3eb225&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=IXL+Learning&job=0d64e527-26d6-479a-9af4-30e76e3eb225&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://www.ixl.com/company/jobs?gh_jid=8765770002",
@@ -11813,6 +12860,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=IXL+Learning&job=0d64e527-26d6-479a-9af4-30e76e3eb225&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://www.ixl.com/company/jobs?gh_jid=8765770002"
       ]
     },
@@ -11850,6 +12898,52 @@
       },
       "url_aliases": [
         "https://www.metacareers.com/jobs/2145505832666693"
+      ]
+    },
+    "url:https://www.observe.ai/position?gh_jid=5383979008": {
+      "age": "7d",
+      "application_url": "https://www.observe.ai/position?gh_jid=5383979008",
+      "canonical_id": "url:https://www.observe.ai/position?gh_jid=5383979008",
+      "category": "Unknown",
+      "company": "Observe.AI",
+      "job_type": "New Grad",
+      "location": "Redwood City, CA",
+      "position": "Software Engineer I - AI Agents",
+      "posted": "2026-08-10",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "23d",
+          "application_url": "https://www.observe.ai/position?gh_jid=5383979008",
+          "category": "Unknown",
+          "company": "Observe.AI",
+          "job_type": "New Grad",
+          "location": "Redwood City, CA",
+          "position": "Software Engineer I - AI Agents",
+          "posted": "2026-08-10",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "23d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
+            "listingUrl": "https://www.observe.ai/position?gh_jid=5383979008",
+            "matchKind": "entry_level",
+            "posted": "2026-08-10",
+            "url": "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://www.observe.ai/position?gh_jid=5383979008"
       ]
     },
     "url:https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091": {
@@ -11927,6 +13021,183 @@
         "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify"
       ]
     },
+    "url:https://www.tesla.com/careers/search/job/282147?ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://www.tesla.com/careers/search/job/282147?ref=Simplify",
+      "category": "FAANG+",
+      "company": "Tesla",
+      "job_type": "Internship",
+      "location": "Palo Alto, CA",
+      "position": "Physics Engine Development Engineer Intern - Optimus",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Tesla",
+          "job_type": "Internship",
+          "location": "Palo Alto, CA",
+          "position": "Physics Engine Development Engineer Intern - Optimus",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "8b46d013-f73a-4d7b-bd75-7775fa71d342",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/8b46d013-f73a-4d7b-bd75-7775fa71d342?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/8b46d013-f73a-4d7b-bd75-7775fa71d342?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/8b46d013-f73a-4d7b-bd75-7775fa71d342?utm_source=GHList",
+        "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
+      "age": "0d",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7886501003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Enterprise Systems Software Engineer Intern (Summer 2027)",
+      "posted": "2026-08-18",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "15d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Enterprise Systems Software Engineer Intern (Summer 2027)",
+          "posted": "2026-08-18",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "15d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7886501003",
+            "posted": "2026-08-18",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7886501003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles?gh_jid=7891459003": {
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7891459003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
+      "posted": "2026-08-18",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "15d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
+          "posted": "2026-08-18",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "41ab861e-b694-4f75-b0b9-e97b02794ef7",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "15d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "41ab861e-b694-4f75-b0b9-e97b02794ef7",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+            "posted": "2026-08-18",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7891459003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles?gh_jid=7893926003": {
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7893926003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Enterprise Systems Software Engineer Intern (Spring 2027)",
+      "posted": "2026-08-18",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "15d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Enterprise Systems Software Engineer Intern (Spring 2027)",
+          "posted": "2026-08-18",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "0b2b5108-335c-4f96-90aa-947e38a6fd7d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "15d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "0b2b5108-335c-4f96-90aa-947e38a6fd7d",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+            "posted": "2026-08-18",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7893926003"
+      ]
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7893955003": {
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
@@ -11940,6 +13211,33 @@
       "salary": null,
       "season": "Spring 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "13d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern (Spring 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "67afcec4-ce5b-4f35-84aa-42094350f041",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "13d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "67afcec4-ce5b-4f35-84aa-42094350f041",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+            "posted": "2026-08-20",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
@@ -11964,6 +13262,52 @@
         "https://www.zipline.com/open-roles?gh_jid=7893955003"
       ]
     },
+    "url:https://www.zipline.com/open-roles?gh_jid=7894335003": {
+      "age": "Today",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7894335003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Software Systems Validation Intern (Summer 2027)",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "13d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern (Summer 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "442133eb-2198-429b-b807-a75804e9c224",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "13d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "442133eb-2198-429b-b807-a75804e9c224",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7894335003",
+            "posted": "2026-08-20",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7894335003"
+      ]
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7907191003": {
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
@@ -11977,6 +13321,33 @@
       "salary": null,
       "season": "Spring 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "13d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern (Spring 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "13d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+            "posted": "2026-08-20",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
@@ -12014,6 +13385,33 @@
       "salary": null,
       "season": "Summer 2027",
       "sources": {
+        "applyguy_internships": {
+          "age": "12d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern (Summer 2027)",
+          "posted": "2026-08-21",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "2eb3f992-0013-439a-86d9-316e292a1264",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "12d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "2eb3f992-0013-439a-86d9-316e292a1264",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+            "posted": "2026-08-21",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
@@ -12036,6 +13434,52 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://www.zipline.com/open-roles?gh_jid=7929236003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles?gh_jid=7974890003": {
+      "age": "1d",
+      "application_url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7974890003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Embedded Software Engineer Intern (Spring 2027)",
+      "posted": "2026-08-26",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "7d",
+          "application_url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Embedded Software Engineer Intern (Spring 2027)",
+          "posted": "2026-08-26",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "78639e6b-9f9c-41be-9733-89de49ac7963",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "7d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "78639e6b-9f9c-41be-9733-89de49ac7963",
+            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+            "posted": "2026-08-26",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles?gh_jid=7974890003"
       ]
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7974897003": {
@@ -12111,6 +13555,52 @@
         "https://www.zipline.com/open-roles?gh_jid=7978843003"
       ]
     },
+    "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---machine-learning-engineer_r171519": {
+      "age": "1d",
+      "application_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+      "canonical_id": "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---machine-learning-engineer_r171519",
+      "category": "Software Engineering",
+      "company": "Adobe",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "2027 Intern - Machine Learning Engineer",
+      "posted": "2026-09-01",
+      "salary": null,
+      "season": "2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+          "category": "Software Engineering",
+          "company": "Adobe",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "2027 Intern - Machine Learning Engineer",
+          "posted": "2026-09-01",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "2910e4a9-d342-4a64-8b73-c46c3858dd7b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "2910e4a9-d342-4a64-8b73-c46c3858dd7b",
+            "listingUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+            "posted": "2026-09-01",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Adobe&job=2910e4a9-d342-4a64-8b73-c46c3858dd7b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Adobe&job=2910e4a9-d342-4a64-8b73-c46c3858dd7b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+        "https://applyguy.ai/jobs?company=Adobe&job=2910e4a9-d342-4a64-8b73-c46c3858dd7b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+      ]
+    },
     "workday:alation.wd503.myworkdayjobs.com:ux-software-engineer-i--contractor-_r10000770": {
       "age": "1d",
       "application_url": "https://alation.wd503.myworkdayjobs.com/en-US/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
@@ -12120,10 +13610,37 @@
       "job_type": "New Grad",
       "location": "Redwood City, CA",
       "position": "UX Software Engineer I - Contractor",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "2d",
+          "application_url": "https://alation.wd503.myworkdayjobs.com/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
+          "category": "Unknown",
+          "company": "Alation",
+          "job_type": "New Grad",
+          "location": "Redwood City, CA",
+          "position": "UX Software Engineer I (Contractor)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "6cfae721-596c-4959-b6b5-2165fc253dbc",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "6cfae721-596c-4959-b6b5-2165fc253dbc",
+            "listingUrl": "https://alation.wd503.myworkdayjobs.com/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
+            "matchKind": "entry_level",
+            "posted": "2026-08-31",
+            "url": "https://applyguy.ai/jobs?company=Alation&job=6cfae721-596c-4959-b6b5-2165fc253dbc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Alation&job=6cfae721-596c-4959-b6b5-2165fc253dbc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "1d",
           "application_url": "https://alation.wd503.myworkdayjobs.com/en-US/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
@@ -12144,7 +13661,9 @@
         }
       },
       "url_aliases": [
-        "https://alation.wd503.myworkdayjobs.com/en-US/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770"
+        "https://alation.wd503.myworkdayjobs.com/en-US/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
+        "https://alation.wd503.myworkdayjobs.com/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
+        "https://applyguy.ai/jobs?company=Alation&job=6cfae721-596c-4959-b6b5-2165fc253dbc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
       ]
     },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
@@ -12217,6 +13736,54 @@
       },
       "url_aliases": [
         "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759"
+      ]
+    },
+    "workday:globalhr.wd5.myworkdayjobs.com:software-engineering-intern--summer-2027-_01867392": {
+      "age": "3d",
+      "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
+      "canonical_id": "workday:globalhr.wd5.myworkdayjobs.com:software-engineering-intern--summer-2027-_01867392",
+      "category": "Software Engineering",
+      "company": "RTX",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Software Engineering Intern (Summer 2027)",
+      "posted": "2026-08-14",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "19d",
+          "application_url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
+          "category": "Software Engineering",
+          "company": "RTX",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Engineering Intern (Summer 2027)",
+          "posted": "2026-08-14",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "97ea48ee-4101-4eb1-b502-d18b18dc23d3",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "19d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "97ea48ee-4101-4eb1-b502-d18b18dc23d3",
+            "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
+            "posted": "2026-08-14",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=RTX&job=97ea48ee-4101-4eb1-b502-d18b18dc23d3&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=RTX&job=97ea48ee-4101-4eb1-b502-d18b18dc23d3&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=RTX&job=97ea48ee-4101-4eb1-b502-d18b18dc23d3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392?utm_source=Simplify&ref=Simplify",
+        "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
+        "https://simplify.jobs/p/aa0ebb73-f646-4f78-ac9d-900e2925f3e9?utm_source=GHList"
       ]
     },
     "workday:hp.wd5.myworkdayjobs.com:ai-software-engineer---hp-iq_3163597-1": {
@@ -12510,6 +14077,52 @@
         "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2637811"
       ]
     },
+    "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {
+      "age": "Today",
+      "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
+      "canonical_id": "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095",
+      "category": "Software Engineering",
+      "company": "LiveRamp",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Co-Op, DevOps Engineer",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Co-op",
+      "sources": {
+        "applyguy_internships": {
+          "age": "13d",
+          "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
+          "category": "Software Engineering",
+          "company": "LiveRamp",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Co-Op, DevOps Engineer",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Co-op",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "91a0f288-3460-4ea3-9c2e-a975de546b10",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "13d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "91a0f288-3460-4ea3-9c2e-a975de546b10",
+            "listingUrl": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
+            "posted": "2026-08-20",
+            "season": "Co-op",
+            "url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
+      ]
+    },
     "workday:nvidia.wd5.myworkdayjobs.com:backend-compiler-engineer---new-college-grad-2026_jr2021242": {
       "age": "35d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
@@ -12580,6 +14193,52 @@
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290"
+      ]
+    },
+    "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071": {
+      "age": "28d",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
+      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071",
+      "category": "Unknown",
+      "company": "NVIDIA",
+      "job_type": "New Grad",
+      "location": "Santa Clara, CA",
+      "position": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026",
+      "posted": "2026-07-20",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "44d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
+          "category": "Unknown",
+          "company": "NVIDIA",
+          "job_type": "New Grad",
+          "location": "Santa Clara, CA",
+          "position": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026",
+          "posted": "2026-07-20",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "c843e37e-72c9-4f89-88aa-d0d902c16020",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "44d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "c843e37e-72c9-4f89-88aa-d0d902c16020",
+            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
+            "matchKind": "explicit",
+            "posted": "2026-07-20",
+            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=c843e37e-72c9-4f89-88aa-d0d902c16020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=c843e37e-72c9-4f89-88aa-d0d902c16020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=NVIDIA&job=c843e37e-72c9-4f89-88aa-d0d902c16020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:developer-technology-engineer--ai---new-college-graduate-2026_jr2024557": {
@@ -12761,6 +14420,33 @@
       "salary": "$62/hr",
       "season": "Fall 2026",
       "sources": {
+        "applyguy_internships": {
+          "age": "27d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+          "category": "Software Engineering",
+          "company": "NVIDIA",
+          "job_type": "Internship",
+          "location": "Santa Clara, CA",
+          "position": "Software Engineering Intern, Dynamo - Fall 2026",
+          "posted": "2026-08-06",
+          "salary": null,
+          "season": "Fall 2026",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "6b556750-92e8-4d68-877d-f4d4afe0828f",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "27d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "id": "6b556750-92e8-4d68-877d-f4d4afe0828f",
+            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
+            "posted": "2026-08-06",
+            "season": "Fall 2026",
+            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=6b556750-92e8-4d68-877d-f4d4afe0828f&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=6b556750-92e8-4d68-877d-f4d4afe0828f&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
         "speedyapply_internships": {
           "age": "12d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
@@ -12822,6 +14508,54 @@
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1"
       ]
     },
+    "workday:nvidia.wd5.myworkdayjobs.com:system-software-engineer--dynamo-triton-inference-server---new-college-grad-2026_jr2020767": {
+      "age": "35d",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
+      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:system-software-engineer--dynamo-triton-inference-server---new-college-grad-2026_jr2020767",
+      "category": "Unknown",
+      "company": "NVIDIA",
+      "job_type": "New Grad",
+      "location": "Santa Clara, CA",
+      "position": "System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026",
+      "posted": "2026-07-13",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "51d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
+          "category": "Unknown",
+          "company": "NVIDIA",
+          "job_type": "New Grad",
+          "location": "Santa Clara, CA",
+          "position": "System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026",
+          "posted": "2026-07-13",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "ec4383d0-2058-42e2-b744-e3371932228a",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "51d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "ec4383d0-2058-42e2-b744-e3371932228a",
+            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
+            "matchKind": "explicit",
+            "posted": "2026-07-13",
+            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ec4383d0-2058-42e2-b744-e3371932228a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=ec4383d0-2058-42e2-b744-e3371932228a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=NVIDIA&job=d1268a78-6d24-4be5-a373-b1aeba65a0f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://applyguy.ai/jobs?company=NVIDIA&job=ec4383d0-2058-42e2-b744-e3371932228a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
+        "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767"
+      ]
+    },
     "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd": {
       "age": "1d",
       "application_url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Connected-Physical-Products-Intern---Summer-2027_757231WD?utm_source=Simplify&ref=Simplify",
@@ -12874,6 +14608,33 @@
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "12d",
+          "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+          "category": "Unknown",
+          "company": "Quickenloans",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Developer I - Search",
+          "posted": "2026-08-21",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "49bef747-c371-45e0-a524-5475cb4bdce7",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "12d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
+            "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+            "matchKind": "entry_level",
+            "posted": "2026-08-21",
+            "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "6d",
           "application_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
@@ -12897,6 +14658,52 @@
         "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
         "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
+      ]
+    },
+    "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-261277": {
+      "age": "Today",
+      "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277",
+      "canonical_id": "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-261277",
+      "category": "Unknown",
+      "company": "Roberthalf",
+      "job_type": "New Grad",
+      "location": "San Ramon, CA",
+      "position": "Software Engineer I",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "13d",
+          "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277",
+          "category": "Unknown",
+          "company": "Roberthalf",
+          "job_type": "New Grad",
+          "location": "San Ramon, CA",
+          "position": "Software Engineer I",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "3cbc2b10-d9ab-4cc6-9e02-997ae8443a12",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "13d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
+            "id": "3cbc2b10-d9ab-4cc6-9e02-997ae8443a12",
+            "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277",
+            "matchKind": "entry_level",
+            "posted": "2026-08-20",
+            "url": "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
       ]
     },
     "workday:snapchat.wd1.myworkdayjobs.com:software-engineer--ml-infrastructure_r0046629-1": {
