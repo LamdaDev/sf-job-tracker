@@ -8791,6 +8791,27 @@
       "scanned_at": "2026-09-01T17:43:13Z",
       "status": "unavailable"
     },
+    "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-i-new-college-grad--bachelor-s--santa-clara--ca-_r2626605": {
+      "application_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-i-new-college-grad--bachelor-s--santa-clara--ca-_r2626605",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-02T17:43:22Z",
+      "http_status": 200,
+      "issue_number": 54,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-02T17:43:22Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-02T17:43:22Z",
+      "status": "unavailable"
+    },
     "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398": {
       "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
       "attempt_count": 1,
@@ -8936,6 +8957,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-24T23:24:51Z",
+      "status": "unavailable"
+    },
+    "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640196": {
+      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640196",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640196",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-02T17:43:26Z",
+      "http_status": 200,
+      "issue_number": 54,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-02T17:43:26Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-02T17:43:26Z",
       "status": "unavailable"
     },
     "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {
@@ -9209,6 +9251,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-21T21:27:39Z",
+      "status": "unavailable"
+    },
+    "workday:tencent.wd1.myworkdayjobs.com:tencent-cloud-cpaas-product-management-intern_r108019": {
+      "application_url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:tencent.wd1.myworkdayjobs.com:tencent-cloud-cpaas-product-management-intern_r108019",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-02T17:43:28Z",
+      "http_status": 200,
+      "issue_number": 54,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-02T17:43:28Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-02T17:43:28Z",
       "status": "unavailable"
     },
     "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129": {

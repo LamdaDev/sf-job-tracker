@@ -21579,7 +21579,7 @@
     "0153b35a3d3f2cc34708daafd9ac4f6cbfcb38fa2d9cf3708ecc466dc5fb3bd3": {
       "application_scan_eligible": true,
       "created_at": "2026-09-02T17:43:18Z",
-      "issue_number": null,
+      "issue_number": 54,
       "job_ids": [
         "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-i-new-college-grad--bachelor-s--santa-clara--ca-_r2626605",
         "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640196",
@@ -21590,7 +21590,7 @@
         "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640196",
         "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "032c7677b15dceb39c88612c2d31a278f8ed5de3714f81a5c194912a2e712099": {
       "application_scan_eligible": true,
