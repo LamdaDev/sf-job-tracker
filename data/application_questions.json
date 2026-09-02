@@ -625,6 +625,325 @@
       "scanned_at": "2026-08-26T13:58:58Z",
       "status": "complete"
     },
+    "greenhouse:c3ascend:8739036002": {
+      "application_url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:c3ascend:8739036002",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-02T08:34:37Z",
+      "http_status": 200,
+      "issue_number": 53,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-02T08:34:37Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_37929961002",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Review the role description provided below and select the role which you believe best aligns to your career interest.",
+          "options": [
+            "Software Engineer, Platform",
+            "Forward Deployed Engineer"
+          ],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_37929962002",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_37929963002",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you willing to work from our Headquarters in Redwood City, CA, full-time, 5 days a week?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_37929964002",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "What is your expected graduation month and year?",
+          "options": [
+            "December 2026",
+            "May/June 2027",
+            "December 2027",
+            "May/June 2028",
+            "December 2028",
+            "January 2029 or later"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_37929965002",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "How did you hear about C3 AI?",
+          "options": [
+            "Billboard",
+            "C3 AI Event",
+            "C3 AI Website",
+            "Digital Advertisement",
+            "Friend",
+            "Heard about C3 AI in the press/media",
+            "Job Board Search (Glassdoor, Indeed, etc.)",
+            "LinkedIn",
+            "National Public Radio (NPR)",
+            "Other"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_37929966002",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "If you heard about us from a campus recruiting event, then please indicate which event you attended.",
+          "options": [
+            "Carnegie Mellon University",
+            "Harvard",
+            "Massachusetts Institute of Technology",
+            "Purdue",
+            "Stanford",
+            "UC Berkeley",
+            "University of Illinois Urbana-Champaign",
+            "University of Michigan - Ann Arbor",
+            "University of Washington",
+            "University of Wisconsin"
+          ],
+          "ordinal": 11,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_37929967002",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you being referred to this role as part of the Campus Referral Program?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_37929968002",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "What is the full name of your referrer? (If you selected no, please type: N/A)",
+          "options": [],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_37929969002",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you now or will you in the future require immigration sponsorship to work at C3 AI?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_37929970002[]",
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "By clicking the “I Accept” button, you confirm that you have read C3 AI’s Applicant & Candidate Privacy Notice [https://c3.ai/c3ai-inc-applicant-and-candidate-privacy-notice] and you provide the specific consents identified below. Except where C3 AI expressly asks for your consent, C3 AI processes your personal data for recruitment on the basis of its legitimate interests and to take steps at your request before any employment relationship, and you are not required to consent to that processing: C3 AI collects your personal data for the purposes of managing C3 AI's recruitment related activities as well as for organizational planning purposes globally. Consequently, C3 AI may use your personal data in relation to the evaluation and selection of applicants including for example setting up and conducting interviews and tests, evaluating and assessing the results thereto and as is otherwise needed in the recruitment processes including the final recruitment. Some evaluations are assisted by automated tools: C3 AI uses AI-based matching to compare your application against the requirements of the role and, for some roles, an AI-based “Voice AI” tool that records and analyzes a voice screening interview. A member of our team reviews the results and makes the final decision, and no decision is made based solely on automated processing. You may request more information about the logic involved, request a review by a person, and — for voice interviews — decline to be recorded and request a standard interview instead, in each case without any penalty to your application. C3 AI does not disclose your personal data to unauthorized third parties. However, as a global corporation consisting of multiple affiliated companies in various countries, C3 AI has international sites and C3 AI uses resources located throughout the world. C3 AI may from time to time also use third parties to act on C3 AI's behalf. You agree to the fact that to the extent necessary your personal data may be transferred and/or disclosed to any company within C3 AI group of companies as well as to third parties acting on C3 AI's behalf, including also transfers to servers and databases outside the country where you provided C3 AI with your personal data. Such transfers may include for example transfers and/or disclosures outside the European Economic Area (“EEA”) and in the United States of America; in such cases, the transfer is based on, as applicable, the Standard Contractual Clauses (according to Commission Implementing Decision (EU) 2021/914, and, for transfers from the United Kingdom, the UK International Data Transfer Addendum), the EU-US Data Privacy Framework where applicable, or other GDPR-compliant mechanisms. You may withdraw any consent at any time, and exercise your rights of access, correction, deletion, objection, and (where applicable) your ARCO rights, by contacting C3 Legal at c3legal@c3.ai withdrawing consent will not affect processing carried out before the withdrawal. C3 AI will not retaliate against you for exercising these rights or for declining to consent. Full details of how C3 AI handles your information, how long it is kept, and your rights are set out in our Applicant & Candidate Privacy Notice [https://c3.ai/c3ai-inc-applicant-and-candidate-privacy-notice].",
+          "options": [
+            "I Accept"
+          ],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_37929971002",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you consent to receiving follow up communication via text message (or SMS message) regarding your application to the phone number you provided?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 20,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-02T08:34:37Z",
+      "status": "complete"
+    },
     "greenhouse:chime:8606649002": {
       "application_url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
       "attempt_count": 1,
@@ -1531,6 +1850,269 @@
         }
       ],
       "scanned_at": "2026-09-01T17:42:33Z",
+      "status": "complete"
+    },
+    "greenhouse:hpiq:6114781004": {
+      "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:hpiq:6114781004",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-02T08:34:38Z",
+      "http_status": 200,
+      "issue_number": 53,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-02T08:34:38Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19198877004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19198878004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_19198879004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you be graduating before September 2027?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19198880004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you looking for a summer internship?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_19198881004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you authorized to work in the US?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_19198882004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa)?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19198883004",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "What are you most excited to work on in your next internship?",
+          "options": [],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_19198884004",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "Why HP IQ?",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 16,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-02T08:34:38Z",
       "status": "complete"
     },
     "greenhouse:hpiq:6114890004": {
@@ -2735,6 +3317,269 @@
       "scanned_at": "2026-08-30T19:09:17Z",
       "status": "complete"
     },
+    "greenhouse:hpiq:6176783004": {
+      "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:hpiq:6176783004",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-02T08:34:39Z",
+      "http_status": 200,
+      "issue_number": 53,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-02T08:34:39Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19814350004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19814351004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_19814352004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you be graduating before September 2027?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19814353004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you looking for a summer internship?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_19814354004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you authorized to work in the US?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_19814355004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa)?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19814356004",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "What are you most excited to work on in your next internship?",
+          "options": [],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_19814357004",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "Why HP IQ?",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 16,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-02T08:34:39Z",
+      "status": "complete"
+    },
     "greenhouse:kikoff:4376677009": {
       "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
       "attempt_count": 1,
@@ -2886,6 +3731,277 @@
         }
       ],
       "scanned_at": "2026-08-20T03:54:23Z",
+      "status": "complete"
+    },
+    "greenhouse:skhynixmemorysolutionsamericainc:4387708009": {
+      "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:skhynixmemorysolutionsamericainc:4387708009",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-02T08:34:41Z",
+      "http_status": 200,
+      "issue_number": 53,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-02T08:34:41Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7415198009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7415199009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_7415200009",
+          "field_type": "long_text",
+          "is_custom": false,
+          "label": "When do you graduate? If you have not graduated yet, how do plan to work 40 hours for this internship?",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_7415201009",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "This role requires you to work onsite 5 days a week at our San Jose location. Is that a requirement you can meet?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_7415202009",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Can you complete a 6 month internship starting immediately?",
+          "options": [],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_7415203009",
+          "field_type": "long_text",
+          "is_custom": false,
+          "label": "What is your current work authorization?",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_7415204009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now or in the future require sponsorship to work in the U.S.?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_7415205009",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Where are you currently located?",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "location_logistics",
+          "field_name": "question_7415206009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "If you are not located in San Jose, CA are you willing to relocate?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 20,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-02T08:34:41Z",
       "status": "complete"
     },
     "greenhouse:sonyinteractiveentertainmentglobal:6145057004": {
@@ -6299,6 +7415,27 @@
       "scanned_at": "2026-09-01T17:42:43Z",
       "status": "unavailable"
     },
+    "tiktok:jobs.bytedance.com:7678450462765254965": {
+      "application_url": "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:jobs.bytedance.com:7678450462765254965",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-02T08:34:42Z",
+      "http_status": 200,
+      "issue_number": 53,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-02T08:34:42Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-02T08:34:42Z",
+      "status": "unavailable"
+    },
     "tiktok:lifeattiktok.com:7668831188103481605": {
       "application_url": "https://lifeattiktok.com/search/7668831188103481605",
       "attempt_count": 1,
@@ -7382,6 +8519,26 @@
       "scanned_at": "2026-08-28T01:21:21Z",
       "status": "unavailable"
     },
+    "url:https://www.tesla.com/careers/search/job/282147?ref=Simplify": {
+      "application_url": "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.tesla.com/careers/search/job/282147?ref=Simplify",
+      "completeness_reason": "Public application page requires authentication or denies access.",
+      "error_message": "PublicFetchError while fetching the public application page.",
+      "error_type": "PublicFetchError",
+      "first_scanned": "2026-09-02T08:34:51Z",
+      "http_status": 403,
+      "issue_number": 53,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-02T08:34:51Z",
+      "metadata": {
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-02T08:34:51Z",
+      "status": "unavailable"
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
       "attempt_count": 1,
@@ -7590,6 +8747,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-08-28T23:55:26Z",
+      "status": "unavailable"
+    },
+    "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---machine-learning-engineer_r171519": {
+      "application_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---machine-learning-engineer_r171519",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-02T08:34:52Z",
+      "http_status": 200,
+      "issue_number": 53,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-02T08:34:52Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-02T08:34:52Z",
       "status": "unavailable"
     },
     "workday:alation.wd503.myworkdayjobs.com:ux-software-engineer-i--contractor-_r10000770": {

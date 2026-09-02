@@ -21985,7 +21985,7 @@
     "e0978d29b5e05d8b33834f762e8e7030f914d5146088508d1a61a58c76bd1d7a": {
       "application_scan_eligible": true,
       "created_at": "2026-09-02T08:34:34Z",
-      "issue_number": null,
+      "issue_number": 53,
       "job_ids": [
         "greenhouse:c3ascend:8739036002",
         "greenhouse:hpiq:6114781004",
@@ -22004,7 +22004,7 @@
         "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
         "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "e2c0b3781c37bf1ac0d218e08cc2776fec66a53e779957624a1b9ebb5932490c": {
       "application_scan_eligible": true,
