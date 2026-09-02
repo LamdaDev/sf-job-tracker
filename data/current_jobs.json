@@ -2623,42 +2623,6 @@
         "https://jobs.ashbyhq.com/pariveda/d825ed65-edd8-4540-92c9-4c01f2b6a982"
       ]
     },
-    "ashby:plaid:5c5d4414-347c-4caa-be88-384dec2d074b": {
-      "age": "104d",
-      "application_url": "https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b",
-      "canonical_id": "ashby:plaid:5c5d4414-347c-4caa-be88-384dec2d074b",
-      "category": "Other",
-      "company": "Plaid",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer - Backend",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "104d",
-          "application_url": "https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b",
-          "category": "Other",
-          "company": "Plaid",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer - Backend",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b"
-      ]
-    },
     "ashby:prophet-security:51415149-9b19-4164-84b9-2ffa78478069": {
       "age": "1d",
       "application_url": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069",
@@ -2969,42 +2933,6 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463"
-      ]
-    },
-    "ashby:rivianvw.tech:b6017142-1123-4999-8c04-d6d3b897f8d9": {
-      "age": "1d",
-      "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9",
-      "canonical_id": "ashby:rivianvw.tech:b6017142-1123-4999-8c04-d6d3b897f8d9",
-      "category": "FAANG+",
-      "company": "Rivian",
-      "job_type": "New Grad",
-      "location": "Palo Alto, CA",
-      "position": "Systems Architecture Software Engineer",
-      "posted": null,
-      "salary": "$124k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "1d",
-          "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9",
-          "category": "FAANG+",
-          "company": "Rivian",
-          "job_type": "New Grad",
-          "location": "Palo Alto, CA",
-          "position": "Systems Architecture Software Engineer",
-          "posted": null,
-          "salary": "$124k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9"
       ]
     },
     "ashby:rundoo:c1fa53ea-dadf-4dcf-a144-f71bda03c9fa": {
@@ -3607,42 +3535,6 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
-      ]
-    },
-    "ashby:zip:df6eb1ee-b360-46fe-b23f-658626ec59ea": {
-      "age": "0d",
-      "application_url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
-      "canonical_id": "ashby:zip:df6eb1ee-b360-46fe-b23f-658626ec59ea",
-      "category": "Other",
-      "company": "Zip",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer - New Grad - 2027 Start",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "0d",
-          "application_url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
-          "category": "Other",
-          "company": "Zip",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer - New Grad - 2027 Start",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea"
       ]
     },
     "greenhouse:archer56:7977707003": {
@@ -4262,7 +4154,7 @@
       "age": "0d",
       "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004",
       "canonical_id": "greenhouse:hpiq:6114912004",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "HP IQ",
       "job_type": "Internship",
       "location": "San Francisco, CA",
@@ -4297,24 +4189,6 @@
             "url": "https://applyguy.ai/jobs?company=HP+IQ&job=d0f1d597-2305-4988-b6e1-26880a1154ca&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=HP+IQ&job=d0f1d597-2305-4988-b6e1-26880a1154ca&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
-        "speedyapply_internships": {
-          "age": "0d",
-          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004",
-          "category": "Other",
-          "company": "HP IQ",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Software Engineering Intern - Device Experiences - Summer 2027",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004"
         }
       },
       "url_aliases": [
@@ -4454,11 +4328,11 @@
       "age": "1d",
       "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
       "canonical_id": "greenhouse:hpiq:6176783004",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "HP IQ",
       "job_type": "Internship",
       "location": "San Francisco, CA",
-      "position": "Software Engineering Intern, Connectivity (Summer 2027)",
+      "position": "Software Engineering Intern - Connectivity - Summer 2027",
       "posted": "2026-09-01",
       "salary": null,
       "season": "Summer 2027",
@@ -4489,6 +4363,24 @@
             "url": "https://applyguy.ai/jobs?company=HP+IQ&job=8ca4c109-75ea-4aff-aae0-229e8870636b&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=HP+IQ&job=8ca4c109-75ea-4aff-aae0-229e8870636b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+          "category": "Other",
+          "company": "HP IQ",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern - Connectivity - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
         }
       },
       "url_aliases": [
@@ -13666,6 +13558,42 @@
         "https://applyguy.ai/jobs?company=Alation&job=6cfae721-596c-4959-b6b5-2165fc253dbc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
       ]
     },
+    "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-i-new-college-grad--bachelor-s--santa-clara--ca-_r2626605": {
+      "age": "1d",
+      "application_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605",
+      "canonical_id": "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-i-new-college-grad--bachelor-s--santa-clara--ca-_r2626605",
+      "category": "Other",
+      "company": "Applied Materials",
+      "job_type": "New Grad",
+      "location": "Santa Clara, CA",
+      "position": "Algorithm Developer I New College Grad- Bachelor's - Santa Clara - CA",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "1d",
+          "application_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605",
+          "category": "Other",
+          "company": "Applied Materials",
+          "job_type": "New Grad",
+          "location": "Santa Clara, CA",
+          "position": "Algorithm Developer I New College Grad- Bachelor's - Santa Clara - CA",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605"
+        }
+      },
+      "url_aliases": [
+        "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605"
+      ]
+    },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
       "age": "41d",
       "application_url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781",
@@ -14077,6 +14005,42 @@
         "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2637811"
       ]
     },
+    "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640196": {
+      "age": "1d",
+      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640196",
+      "canonical_id": "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640196",
+      "category": "Other",
+      "company": "KLA",
+      "job_type": "New Grad",
+      "location": "Milpitas, CA",
+      "position": "Software Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "1d",
+          "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640196",
+          "category": "Other",
+          "company": "KLA",
+          "job_type": "New Grad",
+          "location": "Milpitas, CA",
+          "position": "Software Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640196"
+        }
+      },
+      "url_aliases": [
+        "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640196"
+      ]
+    },
     "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {
       "age": "Today",
       "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
@@ -14157,42 +14121,6 @@
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242"
-      ]
-    },
-    "workday:nvidia.wd5.myworkdayjobs.com:compiler-engineer--backend--new-college-grad-2026_jr2017290": {
-      "age": "1d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:compiler-engineer--backend--new-college-grad-2026_jr2017290",
-      "category": "FAANG+",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Compiler Engineer - Backend- New College Grad 2026",
-      "posted": null,
-      "salary": "$172k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "1d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
-          "category": "FAANG+",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Compiler Engineer - Backend- New College Grad 2026",
-          "posted": null,
-          "salary": "$172k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290"
-        }
-      },
-      "url_aliases": [
-        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071": {
@@ -14405,6 +14333,42 @@
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
+      ]
+    },
+    "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659": {
+      "age": "75d",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
+      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659",
+      "category": "FAANG+",
+      "company": "NVIDIA",
+      "job_type": "New Grad",
+      "location": "Santa Clara, CA",
+      "position": "Software Engineer - Hardware Tools and Methodology - New College Grad 2026",
+      "posted": null,
+      "salary": "$172k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "91d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
+          "category": "FAANG+",
+          "company": "NVIDIA",
+          "job_type": "New Grad",
+          "location": "Santa Clara, CA",
+          "position": "Software Engineer - Hardware Tools and Methodology - New College Grad 2026",
+          "posted": null,
+          "salary": "$172k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
+        }
+      },
+      "url_aliases": [
+        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineering-intern--dynamo---fall-2026_jr2022295": {
@@ -14798,6 +14762,42 @@
         "https://simplify.jobs/p/ac16b37b-d5ee-4a02-8d77-305bc1ab5168?utm_source=GHList",
         "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624?utm_source=Simplify&ref=Simplify",
         "https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624"
+      ]
+    },
+    "workday:tencent.wd1.myworkdayjobs.com:tencent-cloud-cpaas-product-management-intern_r108019": {
+      "age": "1d",
+      "application_url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019",
+      "canonical_id": "workday:tencent.wd1.myworkdayjobs.com:tencent-cloud-cpaas-product-management-intern_r108019",
+      "category": "Other",
+      "company": "Tencent",
+      "job_type": "Internship",
+      "location": "Palo Alto, CA",
+      "position": "Tencent Cloud CPaaS Product Management Intern",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "1d",
+          "application_url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019",
+          "category": "Other",
+          "company": "Tencent",
+          "job_type": "Internship",
+          "location": "Palo Alto, CA",
+          "position": "Tencent Cloud CPaaS Product Management Intern",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019"
+        }
+      },
+      "url_aliases": [
+        "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019"
       ]
     },
     "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129": {
