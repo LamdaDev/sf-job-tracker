@@ -6190,6 +6190,45 @@
         "https://simplify.jobs/p/34fa4813-bc92-4deb-8987-cf33bc625246?utm_source=GHList"
       ]
     },
+    "tiktok:jobs.bytedance.com:7668590365398993205": {
+      "age": "1mo",
+      "application_url": "https://jobs.bytedance.com/en/position/7668590365398993205/detail?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:jobs.bytedance.com:7668590365398993205",
+      "category": "Unknown",
+      "company": "ByteDance",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Research Scientist Intern 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "1mo",
+          "application_url": "https://jobs.bytedance.com/en/position/7668590365398993205/detail?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "ByteDance",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Research Scientist Intern 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "324fe628-252d-453d-8421-501357ff74dd",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/324fe628-252d-453d-8421-501357ff74dd?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/324fe628-252d-453d-8421-501357ff74dd?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.bytedance.com/en/position/7668590365398993205/detail?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/324fe628-252d-453d-8421-501357ff74dd?utm_source=GHList"
+      ]
+    },
     "tiktok:jobs.bytedance.com:7668650945276168453": {
       "age": "0d",
       "application_url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify",
@@ -12906,10 +12945,10 @@
         "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify"
       ]
     },
-    "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
-      "age": "0d",
-      "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
-      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7886501003",
+    "url:https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003": {
+      "age": "16d",
+      "application_url": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
       "category": "Software Engineering",
       "company": "Zipline",
       "job_type": "Internship",
@@ -12920,8 +12959,8 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "age": "15d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
+          "age": "16d",
+          "application_url": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
           "category": "Software Engineering",
           "company": "Zipline",
           "job_type": "Internship",
@@ -12935,11 +12974,11 @@
           "source_job_id": "3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "15d",
+            "age": "16d",
             "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
             "id": "3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9",
-            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7886501003",
+            "listingUrl": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
             "posted": "2026-08-18",
             "season": "Summer 2027",
             "url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships"
@@ -12949,13 +12988,13 @@
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles?gh_jid=7886501003"
+        "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003"
       ]
     },
-    "url:https://www.zipline.com/open-roles?gh_jid=7891459003": {
-      "age": "Today",
-      "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
-      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7891459003",
+    "url:https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003": {
+      "age": "16d",
+      "application_url": "https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003",
       "category": "Software Engineering",
       "company": "Zipline",
       "job_type": "Internship",
@@ -12966,8 +13005,8 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "age": "15d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+          "age": "16d",
+          "application_url": "https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003",
           "category": "Software Engineering",
           "company": "Zipline",
           "job_type": "Internship",
@@ -12981,11 +13020,11 @@
           "source_job_id": "41ab861e-b694-4f75-b0b9-e97b02794ef7",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "15d",
+            "age": "16d",
             "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
             "id": "41ab861e-b694-4f75-b0b9-e97b02794ef7",
-            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+            "listingUrl": "https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003",
             "posted": "2026-08-18",
             "season": "Summer 2027",
             "url": "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships"
@@ -12995,13 +13034,13 @@
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Zipline&job=41ab861e-b694-4f75-b0b9-e97b02794ef7&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles?gh_jid=7891459003"
+        "https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003"
       ]
     },
-    "url:https://www.zipline.com/open-roles?gh_jid=7893926003": {
-      "age": "Today",
-      "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
-      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7893926003",
+    "url:https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003": {
+      "age": "16d",
+      "application_url": "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
       "category": "Software Engineering",
       "company": "Zipline",
       "job_type": "Internship",
@@ -13012,8 +13051,8 @@
       "season": "Spring 2027",
       "sources": {
         "applyguy_internships": {
-          "age": "15d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+          "age": "16d",
+          "application_url": "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
           "category": "Software Engineering",
           "company": "Zipline",
           "job_type": "Internship",
@@ -13027,11 +13066,11 @@
           "source_job_id": "0b2b5108-335c-4f96-90aa-947e38a6fd7d",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "15d",
+            "age": "16d",
             "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
+            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
             "id": "0b2b5108-335c-4f96-90aa-947e38a6fd7d",
-            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893926003",
+            "listingUrl": "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
             "posted": "2026-08-18",
             "season": "Spring 2027",
             "url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
@@ -13041,7 +13080,191 @@
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles?gh_jid=7893926003"
+        "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003": {
+      "age": "14d",
+      "application_url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Software Systems Validation Intern (Spring 2027)",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "14d",
+          "application_url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern (Spring 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "67afcec4-ce5b-4f35-84aa-42094350f041",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "14d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
+            "id": "67afcec4-ce5b-4f35-84aa-42094350f041",
+            "listingUrl": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
+            "posted": "2026-08-20",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003": {
+      "age": "14d",
+      "application_url": "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Software Systems Validation Intern (Summer 2027)",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "14d",
+          "application_url": "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern (Summer 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "442133eb-2198-429b-b807-a75804e9c224",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "14d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
+            "id": "442133eb-2198-429b-b807-a75804e9c224",
+            "listingUrl": "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
+            "posted": "2026-08-20",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003": {
+      "age": "14d",
+      "application_url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Software Engineer Intern (Spring 2027)",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "14d",
+          "application_url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern (Spring 2027)",
+          "posted": "2026-08-20",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "14d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
+            "id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
+            "listingUrl": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
+            "posted": "2026-08-20",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003": {
+      "age": "13d",
+      "application_url": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Software Engineer Intern (Summer 2027)",
+      "posted": "2026-08-21",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "13d",
+          "application_url": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern (Summer 2027)",
+          "posted": "2026-08-21",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "2eb3f992-0013-439a-86d9-316e292a1264",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "13d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
+            "id": "2eb3f992-0013-439a-86d9-316e292a1264",
+            "listingUrl": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
+            "posted": "2026-08-21",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003"
       ]
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7893955003": {
@@ -13057,33 +13280,6 @@
       "salary": null,
       "season": "Spring 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "13d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
-          "category": "Software Engineering",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Software Systems Validation Intern (Spring 2027)",
-          "posted": "2026-08-20",
-          "salary": null,
-          "season": "Spring 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "67afcec4-ce5b-4f35-84aa-42094350f041",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "13d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "67afcec4-ce5b-4f35-84aa-42094350f041",
-            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7893955003",
-            "posted": "2026-08-20",
-            "season": "Spring 2027",
-            "url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
@@ -13108,52 +13304,6 @@
         "https://www.zipline.com/open-roles?gh_jid=7893955003"
       ]
     },
-    "url:https://www.zipline.com/open-roles?gh_jid=7894335003": {
-      "age": "Today",
-      "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
-      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7894335003",
-      "category": "Software Engineering",
-      "company": "Zipline",
-      "job_type": "Internship",
-      "location": "South San Francisco, CA",
-      "position": "Software Systems Validation Intern (Summer 2027)",
-      "posted": "2026-08-20",
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "applyguy_internships": {
-          "age": "13d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7894335003",
-          "category": "Software Engineering",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Software Systems Validation Intern (Summer 2027)",
-          "posted": "2026-08-20",
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "442133eb-2198-429b-b807-a75804e9c224",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "13d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "442133eb-2198-429b-b807-a75804e9c224",
-            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7894335003",
-            "posted": "2026-08-20",
-            "season": "Summer 2027",
-            "url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles?gh_jid=7894335003"
-      ]
-    },
     "url:https://www.zipline.com/open-roles?gh_jid=7907191003": {
       "age": "Today",
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
@@ -13167,33 +13317,6 @@
       "salary": null,
       "season": "Spring 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "13d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
-          "category": "Software Engineering",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Software Engineer Intern (Spring 2027)",
-          "posted": "2026-08-20",
-          "salary": null,
-          "season": "Spring 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "13d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "6bcd8ca9-2226-4ccd-affd-94c7f73524f0",
-            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7907191003",
-            "posted": "2026-08-20",
-            "season": "Spring 2027",
-            "url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
@@ -13231,33 +13354,6 @@
       "salary": null,
       "season": "Summer 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "12d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
-          "category": "Software Engineering",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Software Engineer Intern (Summer 2027)",
-          "posted": "2026-08-21",
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "2eb3f992-0013-439a-86d9-316e292a1264",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "12d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "2eb3f992-0013-439a-86d9-316e292a1264",
-            "listingUrl": "https://www.zipline.com/open-roles?gh_jid=7929236003",
-            "posted": "2026-08-21",
-            "season": "Summer 2027",
-            "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
@@ -13786,45 +13882,6 @@
         "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2"
       ]
     },
-    "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834": {
-      "age": "1d",
-      "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
-      "canonical_id": "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834",
-      "category": "Unknown",
-      "company": "Intel",
-      "job_type": "Internship",
-      "location": "Austin, TX | Santa Clara, CA | Hillsboro, OR | Folsom, CA | Phoenix, AZ",
-      "position": "Software Engineer Intern",
-      "posted": null,
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "simplify_summer_2027": {
-          "age": "1d",
-          "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
-          "company": "Intel",
-          "job_type": "Internship",
-          "location": "Austin, TX | Santa Clara, CA | Hillsboro, OR | Folsom, CA | Phoenix, AZ",
-          "position": "Software Engineer Intern",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "b854fca7-7546-478f-937b-a76b8dbbddae",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/b854fca7-7546-478f-937b-a76b8dbbddae?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/b854fca7-7546-478f-937b-a76b8dbbddae?utm_source=GHList"
-        }
-      },
-      "url_aliases": [
-        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
-        "https://simplify.jobs/p/b854fca7-7546-478f-937b-a76b8dbbddae?utm_source=GHList"
-      ]
-    },
     "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--graduate_jr0286836": {
       "age": "1d",
       "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify",
@@ -13934,45 +13991,6 @@
       },
       "url_aliases": [
         "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632"
-      ]
-    },
-    "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602": {
-      "age": "0d",
-      "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
-      "canonical_id": "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602",
-      "category": "Unknown",
-      "company": "Johnson & Johnson",
-      "job_type": "Internship",
-      "location": "West Chester, PA | Horsham, PA | Spring House, PA | New Brunswick, NJ | Irvine, CA | Raritan, NJ | Santa Clara, CA | Hopewell Township, NJ | Fort Washington, PA | Jacksonville, FL | Palm Beach Gardens, FL",
-      "position": "Technology Intern - Technology LDP",
-      "posted": null,
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "simplify_summer_2027": {
-          "age": "0d",
-          "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
-          "company": "Johnson & Johnson",
-          "job_type": "Internship",
-          "location": "West Chester, PA | Horsham, PA | Spring House, PA | New Brunswick, NJ | Irvine, CA | Raritan, NJ | Santa Clara, CA | Hopewell Township, NJ | Fort Washington, PA | Jacksonville, FL | Palm Beach Gardens, FL",
-          "position": "Technology Intern - Technology LDP",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "eb1c0149-e214-495c-9f38-fab6db73b250",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/eb1c0149-e214-495c-9f38-fab6db73b250?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/eb1c0149-e214-495c-9f38-fab6db73b250?utm_source=GHList"
-        }
-      },
-      "url_aliases": [
-        "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
-        "https://simplify.jobs/p/eb1c0149-e214-495c-9f38-fab6db73b250?utm_source=GHList"
       ]
     },
     "workday:kla.wd1.myworkdayjobs.com:hpc-software-engineer_2638794": {
