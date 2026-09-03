@@ -6801,14 +6801,14 @@
       ]
     },
     "greenhouse:kikoff:4376677009": {
-      "active": true,
+      "active": false,
       "age": "Today",
       "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
       "canonical_id": "greenhouse:kikoff:4376677009",
       "category": "Unknown",
       "company": "Kikoff",
       "first_seen": "2026-08-20T03:54:20Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-03T08:42:44Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-02T08:34:34Z",
       "location": "San Francisco, CA",
@@ -6818,13 +6818,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "13d",
           "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
           "category": "Unknown",
           "company": "Kikoff",
           "first_seen": "2026-08-20T03:54:20Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T08:42:44Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-02T08:34:34Z",
           "location": "San Francisco, CA",
@@ -6852,6 +6852,60 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://job-boards.greenhouse.io/kikoff/jobs/4376677009"
+      ]
+    },
+    "greenhouse:kikoff:4393822009": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
+      "canonical_id": "greenhouse:kikoff:4393822009",
+      "category": "Unknown",
+      "company": "Kikoff",
+      "first_seen": "2026-09-03T08:42:44Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-03T08:42:44Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - Recent Grad",
+      "posted": "2026-09-03",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
+          "category": "Unknown",
+          "company": "Kikoff",
+          "first_seen": "2026-09-03T08:42:44Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-03T08:42:44Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Recent Grad",
+          "posted": "2026-09-03",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "94f54c1b-2287-451f-99c1-dbea26389cdf",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-03T08:30:38.976Z",
+            "id": "94f54c1b-2287-451f-99c1-dbea26389cdf",
+            "listingUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
+            "matchKind": "explicit",
+            "posted": "2026-09-03",
+            "url": "https://applyguy.ai/jobs?company=Kikoff&job=94f54c1b-2287-451f-99c1-dbea26389cdf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Kikoff&job=94f54c1b-2287-451f-99c1-dbea26389cdf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Kikoff&job=94f54c1b-2287-451f-99c1-dbea26389cdf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://job-boards.greenhouse.io/kikoff/jobs/4393822009"
       ]
     },
     "greenhouse:mercury:6101145004": {
@@ -16301,14 +16355,14 @@
       ]
     },
     "url:https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics": {
-      "active": true,
+      "active": false,
       "age": "Today",
       "application_url": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
       "canonical_id": "url:https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
       "category": "Software Engineering",
       "company": "Western Magnetics",
       "first_seen": "2026-08-20T03:54:20Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-03T08:42:44Z",
       "job_type": "Internship",
       "last_seen": "2026-08-20T03:54:20Z",
       "location": "South San Francisco, CA",
@@ -16318,13 +16372,13 @@
       "season": "Not specified",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
           "category": "Software Engineering",
           "company": "Western Magnetics",
           "first_seen": "2026-08-20T03:54:20Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T08:42:44Z",
           "job_type": "Internship",
           "last_seen": "2026-08-20T03:54:20Z",
           "location": "South San Francisco, CA",
@@ -18936,6 +18990,60 @@
         "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686"
       ]
     },
+    "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "first_seen": "2026-09-03T08:42:44Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-03T08:42:44Z",
+      "location": "San Francisco California",
+      "position": "Machine Learning Engineer II (Intern) - United States",
+      "posted": "2026-09-03",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683",
+          "category": "Software Engineering",
+          "company": "Cisco",
+          "first_seen": "2026-09-03T08:42:44Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-03T08:42:44Z",
+          "location": "San Francisco California",
+          "position": "Machine Learning Engineer II (Intern) - United States",
+          "posted": "2026-09-03",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "068fe53d-b746-46e3-ae84-b1b05d99fcfb",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-03T08:30:19.768Z",
+            "id": "068fe53d-b746-46e3-ae84-b1b05d99fcfb",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683",
+            "posted": "2026-09-03",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=068fe53d-b746-46e3-ae84-b1b05d99fcfb&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=068fe53d-b746-46e3-ae84-b1b05d99fcfb&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=068fe53d-b746-46e3-ae84-b1b05d99fcfb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683"
+      ]
+    },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
       "active": false,
       "age": "1d",
@@ -19527,6 +19635,100 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Hpe&job=4b07b5f0-07a9-43b4-a189-6b4ca7ca1e09&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2"
+      ]
+    },
+    "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834",
+      "category": "Unknown",
+      "company": "Intel",
+      "first_seen": "2026-09-03T08:42:44Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-03T08:42:44Z",
+      "location": "Austin, TX | Santa Clara, CA | Hillsboro, OR | Folsom, CA | Phoenix, AZ",
+      "position": "Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Intel",
+          "first_seen": "2026-09-03T08:42:44Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-03T08:42:44Z",
+          "location": "Austin, TX | Santa Clara, CA | Hillsboro, OR | Folsom, CA | Phoenix, AZ",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "b854fca7-7546-478f-937b-a76b8dbbddae",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/b854fca7-7546-478f-937b-a76b8dbbddae?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/b854fca7-7546-478f-937b-a76b8dbbddae?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/b854fca7-7546-478f-937b-a76b8dbbddae?utm_source=GHList"
+      ]
+    },
+    "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--graduate_jr0286836": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--graduate_jr0286836",
+      "category": "FAANG+",
+      "company": "Intel",
+      "first_seen": "2026-09-03T08:42:44Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-03T08:42:44Z",
+      "location": "Austin, TX | Santa Clara, CA | Hillsboro, OR | Folsom, CA | Phoenix, AZ",
+      "position": "Software Engineer Intern 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Intel",
+          "first_seen": "2026-09-03T08:42:44Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-03T08:42:44Z",
+          "location": "Austin, TX | Santa Clara, CA | Hillsboro, OR | Folsom, CA | Phoenix, AZ",
+          "position": "Software Engineer Intern 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "ac297577-f4f9-4b73-ab38-00c094342140",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/ac297577-f4f9-4b73-ab38-00c094342140?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/ac297577-f4f9-4b73-ab38-00c094342140?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/ac297577-f4f9-4b73-ab38-00c094342140?utm_source=GHList"
       ]
     },
     "workday:jj.wd5.myworkdayjobs.com:software-engineer--infrastructure_r-096093": {
@@ -20721,14 +20923,14 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:system-software-engineer--dynamo-triton-inference-server---new-college-grad-2026_jr2020767": {
-      "active": true,
+      "active": false,
       "age": "35d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:system-software-engineer--dynamo-triton-inference-server---new-college-grad-2026_jr2020767",
       "category": "Unknown",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-03T08:42:44Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-02T08:34:34Z",
       "location": "Santa Clara, CA",
@@ -20738,13 +20940,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "51d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
           "category": "Unknown",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T08:42:44Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-02T08:34:34Z",
           "location": "Santa Clara, CA",
@@ -21977,6 +22179,24 @@
         "https://www.zipline.com/open-roles?gh_jid=7894335003"
       ],
       "status": "sent"
+    },
+    "abda2ce9422a3423c576c52dbf8f8916840b9989d9a1ee89f08e1c859480933d": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-03T08:42:44Z",
+      "issue_number": null,
+      "job_ids": [
+        "greenhouse:kikoff:4393822009",
+        "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683",
+        "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834",
+        "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--graduate_jr0286836"
+      ],
+      "job_urls": [
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
+        "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify",
+        "https://job-boards.greenhouse.io/kikoff/jobs/4393822009"
+      ],
+      "status": "pending"
     },
     "afe2191347ce1cddc82d506fb7a60cf8ac5210fda783ca6276785fafd1b32459": {
       "application_scan_eligible": true,
