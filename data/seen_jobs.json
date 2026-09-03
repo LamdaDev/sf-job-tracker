@@ -22609,14 +22609,14 @@
     "0c259341438dd0d4c9ab3bf07768b32d26a4a5ab6652d24c5e5114527dd3c691": {
       "application_scan_eligible": true,
       "created_at": "2026-09-03T20:43:16Z",
-      "issue_number": null,
+      "issue_number": 58,
       "job_ids": [
         "url:https://careers.withwaymo.com/jobs?gh_jid=8174099"
       ],
       "job_urls": [
         "https://careers.withwaymo.com/jobs?gh_jid=8174099"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "110de6690f9541a4268a5ce27f171f11e29bc869163e98f9fee772b04fb30397": {
       "application_scan_eligible": true,

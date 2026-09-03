@@ -8407,6 +8407,27 @@
       "scanned_at": "2026-08-18T14:36:37Z",
       "status": "failed"
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8174099": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8174099",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T20:43:21Z",
+      "http_status": 200,
+      "issue_number": 58,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T20:43:21Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T20:43:21Z",
+      "status": "unavailable"
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
       "attempt_count": 1,
