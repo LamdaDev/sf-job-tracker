@@ -23051,7 +23051,7 @@
     "cbbcf02a0d5ddbfcc9882a86ae851af6bb2a1a485cccf8b4a1d7b3037bf231ac": {
       "application_scan_eligible": true,
       "created_at": "2026-09-03T17:39:07Z",
-      "issue_number": null,
+      "issue_number": 57,
       "job_ids": [
         "ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e",
         "tiktok:jobs.bytedance.com:7673636205233490181",
@@ -23068,7 +23068,7 @@
         "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771",
         "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "ce7313245413f52b4784253d179f455cddf875463006875aab4543b961e10af9": {
       "application_scan_eligible": true,

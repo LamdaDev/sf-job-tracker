@@ -63,6 +63,27 @@
       "scanned_at": "2026-08-25T13:53:06Z",
       "status": "unavailable"
     },
+    "ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e": {
+      "application_url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T17:39:11Z",
+      "http_status": 200,
+      "issue_number": 57,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T17:39:11Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-03T17:39:11Z",
+      "status": "unavailable"
+    },
     "ashby:applied:e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95": {
       "application_url": "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
       "attempt_count": 1,
@@ -7588,6 +7609,27 @@
       "scanned_at": "2026-08-17T22:44:31Z",
       "status": "unavailable"
     },
+    "tiktok:jobs.bytedance.com:7673636205233490181": {
+      "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:jobs.bytedance.com:7673636205233490181",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T17:39:13Z",
+      "http_status": 200,
+      "issue_number": 57,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T17:39:13Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T17:39:13Z",
+      "status": "unavailable"
+    },
     "tiktok:jobs.bytedance.com:7678449088065997109": {
       "application_url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -8091,6 +8133,27 @@
       ],
       "scanned_at": "2026-08-22T02:56:47Z",
       "status": "partial"
+    },
+    "url:https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002": {
+      "application_url": "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T17:39:22Z",
+      "http_status": 200,
+      "issue_number": 57,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T17:39:22Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T17:39:22Z",
+      "status": "unavailable"
     },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556972687?ref=Simplify": {
       "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556972687?utm_source=Simplify&ref=Simplify",
@@ -9111,6 +9174,27 @@
       "scanned_at": "2026-09-02T08:34:52Z",
       "status": "unavailable"
     },
+    "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---software-engineer_r171666": {
+      "application_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---software-engineer_r171666",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T17:39:25Z",
+      "http_status": 200,
+      "issue_number": 57,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T17:39:25Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-03T17:39:25Z",
+      "status": "unavailable"
+    },
     "workday:alation.wd503.myworkdayjobs.com:ux-software-engineer-i--contractor-_r10000770": {
       "application_url": "https://alation.wd503.myworkdayjobs.com/en-US/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
       "attempt_count": 1,
@@ -9508,6 +9592,48 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-19T13:47:06Z",
+      "status": "unavailable"
+    },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer---cloud-infrastructure-and-devops_r0136771": {
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer---cloud-infrastructure-and-devops_r0136771",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T17:39:28Z",
+      "http_status": 200,
+      "issue_number": 57,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T17:39:28Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-03T17:39:28Z",
+      "status": "unavailable"
+    },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer--cloud-infrastructure-and-devops_r0136963-1": {
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer--cloud-infrastructure-and-devops_r0136963-1",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T17:39:29Z",
+      "http_status": 200,
+      "issue_number": 57,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T17:39:29Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-03T17:39:29Z",
       "status": "unavailable"
     },
     "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd": {
