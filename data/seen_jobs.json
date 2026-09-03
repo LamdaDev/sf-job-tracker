@@ -22183,7 +22183,7 @@
     "abda2ce9422a3423c576c52dbf8f8916840b9989d9a1ee89f08e1c859480933d": {
       "application_scan_eligible": true,
       "created_at": "2026-09-03T08:42:44Z",
-      "issue_number": null,
+      "issue_number": 55,
       "job_ids": [
         "greenhouse:kikoff:4393822009",
         "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683",
@@ -22196,7 +22196,7 @@
         "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify",
         "https://job-boards.greenhouse.io/kikoff/jobs/4393822009"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "afe2191347ce1cddc82d506fb7a60cf8ac5210fda783ca6276785fafd1b32459": {
       "application_scan_eligible": true,

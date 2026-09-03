@@ -3733,6 +3733,179 @@
       "scanned_at": "2026-08-20T03:54:23Z",
       "status": "complete"
     },
+    "greenhouse:kikoff:4393822009": {
+      "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:kikoff:4393822009",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T08:42:48Z",
+      "http_status": 200,
+      "issue_number": 55,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T08:42:48Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7465330009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7465331009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "location_logistics",
+          "field_name": "question_7465332009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "This is a hybrid position and requires being in the San Francisco, CA office three times a week. Are you willing and able to commute to the San Francisco, CA office or would you be willing to relocate?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7465333009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you currently eligible to work in the United States of America?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_7465334009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you now or in the future require visa sponsorship to continue working in the United States?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "location_questions"
+        }
+      ],
+      "scanned_at": "2026-09-03T08:42:48Z",
+      "status": "complete"
+    },
     "greenhouse:skhynixmemorysolutionsamericainc:4387708009": {
       "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009",
       "attempt_count": 1,
@@ -8854,6 +9027,27 @@
       "scanned_at": "2026-08-20T13:50:57Z",
       "status": "unavailable"
     },
+    "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T08:42:49Z",
+      "http_status": 200,
+      "issue_number": 55,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T08:42:49Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-03T08:42:49Z",
+      "status": "unavailable"
+    },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
       "attempt_count": 1,
@@ -8894,6 +9088,48 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-18T13:44:43Z",
+      "status": "unavailable"
+    },
+    "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834": {
+      "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T08:42:51Z",
+      "http_status": 200,
+      "issue_number": 55,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T08:42:51Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-03T08:42:51Z",
+      "status": "unavailable"
+    },
+    "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--graduate_jr0286836": {
+      "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--graduate_jr0286836",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T08:42:54Z",
+      "http_status": 200,
+      "issue_number": 55,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T08:42:54Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-03T08:42:54Z",
       "status": "unavailable"
     },
     "workday:jj.wd5.myworkdayjobs.com:software-engineer--infrastructure_r-096093": {
