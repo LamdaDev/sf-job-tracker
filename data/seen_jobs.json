@@ -623,13 +623,13 @@
           "source_url": "https://applyguy.ai/jobs?company=Abridge&job=06d73bd3-0dab-4b7b-9797-80ee55635eb8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         },
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "2d",
           "application_url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
           "category": "Other",
           "company": "Abridge",
           "first_seen": "2026-08-17T05:05:43Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T17:39:07Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-28T23:55:15Z",
           "location": "San Francisco, CA",
@@ -792,9 +792,9 @@
       "first_seen": "2026-08-17T07:00:52Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-08-24T09:51:35Z",
+      "last_seen": "2026-09-03T17:39:07Z",
       "location": "Sunnyvale, CA",
-      "position": "Embedded Software Engineer - New Grad - 2027",
+      "position": "Embedded Software Engineer - New Grad (2027)",
       "posted": "2026-08-14",
       "salary": null,
       "season": null,
@@ -831,13 +831,13 @@
           "source_url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=4e9581e3-cbf2-4caa-bbb2-b96048d02f06&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         },
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "2d",
           "application_url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44",
           "category": "Other",
           "company": "Applied Intuition",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T17:39:07Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Sunnyvale, CA",
@@ -856,6 +856,50 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Applied+Intuition&job=4e9581e3-cbf2-4caa-bbb2-b96048d02f06&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44"
+      ]
+    },
+    "ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+      "canonical_id": "ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e",
+      "category": "Other",
+      "company": "Applied Intuition",
+      "first_seen": "2026-09-03T17:39:07Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-03T17:39:07Z",
+      "location": "Sunnyvale, CA",
+      "position": "Cybersecurity Software Engineer - New Grad - December 2027",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+          "category": "Other",
+          "company": "Applied Intuition",
+          "first_seen": "2026-09-03T17:39:07Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-03T17:39:07Z",
+          "location": "Sunnyvale, CA",
+          "position": "Cybersecurity Software Engineer - New Grad - December 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e"
       ]
     },
     "ashby:applied:a837cbd6-9fe4-4d74-a2dc-84f602c40694": {
@@ -8686,14 +8730,14 @@
       ]
     },
     "lever:dutch:bbbd283b-2632-4ad1-8d43-87b072e247c5": {
-      "active": true,
+      "active": false,
       "age": "89d",
       "application_url": "https://jobs.lever.co/dutch/bbbd283b-2632-4ad1-8d43-87b072e247c5",
       "canonical_id": "lever:dutch:bbbd283b-2632-4ad1-8d43-87b072e247c5",
       "category": "Other",
       "company": "Dutch",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-03T17:39:07Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Oakland, CA",
@@ -8703,13 +8747,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "89d",
           "application_url": "https://jobs.lever.co/dutch/bbbd283b-2632-4ad1-8d43-87b072e247c5",
           "category": "Other",
           "company": "Dutch",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T17:39:07Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Oakland, CA",
@@ -9767,14 +9811,14 @@
       ]
     },
     "tiktok:jobs.bytedance.com:7672626707586746629": {
-      "active": true,
+      "active": false,
       "age": "2d",
       "application_url": "https://jobs.bytedance.com/en/position/7672626707586746629/detail?utm_source=Simplify&ref=Simplify",
       "canonical_id": "tiktok:jobs.bytedance.com:7672626707586746629",
       "category": "Unknown",
       "company": "ByteDance",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-03T17:39:07Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Jose, CA",
@@ -9784,13 +9828,13 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "active": true,
+          "active": false,
           "age": "2d",
           "application_url": "https://jobs.bytedance.com/en/position/7672626707586746629/detail?utm_source=Simplify&ref=Simplify",
           "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T17:39:07Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Jose, CA",
@@ -9811,6 +9855,53 @@
       "url_aliases": [
         "https://jobs.bytedance.com/en/position/7672626707586746629/detail?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/80991915-38ed-48d7-b67d-20f3f7a7b84c?utm_source=GHList"
+      ]
+    },
+    "tiktok:jobs.bytedance.com:7673636205233490181": {
+      "active": true,
+      "age": "20d",
+      "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:jobs.bytedance.com:7673636205233490181",
+      "category": "FAANG+",
+      "company": "ByteDance",
+      "first_seen": "2026-09-03T17:39:07Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-03T17:39:07Z",
+      "location": "San Jose, CA",
+      "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "20d",
+          "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "ByteDance",
+          "first_seen": "2026-09-03T17:39:07Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-03T17:39:07Z",
+          "location": "San Jose, CA",
+          "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "714db6c7-2c31-4e99-a0b1-4968cf3e0c58",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/714db6c7-2c31-4e99-a0b1-4968cf3e0c58?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/714db6c7-2c31-4e99-a0b1-4968cf3e0c58?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/714db6c7-2c31-4e99-a0b1-4968cf3e0c58?utm_source=GHList"
       ]
     },
     "tiktok:jobs.bytedance.com:7678449088065997109": {
@@ -15083,6 +15174,50 @@
         "https://simplify.jobs/p/b9776d83-bf68-42d9-88e2-4ebdd4ffda09?utm_source=GHList"
       ]
     },
+    "url:https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
+      "canonical_id": "url:https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
+      "category": "FAANG+",
+      "company": "Lyft",
+      "first_seen": "2026-09-03T17:39:07Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-03T17:39:07Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer",
+      "posted": null,
+      "salary": "$206k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
+          "category": "FAANG+",
+          "company": "Lyft",
+          "first_seen": "2026-09-03T17:39:07Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-03T17:39:07Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer",
+          "posted": null,
+          "salary": "$206k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002"
+        }
+      },
+      "url_aliases": [
+        "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002"
+      ]
+    },
     "url:https://apply.careers.microsoft.com/careers/job/1970393556972687?ref=Simplify": {
       "active": true,
       "age": "0d",
@@ -15915,14 +16050,14 @@
       ]
     },
     "url:https://careers.roblox.com/jobs/8080438?gh_jid=8080438": {
-      "active": true,
+      "active": false,
       "age": "17d",
       "application_url": "https://careers.roblox.com/jobs/8080438?gh_jid=8080438",
       "canonical_id": "url:https://careers.roblox.com/jobs/8080438?gh_jid=8080438",
       "category": "FAANG+",
       "company": "Roblox",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-03T17:39:07Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Mateo, CA",
@@ -15932,13 +16067,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "17d",
           "application_url": "https://careers.roblox.com/jobs/8080438?gh_jid=8080438",
           "category": "FAANG+",
           "company": "Roblox",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T17:39:07Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Mateo, CA",
@@ -16601,14 +16736,14 @@
       ]
     },
     "url:https://nuro.ai/careersitem?gh_jid=7895818": {
-      "active": true,
+      "active": false,
       "age": "103d",
       "application_url": "https://nuro.ai/careersitem?gh_jid=7895818",
       "canonical_id": "url:https://nuro.ai/careersitem?gh_jid=7895818",
       "category": "Other",
       "company": "Nuro",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-03T17:39:07Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Mountain View, CA",
@@ -16618,13 +16753,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "103d",
           "application_url": "https://nuro.ai/careersitem?gh_jid=7895818",
           "category": "Other",
           "company": "Nuro",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T17:39:07Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Mountain View, CA",
@@ -16645,14 +16780,14 @@
       ]
     },
     "url:https://nuro.ai/careersitem?gh_jid=7896063": {
-      "active": true,
+      "active": false,
       "age": "103d",
       "application_url": "https://nuro.ai/careersitem?gh_jid=7896063",
       "canonical_id": "url:https://nuro.ai/careersitem?gh_jid=7896063",
       "category": "Other",
       "company": "Nuro",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-03T17:39:07Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Mountain View, CA",
@@ -16662,13 +16797,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "103d",
           "application_url": "https://nuro.ai/careersitem?gh_jid=7896063",
           "category": "Other",
           "company": "Nuro",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T17:39:07Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Mountain View, CA",
@@ -19108,6 +19243,60 @@
         "https://applyguy.ai/jobs?company=Adobe&job=2910e4a9-d342-4a64-8b73-c46c3858dd7b&utm_source=github&utm_medium=listing&utm_campaign=internships"
       ]
     },
+    "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---software-engineer_r171666": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+      "canonical_id": "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---software-engineer_r171666",
+      "category": "Software Engineering",
+      "company": "Adobe",
+      "first_seen": "2026-09-03T17:39:07Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-03T17:39:07Z",
+      "location": "San Jose, CA",
+      "position": "2027 Intern - Software Engineer",
+      "posted": "2026-09-03",
+      "salary": null,
+      "season": "2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+          "category": "Software Engineering",
+          "company": "Adobe",
+          "first_seen": "2026-09-03T17:39:07Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-03T17:39:07Z",
+          "location": "San Jose, CA",
+          "position": "2027 Intern - Software Engineer",
+          "posted": "2026-09-03",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b8e1773c-dd72-410a-b6f2-94604e4e6921",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-03T17:30:35.320Z",
+            "id": "b8e1773c-dd72-410a-b6f2-94604e4e6921",
+            "listingUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+            "posted": "2026-09-03",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Adobe&job=b8e1773c-dd72-410a-b6f2-94604e4e6921&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Adobe&job=b8e1773c-dd72-410a-b6f2-94604e4e6921&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+        "https://applyguy.ai/jobs?company=Adobe&job=b8e1773c-dd72-410a-b6f2-94604e4e6921&utm_source=github&utm_medium=listing&utm_campaign=internships"
+      ]
+    },
     "workday:alation.wd503.myworkdayjobs.com:ux-software-engineer-i--contractor-_r10000770": {
       "active": true,
       "age": "1d",
@@ -20063,16 +20252,16 @@
       ]
     },
     "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834": {
-      "active": false,
+      "active": true,
       "age": "1d",
       "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
       "canonical_id": "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834",
       "category": "Unknown",
       "company": "Intel",
       "first_seen": "2026-09-03T08:42:44Z",
-      "inactive_at": "2026-09-03T13:22:45Z",
+      "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-03T08:42:44Z",
+      "last_seen": "2026-09-03T17:39:07Z",
       "location": "Austin, TX | Santa Clara, CA | Hillsboro, OR | Folsom, CA | Phoenix, AZ",
       "position": "Software Engineer Intern",
       "posted": null,
@@ -20080,15 +20269,15 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "active": false,
+          "active": true,
           "age": "1d",
           "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
           "category": "Unknown",
           "company": "Intel",
           "first_seen": "2026-09-03T08:42:44Z",
-          "inactive_at": "2026-09-03T13:22:45Z",
+          "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-03T08:42:44Z",
+          "last_seen": "2026-09-03T17:39:07Z",
           "location": "Austin, TX | Santa Clara, CA | Hillsboro, OR | Folsom, CA | Phoenix, AZ",
           "position": "Software Engineer Intern",
           "posted": null,
@@ -21513,6 +21702,94 @@
         "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298"
       ]
     },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer---cloud-infrastructure-and-devops_r0136771": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771",
+      "canonical_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer---cloud-infrastructure-and-devops_r0136771",
+      "category": "Other",
+      "company": "PayPal",
+      "first_seen": "2026-09-03T17:39:07Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-03T17:39:07Z",
+      "location": "San Jose, CA +2",
+      "position": "Software Engineer - Cloud Infrastructure and Devops",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771",
+          "category": "Other",
+          "company": "PayPal",
+          "first_seen": "2026-09-03T17:39:07Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-03T17:39:07Z",
+          "location": "San Jose, CA +2",
+          "position": "Software Engineer - Cloud Infrastructure and Devops",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771"
+        }
+      },
+      "url_aliases": [
+        "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771"
+      ]
+    },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer--cloud-infrastructure-and-devops_r0136963-1": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1",
+      "canonical_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer--cloud-infrastructure-and-devops_r0136963-1",
+      "category": "Other",
+      "company": "PayPal",
+      "first_seen": "2026-09-03T17:39:07Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-03T17:39:07Z",
+      "location": "San Jose, CA +2",
+      "position": "Software Engineer- Cloud Infrastructure and DevOps",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1",
+          "category": "Other",
+          "company": "PayPal",
+          "first_seen": "2026-09-03T17:39:07Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-03T17:39:07Z",
+          "location": "San Jose, CA +2",
+          "position": "Software Engineer- Cloud Infrastructure and DevOps",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1"
+        }
+      },
+      "url_aliases": [
+        "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1"
+      ]
+    },
     "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137195": {
       "active": false,
       "age": "12d",
@@ -22157,14 +22434,14 @@
       ]
     },
     "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Concord-CA-94523/Front-End_REQ148129",
       "canonical_id": "workday:tjx.wd1.myworkdayjobs.com:front-end_req148129",
       "category": "Other",
       "company": "TJX",
       "first_seen": "2026-08-21T13:49:19Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-03T17:39:07Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-21T13:49:19Z",
       "location": "Concord, CA",
@@ -22174,13 +22451,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Concord-CA-94523/Front-End_REQ148129",
           "category": "Other",
           "company": "TJX",
           "first_seen": "2026-08-21T13:49:19Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-03T17:39:07Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-21T13:49:19Z",
           "location": "Concord, CA",
@@ -22770,6 +23047,28 @@
         "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify"
       ],
       "status": "sent"
+    },
+    "cbbcf02a0d5ddbfcc9882a86ae851af6bb2a1a485cccf8b4a1d7b3037bf231ac": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-03T17:39:07Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:applied:a561fff8-aa38-4a5d-8b29-66c191f7328e",
+        "tiktok:jobs.bytedance.com:7673636205233490181",
+        "url:https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
+        "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---software-engineer_r171666",
+        "workday:paypal.wd1.myworkdayjobs.com:software-engineer---cloud-infrastructure-and-devops_r0136771",
+        "workday:paypal.wd1.myworkdayjobs.com:software-engineer--cloud-infrastructure-and-devops_r0136963-1"
+      ],
+      "job_urls": [
+        "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+        "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
+        "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+        "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
+        "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771",
+        "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1"
+      ],
+      "status": "pending"
     },
     "ce7313245413f52b4784253d179f455cddf875463006875aab4543b961e10af9": {
       "application_scan_eligible": true,
