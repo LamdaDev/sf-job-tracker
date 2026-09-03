@@ -22509,7 +22509,7 @@
     "7cd00250fcd209600633d89604eee7a91a4da0c8c0fd1b0612b1d93f86ab7d26": {
       "application_scan_eligible": true,
       "created_at": "2026-09-03T13:22:45Z",
-      "issue_number": null,
+      "issue_number": 56,
       "job_ids": [
         "tiktok:jobs.bytedance.com:7668590365398993205",
         "url:https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
@@ -22530,7 +22530,7 @@
         "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
         "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "7e12a00c56adf38f46e816143f3fbbc06c5ea88952c96a53dd6f469202921219": {
       "application_scan_eligible": true,

@@ -7546,6 +7546,27 @@
       "scanned_at": "2026-09-01T17:42:42Z",
       "status": "unavailable"
     },
+    "tiktok:jobs.bytedance.com:7668590365398993205": {
+      "application_url": "https://jobs.bytedance.com/en/position/7668590365398993205/detail?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:jobs.bytedance.com:7668590365398993205",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T13:22:49Z",
+      "http_status": 200,
+      "issue_number": 56,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T13:22:49Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T13:22:49Z",
+      "status": "unavailable"
+    },
     "tiktok:jobs.bytedance.com:7668650945276168453": {
       "application_url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -8710,6 +8731,153 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-09-02T08:34:51Z",
+      "status": "unavailable"
+    },
+    "url:https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003": {
+      "application_url": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T13:22:58Z",
+      "http_status": 200,
+      "issue_number": 56,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T13:22:58Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T13:22:58Z",
+      "status": "unavailable"
+    },
+    "url:https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003": {
+      "application_url": "https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T13:23:01Z",
+      "http_status": 200,
+      "issue_number": 56,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T13:23:01Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T13:23:01Z",
+      "status": "unavailable"
+    },
+    "url:https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003": {
+      "application_url": "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T13:23:03Z",
+      "http_status": 200,
+      "issue_number": 56,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T13:23:03Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T13:23:03Z",
+      "status": "unavailable"
+    },
+    "url:https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003": {
+      "application_url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T13:23:05Z",
+      "http_status": 200,
+      "issue_number": 56,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T13:23:05Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T13:23:05Z",
+      "status": "unavailable"
+    },
+    "url:https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003": {
+      "application_url": "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T13:23:08Z",
+      "http_status": 200,
+      "issue_number": 56,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T13:23:08Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T13:23:08Z",
+      "status": "unavailable"
+    },
+    "url:https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003": {
+      "application_url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T13:23:10Z",
+      "http_status": 200,
+      "issue_number": 56,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T13:23:10Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T13:23:10Z",
+      "status": "unavailable"
+    },
+    "url:https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003": {
+      "application_url": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-03T13:23:12Z",
+      "http_status": 200,
+      "issue_number": 56,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-03T13:23:12Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-03T13:23:12Z",
       "status": "unavailable"
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
