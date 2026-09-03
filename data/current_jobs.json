@@ -11682,6 +11682,52 @@
         "https://careers.roblox.com/jobs/8123004?gh_jid=8123004"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8174099": {
+      "age": "Today",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8174099",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, BS, SysEng Software Engineer",
+      "posted": "2026-09-03",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, BS, SysEng Software Engineer",
+          "posted": "2026-09-03",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-03T20:30:42.665Z",
+            "id": "b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+            "posted": "2026-09-03",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8174099"
+      ]
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "age": "0d",
       "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",

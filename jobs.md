@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (333)
+## Active Jobs (334)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Waymo | 2027 Summer Intern, BS, SysEng Software Engineer | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-03T20:43:16Z | 2026-09-03T20:43:16Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8174099>) |
 | Adobe | 2027 Intern - Software Engineer | Internship | Software Engineering | San Jose, CA | ApplyGuy | N/A | 2026-09-03T17:39:07Z | 2026-09-03T17:39:07Z | Yes | [Apply](<https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666>) |
 | Applied Intuition | Cybersecurity Software Engineer - New Grad - December 2027 | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-09-03T17:39:07Z | 2026-09-03T17:39:07Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e>) |
 | ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓 | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-09-03T17:39:07Z | 2026-09-03T17:39:07Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify>) |
