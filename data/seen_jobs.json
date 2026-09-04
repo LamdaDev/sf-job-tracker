@@ -6788,6 +6788,60 @@
         "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
       ]
     },
+    "greenhouse:idmeuniversityrecruiting:7980429003": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
+      "canonical_id": "greenhouse:idmeuniversityrecruiting:7980429003",
+      "category": "Software Engineering",
+      "company": "ID.me University Recruiting",
+      "first_seen": "2026-09-04T20:29:30Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-04T20:29:30Z",
+      "location": "Mountain View, CA",
+      "position": "Summer Intern 2027 - Software Development Engineer",
+      "posted": "2026-09-03",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
+          "category": "Software Engineering",
+          "company": "ID.me University Recruiting",
+          "first_seen": "2026-09-04T20:29:30Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-04T20:29:30Z",
+          "location": "Mountain View, CA",
+          "position": "Summer Intern 2027 - Software Development Engineer",
+          "posted": "2026-09-03",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b8fe2310-3a80-44f8-8322-43dfc09a0b1c",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-04T20:15:37.510Z",
+            "id": "b8fe2310-3a80-44f8-8322-43dfc09a0b1c",
+            "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
+            "posted": "2026-09-03",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=b8fe2310-3a80-44f8-8322-43dfc09a0b1c&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=b8fe2310-3a80-44f8-8322-43dfc09a0b1c&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=b8fe2310-3a80-44f8-8322-43dfc09a0b1c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003"
+      ]
+    },
     "greenhouse:ionq:6096581004": {
       "active": true,
       "age": "58d",
@@ -7266,6 +7320,114 @@
       },
       "url_aliases": [
         "https://boards.greenhouse.io/ridgeline/jobs/7784169003?gh_jid=7784169003"
+      ]
+    },
+    "greenhouse:scaleai:4730836005": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "canonical_id": "greenhouse:scaleai:4730836005",
+      "category": "Unknown",
+      "company": "Scale AI",
+      "first_seen": "2026-09-04T20:29:30Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-04T20:29:30Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - New Grad",
+      "posted": "2026-09-04",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+          "category": "Unknown",
+          "company": "Scale AI",
+          "first_seen": "2026-09-04T20:29:30Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-04T20:29:30Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - New Grad",
+          "posted": "2026-09-04",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-04T20:16:27.046Z",
+            "id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
+            "listingUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+            "matchKind": "explicit",
+            "posted": "2026-09-04",
+            "url": "https://applyguy.ai/jobs?company=Scale+AI&job=75355fb4-c0cd-403e-87d8-a60e28a09e4b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Scale+AI&job=75355fb4-c0cd-403e-87d8-a60e28a09e4b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Scale+AI&job=75355fb4-c0cd-403e-87d8-a60e28a09e4b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
+      ]
+    },
+    "greenhouse:scaleai:4730845005": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "canonical_id": "greenhouse:scaleai:4730845005",
+      "category": "Software Engineering",
+      "company": "Scale AI",
+      "first_seen": "2026-09-04T20:29:30Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-04T20:29:30Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineering Intern (Summer 2027)",
+      "posted": "2026-09-04",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+          "category": "Software Engineering",
+          "company": "Scale AI",
+          "first_seen": "2026-09-04T20:29:30Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-04T20:29:30Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern (Summer 2027)",
+          "posted": "2026-09-04",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "dca840bc-db2a-4d36-b3e7-9bf9da942ca5",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-04T20:15:37.510Z",
+            "id": "dca840bc-db2a-4d36-b3e7-9bf9da942ca5",
+            "listingUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+            "posted": "2026-09-04",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Scale+AI&job=dca840bc-db2a-4d36-b3e7-9bf9da942ca5&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Scale+AI&job=dca840bc-db2a-4d36-b3e7-9bf9da942ca5&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Scale+AI&job=dca840bc-db2a-4d36-b3e7-9bf9da942ca5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
       ]
     },
     "greenhouse:skhynixmemorysolutionsamericainc:4342038009": {
@@ -23795,6 +23957,22 @@
         "https://job-boards.greenhouse.io/hpiq/jobs/6173700004"
       ],
       "status": "sent"
+    },
+    "da368aaf9902676f8a4cb405642a1e56f908d87abe781ab5c4953297a64dc8b3": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-04T20:29:30Z",
+      "issue_number": null,
+      "job_ids": [
+        "greenhouse:idmeuniversityrecruiting:7980429003",
+        "greenhouse:scaleai:4730836005",
+        "greenhouse:scaleai:4730845005"
+      ],
+      "job_urls": [
+        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
+        "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+        "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+      ],
+      "status": "pending"
     },
     "dacad0524a5ee0a66494f55754a23be420f1b07d739e33d49c7ae60f86bc3714": {
       "application_scan_eligible": true,
