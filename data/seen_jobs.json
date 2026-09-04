@@ -3447,14 +3447,14 @@
       ]
     },
     "ashby:notion:297b4ece-765f-4eea-b1b8-46057cb6501f": {
-      "active": true,
+      "active": false,
       "age": "42d",
       "application_url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
       "canonical_id": "ashby:notion:297b4ece-765f-4eea-b1b8-46057cb6501f",
       "category": "Unknown",
       "company": "Notion",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-04T03:36:22Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Francisco, CA",
@@ -3464,13 +3464,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "42d",
           "application_url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
           "category": "Unknown",
           "company": "Notion",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-04T03:36:22Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -3577,14 +3577,14 @@
       ]
     },
     "ashby:notion:85947779-6b87-466a-98bc-30a640448c28": {
-      "active": true,
+      "active": false,
       "age": "42d",
       "application_url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
       "canonical_id": "ashby:notion:85947779-6b87-466a-98bc-30a640448c28",
       "category": "Unknown",
       "company": "Notion",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-04T03:36:22Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Francisco, CA",
@@ -3594,13 +3594,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "42d",
           "application_url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
           "category": "Unknown",
           "company": "Notion",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-04T03:36:22Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -9434,6 +9434,53 @@
         "https://simplify.jobs/p/34fa4813-bc92-4deb-8987-cf33bc625246?utm_source=GHList"
       ]
     },
+    "tiktok:jobs.bytedance.com:7668489218234157365": {
+      "active": true,
+      "age": "29d",
+      "application_url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "tiktok:jobs.bytedance.com:7668489218234157365",
+      "category": "Unknown",
+      "company": "ByteDance",
+      "first_seen": "2026-09-04T03:36:22Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-04T03:36:22Z",
+      "location": "San Jose, CA",
+      "position": "Backend Developer Intern - Infrastructure Platform Delivery",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "29d",
+          "application_url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "ByteDance",
+          "first_seen": "2026-09-04T03:36:22Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-04T03:36:22Z",
+          "location": "San Jose, CA",
+          "position": "Backend Developer Intern - Infrastructure Platform Delivery",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "1f65e1dc-4f67-432b-822e-9d4bf09cfc3d",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/1f65e1dc-4f67-432b-822e-9d4bf09cfc3d?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/1f65e1dc-4f67-432b-822e-9d4bf09cfc3d?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.bytedance.com/en/position/7668489218234157365/detail?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/1f65e1dc-4f67-432b-822e-9d4bf09cfc3d?utm_source=GHList"
+      ]
+    },
     "tiktok:jobs.bytedance.com:7668590365398993205": {
       "active": false,
       "age": "1mo",
@@ -9538,7 +9585,7 @@
       "first_seen": "2026-08-17T17:45:31Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-17T17:45:31Z",
+      "last_seen": "2026-09-04T03:36:22Z",
       "location": "San Jose, CA",
       "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
       "posted": null,
@@ -9547,14 +9594,14 @@
       "sources": {
         "simplify_summer_2027": {
           "active": true,
-          "age": "11d",
+          "age": "28d",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-08-17T17:45:31Z",
+          "last_seen": "2026-09-04T03:36:22Z",
           "location": "San Jose, CA",
           "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
           "posted": null,
@@ -9717,14 +9764,14 @@
       ]
     },
     "tiktok:jobs.bytedance.com:7671162985123907845": {
-      "active": true,
+      "active": false,
       "age": "6d",
       "application_url": "https://jobs.bytedance.com/en/position/7671162985123907845/detail?utm_source=Simplify&ref=Simplify",
       "canonical_id": "tiktok:jobs.bytedance.com:7671162985123907845",
       "category": "FAANG+",
       "company": "ByteDance",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-04T03:36:22Z",
       "job_type": "Internship",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Jose, CA",
@@ -9734,13 +9781,13 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "active": true,
+          "active": false,
           "age": "6d",
           "application_url": "https://jobs.bytedance.com/en/position/7671162985123907845/detail?utm_source=Simplify&ref=Simplify",
           "category": "FAANG+",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-04T03:36:22Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Jose, CA",
@@ -9867,7 +9914,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-03T17:39:07Z",
+      "last_seen": "2026-09-04T03:36:22Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -9878,12 +9925,12 @@
           "active": true,
           "age": "20d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-03T17:39:07Z",
+          "last_seen": "2026-09-04T03:36:22Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -16323,6 +16370,107 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8174099"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8174099&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8174099&ref=Simplify",
+      "category": "Unknown",
+      "company": "Waymo",
+      "first_seen": "2026-09-04T03:36:22Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-04T03:36:22Z",
+      "location": "Mountain View, CA",
+      "position": "Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099&utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Waymo",
+          "first_seen": "2026-09-04T03:36:22Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-04T03:36:22Z",
+          "location": "Mountain View, CA",
+          "position": "Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "107e54c4-e35f-4131-8faf-6a6ab9998ca9",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/107e54c4-e35f-4131-8faf-6a6ab9998ca9?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/107e54c4-e35f-4131-8faf-6a6ab9998ca9?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8174099&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/107e54c4-e35f-4131-8faf-6a6ab9998ca9?utm_source=GHList"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8174504": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8174504",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-04T03:36:22Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-04T03:36:22Z",
+      "location": "San Francisco, CA",
+      "position": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
+      "posted": "2026-09-03",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-04T03:36:22Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-04T03:36:22Z",
+          "location": "San Francisco, CA",
+          "position": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
+          "posted": "2026-09-03",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "a5bd2668-ccbc-42df-a553-286d9423a046",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-04T03:30:19.122Z",
+            "id": "a5bd2668-ccbc-42df-a553-286d9423a046",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+            "posted": "2026-09-03",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=a5bd2668-ccbc-42df-a553-286d9423a046&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=a5bd2668-ccbc-42df-a553-286d9423a046&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=a5bd2668-ccbc-42df-a553-286d9423a046&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8174504"
+      ]
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "active": true,
       "age": "0d",
@@ -19307,8 +19455,8 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-03T17:39:07Z",
-      "location": "San Jose, CA",
+      "last_seen": "2026-09-04T03:36:22Z",
+      "location": "Seattle, WA | SF | Austin, TX | San Jose, CA | Waltham, MA | NYC | Lehi, UT",
       "position": "2027 Intern - Software Engineer",
       "posted": "2026-09-03",
       "salary": null,
@@ -19344,11 +19492,37 @@
             "url": "https://applyguy.ai/jobs?company=Adobe&job=b8e1773c-dd72-410a-b6f2-94604e4e6921&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Adobe&job=b8e1773c-dd72-410a-b6f2-94604e4e6921&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Adobe",
+          "first_seen": "2026-09-04T03:36:22Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-04T03:36:22Z",
+          "location": "Seattle, WA | SF | Austin, TX | San Jose, CA | Waltham, MA | NYC | Lehi, UT",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "a9900edf-029b-4f1e-98cb-a9a1c96f11b3",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/a9900edf-029b-4f1e-98cb-a9a1c96f11b3?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/a9900edf-029b-4f1e-98cb-a9a1c96f11b3?utm_source=GHList"
         }
       },
       "url_aliases": [
         "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
-        "https://applyguy.ai/jobs?company=Adobe&job=b8e1773c-dd72-410a-b6f2-94604e4e6921&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666?utm_source=Simplify&ref=Simplify",
+        "https://applyguy.ai/jobs?company=Adobe&job=b8e1773c-dd72-410a-b6f2-94604e4e6921&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://simplify.jobs/p/a9900edf-029b-4f1e-98cb-a9a1c96f11b3?utm_source=GHList"
       ]
     },
     "workday:alation.wd503.myworkdayjobs.com:ux-software-engineer-i--contractor-_r10000770": {
@@ -23253,6 +23427,22 @@
         "https://lifeattiktok.com/search/7675829388634392837"
       ],
       "status": "sent"
+    },
+    "e96bebbde5168f7a118577e2ac17eb2fbfcb7d26e27fe4f4e419306e365bfbc1": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-04T03:36:22Z",
+      "issue_number": null,
+      "job_ids": [
+        "tiktok:jobs.bytedance.com:7668489218234157365",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8174099&ref=Simplify",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8174504"
+      ],
+      "job_urls": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8174099&utm_source=Simplify&ref=Simplify",
+        "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+        "https://jobs.bytedance.com/en/position/7668489218234157365/detail?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "ea5c1c2b46979bd0c49a722e97f0ecb9417a9bdc5c3e32372b9832692b15328c": {
       "application_scan_eligible": true,
