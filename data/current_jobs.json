@@ -565,10 +565,37 @@
       "job_type": "New Grad",
       "location": "Sunnyvale, CA",
       "position": "Cybersecurity Software Engineer - New Grad - December 2027",
-      "posted": null,
+      "posted": "2026-09-02",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "2d",
+          "application_url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+          "category": "Unknown",
+          "company": "Applied Intuition",
+          "job_type": "New Grad",
+          "location": "Sunnyvale, CA",
+          "position": "Cybersecurity Software Engineer - New Grad (December 2027)",
+          "posted": "2026-09-02",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "ff7c3998-02a3-4405-b8d5-29f975f01cde",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-04T13:16:09.428Z",
+            "id": "ff7c3998-02a3-4405-b8d5-29f975f01cde",
+            "listingUrl": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
+            "matchKind": "explicit",
+            "posted": "2026-09-02",
+            "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=ff7c3998-02a3-4405-b8d5-29f975f01cde&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=ff7c3998-02a3-4405-b8d5-29f975f01cde&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "0d",
           "application_url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
@@ -589,6 +616,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Applied+Intuition&job=ff7c3998-02a3-4405-b8d5-29f975f01cde&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e"
       ]
     },
@@ -6349,9 +6377,9 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "age": "20d",
+          "age": "21d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
