@@ -23353,7 +23353,7 @@
     "b39f45b26a3926afc5bb62819cc0edbfbf0ae62998560b2212c9e7b32456da0d": {
       "application_scan_eligible": true,
       "created_at": "2026-09-04T08:38:02Z",
-      "issue_number": null,
+      "issue_number": 60,
       "job_ids": [
         "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2",
         "workday:cadence.wd1.myworkdayjobs.com:software-intern_r56258"
@@ -23362,7 +23362,7 @@
         "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258",
         "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "b777aa2e01ed3b915f6c463efe5876f00ed70f7875aaa1ea11172ed80dcb69e9": {
       "application_scan_eligible": true,

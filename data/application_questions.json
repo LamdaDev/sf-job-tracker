@@ -9363,6 +9363,48 @@
       "scanned_at": "2026-08-20T13:50:57Z",
       "status": "unavailable"
     },
+    "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2": {
+      "application_url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-04T08:38:06Z",
+      "http_status": 200,
+      "issue_number": 60,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-04T08:38:06Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-04T08:38:06Z",
+      "status": "unavailable"
+    },
+    "workday:cadence.wd1.myworkdayjobs.com:software-intern_r56258": {
+      "application_url": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cadence.wd1.myworkdayjobs.com:software-intern_r56258",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-04T08:38:12Z",
+      "http_status": 200,
+      "issue_number": 60,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-04T08:38:12Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-04T08:38:12Z",
+      "status": "unavailable"
+    },
     "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683": {
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683",
       "attempt_count": 1,
