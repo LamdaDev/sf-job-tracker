@@ -6154,9 +6154,9 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "age": "28d",
+          "age": "29d",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -13601,6 +13601,98 @@
         "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781"
       ]
     },
+    "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2": {
+      "age": "1d",
+      "application_url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+      "canonical_id": "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2",
+      "category": "Unknown",
+      "company": "Cadence",
+      "job_type": "New Grad",
+      "location": "San Jose, CA",
+      "position": "Software Engineer  (new college grad Dec 2026)",
+      "posted": "2026-09-03",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+          "category": "Unknown",
+          "company": "Cadence",
+          "job_type": "New Grad",
+          "location": "San Jose, CA",
+          "position": "Software Engineer  (new college grad Dec 2026)",
+          "posted": "2026-09-03",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "7fb633b0-e67c-49ce-b818-60eb3f07989c",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-04T08:31:04.507Z",
+            "id": "7fb633b0-e67c-49ce-b818-60eb3f07989c",
+            "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+            "matchKind": "explicit",
+            "posted": "2026-09-03",
+            "url": "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
+      ]
+    },
+    "workday:cadence.wd1.myworkdayjobs.com:software-intern_r56258": {
+      "age": "Today",
+      "application_url": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258",
+      "canonical_id": "workday:cadence.wd1.myworkdayjobs.com:software-intern_r56258",
+      "category": "Software Engineering",
+      "company": "Cadence",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Software Intern",
+      "posted": "2026-09-04",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258",
+          "category": "Software Engineering",
+          "company": "Cadence",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Intern",
+          "posted": "2026-09-04",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "74f4e6d3-ed00-4de0-b77f-5abbcb1b59b8",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-04T08:30:44.580Z",
+            "id": "74f4e6d3-ed00-4de0-b77f-5abbcb1b59b8",
+            "listingUrl": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258",
+            "posted": "2026-09-04",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cadence&job=74f4e6d3-ed00-4de0-b77f-5abbcb1b59b8&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cadence&job=74f4e6d3-ed00-4de0-b77f-5abbcb1b59b8&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cadence&job=74f4e6d3-ed00-4de0-b77f-5abbcb1b59b8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258"
+      ]
+    },
     "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683": {
       "age": "Today",
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683",
@@ -14704,50 +14796,50 @@
         "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
       ]
     },
-    "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-261277": {
-      "age": "Today",
-      "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277",
-      "canonical_id": "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-261277",
+    "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-259943": {
+      "age": "26d",
+      "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
+      "canonical_id": "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-259943",
       "category": "Unknown",
       "company": "Roberthalf",
       "job_type": "New Grad",
       "location": "San Ramon, CA",
       "position": "Software Engineer I",
-      "posted": "2026-08-20",
+      "posted": "2026-07-22",
       "salary": null,
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "age": "13d",
-          "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277",
+          "age": "44d",
+          "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
           "category": "Unknown",
           "company": "Roberthalf",
           "job_type": "New Grad",
           "location": "San Ramon, CA",
           "position": "Software Engineer I",
-          "posted": "2026-08-20",
+          "posted": "2026-07-22",
           "salary": null,
           "season": null,
           "source_file": "data/new-grad-jobs.json",
           "source_id": "applyguy_new_grad",
-          "source_job_id": "3cbc2b10-d9ab-4cc6-9e02-997ae8443a12",
+          "source_job_id": "e1482e27-bed2-405f-b1b5-dea7e6e8439e",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "13d",
+            "age": "44d",
             "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
-            "id": "3cbc2b10-d9ab-4cc6-9e02-997ae8443a12",
-            "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277",
+            "feedUpdatedAt": "2026-09-04T08:31:04.507Z",
+            "id": "e1482e27-bed2-405f-b1b5-dea7e6e8439e",
+            "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
             "matchKind": "entry_level",
-            "posted": "2026-08-20",
-            "url": "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+            "posted": "2026-07-22",
+            "url": "https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
-          "source_url": "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          "source_url": "https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         }
       },
       "url_aliases": [
-        "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
+        "https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943"
       ]
     },
     "workday:snapchat.wd1.myworkdayjobs.com:software-engineer--ml-infrastructure_r0046629-1": {
