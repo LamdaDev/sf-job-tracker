@@ -1995,42 +1995,6 @@
         "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5"
       ]
     },
-    "ashby:kos.ai:efab6ffb-9658-47f7-8b5f-a295c55957d3": {
-      "age": "101d",
-      "application_url": "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3",
-      "canonical_id": "ashby:kos.ai:efab6ffb-9658-47f7-8b5f-a295c55957d3",
-      "category": "Other",
-      "company": "kos.ai",
-      "job_type": "Internship",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer Intern",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_internships": {
-          "age": "101d",
-          "application_url": "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3",
-          "category": "Other",
-          "company": "kos.ai",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer Intern",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3"
-      ]
-    },
     "ashby:lightfield:fc93a467-773d-4805-b342-bf470950732d": {
       "age": "32d",
       "application_url": "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d",
@@ -5585,6 +5549,42 @@
       },
       "url_aliases": [
         "https://jobs.lever.co/AviveSolutions/6d982360-d21c-4389-8a75-9a971d644f1d"
+      ]
+    },
+    "lever:dutch:bbbd283b-2632-4ad1-8d43-87b072e247c5": {
+      "age": "89d",
+      "application_url": "https://jobs.lever.co/dutch/bbbd283b-2632-4ad1-8d43-87b072e247c5",
+      "canonical_id": "lever:dutch:bbbd283b-2632-4ad1-8d43-87b072e247c5",
+      "category": "Other",
+      "company": "Dutch",
+      "job_type": "New Grad",
+      "location": "Oakland, CA",
+      "position": "Front-End Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "107d",
+          "application_url": "https://jobs.lever.co/dutch/bbbd283b-2632-4ad1-8d43-87b072e247c5",
+          "category": "Other",
+          "company": "Dutch",
+          "job_type": "New Grad",
+          "location": "Oakland, CA",
+          "position": "Front-End Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.lever.co/dutch/bbbd283b-2632-4ad1-8d43-87b072e247c5"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.lever.co/dutch/bbbd283b-2632-4ad1-8d43-87b072e247c5"
       ]
     },
     "lever:ketch:9835fb73-d8c3-4b96-b499-2ce10bc70e57": {
@@ -11345,33 +11345,6 @@
       "salary": "$64/hr",
       "season": "Summer 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "28d",
-          "application_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-          "category": "Software Engineering",
-          "company": "Roblox",
-          "job_type": "Internship",
-          "location": "San Mateo, CA",
-          "position": "[Summer 2027] Software Engineer Intern",
-          "posted": "2026-08-05",
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "96fd05a5-17a7-4f93-a8b5-c2fcd38b452e",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "28d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "96fd05a5-17a7-4f93-a8b5-c2fcd38b452e",
-            "listingUrl": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-            "posted": "2026-08-05",
-            "season": "Summer 2027",
-            "url": "https://applyguy.ai/jobs?company=Roblox&job=96fd05a5-17a7-4f93-a8b5-c2fcd38b452e&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Roblox&job=96fd05a5-17a7-4f93-a8b5-c2fcd38b452e&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "11d",
           "application_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
@@ -11583,11 +11556,11 @@
       "age": "Today",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
       "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8174099",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Waymo",
       "job_type": "Internship",
       "location": "Mountain View, CA",
-      "position": "2027 Summer Intern, BS, SysEng Software Engineer",
+      "position": "2027 Summer Intern - BS - SysEng Software Engineer",
       "posted": "2026-09-03",
       "salary": null,
       "season": "Summer 2027",
@@ -11618,6 +11591,24 @@
             "url": "https://applyguy.ai/jobs?company=Waymo&job=b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Waymo&job=b7f9eedf-63e2-40b6-87a4-416a9fd1c2fa&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+          "category": "Other",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern - BS - SysEng Software Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099"
         }
       },
       "url_aliases": [
@@ -11668,11 +11659,11 @@
       "age": "1d",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
       "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8174504",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Waymo",
       "job_type": "Internship",
       "location": "San Francisco, CA",
-      "position": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
+      "position": "2027 Summer Intern - MS - Software Engineering - Behavior Test",
       "posted": "2026-09-03",
       "salary": null,
       "season": "Summer 2027",
@@ -11703,6 +11694,24 @@
             "url": "https://applyguy.ai/jobs?company=Waymo&job=a5bd2668-ccbc-42df-a553-286d9423a046&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Waymo&job=a5bd2668-ccbc-42df-a553-286d9423a046&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+          "category": "Other",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "2027 Summer Intern - MS - Software Engineering - Behavior Test",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
         }
       },
       "url_aliases": [
@@ -11898,42 +11907,6 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Nuro&job=4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://nuro.ai/careersitem?gh_jid=6972272"
-      ]
-    },
-    "url:https://nuro.ai/careersitem?gh_jid=7888575": {
-      "age": "102d",
-      "application_url": "https://nuro.ai/careersitem?gh_jid=7888575",
-      "canonical_id": "url:https://nuro.ai/careersitem?gh_jid=7888575",
-      "category": "Other",
-      "company": "Nuro",
-      "job_type": "New Grad",
-      "location": "Mountain View, CA",
-      "position": "Software Operations Specialist - 12 month duration",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "102d",
-          "application_url": "https://nuro.ai/careersitem?gh_jid=7888575",
-          "category": "Other",
-          "company": "Nuro",
-          "job_type": "New Grad",
-          "location": "Mountain View, CA",
-          "position": "Software Operations Specialist - 12 month duration",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://nuro.ai/careersitem?gh_jid=7888575"
-        }
-      },
-      "url_aliases": [
-        "https://nuro.ai/careersitem?gh_jid=7888575"
       ]
     },
     "url:https://nuro.ai/careersitem?gh_jid=8122483": {
@@ -12968,11 +12941,11 @@
       "age": "14d",
       "application_url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
       "canonical_id": "url:https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zipline",
       "job_type": "Internship",
       "location": "South San Francisco, CA",
-      "position": "Software Systems Validation Intern (Spring 2027)",
+      "position": "Software Systems Validation Intern - Spring 2027",
       "posted": "2026-08-20",
       "salary": null,
       "season": "Spring 2027",
@@ -13003,6 +12976,24 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "15d",
+          "application_url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
+          "category": "Other",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Systems Validation Intern - Spring 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003"
         }
       },
       "url_aliases": [
@@ -13060,11 +13051,11 @@
       "age": "14d",
       "application_url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
       "canonical_id": "url:https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zipline",
       "job_type": "Internship",
       "location": "South San Francisco, CA",
-      "position": "Software Engineer Intern (Spring 2027)",
+      "position": "Software Engineer Intern - Spring 2027",
       "posted": "2026-08-20",
       "salary": null,
       "season": "Spring 2027",
@@ -13095,6 +13086,24 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "14d",
+          "application_url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
+          "category": "Other",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Software Engineer Intern - Spring 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003"
         }
       },
       "url_aliases": [
@@ -13106,11 +13115,11 @@
       "age": "13d",
       "application_url": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
       "canonical_id": "url:https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Zipline",
       "job_type": "Internship",
       "location": "South San Francisco, CA",
-      "position": "Software Engineer Intern (Summer 2027)",
+      "position": "Software Engineer Intern - Summer 2027",
       "posted": "2026-08-21",
       "salary": null,
       "season": "Summer 2027",
@@ -13141,103 +13150,10 @@
             "url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003"
-      ]
-    },
-    "url:https://www.zipline.com/open-roles?gh_jid=7893955003": {
-      "age": "Today",
-      "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
-      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7893955003",
-      "category": "Other",
-      "company": "Zipline",
-      "job_type": "Internship",
-      "location": "South San Francisco, CA",
-      "position": "Software Systems Validation Intern - Spring 2027",
-      "posted": "2026-08-20",
-      "salary": null,
-      "season": "Spring 2027",
-      "sources": {
+        },
         "speedyapply_internships": {
-          "age": "0d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
-          "category": "Other",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Software Systems Validation Intern - Spring 2027",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://www.zipline.com/open-roles?gh_jid=7893955003"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles?gh_jid=7893955003"
-      ]
-    },
-    "url:https://www.zipline.com/open-roles?gh_jid=7907191003": {
-      "age": "Today",
-      "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
-      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7907191003",
-      "category": "Other",
-      "company": "Zipline",
-      "job_type": "Internship",
-      "location": "South San Francisco, CA",
-      "position": "Software Engineer Intern - Spring 2027",
-      "posted": "2026-08-20",
-      "salary": null,
-      "season": "Spring 2027",
-      "sources": {
-        "speedyapply_internships": {
-          "age": "0d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
-          "category": "Other",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Software Engineer Intern - Spring 2027",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://www.zipline.com/open-roles?gh_jid=7907191003"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Zipline&job=6bcd8ca9-2226-4ccd-affd-94c7f73524f0&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles?gh_jid=7907191003"
-      ]
-    },
-    "url:https://www.zipline.com/open-roles?gh_jid=7929236003": {
-      "age": "Today",
-      "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
-      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7929236003",
-      "category": "Other",
-      "company": "Zipline",
-      "job_type": "Internship",
-      "location": "South San Francisco, CA",
-      "position": "Software Engineer Intern - Summer 2027",
-      "posted": "2026-08-21",
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "speedyapply_internships": {
-          "age": "0d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
+          "age": "13d",
+          "application_url": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003",
           "category": "Other",
           "company": "Zipline",
           "job_type": "Internship",
@@ -13251,12 +13167,84 @@
           "source_job_id": null,
           "source_label": "SpeedyApply",
           "source_metadata": {},
-          "source_url": "https://www.zipline.com/open-roles?gh_jid=7929236003"
+          "source_url": "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Zipline&job=2eb3f992-0013-439a-86d9-316e292a1264&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles?gh_jid=7929236003"
+        "https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles/7974897003?gh_jid=7974897003": {
+      "age": "9d",
+      "application_url": "https://www.zipline.com/open-roles/7974897003?gh_jid=7974897003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7974897003?gh_jid=7974897003",
+      "category": "Other",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Embedded Software Engineer Intern - Spring 2027",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "9d",
+          "application_url": "https://www.zipline.com/open-roles/7974897003?gh_jid=7974897003",
+          "category": "Other",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Embedded Software Engineer Intern - Spring 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles/7974897003?gh_jid=7974897003"
+        }
+      },
+      "url_aliases": [
+        "https://www.zipline.com/open-roles/7974897003?gh_jid=7974897003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003": {
+      "age": "8d",
+      "application_url": "https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003",
+      "category": "Other",
+      "company": "Zipline",
+      "job_type": "Internship",
+      "location": "South San Francisco, CA",
+      "position": "Embedded Engineering Intern - Summer 2027",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "8d",
+          "application_url": "https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003",
+          "category": "Other",
+          "company": "Zipline",
+          "job_type": "Internship",
+          "location": "South San Francisco, CA",
+          "position": "Embedded Engineering Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003"
+        }
+      },
+      "url_aliases": [
+        "https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003"
       ]
     },
     "url:https://www.zipline.com/open-roles?gh_jid=7974890003": {
@@ -13303,79 +13291,6 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Zipline&job=78639e6b-9f9c-41be-9733-89de49ac7963&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://www.zipline.com/open-roles?gh_jid=7974890003"
-      ]
-    },
-    "url:https://www.zipline.com/open-roles?gh_jid=7974897003": {
-      "age": "Today",
-      "application_url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
-      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7974897003",
-      "category": "Other",
-      "company": "Zipline",
-      "job_type": "Internship",
-      "location": "South San Francisco, CA",
-      "position": "Embedded Software Engineer Intern - Spring 2027",
-      "posted": "2026-08-25",
-      "salary": null,
-      "season": "Spring 2027",
-      "sources": {
-        "speedyapply_internships": {
-          "age": "0d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
-          "category": "Other",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Embedded Software Engineer Intern - Spring 2027",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://www.zipline.com/open-roles?gh_jid=7974897003"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Zipline&job=aebc61e4-6d42-4c65-8621-41e79d8d092b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles?gh_jid=7974897003"
-      ]
-    },
-    "url:https://www.zipline.com/open-roles?gh_jid=7978843003": {
-      "age": "1d",
-      "application_url": "https://www.zipline.com/open-roles?gh_jid=7978843003",
-      "canonical_id": "url:https://www.zipline.com/open-roles?gh_jid=7978843003",
-      "category": "Other",
-      "company": "Zipline",
-      "job_type": "Internship",
-      "location": "South San Francisco, CA",
-      "position": "Embedded Engineering Intern - Summer 2027",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_internships": {
-          "age": "1d",
-          "application_url": "https://www.zipline.com/open-roles?gh_jid=7978843003",
-          "category": "Other",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Embedded Engineering Intern - Summer 2027",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://www.zipline.com/open-roles?gh_jid=7978843003"
-        }
-      },
-      "url_aliases": [
-        "https://www.zipline.com/open-roles?gh_jid=7978843003"
       ]
     },
     "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---machine-learning-engineer_r171519": {
@@ -13426,15 +13341,15 @@
     },
     "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---software-engineer_r171666": {
       "age": "Today",
-      "application_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+      "application_url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
       "canonical_id": "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---software-engineer_r171666",
-      "category": "Software Engineering",
+      "category": "FAANG+",
       "company": "Adobe",
       "job_type": "Internship",
       "location": "Seattle, WA | SF | Austin, TX | San Jose, CA | Waltham, MA | NYC | Lehi, UT",
       "position": "2027 Intern - Software Engineer",
       "posted": "2026-09-03",
-      "salary": null,
+      "salary": "$55/hr",
       "season": "2027",
       "sources": {
         "applyguy_internships": {
@@ -13483,9 +13398,28 @@
             "simplify_url": "https://simplify.jobs/p/a9900edf-029b-4f1e-98cb-a9a1c96f11b3?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/a9900edf-029b-4f1e-98cb-a9a1c96f11b3?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "age": "1d",
+          "application_url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+          "category": "FAANG+",
+          "company": "Adobe",
+          "job_type": "Internship",
+          "location": "San Francisco, CA +4",
+          "position": "2027 Intern - Software Engineer",
+          "posted": null,
+          "salary": "$55/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
         }
       },
       "url_aliases": [
+        "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
         "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
         "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666?utm_source=Simplify&ref=Simplify",
         "https://applyguy.ai/jobs?company=Adobe&job=b8e1773c-dd72-410a-b6f2-94604e4e6921&utm_source=github&utm_medium=listing&utm_campaign=internships",
@@ -13555,6 +13489,42 @@
         "https://alation.wd503.myworkdayjobs.com/en-US/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
         "https://alation.wd503.myworkdayjobs.com/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
         "https://applyguy.ai/jobs?company=Alation&job=6cfae721-596c-4959-b6b5-2165fc253dbc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+      ]
+    },
+    "workday:amainc.wd12.myworkdayjobs.com:software-engineer_r-100728": {
+      "age": "1d",
+      "application_url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728",
+      "canonical_id": "workday:amainc.wd12.myworkdayjobs.com:software-engineer_r-100728",
+      "category": "Other",
+      "company": "Analytical Mechanics Associates",
+      "job_type": "New Grad",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "1d",
+          "application_url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728",
+          "category": "Other",
+          "company": "Analytical Mechanics Associates",
+          "job_type": "New Grad",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728"
+        }
+      },
+      "url_aliases": [
+        "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728"
       ]
     },
     "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-i-new-college-grad--bachelor-s--santa-clara--ca-_r2626605": {
@@ -13677,9 +13647,9 @@
     },
     "workday:cadence.wd1.myworkdayjobs.com:software-intern_r56258": {
       "age": "Today",
-      "application_url": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258",
+      "application_url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Intern_R56258",
       "canonical_id": "workday:cadence.wd1.myworkdayjobs.com:software-intern_r56258",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Cadence",
       "job_type": "Internship",
       "location": "San Jose, CA",
@@ -13714,10 +13684,29 @@
             "url": "https://applyguy.ai/jobs?company=Cadence&job=74f4e6d3-ed00-4de0-b77f-5abbcb1b59b8&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Cadence&job=74f4e6d3-ed00-4de0-b77f-5abbcb1b59b8&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "1d",
+          "application_url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Intern_R56258",
+          "category": "Other",
+          "company": "Cadence",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Intern",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Intern_R56258"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Cadence&job=74f4e6d3-ed00-4de0-b77f-5abbcb1b59b8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Intern_R56258",
         "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258"
       ]
     },
@@ -13851,78 +13840,6 @@
         "https://simplify.jobs/p/aa0ebb73-f646-4f78-ac9d-900e2925f3e9?utm_source=GHList"
       ]
     },
-    "workday:hp.wd5.myworkdayjobs.com:ai-software-engineer---hp-iq_3163597-1": {
-      "age": "11d",
-      "application_url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1",
-      "canonical_id": "workday:hp.wd5.myworkdayjobs.com:ai-software-engineer---hp-iq_3163597-1",
-      "category": "Other",
-      "company": "HP",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "AI Software Engineer - HP IQ",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "11d",
-          "application_url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1",
-          "category": "Other",
-          "company": "HP",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "AI Software Engineer - HP IQ",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1"
-        }
-      },
-      "url_aliases": [
-        "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1"
-      ]
-    },
-    "workday:hp.wd5.myworkdayjobs.com:ai-software-engineer---hp-iq_3163597-2": {
-      "age": "11d",
-      "application_url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2",
-      "canonical_id": "workday:hp.wd5.myworkdayjobs.com:ai-software-engineer---hp-iq_3163597-2",
-      "category": "Other",
-      "company": "HP",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "AI Software Engineer - HP IQ",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "11d",
-          "application_url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2",
-          "category": "Other",
-          "company": "HP",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "AI Software Engineer - HP IQ",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2"
-        }
-      },
-      "url_aliases": [
-        "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2"
-      ]
-    },
     "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834": {
       "age": "1d",
       "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
@@ -13999,42 +13916,6 @@
       "url_aliases": [
         "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/ac297577-f4f9-4b73-ab38-00c094342140?utm_source=GHList"
-      ]
-    },
-    "workday:jj.wd5.myworkdayjobs.com:software-engineer--infrastructure_r-096093": {
-      "age": "1d",
-      "application_url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Infrastructure_R-096093",
-      "canonical_id": "workday:jj.wd5.myworkdayjobs.com:software-engineer--infrastructure_r-096093",
-      "category": "Other",
-      "company": "Johnson & Johnson",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Software Engineer - Infrastructure",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "1d",
-          "application_url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Infrastructure_R-096093",
-          "category": "Other",
-          "company": "Johnson & Johnson",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer - Infrastructure",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Infrastructure_R-096093"
-        }
-      },
-      "url_aliases": [
-        "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer--Infrastructure_R-096093"
       ]
     },
     "workday:jj.wd5.myworkdayjobs.com:software-engineer-devops_r-095632": {
@@ -14143,42 +14024,6 @@
       },
       "url_aliases": [
         "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineer-II--Distributed---Scalable-Systems-_2636655-1"
-      ]
-    },
-    "workday:kla.wd1.myworkdayjobs.com:software-engineer_2637811": {
-      "age": "28d",
-      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2637811",
-      "canonical_id": "workday:kla.wd1.myworkdayjobs.com:software-engineer_2637811",
-      "category": "Other",
-      "company": "KLA",
-      "job_type": "New Grad",
-      "location": "Milpitas, CA",
-      "position": "Software Engineer",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "28d",
-          "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2637811",
-          "category": "Other",
-          "company": "KLA",
-          "job_type": "New Grad",
-          "location": "Milpitas, CA",
-          "position": "Software Engineer",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2637811"
-        }
-      },
-      "url_aliases": [
-        "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2637811"
       ]
     },
     "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640196": {
@@ -14509,42 +14354,6 @@
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499"
-      ]
-    },
-    "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659": {
-      "age": "75d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659",
-      "category": "FAANG+",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Software Engineer - Hardware Tools and Methodology - New College Grad 2026",
-      "posted": null,
-      "salary": "$172k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "91d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
-          "category": "FAANG+",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer - Hardware Tools and Methodology - New College Grad 2026",
-          "posted": null,
-          "salary": "$172k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
-        }
-      },
-      "url_aliases": [
-        "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineering-intern--dynamo---fall-2026_jr2022295": {
