@@ -7567,6 +7567,27 @@
       "scanned_at": "2026-09-01T17:42:42Z",
       "status": "unavailable"
     },
+    "tiktok:jobs.bytedance.com:7668489218234157365": {
+      "application_url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:jobs.bytedance.com:7668489218234157365",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-04T03:36:26Z",
+      "http_status": 200,
+      "issue_number": 59,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-04T03:36:26Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-04T03:36:26Z",
+      "status": "unavailable"
+    },
     "tiktok:jobs.bytedance.com:7668590365398993205": {
       "application_url": "https://jobs.bytedance.com/en/position/7668590365398993205/detail?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -8426,6 +8447,48 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-09-03T20:43:21Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8174099&ref=Simplify": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8174099&ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-04T03:36:36Z",
+      "http_status": 200,
+      "issue_number": 59,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-04T03:36:36Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-04T03:36:36Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8174504": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8174504",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-04T03:36:38Z",
+      "http_status": 200,
+      "issue_number": 59,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-04T03:36:38Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-04T03:36:38Z",
       "status": "unavailable"
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
