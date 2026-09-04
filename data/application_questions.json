@@ -9225,6 +9225,27 @@
       "scanned_at": "2026-08-21T13:49:22Z",
       "status": "unavailable"
     },
+    "url:https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?ref=Simplify": {
+      "application_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?ref=Simplify",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-04T22:52:19Z",
+      "http_status": 200,
+      "issue_number": 63,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-04T22:52:19Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-04T22:52:19Z",
+      "status": "unavailable"
+    },
     "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?ref=Simplify": {
       "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
