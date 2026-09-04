@@ -11893,6 +11893,45 @@
         "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
       ]
     },
+    "url:https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?ref=Simplify",
+      "category": "Unknown",
+      "company": "Nokia",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "AI Agent Development Co-op 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Nokia",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "AI Agent Development Co-op 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "92d19f9f-b983-4fa7-a8f3-2344103d710e",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/92d19f9f-b983-4fa7-a8f3-2344103d710e?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/92d19f9f-b983-4fa7-a8f3-2344103d710e?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/92d19f9f-b983-4fa7-a8f3-2344103d710e?utm_source=GHList"
+      ]
+    },
     "url:https://jobs.apple.com/en-us/details/200665472-0836": {
       "age": "81d",
       "application_url": "https://jobs.apple.com/en-us/details/200665472-0836",

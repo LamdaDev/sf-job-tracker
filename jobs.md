@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (329)
+## Active Jobs (330)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Nokia | AI Agent Development Co-op 🎓 | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-09-04T22:52:15Z | 2026-09-04T22:52:15Z | Yes | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify>) |
 | ID.me University Recruiting | Summer Intern 2027 - Software Development Engineer | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-04T20:29:30Z | 2026-09-04T20:29:30Z | Yes | [Apply](<https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003>) |
 | Scale AI | Software Engineer - New Grad | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-09-04T20:29:30Z | 2026-09-04T20:29:30Z | Yes | [Apply](<https://job-boards.greenhouse.io/scaleai/jobs/4730836005>) |
 | Scale AI | Software Engineering Intern (Summer 2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-04T20:29:30Z | 2026-09-04T20:29:30Z | Yes | [Apply](<https://job-boards.greenhouse.io/scaleai/jobs/4730845005>) |
