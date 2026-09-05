@@ -10815,6 +10815,48 @@
       "scanned_at": "2026-08-20T03:00:05Z",
       "status": "unavailable"
     },
+    "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--bs---summer-2027_2604461": {
+      "application_url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--bs---summer-2027_2604461",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T05:23:31Z",
+      "http_status": 200,
+      "issue_number": 65,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T05:23:31Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-05T05:23:31Z",
+      "status": "unavailable"
+    },
+    "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--ms---summer-2027_2604513": {
+      "application_url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--ms---summer-2027_2604513",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T05:23:33Z",
+      "http_status": 200,
+      "issue_number": 65,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T05:23:33Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-05T05:23:33Z",
+      "status": "unavailable"
+    },
     "workday:nvidia.wd5.myworkdayjobs.com:compiler-engineer--backend--new-college-grad-2026_jr2017290": {
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290",
       "attempt_count": 1,

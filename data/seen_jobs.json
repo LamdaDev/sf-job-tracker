@@ -24648,7 +24648,7 @@
     "e3b3d86a03a511caf8d474b2a7d73bade528604565836186441a6327bb44c45f": {
       "application_scan_eligible": true,
       "created_at": "2026-09-05T05:23:27Z",
-      "issue_number": null,
+      "issue_number": 65,
       "job_ids": [
         "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--bs---summer-2027_2604461",
         "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--ms---summer-2027_2604513"
@@ -24657,7 +24657,7 @@
         "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
         "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "e96bebbde5168f7a118577e2ac17eb2fbfcb7d26e27fe4f4e419306e365bfbc1": {
       "application_scan_eligible": true,
