@@ -9960,7 +9960,7 @@
       "first_seen": "2026-08-17T17:45:31Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-04T08:38:02Z",
+      "last_seen": "2026-09-05T05:23:27Z",
       "location": "San Jose, CA",
       "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
       "posted": null,
@@ -9971,12 +9971,12 @@
           "active": true,
           "age": "29d",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-04T08:38:02Z",
+          "last_seen": "2026-09-05T05:23:27Z",
           "location": "San Jose, CA",
           "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
           "posted": null,
@@ -10289,7 +10289,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-04T13:16:46Z",
+      "last_seen": "2026-09-05T05:23:27Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -10300,12 +10300,12 @@
           "active": true,
           "age": "21d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-04T13:16:46Z",
+          "last_seen": "2026-09-05T05:23:27Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -21965,6 +21965,114 @@
         "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
       ]
     },
+    "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--bs---summer-2027_2604461": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
+      "canonical_id": "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--bs---summer-2027_2604461",
+      "category": "Software Engineering",
+      "company": "Marvell",
+      "first_seen": "2026-09-05T05:23:27Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-05T05:23:27Z",
+      "location": "Santa Clara, CA",
+      "position": "Firmware Engineer Intern, BS - Summer 2027",
+      "posted": "2026-09-05",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
+          "category": "Software Engineering",
+          "company": "Marvell",
+          "first_seen": "2026-09-05T05:23:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-05T05:23:27Z",
+          "location": "Santa Clara, CA",
+          "position": "Firmware Engineer Intern, BS - Summer 2027",
+          "posted": "2026-09-05",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7b7b2243-65da-4de1-8260-85cc44a35ef5",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-05T05:15:34.996Z",
+            "id": "7b7b2243-65da-4de1-8260-85cc44a35ef5",
+            "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
+            "posted": "2026-09-05",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Marvell&job=7b7b2243-65da-4de1-8260-85cc44a35ef5&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Marvell&job=7b7b2243-65da-4de1-8260-85cc44a35ef5&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Marvell&job=7b7b2243-65da-4de1-8260-85cc44a35ef5&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461"
+      ]
+    },
+    "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--ms---summer-2027_2604513": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "canonical_id": "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--ms---summer-2027_2604513",
+      "category": "Software Engineering",
+      "company": "Marvell",
+      "first_seen": "2026-09-05T05:23:27Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-05T05:23:27Z",
+      "location": "Santa Clara, CA",
+      "position": "Firmware Engineer Intern, MS - Summer 2027",
+      "posted": "2026-09-05",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+          "category": "Software Engineering",
+          "company": "Marvell",
+          "first_seen": "2026-09-05T05:23:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-05T05:23:27Z",
+          "location": "Santa Clara, CA",
+          "position": "Firmware Engineer Intern, MS - Summer 2027",
+          "posted": "2026-09-05",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "3a43fee0-a5ae-441a-a63b-4ad7751761d6",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-05T05:15:34.996Z",
+            "id": "3a43fee0-a5ae-441a-a63b-4ad7751761d6",
+            "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+            "posted": "2026-09-05",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Marvell&job=3a43fee0-a5ae-441a-a63b-4ad7751761d6&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Marvell&job=3a43fee0-a5ae-441a-a63b-4ad7751761d6&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Marvell&job=3a43fee0-a5ae-441a-a63b-4ad7751761d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513"
+      ]
+    },
     "workday:nvidia.wd5.myworkdayjobs.com:ai-and-ml-infra-software-engineer--gpu-clusters---new-college-grad-2026_jr2021591": {
       "active": false,
       "age": "25d",
@@ -22688,13 +22796,13 @@
       "season": "Fall 2026",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "27d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
           "category": "Software Engineering",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-05T05:23:27Z",
           "job_type": "Internship",
           "last_seen": "2026-09-02T08:34:34Z",
           "location": "Santa Clara, CA",
@@ -24536,6 +24644,20 @@
         "https://lifeattiktok.com/search/7675829388634392837"
       ],
       "status": "sent"
+    },
+    "e3b3d86a03a511caf8d474b2a7d73bade528604565836186441a6327bb44c45f": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-05T05:23:27Z",
+      "issue_number": null,
+      "job_ids": [
+        "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--bs---summer-2027_2604461",
+        "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--ms---summer-2027_2604513"
+      ],
+      "job_urls": [
+        "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
+        "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513"
+      ],
+      "status": "pending"
     },
     "e96bebbde5168f7a118577e2ac17eb2fbfcb7d26e27fe4f4e419306e365bfbc1": {
       "application_scan_eligible": true,
