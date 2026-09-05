@@ -24270,7 +24270,7 @@
     "b22528a1693301fa8bdb57e8b59ca7fdbeb6998a0ea0a7cda735c68275e3006a": {
       "application_scan_eligible": true,
       "created_at": "2026-09-05T00:42:54Z",
-      "issue_number": null,
+      "issue_number": 64,
       "job_ids": [
         "ashby:juicebox:1af7ec98-9c2e-4101-868e-58e6f35cd23a",
         "ashby:rivianvw.tech:c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69",
@@ -24289,7 +24289,7 @@
         "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
         "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "b2fb2626e5e5078b18bb5876224150caa1186d1c4cf74561ae45a89694565530": {
       "application_scan_eligible": true,

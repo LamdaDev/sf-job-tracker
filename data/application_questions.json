@@ -189,6 +189,27 @@
       "scanned_at": "2026-08-22T13:34:18Z",
       "status": "unavailable"
     },
+    "ashby:juicebox:1af7ec98-9c2e-4101-868e-58e6f35cd23a": {
+      "application_url": "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:juicebox:1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T00:42:57Z",
+      "http_status": 200,
+      "issue_number": 64,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T00:42:57Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-05T00:42:57Z",
+      "status": "unavailable"
+    },
     "ashby:koahlabs:197c931d-3cda-44b3-b26b-470976730808": {
       "application_url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
       "attempt_count": 1,
@@ -292,6 +313,27 @@
       "provider": "ashby",
       "questions": [],
       "scanned_at": "2026-08-28T23:55:19Z",
+      "status": "unavailable"
+    },
+    "ashby:rivianvw.tech:c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69": {
+      "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:rivianvw.tech:c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T00:42:58Z",
+      "http_status": 200,
+      "issue_number": 64,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T00:42:58Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-05T00:42:58Z",
       "status": "unavailable"
     },
     "ashby:sierra:149f368c-52d5-408f-ba26-ad888f318a00": {
@@ -3599,6 +3641,283 @@
         }
       ],
       "scanned_at": "2026-09-02T08:34:39Z",
+      "status": "complete"
+    },
+    "greenhouse:idmeuniversityrecruiting:7980382003": {
+      "application_url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:idmeuniversityrecruiting:7980382003",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T00:42:59Z",
+      "http_status": 200,
+      "issue_number": 64,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T00:42:59Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_32507082003",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you legally authorized to work in the United States?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_32507083003",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you now, or will you in the future, require sponsorship or support for employment visa status (e.g., H-1B visa status, F-1 STEM OPT training plan, etc.) to work legally in the United States?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_32507238003",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you graduating Summer of 2027",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "location_logistics",
+          "field_name": "question_32507084003",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "This role requires working onsite 5 days per week at one of our hub offices (Mountain View, CA or McLean, VA). Do you currently live within commuting distance of one of these locations, or are you willing to relocate?",
+          "options": [
+            "Yes — I currently live within commuting distance of Mountain View, CA or McLean, VA and am willing to work onsite 5 days per week.",
+            "Yes — I do not currently live within commuting distance, but I am willing to relocate and work onsite 5 days per week.",
+            "No — I do not live within commuting distance, am not willing to relocate, and/or am not willing to work onsite 5 days per week."
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_32507087003",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "How did you hear about this job?",
+          "options": [
+            "Career Fair",
+            "Campus Event",
+            "Handshake",
+            "Referral",
+            "LinkedIn",
+            "Facebook",
+            "Twitter",
+            "Press Release",
+            "News Source",
+            "Recruiter",
+            "ID.me Careers page",
+            "Other"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_32507190003",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "If you selected 'Other,' please specify",
+          "options": [],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_32507086003",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "question_32507191003",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Github, Portfolio, or Website Link (if relevant)",
+          "options": [],
+          "ordinal": 15,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 16,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-05T00:42:59Z",
       "status": "complete"
     },
     "greenhouse:idmeuniversityrecruiting:7980429003": {
@@ -9322,6 +9641,27 @@
       "scanned_at": "2026-08-20T03:54:24Z",
       "status": "unavailable"
     },
+    "url:https://paypal.eightfold.ai/careers/job/274922260559?ref=Simplify": {
+      "application_url": "https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://paypal.eightfold.ai/careers/job/274922260559?ref=Simplify",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T00:43:00Z",
+      "http_status": 200,
+      "issue_number": 64,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T00:43:00Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-05T00:43:00Z",
+      "status": "unavailable"
+    },
     "url:https://stripe.com/jobs/search?gh_jid=8128744": {
       "application_url": "https://stripe.com/jobs/search?gh_jid=8128744",
       "attempt_count": 1,
@@ -9803,6 +10143,48 @@
       "scanned_at": "2026-09-04T17:27:28Z",
       "status": "unavailable"
     },
+    "url:https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003": {
+      "application_url": "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T00:43:01Z",
+      "http_status": 200,
+      "issue_number": 64,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T00:43:01Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-05T00:43:01Z",
+      "status": "unavailable"
+    },
+    "url:https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003": {
+      "application_url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T00:43:03Z",
+      "http_status": 200,
+      "issue_number": 64,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T00:43:03Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-05T00:43:03Z",
+      "status": "unavailable"
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7886501003": {
       "application_url": "https://www.zipline.com/open-roles?gh_jid=7886501003",
       "attempt_count": 1,
@@ -10263,6 +10645,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-18T13:44:43Z",
+      "status": "unavailable"
+    },
+    "workday:globalfoundries.wd1.myworkdayjobs.com:software-engineer--cloud-platform--2027-new-college-graduate-_jr-2604056": {
+      "application_url": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:globalfoundries.wd1.myworkdayjobs.com:software-engineer--cloud-platform--2027-new-college-graduate-_jr-2604056",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T00:43:05Z",
+      "http_status": 200,
+      "issue_number": 64,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T00:43:05Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-05T00:43:05Z",
       "status": "unavailable"
     },
     "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834": {
