@@ -10983,6 +10983,27 @@
       "scanned_at": "2026-09-03T17:39:28Z",
       "status": "unavailable"
     },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer---recent-graduate_r0137237": {
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer---recent-graduate_r0137237",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T16:38:36Z",
+      "http_status": 200,
+      "issue_number": 66,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T16:38:36Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-05T16:38:36Z",
+      "status": "unavailable"
+    },
     "workday:paypal.wd1.myworkdayjobs.com:software-engineer--cloud-infrastructure-and-devops_r0136963-1": {
       "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1",
       "attempt_count": 1,
@@ -11002,6 +11023,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-03T17:39:29Z",
+      "status": "unavailable"
+    },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer-intern_r0137285": {
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer-intern_r0137285",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-05T16:38:37Z",
+      "http_status": 200,
+      "issue_number": 66,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-05T16:38:37Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-05T16:38:37Z",
       "status": "unavailable"
     },
     "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd": {
