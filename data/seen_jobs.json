@@ -2748,6 +2748,60 @@
         "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490"
       ]
     },
+    "ashby:juicebox:1af7ec98-9c2e-4101-868e-58e6f35cd23a": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+      "canonical_id": "ashby:juicebox:1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+      "category": "Software Engineering",
+      "company": "Juicebox",
+      "first_seen": "2026-09-05T00:42:54Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-05T00:42:54Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern",
+      "posted": "2026-09-04",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+          "category": "Software Engineering",
+          "company": "Juicebox",
+          "first_seen": "2026-09-05T00:42:54Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-05T00:42:54Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern",
+          "posted": "2026-09-04",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "c5e88ed1-6bc3-4b46-b8b6-6a189b4869d9",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-05T00:30:15.240Z",
+            "id": "c5e88ed1-6bc3-4b46-b8b6-6a189b4869d9",
+            "listingUrl": "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+            "posted": "2026-09-04",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Juicebox&job=c5e88ed1-6bc3-4b46-b8b6-6a189b4869d9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Juicebox&job=c5e88ed1-6bc3-4b46-b8b6-6a189b4869d9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Juicebox&job=c5e88ed1-6bc3-4b46-b8b6-6a189b4869d9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a"
+      ]
+    },
     "ashby:julius:5e0b677a-f677-44de-93c6-f7848ab5a8e6": {
       "active": true,
       "age": "88d",
@@ -4494,6 +4548,53 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9"
+      ]
+    },
+    "ashby:rivianvw.tech:c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "ashby:rivianvw.tech:c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69",
+      "category": "Unknown",
+      "company": "Rivian and Volkswagen Group Technologies",
+      "first_seen": "2026-09-05T00:42:54Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-05T00:42:54Z",
+      "location": "Palo Alto, CA | Irvine, CA",
+      "position": "Software Engineering Intern - Applications - Infotainment & Mobile",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true&utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Rivian and Volkswagen Group Technologies",
+          "first_seen": "2026-09-05T00:42:54Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-05T00:42:54Z",
+          "location": "Palo Alto, CA | Irvine, CA",
+          "position": "Software Engineering Intern - Applications - Infotainment & Mobile",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "a2743d30-b180-4a83-8edf-a8092e35fd0f",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/a2743d30-b180-4a83-8edf-a8092e35fd0f?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/a2743d30-b180-4a83-8edf-a8092e35fd0f?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/a2743d30-b180-4a83-8edf-a8092e35fd0f?utm_source=GHList"
       ]
     },
     "ashby:rundoo:c1fa53ea-dadf-4dcf-a144-f71bda03c9fa": {
@@ -6788,6 +6889,60 @@
         "https://job-boards.greenhouse.io/hpiq/jobs/6176783004"
       ]
     },
+    "greenhouse:idmeuniversityrecruiting:7980382003": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+      "canonical_id": "greenhouse:idmeuniversityrecruiting:7980382003",
+      "category": "Unknown",
+      "company": "ID.me University Recruiting",
+      "first_seen": "2026-09-05T00:42:54Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-05T00:42:54Z",
+      "location": "Mountain View, CA",
+      "position": "Summer 2027- Software Development Engineer - New Grad",
+      "posted": "2026-09-04",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+          "category": "Unknown",
+          "company": "ID.me University Recruiting",
+          "first_seen": "2026-09-05T00:42:54Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-05T00:42:54Z",
+          "location": "Mountain View, CA",
+          "position": "Summer 2027- Software Development Engineer - New Grad",
+          "posted": "2026-09-04",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "668f9b14-c6f6-4307-bce7-7057313bfbc9",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-05T00:31:10.421Z",
+            "id": "668f9b14-c6f6-4307-bce7-7057313bfbc9",
+            "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+            "matchKind": "explicit",
+            "posted": "2026-09-04",
+            "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
+      ]
+    },
     "greenhouse:idmeuniversityrecruiting:7980429003": {
       "active": true,
       "age": "1d",
@@ -6798,25 +6953,25 @@
       "first_seen": "2026-09-04T20:29:30Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-04T20:29:30Z",
+      "last_seen": "2026-09-05T00:42:54Z",
       "location": "Mountain View, CA",
-      "position": "Summer Intern 2027 - Software Development Engineer",
+      "position": "Summer Intern 2027 - Software Development Engineer Intern",
       "posted": "2026-09-03",
       "salary": null,
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
           "active": true,
-          "age": "1d",
+          "age": "2d",
           "application_url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
           "category": "Software Engineering",
           "company": "ID.me University Recruiting",
           "first_seen": "2026-09-04T20:29:30Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-04T20:29:30Z",
+          "last_seen": "2026-09-05T00:42:54Z",
           "location": "Mountain View, CA",
-          "position": "Summer Intern 2027 - Software Development Engineer",
+          "position": "Summer Intern 2027 - Software Development Engineer Intern",
           "posted": "2026-09-03",
           "salary": null,
           "season": "Summer 2027",
@@ -6825,9 +6980,9 @@
           "source_job_id": "b8fe2310-3a80-44f8-8322-43dfc09a0b1c",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "1d",
+            "age": "2d",
             "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-04T20:15:37.510Z",
+            "feedUpdatedAt": "2026-09-05T00:30:15.240Z",
             "id": "b8fe2310-3a80-44f8-8322-43dfc09a0b1c",
             "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
             "posted": "2026-09-03",
@@ -6835,11 +6990,37 @@
             "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=b8fe2310-3a80-44f8-8322-43dfc09a0b1c&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=b8fe2310-3a80-44f8-8322-43dfc09a0b1c&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "ID.me",
+          "first_seen": "2026-09-05T00:42:54Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-05T00:42:54Z",
+          "location": "Mountain View, CA",
+          "position": "Software Development Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "48deab81-0a6d-4ccd-9930-4461d39615e6",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/48deab81-0a6d-4ccd-9930-4461d39615e6?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/48deab81-0a6d-4ccd-9930-4461d39615e6?utm_source=GHList"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=b8fe2310-3a80-44f8-8322-43dfc09a0b1c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003"
+        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
+        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/48deab81-0a6d-4ccd-9930-4461d39615e6?utm_source=GHList"
       ]
     },
     "greenhouse:ionq:6096581004": {
@@ -17398,6 +17579,53 @@
         "https://nuro.ai/careersitem?gh_jid=8122537"
       ]
     },
+    "url:https://paypal.eightfold.ai/careers/job/274922260559?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://paypal.eightfold.ai/careers/job/274922260559?ref=Simplify",
+      "category": "FAANG+",
+      "company": "PayPal",
+      "first_seen": "2026-09-05T00:42:54Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-05T00:42:54Z",
+      "location": "Austin, TX | San Jose, CA | Chicago, IL",
+      "position": "Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "PayPal",
+          "first_seen": "2026-09-05T00:42:54Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-05T00:42:54Z",
+          "location": "Austin, TX | San Jose, CA | Chicago, IL",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "30829caf-2d43-4e4c-aeb6-aa37a19f224b",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/30829caf-2d43-4e4c-aeb6-aa37a19f224b?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/30829caf-2d43-4e4c-aeb6-aa37a19f224b?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/30829caf-2d43-4e4c-aeb6-aa37a19f224b?utm_source=GHList"
+      ]
+    },
     "url:https://stripe.com/jobs/search?gh_jid=8128744": {
       "active": true,
       "age": "0d",
@@ -19080,6 +19308,114 @@
         "https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003"
       ]
     },
+    "url:https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "first_seen": "2026-09-05T00:42:54Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-05T00:42:54Z",
+      "location": "South San Francisco, CA",
+      "position": "Aircraft Software Integration Intern (Spring 2027)",
+      "posted": "2026-09-04",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "first_seen": "2026-09-05T00:42:54Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-05T00:42:54Z",
+          "location": "South San Francisco, CA",
+          "position": "Aircraft Software Integration Intern (Spring 2027)",
+          "posted": "2026-09-04",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7753f509-44f7-4102-a4d9-d9d1555b6d83",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-05T00:30:15.240Z",
+            "id": "7753f509-44f7-4102-a4d9-d9d1555b6d83",
+            "listingUrl": "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+            "posted": "2026-09-04",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=7753f509-44f7-4102-a4d9-d9d1555b6d83&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=7753f509-44f7-4102-a4d9-d9d1555b6d83&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=7753f509-44f7-4102-a4d9-d9d1555b6d83&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003"
+      ]
+    },
+    "url:https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+      "canonical_id": "url:https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+      "category": "Software Engineering",
+      "company": "Zipline",
+      "first_seen": "2026-09-05T00:42:54Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-05T00:42:54Z",
+      "location": "South San Francisco, CA",
+      "position": "Aircraft Software Integration Intern (Summer 2027)",
+      "posted": "2026-09-04",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+          "category": "Software Engineering",
+          "company": "Zipline",
+          "first_seen": "2026-09-05T00:42:54Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-05T00:42:54Z",
+          "location": "South San Francisco, CA",
+          "position": "Aircraft Software Integration Intern (Summer 2027)",
+          "posted": "2026-09-04",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "58f6c64a-461d-43ac-b68b-00dba0e386e0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-05T00:30:15.240Z",
+            "id": "58f6c64a-461d-43ac-b68b-00dba0e386e0",
+            "listingUrl": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+            "posted": "2026-09-04",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Zipline&job=58f6c64a-461d-43ac-b68b-00dba0e386e0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=58f6c64a-461d-43ac-b68b-00dba0e386e0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zipline&job=58f6c64a-461d-43ac-b68b-00dba0e386e0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003"
+      ]
+    },
     "url:https://www.zipline.com/open-roles?gh_jid=7765240003": {
       "active": false,
       "age": "71d",
@@ -20740,6 +21076,60 @@
       },
       "url_aliases": [
         "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759"
+      ]
+    },
+    "workday:globalfoundries.wd1.myworkdayjobs.com:software-engineer--cloud-platform--2027-new-college-graduate-_jr-2604056": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
+      "canonical_id": "workday:globalfoundries.wd1.myworkdayjobs.com:software-engineer--cloud-platform--2027-new-college-graduate-_jr-2604056",
+      "category": "Unknown",
+      "company": "Globalfoundries",
+      "first_seen": "2026-09-05T00:42:54Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-05T00:42:54Z",
+      "location": "Santa Clara, CA",
+      "position": "Software Engineer, Cloud Platform (2027 New College Graduate)",
+      "posted": "2026-09-04",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
+          "category": "Unknown",
+          "company": "Globalfoundries",
+          "first_seen": "2026-09-05T00:42:54Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-05T00:42:54Z",
+          "location": "Santa Clara, CA",
+          "position": "Software Engineer, Cloud Platform (2027 New College Graduate)",
+          "posted": "2026-09-04",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "54ede7e9-60a2-4d51-a64a-28b59c61797d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-05T00:31:10.421Z",
+            "id": "54ede7e9-60a2-4d51-a64a-28b59c61797d",
+            "listingUrl": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
+            "matchKind": "explicit",
+            "posted": "2026-09-04",
+            "url": "https://applyguy.ai/jobs?company=Globalfoundries&job=54ede7e9-60a2-4d51-a64a-28b59c61797d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Globalfoundries&job=54ede7e9-60a2-4d51-a64a-28b59c61797d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Globalfoundries&job=54ede7e9-60a2-4d51-a64a-28b59c61797d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056"
       ]
     },
     "workday:globalhr.wd5.myworkdayjobs.com:software-engineer-i--onsite-_01867385": {
@@ -23876,6 +24266,30 @@
         "https://www.ixl.com/company/jobs?gh_jid=8765770002"
       ],
       "status": "sent"
+    },
+    "b22528a1693301fa8bdb57e8b59ca7fdbeb6998a0ea0a7cda735c68275e3006a": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-05T00:42:54Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:juicebox:1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+        "ashby:rivianvw.tech:c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69",
+        "greenhouse:idmeuniversityrecruiting:7980382003",
+        "url:https://paypal.eightfold.ai/careers/job/274922260559?ref=Simplify",
+        "url:https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+        "url:https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+        "workday:globalfoundries.wd1.myworkdayjobs.com:software-engineer--cloud-platform--2027-new-college-graduate-_jr-2604056"
+      ],
+      "job_urls": [
+        "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
+        "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+        "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+        "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true&utm_source=Simplify&ref=Simplify",
+        "https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify",
+        "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+        "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003"
+      ],
+      "status": "pending"
     },
     "b2fb2626e5e5078b18bb5876224150caa1186d1c4cf74561ae45a89694565530": {
       "application_scan_eligible": true,

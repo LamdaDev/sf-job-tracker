@@ -4,12 +4,19 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (330)
+## Active Jobs (337)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Globalfoundries | Software Engineer, Cloud Platform (2027 New College Graduate) | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056>) |
+| ID.me University Recruiting | Summer 2027- Software Development Engineer - New Grad | New Grad | Unknown | Mountain View, CA | ApplyGuy | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003>) |
+| Juicebox | Software Engineer Intern | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a>) |
+| PayPal | Software Engineer Intern | Internship | FAANG+ | Austin, TX \| San Jose, CA \| Chicago, IL | Simplify | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify>) |
+| Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications - Infotainment & Mobile | Internship | Unknown | Palo Alto, CA \| Irvine, CA | Simplify | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true&utm_source=Simplify&ref=Simplify>) |
+| Zipline | Aircraft Software Integration Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003>) |
+| Zipline | Aircraft Software Integration Intern (Summer 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003>) |
 | Nokia | AI Agent Development Co-op 🎓 | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-09-04T22:52:15Z | 2026-09-04T22:52:15Z | Yes | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify>) |
-| ID.me University Recruiting | Summer Intern 2027 - Software Development Engineer | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-04T20:29:30Z | 2026-09-04T20:29:30Z | Yes | [Apply](<https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003>) |
+| ID.me University Recruiting | Summer Intern 2027 - Software Development Engineer Intern | Internship | Software Engineering | Mountain View, CA | ApplyGuy, Simplify | N/A | 2026-09-04T20:29:30Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003>) |
 | Scale AI | Software Engineer - New Grad | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-09-04T20:29:30Z | 2026-09-04T20:29:30Z | Yes | [Apply](<https://job-boards.greenhouse.io/scaleai/jobs/4730836005>) |
 | Scale AI | Software Engineering Intern (Summer 2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-04T20:29:30Z | 2026-09-04T20:29:30Z | Yes | [Apply](<https://job-boards.greenhouse.io/scaleai/jobs/4730845005>) |
 | Analytical Mechanics Associates | Software Engineer | New Grad | Other | Mountain View, CA | SpeedyApply | N/A | 2026-09-04T17:27:22Z | 2026-09-04T17:27:22Z | Yes | [Apply](<https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728>) |
