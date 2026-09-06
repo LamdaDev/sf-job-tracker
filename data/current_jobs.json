@@ -411,6 +411,42 @@
         "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace"
       ]
     },
+    "ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba": {
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
+      "canonical_id": "ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
+      "category": "Other",
+      "company": "AiPrise",
+      "job_type": "New Grad",
+      "location": "San Jose, CA",
+      "position": "Software Engineer I",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
+          "category": "Other",
+          "company": "AiPrise",
+          "job_type": "New Grad",
+          "location": "San Jose, CA",
+          "position": "Software Engineer I",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba"
+      ]
+    },
     "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c": {
       "age": "10d",
       "application_url": "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c",
@@ -6095,42 +6131,6 @@
       },
       "url_aliases": [
         "https://jobs.lever.co/zoox/46c23963-2be1-4037-8f1a-ce87bdccde6d"
-      ]
-    },
-    "lever:zoox:d48270e1-81e0-4f04-ab9e-d1fc25313f76": {
-      "age": "100d",
-      "application_url": "https://jobs.lever.co/zoox/d48270e1-81e0-4f04-ab9e-d1fc25313f76",
-      "canonical_id": "lever:zoox:d48270e1-81e0-4f04-ab9e-d1fc25313f76",
-      "category": "Other",
-      "company": "Zoox",
-      "job_type": "New Grad",
-      "location": "Foster City, CA",
-      "position": "Software Engineer - Android",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "100d",
-          "application_url": "https://jobs.lever.co/zoox/d48270e1-81e0-4f04-ab9e-d1fc25313f76",
-          "category": "Other",
-          "company": "Zoox",
-          "job_type": "New Grad",
-          "location": "Foster City, CA",
-          "position": "Software Engineer - Android",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.lever.co/zoox/d48270e1-81e0-4f04-ab9e-d1fc25313f76"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.lever.co/zoox/d48270e1-81e0-4f04-ab9e-d1fc25313f76"
       ]
     },
     "lever:zoox:ea3fbfaf-588b-434a-9a5a-c61edc731a40": {

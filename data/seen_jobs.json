@@ -650,6 +650,50 @@
         "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace"
       ]
     },
+    "ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
+      "canonical_id": "ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
+      "category": "Other",
+      "company": "AiPrise",
+      "first_seen": "2026-09-06T17:33:11Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-06T17:33:11Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer I",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
+          "category": "Other",
+          "company": "AiPrise",
+          "first_seen": "2026-09-06T17:33:11Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-06T17:33:11Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer I",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba"
+      ]
+    },
     "ashby:applied:0695a5b7-6823-4da5-b918-3b580d49662c": {
       "active": true,
       "age": "10d",
@@ -9585,14 +9629,14 @@
       ]
     },
     "lever:zoox:d48270e1-81e0-4f04-ab9e-d1fc25313f76": {
-      "active": true,
+      "active": false,
       "age": "100d",
       "application_url": "https://jobs.lever.co/zoox/d48270e1-81e0-4f04-ab9e-d1fc25313f76",
       "canonical_id": "lever:zoox:d48270e1-81e0-4f04-ab9e-d1fc25313f76",
       "category": "Other",
       "company": "Zoox",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-06T17:33:11Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Foster City, CA",
@@ -9602,13 +9646,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "100d",
           "application_url": "https://jobs.lever.co/zoox/d48270e1-81e0-4f04-ab9e-d1fc25313f76",
           "category": "Other",
           "company": "Zoox",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-06T17:33:11Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Foster City, CA",
@@ -24948,6 +24992,18 @@
         "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513"
       ],
       "status": "sent"
+    },
+    "e8751e63ec9a07e6f4b6caa3249743799e50c2189fcd395b099e1ce734a67c07": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-06T17:33:11Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba"
+      ],
+      "job_urls": [
+        "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba"
+      ],
+      "status": "pending"
     },
     "e96bebbde5168f7a118577e2ac17eb2fbfcb7d26e27fe4f4e419306e365bfbc1": {
       "application_scan_eligible": true,

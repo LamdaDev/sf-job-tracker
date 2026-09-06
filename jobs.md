@@ -8,6 +8,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| AiPrise | Software Engineer I | New Grad | Other | San Jose, CA | SpeedyApply | N/A | 2026-09-06T17:33:11Z | 2026-09-06T17:33:11Z | Yes | [Apply](<https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba>) |
 | PayPal | Software Engineer - Recent Graduate | New Grad | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-05T16:38:32Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237>) |
 | PayPal | Software Engineer Intern | Internship | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-05T16:38:32Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285>) |
 | Marvell | Firmware Engineer Intern - BS - Summer 2027 | Internship | Other | Santa Clara, CA +1 | ApplyGuy, SpeedyApply | N/A | 2026-09-05T05:23:27Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461>) |
@@ -297,7 +298,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | WeRide.ai | New Grads 2027 - Software Engineer - Perception/Computer Vision | New Grad | Other | San Jose, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7>) |
 | WindBorne Systems | Firmware Intern | Internship | Other | Palo Alto, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b>) |
 | Zoox | Embedded Software Engineer - Body Systems | New Grad | Other | Foster City, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.lever.co/zoox/46c23963-2be1-4037-8f1a-ce87bdccde6d>) |
-| Zoox | Software Engineer - Android | New Grad | Other | Foster City, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.lever.co/zoox/d48270e1-81e0-4f04-ab9e-d1fc25313f76>) |
 | Abridge | Software Engineer - Early Career | New Grad | Other | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-28T23:55:15Z | Yes | [Apply](<https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace>) |
 | Abridge | Software Engineer - Intern | Internship | Software Engineering | San Francisco, CA +1 | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-28T23:55:15Z | Yes | [Apply](<https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883>) |
 | Amazon | Software Engineer I - Discovery | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $186k/yr | 2026-08-17T05:05:43Z | 2026-08-24T09:51:35Z | Yes | [Apply](<https://www.amazon.jobs/jobs/10468973/apply>) |
@@ -348,7 +348,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (98)
+## Historical / Closed or Removed Jobs (99)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -425,6 +425,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | SpaceX | New Graduate Engineer - Software - '26/'27 - Starlink | New Grad | Other | Palo Alto, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002>) |
 | Thales | Software Development Engineer in Test | New Grad | Other | San Jose, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://thales.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose/Software-Development-Engineer-in-Test_R0328540-1>) |
 | Verkada | Frontend Engineer - Access Control | New Grad | Other | San Mateo, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5195281007>) |
+| Zoox | Software Engineer - Android | New Grad | Other | Foster City, CA | SpeedyApply | N/A | 2026-08-17T07:00:52Z | 2026-08-17T17:45:31Z | No | [Apply](<https://jobs.lever.co/zoox/d48270e1-81e0-4f04-ab9e-d1fc25313f76>) |
 | Amazon | Software Engineer - Memberships | New Grad | FAANG+ | San Francisco, CA | SpeedyApply | $186k/yr | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://www.amazon.jobs/jobs/10457717/apply>) |
 | Astranis Space Technologies | Flight Software Associate - Fall 2026 | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://job-boards.greenhouse.io/astranis/jobs/4619289006>) |
 | Astranis Space Technologies | Flight Software Intern - Fall 2026 | Internship | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://job-boards.greenhouse.io/astranis/jobs/4619283006>) |
