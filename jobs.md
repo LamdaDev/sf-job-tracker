@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (340)
+## Active Jobs (339)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -12,7 +12,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | PayPal | Software Engineer Intern | Internship | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-05T16:38:32Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285>) |
 | Marvell | Firmware Engineer Intern - BS - Summer 2027 | Internship | Other | Santa Clara, CA +1 | ApplyGuy, SpeedyApply | N/A | 2026-09-05T05:23:27Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461>) |
 | Marvell | Firmware Engineer Intern - MS - Summer 2027 | Internship | Other | Santa Clara, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-05T05:23:27Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513>) |
-| Globalfoundries | Software Engineer, Cloud Platform (2027 New College Graduate) | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056>) |
 | ID.me University Recruiting | Summer 2027- Software Development Engineer - New Grad | New Grad | Unknown | Mountain View, CA | ApplyGuy | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003>) |
 | Juicebox | Software Engineer Intern | Internship | Other | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-05T00:42:54Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a>) |
 | PayPal | Software Engineer Intern | Internship | FAANG+ | Austin, TX \| San Jose, CA \| Chicago, IL | Simplify | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | Yes | [Apply](<https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify>) |
@@ -349,10 +348,11 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (97)
+## Historical / Closed or Removed Jobs (98)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Globalfoundries | Software Engineer, Cloud Platform (2027 New College Graduate) | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | No | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056>) |
 | ByteDance | Research Scientist Intern 🎓 | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | No | [Apply](<https://jobs.bytedance.com/en/position/7668590365398993205/detail?utm_source=Simplify&ref=Simplify>) |
 | Applied Materials | Algorithm Developer I New College Grad- Bachelor's - Santa Clara - CA | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-09-02T17:43:18Z | 2026-09-02T17:43:18Z | No | [Apply](<https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605>) |
 | HP IQ | Software Engineer - Tooling and Development Infrastructure | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-30T19:09:14Z | 2026-08-30T19:09:14Z | No | [Apply](<https://job-boards.greenhouse.io/hpiq/jobs/6173700004>) |
