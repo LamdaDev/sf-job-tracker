@@ -4837,13 +4837,44 @@
       "first_seen": "2026-09-01T17:42:25Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-09-01T17:42:25Z",
+      "last_seen": "2026-09-06T14:01:17Z",
       "location": "San Francisco, CA +1",
       "position": "Software Engineer - Agent - New Grad 2027",
-      "posted": null,
+      "posted": "2026-08-31",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "6d",
+          "application_url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+          "category": "Unknown",
+          "company": "Sierra",
+          "first_seen": "2026-09-06T14:01:17Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-06T14:01:17Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, Agent (New Grad 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "a380b713-d31f-4984-9963-e6d340c41b24",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "6d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-06T14:01:07.332Z",
+            "id": "a380b713-d31f-4984-9963-e6d340c41b24",
+            "listingUrl": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+            "matchKind": "explicit",
+            "posted": "2026-08-31",
+            "url": "https://applyguy.ai/jobs?company=Sierra&job=a380b713-d31f-4984-9963-e6d340c41b24&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Sierra&job=a380b713-d31f-4984-9963-e6d340c41b24&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "active": true,
           "age": "0d",
@@ -4868,6 +4899,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Sierra&job=a380b713-d31f-4984-9963-e6d340c41b24&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00"
       ]
     },
