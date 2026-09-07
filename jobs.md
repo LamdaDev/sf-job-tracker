@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (338)
+## Active Jobs (339)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -46,6 +46,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Zipline | Software Systems Validation Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-03T13:22:45Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003>) |
 | Zipline | Software Systems Validation Intern (Summer 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | Yes | [Apply](<https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003>) |
 | Cisco | Machine Learning Engineer II (Intern) - United States | Internship | Software Engineering | San Francisco California | ApplyGuy | N/A | 2026-09-03T08:42:44Z | 2026-09-03T08:42:44Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683>) |
+| Intel | Software Engineer Intern | Internship | Unknown | Austin, TX \| Santa Clara, CA \| Hillsboro, OR \| Folsom, CA \| Phoenix, AZ | Simplify | N/A | 2026-09-03T08:42:44Z | 2026-09-07T17:38:07Z | Yes | [Apply](<https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify>) |
 | Intel | Software Engineer Intern 🎓 | Internship | FAANG+ | Austin, TX \| Santa Clara, CA \| Hillsboro, OR \| Folsom, CA \| Phoenix, AZ | Simplify | N/A | 2026-09-03T08:42:44Z | 2026-09-03T08:42:44Z | Yes | [Apply](<https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836?utm_source=Simplify&ref=Simplify>) |
 | Kikoff | Software Engineer - Recent Grad | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-09-03T08:42:44Z | 2026-09-03T08:42:44Z | Yes | [Apply](<https://job-boards.greenhouse.io/kikoff/jobs/4393822009>) |
 | KLA | Software Engineer | New Grad | Other | Milpitas, CA | SpeedyApply | N/A | 2026-09-02T17:43:18Z | 2026-09-02T17:43:18Z | Yes | [Apply](<https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640196>) |
@@ -347,13 +348,12 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (100)
+## Historical / Closed or Removed Jobs (99)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Globalfoundries | Software Engineer, Cloud Platform (2027 New College Graduate) | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | No | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056>) |
 | ByteDance | Research Scientist Intern 🎓 | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | No | [Apply](<https://jobs.bytedance.com/en/position/7668590365398993205/detail?utm_source=Simplify&ref=Simplify>) |
-| Intel | Software Engineer Intern | Internship | Unknown | Austin, TX \| Santa Clara, CA \| Hillsboro, OR \| Folsom, CA \| Phoenix, AZ | Simplify | N/A | 2026-09-03T08:42:44Z | 2026-09-03T17:39:07Z | No | [Apply](<https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify>) |
 | Applied Materials | Algorithm Developer I New College Grad- Bachelor's - Santa Clara - CA | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-09-02T17:43:18Z | 2026-09-02T17:43:18Z | No | [Apply](<https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605>) |
 | HP IQ | Software Engineer - Tooling and Development Infrastructure | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-30T19:09:14Z | 2026-08-30T19:09:14Z | No | [Apply](<https://job-boards.greenhouse.io/hpiq/jobs/6173700004>) |
 | Intuit | Software Engineer Intern - Full Stack | Internship | Unknown | Charlotte, NC \| NYC \| Mountain View, CA \| Atlanta, GA \| San Diego, CA | Simplify | N/A | 2026-08-29T06:18:28Z | 2026-08-29T06:18:28Z | No | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify>) |
