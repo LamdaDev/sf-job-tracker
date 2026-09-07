@@ -2656,33 +2656,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "39d",
-          "application_url": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d",
-          "category": "Unknown",
-          "company": "Pylon",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer, New Grad",
-          "posted": "2026-07-09",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "a7f5de79-436d-48ed-9a23-667595b8af52",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "39d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "a7f5de79-436d-48ed-9a23-667595b8af52",
-            "listingUrl": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d",
-            "matchKind": "explicit",
-            "posted": "2026-07-09",
-            "url": "https://applyguy.ai/jobs?company=Pylon&job=a7f5de79-436d-48ed-9a23-667595b8af52&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Pylon&job=a7f5de79-436d-48ed-9a23-667595b8af52&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "38d",
           "application_url": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d",
