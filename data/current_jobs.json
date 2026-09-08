@@ -6431,7 +6431,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -6626,7 +6626,7 @@
         "simplify_summer_2027": {
           "age": "24d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -12265,45 +12265,6 @@
       },
       "url_aliases": [
         "https://nuro.ai/careersitem?gh_jid=8122537"
-      ]
-    },
-    "url:https://paypal.eightfold.ai/careers/job/274922260559?ref=Simplify": {
-      "age": "0d",
-      "application_url": "https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify",
-      "canonical_id": "url:https://paypal.eightfold.ai/careers/job/274922260559?ref=Simplify",
-      "category": "FAANG+",
-      "company": "PayPal",
-      "job_type": "Internship",
-      "location": "Austin, TX | San Jose, CA | Chicago, IL",
-      "position": "Software Engineer Intern",
-      "posted": null,
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "simplify_summer_2027": {
-          "age": "0d",
-          "application_url": "https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
-          "company": "PayPal",
-          "job_type": "Internship",
-          "location": "Austin, TX | San Jose, CA | Chicago, IL",
-          "position": "Software Engineer Intern",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "30829caf-2d43-4e4c-aeb6-aa37a19f224b",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/30829caf-2d43-4e4c-aeb6-aa37a19f224b?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/30829caf-2d43-4e4c-aeb6-aa37a19f224b?utm_source=GHList"
-        }
-      },
-      "url_aliases": [
-        "https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify",
-        "https://simplify.jobs/p/30829caf-2d43-4e4c-aeb6-aa37a19f224b?utm_source=GHList"
       ]
     },
     "url:https://stripe.com/jobs/search?gh_jid=8128744": {
