@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (346)
+## Active Jobs (347)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Trimble | Software Engineer Intern | Internship | Unknown | Dayton, OH \| Knoxville, TN \| Portsmouth, NH \| Princeton, NJ \| Lake Oswego, OR \| Westminster, CO \| Sunnyvale, CA \| Atlanta, GA | Simplify | N/A | 2026-09-08T23:55:57Z | 2026-09-08T23:55:57Z | Yes | [Apply](<https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify>) |
 | Gallup | Site Reliability Engineer Intern — Summer 2027 | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-08T21:41:13Z | 2026-09-08T21:41:13Z | Yes | [Apply](<https://job-boards.greenhouse.io/gallup/jobs/4393731009>) |
 | Gallup | Software Engineer Intern — Summer 2027 | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-08T21:41:13Z | 2026-09-08T21:41:13Z | Yes | [Apply](<https://job-boards.greenhouse.io/gallup/jobs/4395897009>) |
 | Semgrep | Software Engineer Intern, Cloud Platform | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-08T21:41:13Z | 2026-09-08T21:41:13Z | Yes | [Apply](<https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987>) |

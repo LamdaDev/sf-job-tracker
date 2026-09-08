@@ -24740,6 +24740,53 @@
       "url_aliases": [
         "https://tjx.wd1.myworkdayjobs.com/en-US/tjx_external/job/Concord-CA-94523/Front-End_REQ148129"
       ]
+    },
+    "workday:trimble.wd1.myworkdayjobs.com:software-engineering-intern_r57676": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:trimble.wd1.myworkdayjobs.com:software-engineering-intern_r57676",
+      "category": "Unknown",
+      "company": "Trimble",
+      "first_seen": "2026-09-08T23:55:57Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-08T23:55:57Z",
+      "location": "Dayton, OH | Knoxville, TN | Portsmouth, NH | Princeton, NJ | Lake Oswego, OR | Westminster, CO | Sunnyvale, CA | Atlanta, GA",
+      "position": "Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Trimble",
+          "first_seen": "2026-09-08T23:55:57Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-08T23:55:57Z",
+          "location": "Dayton, OH | Knoxville, TN | Portsmouth, NH | Princeton, NJ | Lake Oswego, OR | Westminster, CO | Sunnyvale, CA | Atlanta, GA",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "ca3d442d-982e-4251-b443-6e607ffd2504",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/ca3d442d-982e-4251-b443-6e607ffd2504?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/ca3d442d-982e-4251-b443-6e607ffd2504?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/ca3d442d-982e-4251-b443-6e607ffd2504?utm_source=GHList",
+        "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify"
+      ]
     }
   },
   "location_scope_version": "sf-bay-area-roughly-one-hour-v1",
@@ -24968,6 +25015,18 @@
         "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987"
       ],
       "status": "sent"
+    },
+    "411f01d0e8f8de0e617fbf1835d788aeefb75a63831593fdf2002d4590bac606": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-08T23:55:57Z",
+      "issue_number": null,
+      "job_ids": [
+        "workday:trimble.wd1.myworkdayjobs.com:software-engineering-intern_r57676"
+      ],
+      "job_urls": [
+        "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "46752b60e806bce4e18d5f27afa98ae2fae688678fd2423afc7b642bc8c1add5": {
       "application_scan_eligible": true,

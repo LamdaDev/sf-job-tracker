@@ -15743,6 +15743,45 @@
       "url_aliases": [
         "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019"
       ]
+    },
+    "workday:trimble.wd1.myworkdayjobs.com:software-engineering-intern_r57676": {
+      "age": "0d",
+      "application_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:trimble.wd1.myworkdayjobs.com:software-engineering-intern_r57676",
+      "category": "Unknown",
+      "company": "Trimble",
+      "job_type": "Internship",
+      "location": "Dayton, OH | Knoxville, TN | Portsmouth, NH | Princeton, NJ | Lake Oswego, OR | Westminster, CO | Sunnyvale, CA | Atlanta, GA",
+      "position": "Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Trimble",
+          "job_type": "Internship",
+          "location": "Dayton, OH | Knoxville, TN | Portsmouth, NH | Princeton, NJ | Lake Oswego, OR | Westminster, CO | Sunnyvale, CA | Atlanta, GA",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "ca3d442d-982e-4251-b443-6e607ffd2504",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/ca3d442d-982e-4251-b443-6e607ffd2504?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/ca3d442d-982e-4251-b443-6e607ffd2504?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/ca3d442d-982e-4251-b443-6e607ffd2504?utm_source=GHList",
+        "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify"
+      ]
     }
   },
   "schema_version": 2
