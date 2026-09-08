@@ -10626,6 +10626,48 @@
       "scanned_at": "2026-09-04T08:38:12Z",
       "status": "unavailable"
     },
+    "workday:capitalone.wd12.myworkdayjobs.com:current-master-s--ai-engineering-internship-program---summer-2027_r249109-1": {
+      "application_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:capitalone.wd12.myworkdayjobs.com:current-master-s--ai-engineering-internship-program---summer-2027_r249109-1",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-08T18:32:31Z",
+      "http_status": 200,
+      "issue_number": 69,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-08T18:32:31Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-08T18:32:31Z",
+      "status": "unavailable"
+    },
+    "workday:capitalone.wd12.myworkdayjobs.com:current-phd--ai-engineering-internship-program---summer-2027_r249110-1": {
+      "application_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:capitalone.wd12.myworkdayjobs.com:current-phd--ai-engineering-internship-program---summer-2027_r249110-1",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-08T18:32:34Z",
+      "http_status": 200,
+      "issue_number": 69,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-08T18:32:34Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-08T18:32:34Z",
+      "status": "unavailable"
+    },
     "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683": {
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683",
       "attempt_count": 1,

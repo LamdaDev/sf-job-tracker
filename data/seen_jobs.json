@@ -1439,14 +1439,14 @@
       ]
     },
     "ashby:clera:431bb19f-3118-4184-9fc9-65179adbb139": {
-      "active": true,
+      "active": false,
       "age": "0d",
       "application_url": "https://jobs.ashbyhq.com/clera/431bb19f-3118-4184-9fc9-65179adbb139",
       "canonical_id": "ashby:clera:431bb19f-3118-4184-9fc9-65179adbb139",
       "category": "Other",
       "company": "Clera",
       "first_seen": "2026-09-01T17:42:25Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-08T18:32:27Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-01T17:42:25Z",
       "location": "San Francisco, CA",
@@ -1456,13 +1456,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "0d",
           "application_url": "https://jobs.ashbyhq.com/clera/431bb19f-3118-4184-9fc9-65179adbb139",
           "category": "Other",
           "company": "Clera",
           "first_seen": "2026-09-01T17:42:25Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-08T18:32:27Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-01T17:42:25Z",
           "location": "San Francisco, CA",
@@ -21077,6 +21077,100 @@
         "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258"
       ]
     },
+    "workday:capitalone.wd12.myworkdayjobs.com:current-master-s--ai-engineering-internship-program---summer-2027_r249109-1": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:capitalone.wd12.myworkdayjobs.com:current-master-s--ai-engineering-internship-program---summer-2027_r249109-1",
+      "category": "Unknown",
+      "company": "Capital One",
+      "first_seen": "2026-09-08T18:32:27Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-08T18:32:27Z",
+      "location": "San Jose, CA | McLean, VA | NYC",
+      "position": "AI Engineer Intern 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Capital One",
+          "first_seen": "2026-09-08T18:32:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-08T18:32:27Z",
+          "location": "San Jose, CA | McLean, VA | NYC",
+          "position": "AI Engineer Intern 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "4ba115ac-a103-4581-a244-f76fc0921727",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/4ba115ac-a103-4581-a244-f76fc0921727?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/4ba115ac-a103-4581-a244-f76fc0921727?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/4ba115ac-a103-4581-a244-f76fc0921727?utm_source=GHList"
+      ]
+    },
+    "workday:capitalone.wd12.myworkdayjobs.com:current-phd--ai-engineering-internship-program---summer-2027_r249110-1": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:capitalone.wd12.myworkdayjobs.com:current-phd--ai-engineering-internship-program---summer-2027_r249110-1",
+      "category": "Unknown",
+      "company": "Capital One",
+      "first_seen": "2026-09-08T18:32:27Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-08T18:32:27Z",
+      "location": "San Jose, CA | McLean, VA | NYC",
+      "position": "AI Engineering Intern 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Capital One",
+          "first_seen": "2026-09-08T18:32:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-08T18:32:27Z",
+          "location": "San Jose, CA | McLean, VA | NYC",
+          "position": "AI Engineering Intern 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "fb049a47-cda8-435c-9a40-8bc357652e68",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/fb049a47-cda8-435c-9a40-8bc357652e68?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/fb049a47-cda8-435c-9a40-8bc357652e68?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/fb049a47-cda8-435c-9a40-8bc357652e68?utm_source=GHList"
+      ]
+    },
     "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683": {
       "active": true,
       "age": "Today",
@@ -21353,14 +21447,14 @@
     "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772": {
       "active": true,
       "age": "Today",
-      "application_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
+      "application_url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
       "canonical_id": "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772",
-      "category": "Software Engineering",
-      "company": "Gilead",
+      "category": "Other",
+      "company": "Gilead Sciences",
       "first_seen": "2026-09-08T14:59:27Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-08T14:59:27Z",
+      "last_seen": "2026-09-08T18:32:27Z",
       "location": "Foster City, CA",
       "position": "Intern - Development - DevOps Business Strategy Leader",
       "posted": "2026-09-08",
@@ -21397,10 +21491,33 @@
             "url": "https://applyguy.ai/jobs?company=Gilead&job=4d9bee27-c555-419a-9d32-183ff64c0c9b&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Gilead&job=4d9bee27-c555-419a-9d32-183ff64c0c9b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
+          "category": "Other",
+          "company": "Gilead Sciences",
+          "first_seen": "2026-09-08T18:32:27Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-08T18:32:27Z",
+          "location": "Foster City, CA",
+          "position": "Intern - Development - DevOps Business Strategy Leader",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Gilead&job=4d9bee27-c555-419a-9d32-183ff64c0c9b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
         "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772"
       ]
     },
@@ -24477,6 +24594,20 @@
       ],
       "job_urls": [
         "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "sent"
+    },
+    "354b58eda18bc1be8d7d3fdb2802973ea373d1b664e6f8774496da73d564b166": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-08T18:32:27Z",
+      "issue_number": 69,
+      "job_ids": [
+        "workday:capitalone.wd12.myworkdayjobs.com:current-master-s--ai-engineering-internship-program---summer-2027_r249109-1",
+        "workday:capitalone.wd12.myworkdayjobs.com:current-phd--ai-engineering-internship-program---summer-2027_r249110-1"
+      ],
+      "job_urls": [
+        "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify",
+        "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify"
       ],
       "status": "sent"
     },
