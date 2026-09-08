@@ -14719,6 +14719,27 @@
       "questions": [],
       "scanned_at": "2026-08-21T13:49:30Z",
       "status": "unavailable"
+    },
+    "workday:trimble.wd1.myworkdayjobs.com:software-engineering-intern_r57676": {
+      "application_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:trimble.wd1.myworkdayjobs.com:software-engineering-intern_r57676",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-08T23:56:01Z",
+      "http_status": 200,
+      "issue_number": 71,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-08T23:56:01Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-08T23:56:01Z",
+      "status": "unavailable"
     }
   },
   "schema_version": 1
