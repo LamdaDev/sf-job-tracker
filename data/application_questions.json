@@ -9662,6 +9662,27 @@
       "scanned_at": "2026-08-20T03:54:24Z",
       "status": "unavailable"
     },
+    "url:https://nexthopai.bamboohr.com/careers/107": {
+      "application_url": "https://nexthopai.bamboohr.com/careers/107",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://nexthopai.bamboohr.com/careers/107",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-08T14:59:31Z",
+      "http_status": 200,
+      "issue_number": 68,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-08T14:59:31Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-08T14:59:31Z",
+      "status": "unavailable"
+    },
     "url:https://paypal.eightfold.ai/careers/job/274922260559?ref=Simplify": {
       "application_url": "https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -10666,6 +10687,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-18T13:44:43Z",
+      "status": "unavailable"
+    },
+    "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772": {
+      "application_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-08T14:59:33Z",
+      "http_status": 200,
+      "issue_number": 68,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-08T14:59:33Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-08T14:59:33Z",
       "status": "unavailable"
     },
     "workday:globalfoundries.wd1.myworkdayjobs.com:software-engineer--cloud-platform--2027-new-college-graduate-_jr-2604056": {

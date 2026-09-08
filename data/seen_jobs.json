@@ -24402,7 +24402,7 @@
     "128d9c49bf5b229a8d4ac149ab1eafcb1da67c3bda2b67b65c482084579161d3": {
       "application_scan_eligible": true,
       "created_at": "2026-09-08T14:59:27Z",
-      "issue_number": null,
+      "issue_number": 68,
       "job_ids": [
         "url:https://nexthopai.bamboohr.com/careers/107",
         "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772"
@@ -24411,7 +24411,7 @@
         "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
         "https://nexthopai.bamboohr.com/careers/107"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "1396521b4dbd8f64bba77717321f39b420956d85b7a76851dbcc4272f9d2f6b7": {
       "application_scan_eligible": true,
