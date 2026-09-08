@@ -4,11 +4,13 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (339)
+## Active Jobs (340)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Gilead | Intern - Development - DevOps Business Strategy Leader | Internship | Software Engineering | Foster City, CA | ApplyGuy | N/A | 2026-09-08T14:59:27Z | 2026-09-08T14:59:27Z | Yes | [Apply](<https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772>) |
+| Capital One | AI Engineer Intern 🎓 | Internship | Unknown | San Jose, CA \| McLean, VA \| NYC | Simplify | N/A | 2026-09-08T18:32:27Z | 2026-09-08T18:32:27Z | Yes | [Apply](<https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify>) |
+| Capital One | AI Engineering Intern 🎓 | Internship | Unknown | San Jose, CA \| McLean, VA \| NYC | Simplify | N/A | 2026-09-08T18:32:27Z | 2026-09-08T18:32:27Z | Yes | [Apply](<https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify>) |
+| Gilead Sciences | Intern - Development - DevOps Business Strategy Leader | Internship | Other | Foster City, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-08T14:59:27Z | 2026-09-08T18:32:27Z | Yes | [Apply](<https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772>) |
 | Nexthopai | Software Engineer - Hardware Diagnostics - New Grad | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-09-08T14:59:27Z | 2026-09-08T14:59:27Z | Yes | [Apply](<https://nexthopai.bamboohr.com/careers/107>) |
 | AiPrise | Software Engineer I | New Grad | Other | San Jose, CA | SpeedyApply | N/A | 2026-09-06T17:33:11Z | 2026-09-06T17:33:11Z | Yes | [Apply](<https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba>) |
 | PayPal | Software Engineer - Recent Graduate | New Grad | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-05T16:38:32Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237>) |
@@ -64,7 +66,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | AMD | Compiler Engineer Intern/Co-op 🎓 | Internship | Unknown | San Jose, CA \| Santa Clara, CA | Simplify | N/A | 2026-09-01T17:42:25Z | 2026-09-01T17:42:25Z | Yes | [Apply](<https://careers.amd.com/jobs/91866?icims=1&utm_source=Simplify&ref=Simplify>) |
 | ByteDance | Software Engineer Intern - Relational Database | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-09-01T17:42:25Z | 2026-09-01T17:42:25Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7678449088065997109/detail?utm_source=Simplify&ref=Simplify>) |
 | C3 AI | Software Engineer - Intern - Summer 2027 | Internship | Other | Redwood City, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-01T17:42:25Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://c3.ai/job-description/8739037002?gh_jid=8739037002>) |
-| Clera | Software Engineer - AI & Data Systems | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-09-01T17:42:25Z | 2026-09-01T17:42:25Z | Yes | [Apply](<https://jobs.ashbyhq.com/clera/431bb19f-3118-4184-9fc9-65179adbb139>) |
 | Everlaw | Software Engineer I | New Grad | Other | Oakland, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-01T17:42:25Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/everlaw/jobs/4705236006>) |
 | Google | Software Engineer | New Grad | FAANG+ | Mountain View, CA | SpeedyApply | $196k/yr | 2026-09-01T17:42:25Z | 2026-09-01T17:42:25Z | Yes | [Apply](<https://www.google.com/about/careers/applications/jobs/results/106684387621249734>) |
 | Google | Software Engineering Intern - BS - Summer 2027 | Internship | FAANG+ | Mountain View, CA +30 | SpeedyApply | $63/hr | 2026-09-01T17:42:25Z | 2026-09-01T17:42:25Z | Yes | [Apply](<https://www.google.com/about/careers/applications/jobs/results/100648618540573382>) |
@@ -348,7 +349,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (101)
+## Historical / Closed or Removed Jobs (102)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -356,6 +357,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | PayPal | Software Engineer Intern | Internship | FAANG+ | Austin, TX \| San Jose, CA \| Chicago, IL | Simplify | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | No | [Apply](<https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify>) |
 | ByteDance | Research Scientist Intern 🎓 | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | No | [Apply](<https://jobs.bytedance.com/en/position/7668590365398993205/detail?utm_source=Simplify&ref=Simplify>) |
 | Applied Materials | Algorithm Developer I New College Grad- Bachelor's - Santa Clara - CA | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-09-02T17:43:18Z | 2026-09-02T17:43:18Z | No | [Apply](<https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605>) |
+| Clera | Software Engineer - AI & Data Systems | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-09-01T17:42:25Z | 2026-09-01T17:42:25Z | No | [Apply](<https://jobs.ashbyhq.com/clera/431bb19f-3118-4184-9fc9-65179adbb139>) |
 | Microsoft | Software Engineer Intern - AI and ML Projects | Internship | Unknown | Mountain View, CA | Simplify | N/A | 2026-09-01T17:42:25Z | 2026-09-01T17:42:25Z | No | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556972687?utm_source=Simplify&ref=Simplify>) |
 | HP IQ | Software Engineer - Tooling and Development Infrastructure | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-30T19:09:14Z | 2026-08-30T19:09:14Z | No | [Apply](<https://job-boards.greenhouse.io/hpiq/jobs/6173700004>) |
 | Intuit | Software Engineer Intern - Full Stack | Internship | Unknown | Charlotte, NC \| NYC \| Mountain View, CA \| Atlanta, GA \| San Diego, CA | Simplify | N/A | 2026-08-29T06:18:28Z | 2026-08-29T06:18:28Z | No | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify>) |
