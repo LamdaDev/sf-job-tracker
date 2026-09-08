@@ -24950,7 +24950,7 @@
     "3f0963d446447a33ed3e72b8721fea03b9cb541cffbd22388f1701f4922c7839": {
       "application_scan_eligible": true,
       "created_at": "2026-09-08T21:41:13Z",
-      "issue_number": null,
+      "issue_number": 70,
       "job_ids": [
         "ashby:semgrep:8e64dc7f-e925-4361-86d5-b01ee518c987",
         "greenhouse:gallup:4393731009",
@@ -24967,7 +24967,7 @@
         "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
         "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "46752b60e806bce4e18d5f27afa98ae2fae688678fd2423afc7b642bc8c1add5": {
       "application_scan_eligible": true,
