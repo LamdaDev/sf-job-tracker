@@ -25,12 +25,13 @@ from .fetcher import FetchedSnapshot, UpstreamFetchError, fetch_upstream_sources
 from .models import CanonicalJob
 from .notifier import (
     DeliveryResult,
-    ExpiredIssueCloseResult,
+    ExpiredIssueDoneResult,
     GitHubIssueNotifier,
     GitHubNotificationError,
-    close_expired_tracker_issues,
+    GitHubProjectNotifier,
     deliver_pending_notifications,
     jobs_for_notification_batch,
+    move_expired_tracker_issues_to_done,
     send_test_application_scan_issue as send_test_application_scan_issue_notification,
     send_test_notification as send_test_issue_notification,
 )
@@ -713,38 +714,59 @@ def send_test_application_scan(
     return issue_number
 
 
-def close_expired_issues(
+def move_expired_issues_to_done(
     *,
     environment: dict[str, str] | None = None,
-) -> ExpiredIssueCloseResult | None:
-    """Close aged normal job-alert Issues without reading or writing tracker data."""
+) -> ExpiredIssueDoneResult:
+    """Move aged job-alert Project items to Done without changing Issue state."""
 
-    environment = environment or dict(os.environ)
+    environment = dict(os.environ) if environment is None else environment
     token = environment.get("GITHUB_TOKEN")
     if not token:
-        LOGGER.warning("GITHUB_TOKEN is not set; no expired tracker Issues were closed.")
-        return None
+        raise ValueError("GITHUB_TOKEN is required to find expired tracker Issues")
+    projects_token = environment.get("PROJECTS_TOKEN")
+    if not projects_token:
+        raise ValueError(
+            "PROJECTS_TOKEN is required to move tracker Issues to Done without closing them"
+        )
     repository = environment.get("GITHUB_REPOSITORY", "LamdaDev/sf-job-tracker")
-    notifier = GitHubIssueNotifier(
+    issue_notifier = GitHubIssueNotifier(
         token,
         repository,
         api_url=environment.get("GITHUB_API_URL", "https://api.github.com"),
     )
+    project_notifier = GitHubProjectNotifier(
+        projects_token,
+        repository,
+        graphql_url=environment.get("GITHUB_GRAPHQL_URL", "https://api.github.com/graphql"),
+    )
     retention_days = job_alert_issue_retention_days(environment)
-    result = close_expired_tracker_issues(
-        notifier,
+    result = move_expired_tracker_issues_to_done(
+        issue_notifier,
+        project_notifier,
         retention_days=retention_days,
     )
-    if result.closed_issue_numbers:
+    if result.moved_issue_numbers:
         LOGGER.info(
-            "Closed %s tracker job-alert Issue(s) at the %s-day retention boundary: %s",
-            len(result.closed_issue_numbers),
+            "Moved %s tracker job-alert Issue(s) to Project Done at the %s-day boundary: %s",
+            len(result.moved_issue_numbers),
             retention_days,
-            ", ".join(f"#{number}" for number in result.closed_issue_numbers),
+            ", ".join(f"#{number}" for number in result.moved_issue_numbers),
+        )
+    if result.already_done_issue_numbers:
+        LOGGER.info(
+            "%s eligible tracker Issue(s) were already in Project Done.",
+            len(result.already_done_issue_numbers),
+        )
+    if result.unlinked_issue_numbers:
+        LOGGER.warning(
+            "%s eligible tracker Issue(s) had no Project item visible to PROJECTS_TOKEN: %s",
+            len(result.unlinked_issue_numbers),
+            ", ".join(f"#{number}" for number in result.unlinked_issue_numbers),
         )
     if result.failed_issue_numbers:
         LOGGER.error(
-            "%s expired tracker Issue(s) could not be closed and will be retried.",
+            "%s expired tracker Issue(s) could not be moved to Done and will be retried.",
             len(result.failed_issue_numbers),
         )
     return result
@@ -756,9 +778,9 @@ def build_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("--initialize", action="store_true", help="Record a baseline without alerting for otherwise unseen jobs.")
     parser.add_argument("--deliver-pending", action="store_true", help="Only deliver persisted pending GitHub Issue alerts.")
     parser.add_argument(
-        "--close-expired-issues",
+        "--move-expired-issues-to-done",
         action="store_true",
-        help="Close normal tracker job-alert Issues that reached the configured retention age.",
+        help="Move aged tracker Issue Project items to Done without closing the Issues.",
     )
     parser.add_argument("--send-test-notification", action="store_true", help="Create a fresh, clearly marked test Issue only.")
     parser.add_argument(
@@ -783,7 +805,7 @@ def main(argv: list[str] | None = None) -> int:
     exclusive_modes = sum(
         (
             args.deliver_pending,
-            args.close_expired_issues,
+            args.move_expired_issues_to_done,
             args.send_test_notification,
             args.send_test_application_scan,
         )
@@ -794,7 +816,7 @@ def main(argv: list[str] | None = None) -> int:
         parser.error("--test-application-url requires --send-test-application-scan")
     if (
         args.deliver_pending
-        or args.close_expired_issues
+        or args.move_expired_issues_to_done
         or args.send_test_notification
         or args.send_test_application_scan
     ) and (args.dry_run or args.initialize):
@@ -804,9 +826,9 @@ def main(argv: list[str] | None = None) -> int:
             result = deliver_pending(root=args.root)
             if result is not None and result.failed_batches:
                 return 2
-        elif args.close_expired_issues:
-            result = close_expired_issues()
-            if result is not None and result.failed_issue_numbers:
+        elif args.move_expired_issues_to_done:
+            result = move_expired_issues_to_done()
+            if result.failed_issue_numbers:
                 return 2
         elif args.send_test_notification:
             send_test_notification()

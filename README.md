@@ -126,6 +126,12 @@ Deliver only persisted pending alerts. This needs `GITHUB_TOKEN` with Issues wri
 python -m src.check_jobs --deliver-pending
 ```
 
+Move eligible tracker Issues to `Done` in every linked GitHub Project without closing the Issues. This needs `GITHUB_TOKEN` for repository Issues plus `PROJECTS_TOKEN` for Projects:
+
+```bash
+python -m src.check_jobs --move-expired-issues-to-done
+```
+
 For a local end-to-end notification test, set those environment variables and run:
 
 ```bash
@@ -150,9 +156,11 @@ The collection job runs tests, updates state/dashboard only if files changed, pu
 
 ### Issue retention
 
-After the tracker-data and notification-state commits, every scheduled production run and every non-dry-run manual run from `main` closes eligible job-alert Issues. An Issue becomes eligible when its GitHub `created_at` timestamp reaches 21 days (three weeks); the hourly schedule closes it on its first run at or after that point.
+After the tracker-data and notification-state commits, every scheduled production run and every non-dry-run manual run from `main` moves eligible job-alert Issues to the `Done` status in each linked GitHub Project. An Issue becomes eligible when its GitHub `created_at` timestamp reaches 21 days (three weeks); the hourly schedule updates it on its first run at or after that point.
 
-Cleanup targets only open, non-pull-request Issues containing the production hidden batch marker `<!-- sf-job-tracker:batch:v1:... -->`. It does not target either manual test marker, test Issues, pull requests, or Issues created by you, regardless of their title or labels. Closing is reversible: nothing is deleted, and you can reopen any closed tracker Issue in GitHub. If cleanup fails, the workflow reports the failure only after tracker data and notification delivery state have already been committed.
+Cleanup targets only open, non-pull-request Issues containing the production hidden batch marker `<!-- sf-job-tracker:batch:v1:... -->`. It does not target either manual test marker, test Issues, pull requests, or Issues created by you, regardless of their title or labels. The tracker updates the Project's single-select `Status` field directly and selects its `Done` option; it never closes or edits the Issue, so no Issue-close email is generated. Already-Done items are left unchanged, and Issues with no visible linked Project are reported and left untouched. If a Project update fails, the workflow reports the failure only after tracker data and notification delivery state have already been committed, then safely retries it on a later run.
+
+The repository-scoped `GITHUB_TOKEN` cannot access GitHub Projects. Create a personal access token (classic) with the `project` and `repo` scopes, grant it access to the account's Projects, and save it as the repository Actions secret `PROJECTS_TOKEN`. This follows [GitHub's documented Projects automation setup](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/automating-projects-using-actions). Do not reuse `PROJECTS_TOKEN` for ordinary Issue creation; the workflow continues using its short-lived `GITHUB_TOKEN` there.
 
 To test your GitHub Mobile or email notifications safely:
 
@@ -172,7 +180,7 @@ To preview the Application Question Enrichment Issue without touching tracker st
 
 The supplied Replit URL is a useful end-to-end example, but if Ashby presents anti-bot verification it will correctly show `unavailable` instead of questions. To preview populated fields, use a direct public application page that permits read-only access (for example, an accessible Greenhouse or Lever application page). Like the notification test, this mode never writes `data/seen_jobs.json`, `data/current_jobs.json`, or `data/application_questions.json`.
 
-After merging to `main`, enable GitHub Actions if necessary. If repository policy prevents the default `GITHUB_TOKEN` from writing, allow workflow read/write permissions for the repository. No personal access token, email service, or third-party notification integration is required.
+After merging to `main`, enable GitHub Actions if necessary. If repository policy prevents the default `GITHUB_TOKEN` from writing, allow workflow read/write permissions for the repository. `PROJECTS_TOKEN` is required only for the 21-day Project status update; no email service or third-party notification integration is required.
 
 ## Configuration and limits
 

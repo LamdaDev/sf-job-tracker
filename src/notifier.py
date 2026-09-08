@@ -1,4 +1,4 @@
-"""GitHub Issue notification formatting and retry-safe REST delivery."""
+"""GitHub Issue notifications plus retry-safe Project status updates."""
 
 from __future__ import annotations
 
@@ -20,6 +20,64 @@ from .tracker import notification_batch_id
 
 LOGGER = logging.getLogger(__name__)
 TRACKER_BATCH_MARKER_PREFIX = "<!-- sf-job-tracker:batch:v1:"
+PROJECT_STATUS_FIELD_NAME = "Status"
+PROJECT_DONE_OPTION_NAME = "Done"
+
+PROJECT_ITEMS_QUERY = """
+query($owner: String!, $repository: String!, $issueNumber: Int!) {
+  repository(owner: $owner, name: $repository) {
+    issue(number: $issueNumber) {
+      projectItems(first: 100, includeArchived: false) {
+        nodes {
+          id
+          fieldValueByName(name: "Status") {
+            ... on ProjectV2ItemFieldSingleSelectValue {
+              name
+            }
+          }
+          project {
+            id
+            title
+            fields(first: 100) {
+              nodes {
+                ... on ProjectV2SingleSelectField {
+                  id
+                  name
+                  options {
+                    id
+                    name
+                  }
+                }
+              }
+              pageInfo {
+                hasNextPage
+              }
+            }
+          }
+        }
+        pageInfo {
+          hasNextPage
+        }
+      }
+    }
+  }
+}
+"""
+
+UPDATE_PROJECT_STATUS_MUTATION = """
+mutation($projectId: ID!, $itemId: ID!, $fieldId: ID!, $optionId: String!) {
+  updateProjectV2ItemFieldValue(input: {
+    projectId: $projectId
+    itemId: $itemId
+    fieldId: $fieldId
+    value: {singleSelectOptionId: $optionId}
+  }) {
+    projectV2Item {
+      id
+    }
+  }
+}
+"""
 
 
 class GitHubNotificationError(RuntimeError):
@@ -38,10 +96,20 @@ class DeliveryResult:
 
 
 @dataclass(frozen=True)
-class ExpiredIssueCloseResult:
-    """Outcome of closing aged tracker job-alert Issues."""
+class ProjectStatusUpdateResult:
+    """Project items changed to Done or found there already for one Issue."""
 
-    closed_issue_numbers: tuple[int, ...]
+    updated_projects: tuple[str, ...]
+    already_done_projects: tuple[str, ...]
+
+
+@dataclass(frozen=True)
+class ExpiredIssueDoneResult:
+    """Outcome of moving aged tracker alerts to Done without closing them."""
+
+    moved_issue_numbers: tuple[int, ...]
+    already_done_issue_numbers: tuple[int, ...]
+    unlinked_issue_numbers: tuple[int, ...]
     failed_issue_numbers: tuple[int, ...]
 
 
@@ -352,17 +420,6 @@ class GitHubIssueNotifier:
         if not isinstance(response, dict):
             raise GitHubNotificationError("GitHub Issue update returned no Issue object")
 
-    def close_issue(self, issue_number: int) -> None:
-        """Close an Issue without changing its body or deleting its history."""
-
-        if issue_number < 1:
-            raise ValueError("GitHub Issue number must be positive")
-        response, _ = self._request_json(
-            "PATCH", f"/repos/{self.repository}/issues/{issue_number}", {"state": "closed"}
-        )
-        if not isinstance(response, dict):
-            raise GitHubNotificationError("GitHub Issue close returned no Issue object")
-
     def update_issue_with_application_scan(
         self, issue_number: int, canonical_job_id: str, rendered_block: str
     ) -> bool:
@@ -406,6 +463,201 @@ class GitHubIssueNotifier:
         )
 
 
+class GitHubProjectNotifier:
+    """GraphQL client that updates linked Project items without editing Issues."""
+
+    def __init__(
+        self,
+        token: str,
+        repository: str,
+        *,
+        graphql_url: str = "https://api.github.com/graphql",
+        timeout_seconds: int = 30,
+    ) -> None:
+        if not token:
+            raise ValueError("A Projects token is required to update GitHub Projects")
+        if repository.count("/") != 1:
+            raise ValueError("GitHub repository must be in owner/name form")
+        self.token = token
+        self.repository = repository
+        self.owner, self.repository_name = repository.split("/", maxsplit=1)
+        self.graphql_url = graphql_url.rstrip("/")
+        self.timeout_seconds = timeout_seconds
+
+    def _request_graphql(
+        self, query: str, variables: Mapping[str, Any]
+    ) -> Mapping[str, Any]:
+        request = Request(
+            self.graphql_url,
+            data=json.dumps({"query": query, "variables": dict(variables)}).encode("utf-8"),
+            method="POST",
+            headers={
+                "Accept": "application/vnd.github+json",
+                "Authorization": f"Bearer {self.token}",
+                "Content-Type": "application/json",
+                "User-Agent": "sf-job-tracker",
+            },
+        )
+        try:
+            with urlopen(request, timeout=self.timeout_seconds) as response:  # nosec B310
+                status = response.getcode()
+                raw_body = response.read()
+                if status < 200 or status >= 300:
+                    raise GitHubNotificationError(
+                        f"GitHub GraphQL API returned HTTP {status} for POST {self.graphql_url}"
+                    )
+                payload = json.loads(raw_body.decode("utf-8"))
+        except HTTPError as error:
+            raise GitHubNotificationError(
+                f"GitHub GraphQL API returned HTTP {error.code} for POST {self.graphql_url}"
+            ) from error
+        except (URLError, OSError, TimeoutError, UnicodeDecodeError, json.JSONDecodeError) as error:
+            raise GitHubNotificationError(
+                f"GitHub GraphQL API request failed for POST {self.graphql_url}: {error}"
+            ) from error
+
+        if not isinstance(payload, Mapping):
+            raise GitHubNotificationError("GitHub GraphQL API returned a non-object response")
+        errors = payload.get("errors")
+        if isinstance(errors, list) and errors:
+            messages = [
+                str(error.get("message"))
+                for error in errors
+                if isinstance(error, Mapping) and error.get("message")
+            ]
+            detail = "; ".join(messages) or "unknown GraphQL error"
+            raise GitHubNotificationError(f"GitHub GraphQL API returned errors: {detail}")
+        data = payload.get("data")
+        if not isinstance(data, Mapping):
+            raise GitHubNotificationError("GitHub GraphQL API returned no data object")
+        return data
+
+    @staticmethod
+    def _status_field_and_done_option(project: Mapping[str, Any]) -> tuple[str, str]:
+        project_title = str(project.get("title") or "unnamed project")
+        fields = project.get("fields")
+        if not isinstance(fields, Mapping):
+            raise GitHubNotificationError(f"Project {project_title!r} returned no fields")
+        page_info = fields.get("pageInfo")
+        if isinstance(page_info, Mapping) and page_info.get("hasNextPage") is True:
+            raise GitHubNotificationError(
+                f"Project {project_title!r} has more than 100 fields; cannot resolve Status safely"
+            )
+        nodes = fields.get("nodes")
+        if not isinstance(nodes, list):
+            raise GitHubNotificationError(f"Project {project_title!r} returned invalid fields")
+        status_field = next(
+            (
+                field
+                for field in nodes
+                if isinstance(field, Mapping)
+                and str(field.get("name") or "").casefold()
+                == PROJECT_STATUS_FIELD_NAME.casefold()
+            ),
+            None,
+        )
+        if not isinstance(status_field, Mapping) or not isinstance(status_field.get("id"), str):
+            raise GitHubNotificationError(
+                f"Project {project_title!r} has no single-select {PROJECT_STATUS_FIELD_NAME!r} field"
+            )
+        options = status_field.get("options")
+        if not isinstance(options, list):
+            raise GitHubNotificationError(f"Project {project_title!r} returned invalid Status options")
+        done_option = next(
+            (
+                option
+                for option in options
+                if isinstance(option, Mapping)
+                and str(option.get("name") or "").casefold()
+                == PROJECT_DONE_OPTION_NAME.casefold()
+            ),
+            None,
+        )
+        if not isinstance(done_option, Mapping) or not isinstance(done_option.get("id"), str):
+            raise GitHubNotificationError(
+                f"Project {project_title!r} has no {PROJECT_DONE_OPTION_NAME!r} Status option"
+            )
+        return status_field["id"], done_option["id"]
+
+    def move_issue_to_done(self, issue_number: int) -> ProjectStatusUpdateResult:
+        """Set every linked, unarchived Project item's Status to Done."""
+
+        if issue_number < 1:
+            raise ValueError("GitHub Issue number must be positive")
+        data = self._request_graphql(
+            PROJECT_ITEMS_QUERY,
+            {
+                "owner": self.owner,
+                "repository": self.repository_name,
+                "issueNumber": issue_number,
+            },
+        )
+        repository = data.get("repository")
+        issue = repository.get("issue") if isinstance(repository, Mapping) else None
+        if not isinstance(issue, Mapping):
+            raise GitHubNotificationError(f"GitHub GraphQL API returned no Issue #{issue_number}")
+        project_items = issue.get("projectItems")
+        if not isinstance(project_items, Mapping):
+            raise GitHubNotificationError(f"GitHub Issue #{issue_number} returned no Project items")
+        page_info = project_items.get("pageInfo")
+        if isinstance(page_info, Mapping) and page_info.get("hasNextPage") is True:
+            raise GitHubNotificationError(
+                f"GitHub Issue #{issue_number} belongs to more than 100 Projects; cannot update safely"
+            )
+        nodes = project_items.get("nodes")
+        if not isinstance(nodes, list):
+            raise GitHubNotificationError(f"GitHub Issue #{issue_number} returned invalid Project items")
+
+        updated: list[str] = []
+        already_done: list[str] = []
+        for item in nodes:
+            if not isinstance(item, Mapping):
+                raise GitHubNotificationError(
+                    f"GitHub Issue #{issue_number} returned an invalid Project item"
+                )
+            item_id = item.get("id")
+            project = item.get("project")
+            if not isinstance(item_id, str) or not isinstance(project, Mapping):
+                raise GitHubNotificationError(
+                    f"GitHub Issue #{issue_number} returned incomplete Project item metadata"
+                )
+            project_id = project.get("id")
+            project_title = str(project.get("title") or project_id or "unnamed project")
+            if not isinstance(project_id, str):
+                raise GitHubNotificationError(
+                    f"GitHub Issue #{issue_number} returned a Project with no node ID"
+                )
+            current_status = item.get("fieldValueByName")
+            if (
+                isinstance(current_status, Mapping)
+                and str(current_status.get("name") or "").casefold()
+                == PROJECT_DONE_OPTION_NAME.casefold()
+            ):
+                already_done.append(project_title)
+                continue
+
+            status_field_id, done_option_id = self._status_field_and_done_option(project)
+            mutation_data = self._request_graphql(
+                UPDATE_PROJECT_STATUS_MUTATION,
+                {
+                    "projectId": project_id,
+                    "itemId": item_id,
+                    "fieldId": status_field_id,
+                    "optionId": done_option_id,
+                },
+            )
+            update = mutation_data.get("updateProjectV2ItemFieldValue")
+            updated_item = update.get("projectV2Item") if isinstance(update, Mapping) else None
+            if not isinstance(updated_item, Mapping) or updated_item.get("id") != item_id:
+                raise GitHubNotificationError(
+                    f"GitHub did not confirm the Done update for Issue #{issue_number} "
+                    f"in Project {project_title!r}"
+                )
+            updated.append(project_title)
+
+        return ProjectStatusUpdateResult(tuple(updated), tuple(already_done))
+
+
 def send_test_notification(notifier: GitHubIssueNotifier) -> int:
     """Create a fresh, state-free manual test Issue on every invocation.
 
@@ -423,18 +675,20 @@ def send_test_application_scan_issue(notifier: GitHubIssueNotifier, application_
     return notifier.create_test_application_scan_issue(application_url)
 
 
-def close_expired_tracker_issues(
-    notifier: Any,
+def move_expired_tracker_issues_to_done(
+    issue_notifier: Any,
+    project_notifier: Any,
     *,
     retention_days: int,
     now: datetime | None = None,
-) -> ExpiredIssueCloseResult:
-    """Close only aged, open, tracker-generated job-alert Issues.
+) -> ExpiredIssueDoneResult:
+    """Move aged tracker alerts to Project Done while leaving Issues open.
 
     The cutoff uses GitHub's immutable Issue ``created_at`` timestamp rather
     than recent comments or application-question enrichment updates. Marker
-    matching protects manual test Issues and every Issue not created by this
-    tracker. Closing is deliberate and reversible; no Issue is deleted.
+    matching protects manual tests and every Issue not created by this tracker.
+    Updating the Project field directly avoids an Issue close event and its
+    subscriber email. An Issue linked to no visible Project is left untouched.
     """
 
     if retention_days < 1:
@@ -443,10 +697,12 @@ def close_expired_tracker_issues(
     if reference_time.tzinfo is None:
         raise ValueError("now must include a timezone")
     cutoff = reference_time.astimezone(timezone.utc) - timedelta(days=retention_days)
-    closed: list[int] = []
+    moved: list[int] = []
+    already_done: list[int] = []
+    unlinked: list[int] = []
     failed: list[int] = []
 
-    for issue in notifier.iter_open_issues():
+    for issue in issue_notifier.iter_open_issues():
         if not isinstance(issue, Mapping) or not _is_tracker_job_alert_issue(issue):
             continue
         issue_number = issue.get("number")
@@ -457,18 +713,28 @@ def close_expired_tracker_issues(
         if created_at is None:
             LOGGER.warning("Skipping tracker Issue #%s with an invalid created_at timestamp.", issue_number)
             continue
-        # The exact 21-day boundary is eligible; the hourly scheduler closes
-        # it on the first production run at or after that moment.
+        # The exact 21-day boundary is eligible; the hourly scheduler moves it
+        # to Done on the first production run at or after that moment.
         if created_at > cutoff:
             continue
         try:
-            notifier.close_issue(issue_number)
-            closed.append(issue_number)
+            result = project_notifier.move_issue_to_done(issue_number)
+            if result.updated_projects:
+                moved.append(issue_number)
+            elif result.already_done_projects:
+                already_done.append(issue_number)
+            else:
+                unlinked.append(issue_number)
         except (GitHubNotificationError, ValueError) as error:
-            LOGGER.error("Could not close expired tracker Issue #%s: %s", issue_number, error)
+            LOGGER.error("Could not move expired tracker Issue #%s to Done: %s", issue_number, error)
             failed.append(issue_number)
 
-    return ExpiredIssueCloseResult(tuple(closed), tuple(failed))
+    return ExpiredIssueDoneResult(
+        tuple(moved),
+        tuple(already_done),
+        tuple(unlinked),
+        tuple(failed),
+    )
 
 
 def _jobs_for_batch(history: Mapping[str, Any], batch: Mapping[str, Any]) -> list[CanonicalJob]:

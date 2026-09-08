@@ -119,27 +119,29 @@ jobs:
             git push origin HEAD:main
           fi
 
-      # Issue cleanup is deliberately after both data commits. A GitHub API
+      # Project cleanup is deliberately after both data commits. An API
       # problem here must never stop the tracker from persisting its state.
-      - name: Close tracker job-alert Issues older than 21 days
+      - name: Move tracker job-alert Issues older than 21 days to Project Done
         if: ${{ github.event_name == 'schedule' || (github.ref == 'refs/heads/main' && inputs.dry_run == false) }}
-        id: close_expired_issues
+        id: move_expired_issues_to_done
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
+          PROJECTS_TOKEN: ${{ secrets.PROJECTS_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_API_URL: ${{ github.api_url }}
-        run: python -m src.check_jobs --close-expired-issues
+          GITHUB_GRAPHQL_URL: ${{ github.graphql_url }}
+        run: python -m src.check_jobs --move-expired-issues-to-done
 
-      - name: Surface notification delivery and cleanup failures
-        if: ${{ (github.event_name == 'schedule' || (github.ref == 'refs/heads/main' && inputs.dry_run == false)) && (steps.deliver_notifications.outcome == 'failure' || steps.close_expired_issues.outcome == 'failure') }}
+      - name: Surface notification delivery and Project cleanup failures
+        if: ${{ (github.event_name == 'schedule' || (github.ref == 'refs/heads/main' && inputs.dry_run == false)) && (steps.deliver_notifications.outcome == 'failure' || steps.move_expired_issues_to_done.outcome == 'failure') }}
         shell: bash
         run: |
           if [[ "${{ steps.deliver_notifications.outcome }}" == "failure" ]]; then
             echo "One or more notification batches remain pending; see the delivery step logs."
           fi
-          if [[ "${{ steps.close_expired_issues.outcome }}" == "failure" ]]; then
-            echo "Tracker Issue cleanup failed; see the cleanup step logs."
+          if [[ "${{ steps.move_expired_issues_to_done.outcome }}" == "failure" ]]; then
+            echo "Moving expired tracker Issues to Project Done failed; see the cleanup step logs."
           fi
           exit 1
 
