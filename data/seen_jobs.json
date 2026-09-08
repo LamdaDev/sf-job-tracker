@@ -24600,7 +24600,7 @@
     "354b58eda18bc1be8d7d3fdb2802973ea373d1b664e6f8774496da73d564b166": {
       "application_scan_eligible": true,
       "created_at": "2026-09-08T18:32:27Z",
-      "issue_number": null,
+      "issue_number": 69,
       "job_ids": [
         "workday:capitalone.wd12.myworkdayjobs.com:current-master-s--ai-engineering-internship-program---summer-2027_r249109-1",
         "workday:capitalone.wd12.myworkdayjobs.com:current-phd--ai-engineering-internship-program---summer-2027_r249110-1"
@@ -24609,7 +24609,7 @@
         "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify",
         "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "3cfa5da1d257bad7ad1911eb46c7825bf70e3eaca3e6e8635789bd1232e7387c": {
       "application_scan_eligible": true,
