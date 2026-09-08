@@ -2875,6 +2875,52 @@
         "https://jobs.ashbyhq.com/rundoo/c1fa53ea-dadf-4dcf-a144-f71bda03c9fa"
       ]
     },
+    "ashby:semgrep:8e64dc7f-e925-4361-86d5-b01ee518c987": {
+      "age": "Today",
+      "application_url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
+      "canonical_id": "ashby:semgrep:8e64dc7f-e925-4361-86d5-b01ee518c987",
+      "category": "Software Engineering",
+      "company": "Semgrep",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern, Cloud Platform",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
+          "category": "Software Engineering",
+          "company": "Semgrep",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern, Cloud Platform",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "4e4460e9-778a-4360-bd90-c579d438f6a0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-08T21:30:09.866Z",
+            "id": "4e4460e9-778a-4360-bd90-c579d438f6a0",
+            "listingUrl": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
+            "posted": "2026-09-08",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Semgrep&job=4e4460e9-778a-4360-bd90-c579d438f6a0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Semgrep&job=4e4460e9-778a-4360-bd90-c579d438f6a0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Semgrep&job=4e4460e9-778a-4360-bd90-c579d438f6a0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987"
+      ]
+    },
     "ashby:serval:d7fb089c-db8a-4877-a5f3-73a09e67f54b": {
       "age": "34d",
       "application_url": "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b",
@@ -3907,6 +3953,98 @@
       },
       "url_aliases": [
         "https://job-boards.greenhouse.io/figureai/jobs/4691070006"
+      ]
+    },
+    "greenhouse:gallup:4393731009": {
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/gallup/jobs/4393731009",
+      "canonical_id": "greenhouse:gallup:4393731009",
+      "category": "Software Engineering",
+      "company": "Gallup",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Site Reliability Engineer Intern — Summer 2027",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/gallup/jobs/4393731009",
+          "category": "Software Engineering",
+          "company": "Gallup",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Site Reliability Engineer Intern — Summer 2027",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "58c43930-317f-4951-a41e-d00712ba397b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-08T21:30:09.866Z",
+            "id": "58c43930-317f-4951-a41e-d00712ba397b",
+            "listingUrl": "https://job-boards.greenhouse.io/gallup/jobs/4393731009",
+            "posted": "2026-09-08",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Gallup&job=58c43930-317f-4951-a41e-d00712ba397b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Gallup&job=58c43930-317f-4951-a41e-d00712ba397b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Gallup&job=58c43930-317f-4951-a41e-d00712ba397b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/gallup/jobs/4393731009"
+      ]
+    },
+    "greenhouse:gallup:4395897009": {
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/gallup/jobs/4395897009",
+      "canonical_id": "greenhouse:gallup:4395897009",
+      "category": "Software Engineering",
+      "company": "Gallup",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern — Summer 2027",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/gallup/jobs/4395897009",
+          "category": "Software Engineering",
+          "company": "Gallup",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern — Summer 2027",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7dc336f6-c0f7-4977-895f-ba71ded9606e",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-08T21:30:09.866Z",
+            "id": "7dc336f6-c0f7-4977-895f-ba71ded9606e",
+            "listingUrl": "https://job-boards.greenhouse.io/gallup/jobs/4395897009",
+            "posted": "2026-09-08",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Gallup&job=7dc336f6-c0f7-4977-895f-ba71ded9606e&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Gallup&job=7dc336f6-c0f7-4977-895f-ba71ded9606e&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Gallup&job=7dc336f6-c0f7-4977-895f-ba71ded9606e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/gallup/jobs/4395897009"
       ]
     },
     "greenhouse:hpiq:6111955004": {
@@ -5236,6 +5374,98 @@
       },
       "url_aliases": [
         "https://job-boards.greenhouse.io/vercel/jobs/6161129004"
+      ]
+    },
+    "greenhouse:vercel:6181755004": {
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+      "canonical_id": "greenhouse:vercel:6181755004",
+      "category": "Software Engineering",
+      "company": "Vercel",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineering Intern - Winter '27",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": "Winter 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+          "category": "Software Engineering",
+          "company": "Vercel",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern - Winter '27",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": "Winter 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "a639cc44-6ef4-4627-96a7-7a6ad70e3639",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-08T21:30:09.866Z",
+            "id": "a639cc44-6ef4-4627-96a7-7a6ad70e3639",
+            "listingUrl": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+            "posted": "2026-09-08",
+            "season": "Winter 2027",
+            "url": "https://applyguy.ai/jobs?company=Vercel&job=a639cc44-6ef4-4627-96a7-7a6ad70e3639&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Vercel&job=a639cc44-6ef4-4627-96a7-7a6ad70e3639&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Vercel&job=a639cc44-6ef4-4627-96a7-7a6ad70e3639&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181755004"
+      ]
+    },
+    "greenhouse:vercel:6181759004": {
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+      "canonical_id": "greenhouse:vercel:6181759004",
+      "category": "Software Engineering",
+      "company": "Vercel",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineering Intern - Summer '27",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+          "category": "Software Engineering",
+          "company": "Vercel",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern - Summer '27",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "9c27a885-adea-43f9-87ae-ae9d17d0865b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-08T21:30:09.866Z",
+            "id": "9c27a885-adea-43f9-87ae-ae9d17d0865b",
+            "listingUrl": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+            "posted": "2026-09-08",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Vercel&job=9c27a885-adea-43f9-87ae-ae9d17d0865b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Vercel&job=9c27a885-adea-43f9-87ae-ae9d17d0865b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Vercel&job=9c27a885-adea-43f9-87ae-ae9d17d0865b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
       ]
     },
     "greenhouse:verkada:5191604007": {
@@ -11089,6 +11319,52 @@
       },
       "url_aliases": [
         "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/"
+      ]
+    },
+    "url:https://apply.workable.com/syntiant/j/113F994B7B": {
+      "age": "Today",
+      "application_url": "https://apply.workable.com/syntiant/j/113F994B7B/",
+      "canonical_id": "url:https://apply.workable.com/syntiant/j/113F994B7B",
+      "category": "Software Engineering",
+      "company": "Syntiant",
+      "job_type": "Internship",
+      "location": "Redwood City, CA",
+      "position": "Machine Learning Intern - KWS/AED",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://apply.workable.com/syntiant/j/113F994B7B/",
+          "category": "Software Engineering",
+          "company": "Syntiant",
+          "job_type": "Internship",
+          "location": "Redwood City, CA",
+          "position": "Machine Learning Intern - KWS/AED",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "153982a0-e8c4-46ad-a5c2-0fe501536722",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-08T21:30:09.866Z",
+            "id": "153982a0-e8c4-46ad-a5c2-0fe501536722",
+            "listingUrl": "https://apply.workable.com/syntiant/j/113F994B7B/",
+            "posted": "2026-09-08",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Syntiant&job=153982a0-e8c4-46ad-a5c2-0fe501536722&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Syntiant&job=153982a0-e8c4-46ad-a5c2-0fe501536722&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://apply.workable.com/syntiant/j/113F994B7B/",
+        "https://applyguy.ai/jobs?company=Syntiant&job=153982a0-e8c4-46ad-a5c2-0fe501536722&utm_source=github&utm_medium=listing&utm_campaign=internships"
       ]
     },
     "url:https://apply.workable.com/vectoratomic/j/00C9C6A8E4": {

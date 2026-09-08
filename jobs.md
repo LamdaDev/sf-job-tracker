@@ -4,10 +4,16 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (340)
+## Active Jobs (346)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Gallup | Site Reliability Engineer Intern — Summer 2027 | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-08T21:41:13Z | 2026-09-08T21:41:13Z | Yes | [Apply](<https://job-boards.greenhouse.io/gallup/jobs/4393731009>) |
+| Gallup | Software Engineer Intern — Summer 2027 | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-08T21:41:13Z | 2026-09-08T21:41:13Z | Yes | [Apply](<https://job-boards.greenhouse.io/gallup/jobs/4395897009>) |
+| Semgrep | Software Engineer Intern, Cloud Platform | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-08T21:41:13Z | 2026-09-08T21:41:13Z | Yes | [Apply](<https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987>) |
+| Syntiant | Machine Learning Intern - KWS/AED | Internship | Software Engineering | Redwood City, CA | ApplyGuy | N/A | 2026-09-08T21:41:13Z | 2026-09-08T21:41:13Z | Yes | [Apply](<https://apply.workable.com/syntiant/j/113F994B7B/>) |
+| Vercel | Software Engineering Intern - Summer '27 | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-08T21:41:13Z | 2026-09-08T21:41:13Z | Yes | [Apply](<https://job-boards.greenhouse.io/vercel/jobs/6181759004>) |
+| Vercel | Software Engineering Intern - Winter '27 | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-08T21:41:13Z | 2026-09-08T21:41:13Z | Yes | [Apply](<https://job-boards.greenhouse.io/vercel/jobs/6181755004>) |
 | Capital One | AI Engineer Intern 🎓 | Internship | Unknown | San Jose, CA \| McLean, VA \| NYC | Simplify | N/A | 2026-09-08T18:32:27Z | 2026-09-08T18:32:27Z | Yes | [Apply](<https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1?utm_source=Simplify&ref=Simplify>) |
 | Capital One | AI Engineering Intern 🎓 | Internship | Unknown | San Jose, CA \| McLean, VA \| NYC | Simplify | N/A | 2026-09-08T18:32:27Z | 2026-09-08T18:32:27Z | Yes | [Apply](<https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify>) |
 | Gilead Sciences | Intern - Development - DevOps Business Strategy Leader | Internship | Other | Foster City, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-08T14:59:27Z | 2026-09-08T18:32:27Z | Yes | [Apply](<https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772>) |
