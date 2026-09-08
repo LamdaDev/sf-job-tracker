@@ -3451,10 +3451,37 @@
       "job_type": "New Grad",
       "location": "San Francisco, CA",
       "position": "Software Engineer - New Grad - 2027 Start",
-      "posted": null,
+      "posted": "2026-08-25",
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "14d",
+          "application_url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+          "category": "Unknown",
+          "company": "Zip",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, New Grad (2027 Start)",
+          "posted": "2026-08-25",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "1828e287-44e8-43e5-b1d4-565d252cb20d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "14d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-08T10:46:03.053Z",
+            "id": "1828e287-44e8-43e5-b1d4-565d252cb20d",
+            "listingUrl": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
+            "matchKind": "explicit",
+            "posted": "2026-08-25",
+            "url": "https://applyguy.ai/jobs?company=Zip&job=1828e287-44e8-43e5-b1d4-565d252cb20d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Zip&job=1828e287-44e8-43e5-b1d4-565d252cb20d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "10d",
           "application_url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
@@ -3475,6 +3502,7 @@
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=Zip&job=1828e287-44e8-43e5-b1d4-565d252cb20d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea"
       ]
     },
@@ -6431,7 +6459,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -6624,9 +6652,9 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "age": "24d",
+          "age": "25d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -11025,45 +11053,6 @@
       },
       "url_aliases": [
         "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002"
-      ]
-    },
-    "url:https://apply.careers.microsoft.com/careers/job/1970393556972687?ref=Simplify": {
-      "age": "0d",
-      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556972687?utm_source=Simplify&ref=Simplify",
-      "canonical_id": "url:https://apply.careers.microsoft.com/careers/job/1970393556972687?ref=Simplify",
-      "category": "Unknown",
-      "company": "Microsoft",
-      "job_type": "Internship",
-      "location": "Mountain View, CA",
-      "position": "Software Engineer Intern - AI and ML Projects",
-      "posted": null,
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "simplify_summer_2027": {
-          "age": "0d",
-          "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556972687?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
-          "company": "Microsoft",
-          "job_type": "Internship",
-          "location": "Mountain View, CA",
-          "position": "Software Engineer Intern - AI and ML Projects",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "b281f70c-b819-47ce-8df8-cdbc3d567e98",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/b281f70c-b819-47ce-8df8-cdbc3d567e98?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/b281f70c-b819-47ce-8df8-cdbc3d567e98?utm_source=GHList"
-        }
-      },
-      "url_aliases": [
-        "https://apply.careers.microsoft.com/careers/job/1970393556972687?utm_source=Simplify&ref=Simplify",
-        "https://simplify.jobs/p/b281f70c-b819-47ce-8df8-cdbc3d567e98?utm_source=GHList"
       ]
     },
     "url:https://apply.workable.com/anatomage/j/9E0E93FEFF": {
