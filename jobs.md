@@ -4,10 +4,12 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (337)
+## Active Jobs (339)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Gilead | Intern - Development - DevOps Business Strategy Leader | Internship | Software Engineering | Foster City, CA | ApplyGuy | N/A | 2026-09-08T14:59:27Z | 2026-09-08T14:59:27Z | Yes | [Apply](<https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772>) |
+| Nexthopai | Software Engineer - Hardware Diagnostics - New Grad | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-09-08T14:59:27Z | 2026-09-08T14:59:27Z | Yes | [Apply](<https://nexthopai.bamboohr.com/careers/107>) |
 | AiPrise | Software Engineer I | New Grad | Other | San Jose, CA | SpeedyApply | N/A | 2026-09-06T17:33:11Z | 2026-09-06T17:33:11Z | Yes | [Apply](<https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba>) |
 | PayPal | Software Engineer - Recent Graduate | New Grad | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-05T16:38:32Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237>) |
 | PayPal | Software Engineer Intern | Internship | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-05T16:38:32Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285>) |

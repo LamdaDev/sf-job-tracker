@@ -12138,6 +12138,52 @@
         "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990013452026-1042-oracle-apex-and-python-developer?oga=true"
       ]
     },
+    "url:https://nexthopai.bamboohr.com/careers/107": {
+      "age": "Today",
+      "application_url": "https://nexthopai.bamboohr.com/careers/107",
+      "canonical_id": "url:https://nexthopai.bamboohr.com/careers/107",
+      "category": "Unknown",
+      "company": "Nexthopai",
+      "job_type": "New Grad",
+      "location": "Santa Clara, CA",
+      "position": "Software Engineer - Hardware Diagnostics - New Grad",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "Today",
+          "application_url": "https://nexthopai.bamboohr.com/careers/107",
+          "category": "Unknown",
+          "company": "Nexthopai",
+          "job_type": "New Grad",
+          "location": "Santa Clara, CA",
+          "position": "Software Engineer - Hardware Diagnostics - New Grad",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "768a88ec-f203-4d61-a5b7-dae28e780594",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-08T14:45:34.232Z",
+            "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
+            "listingUrl": "https://nexthopai.bamboohr.com/careers/107",
+            "matchKind": "explicit",
+            "posted": "2026-09-08",
+            "url": "https://applyguy.ai/jobs?company=Nexthopai&job=768a88ec-f203-4d61-a5b7-dae28e780594&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Nexthopai&job=768a88ec-f203-4d61-a5b7-dae28e780594&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Nexthopai&job=768a88ec-f203-4d61-a5b7-dae28e780594&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://nexthopai.bamboohr.com/careers/107"
+      ]
+    },
     "url:https://nuro.ai/careersitem?gh_jid=6972272": {
       "age": "32d",
       "application_url": "https://nuro.ai/careersitem?gh_jid=6972272",
@@ -14121,6 +14167,52 @@
       },
       "url_aliases": [
         "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759"
+      ]
+    },
+    "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772": {
+      "age": "Today",
+      "application_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
+      "canonical_id": "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772",
+      "category": "Software Engineering",
+      "company": "Gilead",
+      "job_type": "Internship",
+      "location": "Foster City, CA",
+      "position": "Intern - Development - DevOps Business Strategy Leader",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
+          "category": "Software Engineering",
+          "company": "Gilead",
+          "job_type": "Internship",
+          "location": "Foster City, CA",
+          "position": "Intern - Development - DevOps Business Strategy Leader",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "4d9bee27-c555-419a-9d32-183ff64c0c9b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-08T14:45:17.559Z",
+            "id": "4d9bee27-c555-419a-9d32-183ff64c0c9b",
+            "listingUrl": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
+            "posted": "2026-09-08",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Gilead&job=4d9bee27-c555-419a-9d32-183ff64c0c9b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Gilead&job=4d9bee27-c555-419a-9d32-183ff64c0c9b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Gilead&job=4d9bee27-c555-419a-9d32-183ff64c0c9b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772"
       ]
     },
     "workday:globalhr.wd5.myworkdayjobs.com:software-engineering-intern--summer-2027-_01867392": {
