@@ -6653,7 +6653,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -6848,7 +6848,7 @@
         "simplify_summer_2027": {
           "age": "25d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -12668,6 +12668,144 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Stripe&job=4cbb4f91-e14f-4776-b6ac-80eb14e2c669&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://stripe.com/jobs/search?gh_jid=8128745"
+      ]
+    },
+    "url:https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315": {
+      "age": "1d",
+      "application_url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+      "canonical_id": "url:https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+      "category": "Software Engineering",
+      "company": "Coinbase",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+          "category": "Software Engineering",
+          "company": "Coinbase",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "e0a46c26-fe12-4486-90c6-deb214635609",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-09T03:45:12.885Z",
+            "id": "e0a46c26-fe12-4486-90c6-deb214635609",
+            "listingUrl": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+            "posted": "2026-09-08",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Coinbase&job=e0a46c26-fe12-4486-90c6-deb214635609&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Coinbase&job=e0a46c26-fe12-4486-90c6-deb214635609&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Coinbase&job=e0a46c26-fe12-4486-90c6-deb214635609&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
+      ]
+    },
+    "url:https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441": {
+      "age": "1d",
+      "application_url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+      "canonical_id": "url:https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+      "category": "Software Engineering",
+      "company": "Coinbase",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Machine Learning Engineer Intern",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+          "category": "Software Engineering",
+          "company": "Coinbase",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Machine Learning Engineer Intern",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "dbea86f9-0a33-4d03-b268-1a6c08482b95",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-09T03:45:12.885Z",
+            "id": "dbea86f9-0a33-4d03-b268-1a6c08482b95",
+            "listingUrl": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+            "posted": "2026-09-08",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Coinbase&job=dbea86f9-0a33-4d03-b268-1a6c08482b95&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Coinbase&job=dbea86f9-0a33-4d03-b268-1a6c08482b95&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Coinbase&job=dbea86f9-0a33-4d03-b268-1a6c08482b95&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441"
+      ]
+    },
+    "url:https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459": {
+      "age": "1d",
+      "application_url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+      "canonical_id": "url:https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+      "category": "Software Engineering",
+      "company": "Coinbase",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Data Engineer Intern",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+          "category": "Software Engineering",
+          "company": "Coinbase",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Data Engineer Intern",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "9782afb3-4c13-4e56-b5a2-a29f68a84f44",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-09T03:45:12.885Z",
+            "id": "9782afb3-4c13-4e56-b5a2-a29f68a84f44",
+            "listingUrl": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+            "posted": "2026-09-08",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Coinbase&job=9782afb3-4c13-4e56-b5a2-a29f68a84f44&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Coinbase&job=9782afb3-4c13-4e56-b5a2-a29f68a84f44&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Coinbase&job=9782afb3-4c13-4e56-b5a2-a29f68a84f44&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459"
       ]
     },
     "url:https://www.driveseres.com/career?gh_jid=8146278": {
