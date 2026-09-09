@@ -6653,7 +6653,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -14316,6 +14316,52 @@
       },
       "url_aliases": [
         "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728"
+      ]
+    },
+    "workday:amat.wd1.myworkdayjobs.com:xmlname-2027-software-engineering-intern--masters---santa-clara--ca-_r2628265": {
+      "age": "Today",
+      "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+      "canonical_id": "workday:amat.wd1.myworkdayjobs.com:xmlname-2027-software-engineering-intern--masters---santa-clara--ca-_r2628265",
+      "category": "Software Engineering",
+      "company": "Amat",
+      "job_type": "Internship",
+      "location": "Santa Clara, CA",
+      "position": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
+      "posted": "2026-09-09",
+      "salary": null,
+      "season": "2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+          "category": "Software Engineering",
+          "company": "Amat",
+          "job_type": "Internship",
+          "location": "Santa Clara, CA",
+          "position": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
+          "posted": "2026-09-09",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-09T08:45:17.277Z",
+            "id": "b6b5c904-dc48-463e-8deb-cb2ac7bd5580",
+            "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+            "posted": "2026-09-09",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Amat&job=b6b5c904-dc48-463e-8deb-cb2ac7bd5580&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Amat&job=b6b5c904-dc48-463e-8deb-cb2ac7bd5580&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+        "https://applyguy.ai/jobs?company=Amat&job=b6b5c904-dc48-463e-8deb-cb2ac7bd5580&utm_source=github&utm_medium=listing&utm_campaign=internships"
       ]
     },
     "workday:analogdevices.wd1.myworkdayjobs.com:associate-engineer--embedded-audio-software_r263781": {
