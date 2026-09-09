@@ -4712,14 +4712,14 @@
       "age": "Today",
       "application_url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
       "canonical_id": "ashby:semgrep:8e64dc7f-e925-4361-86d5-b01ee518c987",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Semgrep",
       "first_seen": "2026-09-08T21:41:13Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-08T21:41:13Z",
+      "last_seen": "2026-09-09T20:40:45Z",
       "location": "San Francisco, CA",
-      "position": "Software Engineer Intern, Cloud Platform",
+      "position": "Software Engineer Intern - Cloud Platform",
       "posted": "2026-09-08",
       "salary": null,
       "season": "Not specified",
@@ -4754,6 +4754,28 @@
             "url": "https://applyguy.ai/jobs?company=Semgrep&job=4e4460e9-778a-4360-bd90-c579d438f6a0&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Semgrep&job=4e4460e9-778a-4360-bd90-c579d438f6a0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
+          "category": "Other",
+          "company": "Semgrep",
+          "first_seen": "2026-09-09T20:40:45Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-09T20:40:45Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern - Cloud Platform",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987"
         }
       },
       "url_aliases": [
@@ -6417,13 +6439,13 @@
       "season": "Winter 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "23d",
           "application_url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
           "category": "Software Engineering",
           "company": "Figma",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-09T20:40:45Z",
           "job_type": "Internship",
           "last_seen": "2026-09-02T08:34:34Z",
           "location": "San Francisco, CA",
@@ -8697,12 +8719,12 @@
       "age": "Today",
       "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
       "canonical_id": "greenhouse:vercel:6181755004",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Vercel",
       "first_seen": "2026-09-08T21:41:13Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-08T21:41:13Z",
+      "last_seen": "2026-09-09T20:40:45Z",
       "location": "San Francisco, CA",
       "position": "Software Engineering Intern - Winter '27",
       "posted": "2026-09-08",
@@ -8739,6 +8761,28 @@
             "url": "https://applyguy.ai/jobs?company=Vercel&job=a639cc44-6ef4-4627-96a7-7a6ad70e3639&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Vercel&job=a639cc44-6ef4-4627-96a7-7a6ad70e3639&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+          "category": "Other",
+          "company": "Vercel",
+          "first_seen": "2026-09-09T20:40:45Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-09T20:40:45Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern - Winter '27",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004"
         }
       },
       "url_aliases": [
@@ -8751,12 +8795,12 @@
       "age": "Today",
       "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
       "canonical_id": "greenhouse:vercel:6181759004",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Vercel",
       "first_seen": "2026-09-08T21:41:13Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-08T21:41:13Z",
+      "last_seen": "2026-09-09T20:40:45Z",
       "location": "San Francisco, CA",
       "position": "Software Engineering Intern - Summer '27",
       "posted": "2026-09-08",
@@ -8793,6 +8837,28 @@
             "url": "https://applyguy.ai/jobs?company=Vercel&job=9c27a885-adea-43f9-87ae-ae9d17d0865b&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Vercel&job=9c27a885-adea-43f9-87ae-ae9d17d0865b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+          "category": "Other",
+          "company": "Vercel",
+          "first_seen": "2026-09-09T20:40:45Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-09T20:40:45Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern - Summer '27",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
         }
       },
       "url_aliases": [
@@ -17146,14 +17212,14 @@
       ]
     },
     "url:https://careers.roblox.com/jobs/8123004?gh_jid=8123004": {
-      "active": true,
+      "active": false,
       "age": "0d",
       "application_url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "canonical_id": "url:https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
       "category": "FAANG+",
       "company": "Roblox",
       "first_seen": "2026-08-18T13:44:34Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-09T20:40:45Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-18T13:44:34Z",
       "location": "San Mateo, CA",
@@ -17163,13 +17229,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "0d",
           "application_url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
           "category": "FAANG+",
           "company": "Roblox",
           "first_seen": "2026-08-18T13:44:34Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-09T20:40:45Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-18T13:44:34Z",
           "location": "San Mateo, CA",
@@ -17477,6 +17543,50 @@
       "url_aliases": [
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/92d19f9f-b983-4fa7-a8f3-2344103d710e?utm_source=GHList"
+      ]
+    },
+    "url:https://hover.to/job-posts/8187357?gh_jid=8187357": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://hover.to/job-posts/8187357/?gh_jid=8187357",
+      "canonical_id": "url:https://hover.to/job-posts/8187357?gh_jid=8187357",
+      "category": "Other",
+      "company": "Hover",
+      "first_seen": "2026-09-09T20:40:45Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-09T20:40:45Z",
+      "location": "San Francisco, CA +1",
+      "position": "Security Software Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://hover.to/job-posts/8187357/?gh_jid=8187357",
+          "category": "Other",
+          "company": "Hover",
+          "first_seen": "2026-09-09T20:40:45Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-09T20:40:45Z",
+          "location": "San Francisco, CA +1",
+          "position": "Security Software Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://hover.to/job-posts/8187357/?gh_jid=8187357"
+        }
+      },
+      "url_aliases": [
+        "https://hover.to/job-posts/8187357/?gh_jid=8187357"
       ]
     },
     "url:https://jobs.apple.com/en-us/details/200665472-0836": {
@@ -18335,12 +18445,12 @@
       "age": "1d",
       "application_url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
       "canonical_id": "url:https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Coinbase",
       "first_seen": "2026-09-09T03:54:00Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-09T03:54:00Z",
+      "last_seen": "2026-09-09T20:40:45Z",
       "location": "San Francisco, CA",
       "position": "Software Engineer Intern",
       "posted": "2026-09-08",
@@ -18377,6 +18487,28 @@
             "url": "https://applyguy.ai/jobs?company=Coinbase&job=e0a46c26-fe12-4486-90c6-deb214635609&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Coinbase&job=e0a46c26-fe12-4486-90c6-deb214635609&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+          "category": "Other",
+          "company": "Coinbase",
+          "first_seen": "2026-09-09T20:40:45Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-09T20:40:45Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
         }
       },
       "url_aliases": [
@@ -18938,6 +19070,50 @@
         "https://www.google.com/about/careers/applications/jobs/results/94172495052972742?utm_source=Simplify&ref=Simplify"
       ]
     },
+    "url:https://www.google.com/about/careers/applications/jobs/results/99532077367468742": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/99532077367468742",
+      "canonical_id": "url:https://www.google.com/about/careers/applications/jobs/results/99532077367468742",
+      "category": "FAANG+",
+      "company": "Google",
+      "first_seen": "2026-09-09T20:40:45Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-09T20:40:45Z",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer - Search Ads in AI Experiences",
+      "posted": null,
+      "salary": "$196k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://www.google.com/about/careers/applications/jobs/results/99532077367468742",
+          "category": "FAANG+",
+          "company": "Google",
+          "first_seen": "2026-09-09T20:40:45Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-09T20:40:45Z",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer - Search Ads in AI Experiences",
+          "posted": null,
+          "salary": "$196k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://www.google.com/about/careers/applications/jobs/results/99532077367468742"
+        }
+      },
+      "url_aliases": [
+        "https://www.google.com/about/careers/applications/jobs/results/99532077367468742"
+      ]
+    },
     "url:https://www.ixl.com/company/jobs?gh_jid=8662881002": {
       "active": false,
       "age": "10d",
@@ -19176,8 +19352,8 @@
       "first_seen": "2026-08-26T13:58:49Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-09-05T16:38:32Z",
-      "location": "Sunnyvale, CA +1",
+      "last_seen": "2026-09-09T20:40:45Z",
+      "location": "Sunnyvale, CA +2",
       "position": "Software Engineer - Systems ML - Compilers / Backend",
       "posted": null,
       "salary": "$186k/yr",
@@ -19185,15 +19361,15 @@
       "sources": {
         "speedyapply_new_grad": {
           "active": true,
-          "age": "10d",
+          "age": "14d",
           "application_url": "https://www.metacareers.com/jobs/2145505832666693",
           "category": "FAANG+",
           "company": "Meta",
           "first_seen": "2026-08-26T13:58:49Z",
           "inactive_at": null,
           "job_type": "New Grad",
-          "last_seen": "2026-09-05T16:38:32Z",
-          "location": "Sunnyvale, CA +1",
+          "last_seen": "2026-09-09T20:40:45Z",
+          "location": "Sunnyvale, CA +2",
           "position": "Software Engineer - Systems ML - Compilers / Backend",
           "posted": null,
           "salary": "$186k/yr",
@@ -21303,16 +21479,16 @@
     "workday:amat.wd1.myworkdayjobs.com:xmlname-2027-software-engineering-intern--masters---santa-clara--ca-_r2628265": {
       "active": true,
       "age": "Today",
-      "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+      "application_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
       "canonical_id": "workday:amat.wd1.myworkdayjobs.com:xmlname-2027-software-engineering-intern--masters---santa-clara--ca-_r2628265",
-      "category": "Software Engineering",
-      "company": "Amat",
+      "category": "Other",
+      "company": "Applied Materials",
       "first_seen": "2026-09-09T08:48:56Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-09T08:48:56Z",
+      "last_seen": "2026-09-09T20:40:45Z",
       "location": "Santa Clara, CA",
-      "position": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
+      "position": "2027 Software Engineering Intern - Masters - Santa Clara - CA",
       "posted": "2026-09-09",
       "salary": null,
       "season": "2027",
@@ -21347,9 +21523,32 @@
             "url": "https://applyguy.ai/jobs?company=Amat&job=b6b5c904-dc48-463e-8deb-cb2ac7bd5580&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Amat&job=b6b5c904-dc48-463e-8deb-cb2ac7bd5580&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
+          "category": "Other",
+          "company": "Applied Materials",
+          "first_seen": "2026-09-09T20:40:45Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-09T20:40:45Z",
+          "location": "Santa Clara, CA",
+          "position": "2027 Software Engineering Intern - Masters - Santa Clara - CA",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"
         }
       },
       "url_aliases": [
+        "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
         "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265",
         "https://applyguy.ai/jobs?company=Amat&job=b6b5c904-dc48-463e-8deb-cb2ac7bd5580&utm_source=github&utm_medium=listing&utm_campaign=internships"
       ]
@@ -22762,6 +22961,50 @@
         "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/HPC-Software-Engineer_2638794"
       ]
     },
+    "workday:kla.wd1.myworkdayjobs.com:software-applications-engineer_2640096": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
+      "canonical_id": "workday:kla.wd1.myworkdayjobs.com:software-applications-engineer_2640096",
+      "category": "Other",
+      "company": "KLA",
+      "first_seen": "2026-09-09T20:40:45Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-09T20:40:45Z",
+      "location": "Remote - Milpitas, CA",
+      "position": "Software Applications Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
+          "category": "Other",
+          "company": "KLA",
+          "first_seen": "2026-09-09T20:40:45Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-09T20:40:45Z",
+          "location": "Remote - Milpitas, CA",
+          "position": "Software Applications Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineer_2640096"
+        }
+      },
+      "url_aliases": [
+        "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineer_2640096"
+      ]
+    },
     "workday:kla.wd1.myworkdayjobs.com:software-engineer-ii--distributed---scalable-systems-_2636655-1": {
       "active": true,
       "age": "19d",
@@ -23299,14 +23542,14 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:developer-technology-engineer--ai---new-college-graduate-2026_jr2024557": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:developer-technology-engineer--ai---new-college-graduate-2026_jr2024557",
       "category": "FAANG+",
       "company": "NVIDIA",
       "first_seen": "2026-09-01T17:42:25Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-09T20:40:45Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-01T17:42:25Z",
       "location": "Santa Clara, CA +5",
@@ -23316,13 +23559,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557",
           "category": "FAANG+",
           "company": "NVIDIA",
           "first_seen": "2026-09-01T17:42:25Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-09T20:40:45Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-01T17:42:25Z",
           "location": "Santa Clara, CA +5",
@@ -23666,16 +23909,16 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659": {
-      "active": false,
+      "active": true,
       "age": "75d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--hardware-tools-and-methodology---new-college-grad-2026_jr2018659",
       "category": "FAANG+",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": "2026-09-04T17:27:22Z",
+      "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-09-02T17:43:18Z",
+      "last_seen": "2026-09-09T20:40:45Z",
       "location": "Santa Clara, CA",
       "position": "Software Engineer - Hardware Tools and Methodology - New College Grad 2026",
       "posted": null,
@@ -23683,15 +23926,15 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": false,
-          "age": "91d",
+          "active": true,
+          "age": "98d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
           "category": "FAANG+",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": "2026-09-04T17:27:22Z",
+          "inactive_at": null,
           "job_type": "New Grad",
-          "last_seen": "2026-09-02T17:43:18Z",
+          "last_seen": "2026-09-09T20:40:45Z",
           "location": "Santa Clara, CA",
           "position": "Software Engineer - Hardware Tools and Methodology - New College Grad 2026",
           "posted": null,
@@ -24139,14 +24382,14 @@
       ]
     },
     "workday:paypal.wd1.myworkdayjobs.com:software-engineer---recent-graduate_r0137237": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237",
       "canonical_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer---recent-graduate_r0137237",
       "category": "Other",
       "company": "PayPal",
       "first_seen": "2026-09-05T16:38:32Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-09T20:40:45Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-05T16:38:32Z",
       "location": "San Jose, CA +2",
@@ -24156,13 +24399,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237",
           "category": "Other",
           "company": "PayPal",
           "first_seen": "2026-09-05T16:38:32Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-09T20:40:45Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-05T16:38:32Z",
           "location": "San Jose, CA +2",
@@ -24227,14 +24470,14 @@
       ]
     },
     "workday:paypal.wd1.myworkdayjobs.com:software-engineer-intern_r0137285": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285",
       "canonical_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer-intern_r0137285",
       "category": "Other",
       "company": "PayPal",
       "first_seen": "2026-09-05T16:38:32Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-09T20:40:45Z",
       "job_type": "Internship",
       "last_seen": "2026-09-05T16:38:32Z",
       "location": "San Jose, CA +2",
@@ -24244,13 +24487,13 @@
       "season": null,
       "sources": {
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285",
           "category": "Other",
           "company": "PayPal",
           "first_seen": "2026-09-05T16:38:32Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-09T20:40:45Z",
           "job_type": "Internship",
           "last_seen": "2026-09-05T16:38:32Z",
           "location": "San Jose, CA +2",
@@ -24825,6 +25068,60 @@
         "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432"
       ]
     },
+    "workday:tel.wd3.myworkdayjobs.com:software-engineer--ai-research-summer-2027-intern_r26-01531": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531",
+      "canonical_id": "workday:tel.wd3.myworkdayjobs.com:software-engineer--ai-research-summer-2027-intern_r26-01531",
+      "category": "Software Engineering",
+      "company": "Tel",
+      "first_seen": "2026-09-09T20:40:45Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-09T20:40:45Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer, AI Research Summer 2027 Intern",
+      "posted": "2026-09-09",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531",
+          "category": "Software Engineering",
+          "company": "Tel",
+          "first_seen": "2026-09-09T20:40:45Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-09T20:40:45Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer, AI Research Summer 2027 Intern",
+          "posted": "2026-09-09",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "dd100551-df41-4c4c-bdf5-e356672083d9",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-09T20:30:10.562Z",
+            "id": "dd100551-df41-4c4c-bdf5-e356672083d9",
+            "listingUrl": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531",
+            "posted": "2026-09-09",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Tel&job=dd100551-df41-4c4c-bdf5-e356672083d9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Tel&job=dd100551-df41-4c4c-bdf5-e356672083d9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Tel&job=dd100551-df41-4c4c-bdf5-e356672083d9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531"
+      ]
+    },
     "workday:tencent.wd1.myworkdayjobs.com:tencent-cloud-cpaas-product-management-intern_r108019": {
       "active": true,
       "age": "1d",
@@ -25285,6 +25582,24 @@
         "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships"
       ],
       "status": "sent"
+    },
+    "4b9613c769efdd15f081fa2d5a588a52bb6f22dfcf3ca65f5fd36aaedadaef7f": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-09T20:40:45Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://hover.to/job-posts/8187357?gh_jid=8187357",
+        "url:https://www.google.com/about/careers/applications/jobs/results/99532077367468742",
+        "workday:kla.wd1.myworkdayjobs.com:software-applications-engineer_2640096",
+        "workday:tel.wd3.myworkdayjobs.com:software-engineer--ai-research-summer-2027-intern_r26-01531"
+      ],
+      "job_urls": [
+        "https://hover.to/job-posts/8187357/?gh_jid=8187357",
+        "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
+        "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531",
+        "https://www.google.com/about/careers/applications/jobs/results/99532077367468742"
+      ],
+      "status": "pending"
     },
     "50ce491ae99add1aaecf860b8481241dde523170d45bd3283abc412f1e7aa98b": {
       "application_scan_eligible": true,
