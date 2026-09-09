@@ -12966,6 +12966,27 @@
       "scanned_at": "2026-09-04T22:52:19Z",
       "status": "unavailable"
     },
+    "url:https://hover.to/job-posts/8187357?gh_jid=8187357": {
+      "application_url": "https://hover.to/job-posts/8187357/?gh_jid=8187357",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://hover.to/job-posts/8187357?gh_jid=8187357",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-09T20:40:49Z",
+      "http_status": 200,
+      "issue_number": 74,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-09T20:40:49Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-09T20:40:49Z",
+      "status": "unavailable"
+    },
     "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?ref=Simplify": {
       "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -13334,6 +13355,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-09-01T01:05:18Z",
+      "status": "unavailable"
+    },
+    "url:https://www.google.com/about/careers/applications/jobs/results/99532077367468742": {
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/99532077367468742",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.google.com/about/careers/applications/jobs/results/99532077367468742",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-09T20:40:52Z",
+      "http_status": 200,
+      "issue_number": 74,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-09T20:40:52Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-09T20:40:52Z",
       "status": "unavailable"
     },
     "url:https://www.ixl.com/company/jobs?gh_jid=8765715002": {
@@ -14342,6 +14384,27 @@
       "scanned_at": "2026-08-24T23:24:51Z",
       "status": "unavailable"
     },
+    "workday:kla.wd1.myworkdayjobs.com:software-applications-engineer_2640096": {
+      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:kla.wd1.myworkdayjobs.com:software-applications-engineer_2640096",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-09T20:40:53Z",
+      "http_status": 200,
+      "issue_number": 74,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-09T20:40:53Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-09T20:40:53Z",
+      "status": "unavailable"
+    },
     "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640196": {
       "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640196",
       "attempt_count": 1,
@@ -14760,6 +14823,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-21T21:27:39Z",
+      "status": "unavailable"
+    },
+    "workday:tel.wd3.myworkdayjobs.com:software-engineer--ai-research-summer-2027-intern_r26-01531": {
+      "application_url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:tel.wd3.myworkdayjobs.com:software-engineer--ai-research-summer-2027-intern_r26-01531",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-09T20:40:56Z",
+      "http_status": 200,
+      "issue_number": 74,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-09T20:40:56Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-09T20:40:56Z",
       "status": "unavailable"
     },
     "workday:tencent.wd1.myworkdayjobs.com:tencent-cloud-cpaas-product-management-intern_r108019": {

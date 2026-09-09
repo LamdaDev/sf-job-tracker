@@ -25586,7 +25586,7 @@
     "4b9613c769efdd15f081fa2d5a588a52bb6f22dfcf3ca65f5fd36aaedadaef7f": {
       "application_scan_eligible": true,
       "created_at": "2026-09-09T20:40:45Z",
-      "issue_number": null,
+      "issue_number": 74,
       "job_ids": [
         "url:https://hover.to/job-posts/8187357?gh_jid=8187357",
         "url:https://www.google.com/about/careers/applications/jobs/results/99532077367468742",
@@ -25599,7 +25599,7 @@
         "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531",
         "https://www.google.com/about/careers/applications/jobs/results/99532077367468742"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "50ce491ae99add1aaecf860b8481241dde523170d45bd3283abc412f1e7aa98b": {
       "application_scan_eligible": true,
