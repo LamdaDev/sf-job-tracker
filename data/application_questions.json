@@ -13126,6 +13126,69 @@
       "scanned_at": "2026-09-01T17:43:01Z",
       "status": "unavailable"
     },
+    "url:https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315": {
+      "application_url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-09T03:54:03Z",
+      "http_status": 200,
+      "issue_number": 72,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-09T03:54:03Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-09T03:54:03Z",
+      "status": "unavailable"
+    },
+    "url:https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441": {
+      "application_url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-09T03:54:04Z",
+      "http_status": 200,
+      "issue_number": 72,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-09T03:54:04Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-09T03:54:04Z",
+      "status": "unavailable"
+    },
+    "url:https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459": {
+      "application_url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-09T03:54:05Z",
+      "http_status": 200,
+      "issue_number": 72,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-09T03:54:05Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-09T03:54:05Z",
+      "status": "unavailable"
+    },
     "url:https://www.driveseres.com/career?gh_jid=8146278": {
       "application_url": "https://www.driveseres.com/career/?gh_jid=8146278",
       "attempt_count": 1,
