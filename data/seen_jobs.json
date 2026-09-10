@@ -1974,6 +1974,60 @@
         "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155"
       ]
     },
+    "ashby:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b": {
+      "active": true,
+      "age": "2d",
+      "application_url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+      "canonical_id": "ashby:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+      "category": "Unknown",
+      "company": "Cursor",
+      "first_seen": "2026-09-10T08:46:50Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-10T08:46:50Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer, New Grad 2027",
+      "posted": "2026-09-08",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "2d",
+          "application_url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+          "category": "Unknown",
+          "company": "Cursor",
+          "first_seen": "2026-09-10T08:46:50Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-10T08:46:50Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, New Grad 2027",
+          "posted": "2026-09-08",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "37baf769-069f-40b0-ba97-9a6eb7bc133b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "2d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-10T08:46:19.515Z",
+            "id": "37baf769-069f-40b0-ba97-9a6eb7bc133b",
+            "listingUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+            "matchKind": "explicit",
+            "posted": "2026-09-08",
+            "url": "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
+      ]
+    },
     "ashby:cylake-inc:1d1ac42e-299c-42af-bd7c-b8c5fb07f735": {
       "active": true,
       "age": "55d",
@@ -10712,7 +10766,7 @@
       "first_seen": "2026-08-17T17:45:31Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-10T03:46:06Z",
+      "last_seen": "2026-09-10T08:46:50Z",
       "location": "San Jose, CA",
       "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
       "posted": null,
@@ -10723,12 +10777,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-10T03:46:06Z",
+          "last_seen": "2026-09-10T08:46:50Z",
           "location": "San Jose, CA",
           "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
           "posted": null,
@@ -19629,14 +19683,14 @@
       ]
     },
     "url:https://www.observe.ai/position?gh_jid=5383979008": {
-      "active": true,
+      "active": false,
       "age": "7d",
       "application_url": "https://www.observe.ai/position?gh_jid=5383979008",
       "canonical_id": "url:https://www.observe.ai/position?gh_jid=5383979008",
       "category": "Unknown",
       "company": "Observe.AI",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-10T08:46:50Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-02T08:34:34Z",
       "location": "Redwood City, CA",
@@ -19646,13 +19700,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "23d",
           "application_url": "https://www.observe.ai/position?gh_jid=5383979008",
           "category": "Unknown",
           "company": "Observe.AI",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-10T08:46:50Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-02T08:34:34Z",
           "location": "Redwood City, CA",
@@ -26389,6 +26443,18 @@
         "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1"
       ],
       "status": "sent"
+    },
+    "cd950b4043248ef03aa4f43146d673531d0771792fef7ddadf633975642049bc": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-10T08:46:50Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
+      ],
+      "job_urls": [
+        "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
+      ],
+      "status": "pending"
     },
     "ce7313245413f52b4784253d179f455cddf875463006875aab4543b961e10af9": {
       "application_scan_eligible": true,
