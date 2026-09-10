@@ -4,10 +4,12 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (357)
+## Active Jobs (359)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Handshake | Software Engineer I, Quality | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-09-10T13:24:30Z | 2026-09-10T13:24:30Z | Yes | [Apply](<https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e>) |
+| Replit | Software Engineer - New Grad (2027) | New Grad | Unknown | Foster City, CA | ApplyGuy | N/A | 2026-09-10T13:24:30Z | 2026-09-10T13:24:30Z | Yes | [Apply](<https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc>) |
 | Cursor | Software Engineer, New Grad 2027 | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-09-10T08:46:50Z | 2026-09-10T08:46:50Z | Yes | [Apply](<https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b>) |
 | Generalmotors | Software Engineer, AV Frameworks – Early Career | New Grad | Unknown | Sunnyvale, CA | ApplyGuy | N/A | 2026-09-10T03:46:06Z | 2026-09-10T03:46:06Z | Yes | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943>) |
 | Instabase | Software Engineer - Early Careers | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-09-10T03:46:06Z | 2026-09-10T03:46:06Z | Yes | [Apply](<https://job-boards.greenhouse.io/instabase/jobs/8783218002>) |
@@ -56,7 +58,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Waymo | 2027 Summer Intern - BS - SysEng Software Engineer | Internship | Other | Mountain View, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-03T20:43:16Z | 2026-09-04T17:27:22Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8174099>) |
 | Adobe | 2027 Intern - Software Engineer | Internship | FAANG+ | Seattle, WA \| SF \| Austin, TX \| San Jose, CA \| Waltham, MA \| NYC \| Lehi, UT | ApplyGuy, Simplify, SpeedyApply | $55/hr | 2026-09-03T17:39:07Z | 2026-09-04T17:27:22Z | Yes | [Apply](<https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666>) |
 | Applied Intuition | Cybersecurity Software Engineer - New Grad - December 2027 | New Grad | Other | Sunnyvale, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-03T17:39:07Z | 2026-09-04T13:16:46Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e>) |
-| ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓 | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-09-03T17:39:07Z | 2026-09-10T03:46:06Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify>) |
+| ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓 | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-09-03T17:39:07Z | 2026-09-10T13:24:30Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify>) |
 | Lyft | Software Engineer | New Grad | FAANG+ | San Francisco, CA | SpeedyApply | $206k/yr | 2026-09-03T17:39:07Z | 2026-09-03T17:39:07Z | Yes | [Apply](<https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002>) |
 | PayPal | Software Engineer - Cloud Infrastructure and Devops | New Grad | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-03T17:39:07Z | 2026-09-03T17:39:07Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771>) |
 | PayPal | Software Engineer- Cloud Infrastructure and DevOps | New Grad | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-03T17:39:07Z | 2026-09-03T17:39:07Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1>) |

@@ -1494,6 +1494,52 @@
         "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523"
       ]
     },
+    "ashby:handshake:2f936add-3a94-48d9-9759-90c1e2c64d3e": {
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e",
+      "canonical_id": "ashby:handshake:2f936add-3a94-48d9-9759-90c1e2c64d3e",
+      "category": "Unknown",
+      "company": "Handshake",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer I, Quality",
+      "posted": "2026-09-09",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e",
+          "category": "Unknown",
+          "company": "Handshake",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer I, Quality",
+          "posted": "2026-09-09",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "a64f2965-e380-4618-ae44-dad119c42b6b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-10T13:15:38.804Z",
+            "id": "a64f2965-e380-4618-ae44-dad119c42b6b",
+            "listingUrl": "https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e",
+            "matchKind": "entry_level",
+            "posted": "2026-09-09",
+            "url": "https://applyguy.ai/jobs?company=Handshake&job=a64f2965-e380-4618-ae44-dad119c42b6b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Handshake&job=a64f2965-e380-4618-ae44-dad119c42b6b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Handshake&job=a64f2965-e380-4618-ae44-dad119c42b6b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e"
+      ]
+    },
     "ashby:handshake:9a93ec72-d396-4971-8d4c-222094f9c5a3": {
       "age": "17d",
       "application_url": "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3",
@@ -2772,6 +2818,52 @@
         "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
         "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true&utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/7e21b76f-fae1-4564-9f64-456d019b46b2?utm_source=GHList"
+      ]
+    },
+    "ashby:replit:b5e81eae-06f9-4798-8988-2d06ca936dbc": {
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "canonical_id": "ashby:replit:b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "category": "Unknown",
+      "company": "Replit",
+      "job_type": "New Grad",
+      "location": "Foster City, CA",
+      "position": "Software Engineer - New Grad (2027)",
+      "posted": "2026-09-09",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+          "category": "Unknown",
+          "company": "Replit",
+          "job_type": "New Grad",
+          "location": "Foster City, CA",
+          "position": "Software Engineer - New Grad (2027)",
+          "posted": "2026-09-09",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "18128ad0-c691-4034-9968-7904e4a8ac2d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-10T13:15:38.804Z",
+            "id": "18128ad0-c691-4034-9968-7904e4a8ac2d",
+            "listingUrl": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+            "matchKind": "explicit",
+            "posted": "2026-09-09",
+            "url": "https://applyguy.ai/jobs?company=Replit&job=18128ad0-c691-4034-9968-7904e4a8ac2d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Replit&job=18128ad0-c691-4034-9968-7904e4a8ac2d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Replit&job=18128ad0-c691-4034-9968-7904e4a8ac2d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
       ]
     },
     "ashby:retell-ai:46400d61-feca-45f9-9000-563b8994f60f": {
@@ -7125,9 +7217,9 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "age": "26d",
+          "age": "27d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
