@@ -378,6 +378,27 @@
       "scanned_at": "2026-09-08T21:41:17Z",
       "status": "unavailable"
     },
+    "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4": {
+      "application_url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T03:46:10Z",
+      "http_status": 200,
+      "issue_number": 75,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T03:46:10Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-10T03:46:10Z",
+      "status": "unavailable"
+    },
     "ashby:sierra:149f368c-52d5-408f-ba26-ad888f318a00": {
       "application_url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
       "attempt_count": 1,
@@ -397,6 +418,27 @@
       "provider": "ashby",
       "questions": [],
       "scanned_at": "2026-09-01T17:42:31Z",
+      "status": "unavailable"
+    },
+    "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e": {
+      "application_url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T03:46:12Z",
+      "http_status": 200,
+      "issue_number": 75,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T03:46:12Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-10T03:46:12Z",
       "status": "unavailable"
     },
     "ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6": {
@@ -6973,6 +7015,224 @@
       "scanned_at": "2026-09-04T20:29:34Z",
       "status": "complete"
     },
+    "greenhouse:instabase:8783218002": {
+      "application_url": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:instabase:8783218002",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T03:46:14Z",
+      "http_status": 200,
+      "issue_number": 75,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T03:46:14Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 6,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_38190875002",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Graduation Date",
+          "options": [
+            "Dec 2025",
+            "May 2026",
+            "June 2026",
+            "July 2026"
+          ],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "location_logistics",
+          "field_name": "question_38190876002",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Target Start Date",
+          "options": [
+            "June 2026",
+            "July 2026"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_38190877002",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Area of Interest",
+          "options": [
+            "Product Engineering",
+            "Infrastructure Engineering"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_38190878002",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_38190879002",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Github Profile",
+          "options": [],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 15,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-10T03:46:14Z",
+      "status": "complete"
+    },
     "greenhouse:kikoff:4376677009": {
       "application_url": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009",
       "attempt_count": 1,
@@ -7297,6 +7557,366 @@
         }
       ],
       "scanned_at": "2026-09-03T08:42:48Z",
+      "status": "complete"
+    },
+    "greenhouse:pacificfusion:4398373009": {
+      "application_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:pacificfusion:4398373009",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T03:46:15Z",
+      "http_status": 200,
+      "issue_number": 75,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T03:46:15Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_7512862009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "This position may require access to information or technology that is subject to U.S. export control laws, such as ITAR or EAR. Under these regulations, we are required to ensure that such access is provided only to individuals who are classified as 'U.S. Persons.' Are you currently classified as a 'U.S. Person' under these regulations (e.g., a U.S. citizen, lawful permanent resident, or individual with protected status such as asylum or refugee status)?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_7512863009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you authorized to work in the United States?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_7512864009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you now or will you in the future require employment visa sponsorship?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_7512865009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Can you provide proof of employment eligibility upon hire?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_7512867009",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "Anything else you'd like to share?",
+          "options": [],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7512868009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7512869009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "question_7512870009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I confirm that the information I’ve shared in this application and resume is accurate and current. I understand that the organization may verify this information and conduct a background check as part of the hiring process. I acknowledge that providing false or incomplete information may affect my eligibility for employment.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_7533615009",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "I am able to work on site in either California or New Mexico, full time for a minimum of 12 consecutive weeks starting in May-June 2027",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_7533617009[]",
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "Preferred Internship Location",
+          "options": [
+            "California - Fremont, San Leandro, Livermore",
+            "New Mexico - Los Lunas"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 20,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your gender identity?",
+          "options": [],
+          "ordinal": 22,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your racial/ethnic background?",
+          "options": [],
+          "ordinal": 23,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your sexual orientation?",
+          "options": [],
+          "ordinal": 24,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you identify as transgender?",
+          "options": [],
+          "ordinal": 25,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?",
+          "options": [],
+          "ordinal": 26,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you a veteran or active member of the United States Armed Forces?",
+          "options": [],
+          "ordinal": 27,
+          "required": false,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-10T03:46:15Z",
       "status": "complete"
     },
     "greenhouse:scaleai:4730836005": {
@@ -14235,6 +14855,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-18T13:44:43Z",
+      "status": "unavailable"
+    },
+    "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer--av-frameworks---early-career_jr-202619943": {
+      "application_url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer--av-frameworks---early-career_jr-202619943",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T03:46:16Z",
+      "http_status": 200,
+      "issue_number": 75,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T03:46:16Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-10T03:46:16Z",
       "status": "unavailable"
     },
     "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772": {

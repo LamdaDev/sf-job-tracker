@@ -26421,7 +26421,7 @@
     "d328c430b85440d5fc7ab986b1baf336ec32d5d999651350bdfab753c01ad37b": {
       "application_scan_eligible": true,
       "created_at": "2026-09-10T03:46:06Z",
-      "issue_number": null,
+      "issue_number": 75,
       "job_ids": [
         "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4",
         "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e",
@@ -26436,7 +26436,7 @@
         "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
         "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "da368aaf9902676f8a4cb405642a1e56f908d87abe781ab5c4953297a64dc8b3": {
       "application_scan_eligible": true,
