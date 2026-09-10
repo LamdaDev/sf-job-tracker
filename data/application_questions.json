@@ -189,6 +189,27 @@
       "scanned_at": "2026-08-20T06:51:22Z",
       "status": "unavailable"
     },
+    "ashby:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b": {
+      "application_url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T08:46:53Z",
+      "http_status": 200,
+      "issue_number": 76,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T08:46:53Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-10T08:46:53Z",
+      "status": "unavailable"
+    },
     "ashby:greptile:ce412761-a605-4540-9fb5-624c67ba2b02": {
       "application_url": "https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02",
       "attempt_count": 1,

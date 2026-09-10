@@ -26447,14 +26447,14 @@
     "cd950b4043248ef03aa4f43146d673531d0771792fef7ddadf633975642049bc": {
       "application_scan_eligible": true,
       "created_at": "2026-09-10T08:46:50Z",
-      "issue_number": null,
+      "issue_number": 76,
       "job_ids": [
         "ashby:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
       ],
       "job_urls": [
         "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "ce7313245413f52b4784253d179f455cddf875463006875aab4543b961e10af9": {
       "application_scan_eligible": true,
