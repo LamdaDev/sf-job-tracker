@@ -42,6 +42,27 @@
       "scanned_at": "2026-08-26T19:05:24Z",
       "status": "unavailable"
     },
+    "amazon:10517662": {
+      "application_url": "https://www.amazon.jobs/applicant/dashboard/applications",
+      "attempt_count": 1,
+      "canonical_job_id": "amazon:10517662",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T17:33:59Z",
+      "http_status": 200,
+      "issue_number": 78,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T17:33:59Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-10T17:33:59Z",
+      "status": "unavailable"
+    },
     "ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba": {
       "application_url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
       "attempt_count": 1,
@@ -145,6 +166,27 @@
       "provider": "ashby",
       "questions": [],
       "scanned_at": "2026-09-01T17:42:29Z",
+      "status": "unavailable"
+    },
+    "ashby:clera:63d532c2-6e12-4ad4-a599-9a756cd3ce12": {
+      "application_url": "https://jobs.ashbyhq.com/clera/63d532c2-6e12-4ad4-a599-9a756cd3ce12",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:clera:63d532c2-6e12-4ad4-a599-9a756cd3ce12",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T17:34:03Z",
+      "http_status": 200,
+      "issue_number": 78,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T17:34:03Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-10T17:34:03Z",
       "status": "unavailable"
     },
     "ashby:clera:cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2": {
@@ -13725,6 +13767,26 @@
       "scanned_at": "2026-08-29T06:18:34Z",
       "status": "unavailable"
     },
+    "url:https://jobs.smartrecruiters.com/ServiceNow/744000148581229-software-engineer?oga=true": {
+      "application_url": "https://jobs.smartrecruiters.com/ServiceNow/744000148581229-software-engineer?oga=true",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://jobs.smartrecruiters.com/ServiceNow/744000148581229-software-engineer?oga=true",
+      "completeness_reason": "Public application page requires authentication or denies access.",
+      "error_message": "PublicFetchError while fetching the public application page.",
+      "error_type": "PublicFetchError",
+      "first_scanned": "2026-09-10T17:34:05Z",
+      "http_status": 403,
+      "issue_number": 78,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T17:34:05Z",
+      "metadata": {
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-10T17:34:05Z",
+      "status": "unavailable"
+    },
     "url:https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics": {
       "application_url": "https://jobs.workable.com/view/d9MNm97TrQsBDArWKrazjv/software-engineering-intern-in-south-san-francisco-at-western-magnetics",
       "attempt_count": 1,
@@ -14603,6 +14665,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-08-28T23:55:26Z",
+      "status": "unavailable"
+    },
+    "workday:adobe.wd5.myworkdayjobs.com:quality-engineering-developer---mobile_r171332": {
+      "application_url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Quality-Engineering-Developer---Mobile_R171332",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:adobe.wd5.myworkdayjobs.com:quality-engineering-developer---mobile_r171332",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T17:34:07Z",
+      "http_status": 200,
+      "issue_number": 78,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T17:34:07Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-10T17:34:07Z",
       "status": "unavailable"
     },
     "workday:adobe.wd5.myworkdayjobs.com:xmlname-2027-intern---machine-learning-engineer_r171519": {

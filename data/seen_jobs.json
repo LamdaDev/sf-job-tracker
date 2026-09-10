@@ -26845,7 +26845,7 @@
     "c191593beacc2d6881e6c687a0599e4c4d097ad04c64ec9d88f5dcc5c41ba07f": {
       "application_scan_eligible": true,
       "created_at": "2026-09-10T17:33:54Z",
-      "issue_number": null,
+      "issue_number": 78,
       "job_ids": [
         "amazon:10517662",
         "ashby:clera:63d532c2-6e12-4ad4-a599-9a756cd3ce12",
@@ -26858,7 +26858,7 @@
         "https://jobs.smartrecruiters.com/ServiceNow/744000148581229-software-engineer?oga=true",
         "https://www.amazon.jobs/jobs/10517662/apply"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "c60ffabcafaa4949539abae96133bcbba008b7a5cf66798056b5486519a2c494": {
       "application_scan_eligible": true,
