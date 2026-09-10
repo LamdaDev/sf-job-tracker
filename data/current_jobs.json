@@ -2975,6 +2975,52 @@
         "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b"
       ]
     },
+    "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4": {
+      "age": "9d",
+      "application_url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
+      "canonical_id": "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4",
+      "category": "Software Engineering",
+      "company": "Sierra",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern, Agent (Winter 2027)",
+      "posted": "2026-09-01",
+      "salary": null,
+      "season": "Winter 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "9d",
+          "application_url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
+          "category": "Software Engineering",
+          "company": "Sierra",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern, Agent (Winter 2027)",
+          "posted": "2026-09-01",
+          "salary": null,
+          "season": "Winter 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "a691c05c-6601-4381-968f-b61807df963d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "9d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-10T03:45:44.077Z",
+            "id": "a691c05c-6601-4381-968f-b61807df963d",
+            "listingUrl": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
+            "posted": "2026-09-01",
+            "season": "Winter 2027",
+            "url": "https://applyguy.ai/jobs?company=Sierra&job=a691c05c-6601-4381-968f-b61807df963d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Sierra&job=a691c05c-6601-4381-968f-b61807df963d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Sierra&job=a691c05c-6601-4381-968f-b61807df963d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4"
+      ]
+    },
     "ashby:sierra:149f368c-52d5-408f-ba26-ad888f318a00": {
       "age": "0d",
       "application_url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
@@ -3037,6 +3083,52 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Sierra&job=a380b713-d31f-4984-9963-e6d340c41b24&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00"
+      ]
+    },
+    "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e": {
+      "age": "10d",
+      "application_url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+      "canonical_id": "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e",
+      "category": "Software Engineering",
+      "company": "Sierra",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern, Agent (Summer 2027)",
+      "posted": "2026-08-31",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "10d",
+          "application_url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+          "category": "Software Engineering",
+          "company": "Sierra",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern, Agent (Summer 2027)",
+          "posted": "2026-08-31",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "30dbd36c-4903-4b17-a838-6b8a10240cf9",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "10d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-10T03:45:44.077Z",
+            "id": "30dbd36c-4903-4b17-a838-6b8a10240cf9",
+            "listingUrl": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+            "posted": "2026-08-31",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Sierra&job=30dbd36c-4903-4b17-a838-6b8a10240cf9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Sierra&job=30dbd36c-4903-4b17-a838-6b8a10240cf9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Sierra&job=30dbd36c-4903-4b17-a838-6b8a10240cf9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"
       ]
     },
     "ashby:terranova:8fdce1f7-a1df-4e64-8f10-c78771a399da": {
@@ -4564,6 +4656,52 @@
         "https://simplify.jobs/p/48deab81-0a6d-4ccd-9930-4461d39615e6?utm_source=GHList"
       ]
     },
+    "greenhouse:instabase:8783218002": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
+      "canonical_id": "greenhouse:instabase:8783218002",
+      "category": "Unknown",
+      "company": "Instabase",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - Early Careers",
+      "posted": "2026-09-09",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
+          "category": "Unknown",
+          "company": "Instabase",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Early Careers",
+          "posted": "2026-09-09",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "b2892be1-43dc-476a-b8b6-2e88b2c6bccd",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-10T03:31:02.840Z",
+            "id": "b2892be1-43dc-476a-b8b6-2e88b2c6bccd",
+            "listingUrl": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
+            "matchKind": "explicit",
+            "posted": "2026-09-09",
+            "url": "https://applyguy.ai/jobs?company=Instabase&job=b2892be1-43dc-476a-b8b6-2e88b2c6bccd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Instabase&job=b2892be1-43dc-476a-b8b6-2e88b2c6bccd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Instabase&job=b2892be1-43dc-476a-b8b6-2e88b2c6bccd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://job-boards.greenhouse.io/instabase/jobs/8783218002"
+      ]
+    },
     "greenhouse:ionq:6096581004": {
       "age": "58d",
       "application_url": "https://job-boards.greenhouse.io/ionq/jobs/6096581004",
@@ -4816,6 +4954,74 @@
       },
       "url_aliases": [
         "https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008"
+      ]
+    },
+    "greenhouse:pacificfusion:4398373009": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
+      "canonical_id": "greenhouse:pacificfusion:4398373009",
+      "category": "Software Engineering",
+      "company": "Pacific Fusion",
+      "job_type": "Internship",
+      "location": "Fremont, CA | Los Lunas, NM | San Leandro, CA",
+      "position": "Summer 2027 Internship- Software Engineering",
+      "posted": "2026-09-09",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
+          "category": "Software Engineering",
+          "company": "Pacific Fusion",
+          "job_type": "Internship",
+          "location": "San Leandro, CA",
+          "position": "Summer 2027 Internship- Software Engineering",
+          "posted": "2026-09-09",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "e265cb53-9183-49c1-a8bd-6eeddb804eeb",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-10T03:45:44.077Z",
+            "id": "e265cb53-9183-49c1-a8bd-6eeddb804eeb",
+            "listingUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
+            "posted": "2026-09-09",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Pacific+Fusion&job=e265cb53-9183-49c1-a8bd-6eeddb804eeb&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Pacific+Fusion&job=e265cb53-9183-49c1-a8bd-6eeddb804eeb&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Pacific Fusion",
+          "job_type": "Internship",
+          "location": "Fremont, CA | Los Lunas, NM | San Leandro, CA",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "21bac346-8a08-470a-8e10-bec8ed7eeaab",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/21bac346-8a08-470a-8e10-bec8ed7eeaab?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/21bac346-8a08-470a-8e10-bec8ed7eeaab?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Pacific+Fusion&job=e265cb53-9183-49c1-a8bd-6eeddb804eeb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
+        "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/21bac346-8a08-470a-8e10-bec8ed7eeaab?utm_source=GHList"
       ]
     },
     "greenhouse:ridgeline:7784169003": {
@@ -6680,7 +6886,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -6875,7 +7081,7 @@
         "simplify_summer_2027": {
           "age": "26d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -14769,6 +14975,52 @@
       },
       "url_aliases": [
         "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759"
+      ]
+    },
+    "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer--av-frameworks---early-career_jr-202619943": {
+      "age": "1d",
+      "application_url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+      "canonical_id": "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer--av-frameworks---early-career_jr-202619943",
+      "category": "Unknown",
+      "company": "Generalmotors",
+      "job_type": "New Grad",
+      "location": "Sunnyvale, CA",
+      "position": "Software Engineer, AV Frameworks – Early Career",
+      "posted": "2026-09-09",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+          "category": "Unknown",
+          "company": "Generalmotors",
+          "job_type": "New Grad",
+          "location": "Sunnyvale, CA",
+          "position": "Software Engineer, AV Frameworks – Early Career",
+          "posted": "2026-09-09",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "b5995c0b-1ab4-4718-b5df-22490a66ccd2",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-10T03:31:02.840Z",
+            "id": "b5995c0b-1ab4-4718-b5df-22490a66ccd2",
+            "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+            "matchKind": "explicit",
+            "posted": "2026-09-09",
+            "url": "https://applyguy.ai/jobs?company=Generalmotors&job=b5995c0b-1ab4-4718-b5df-22490a66ccd2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Generalmotors&job=b5995c0b-1ab4-4718-b5df-22490a66ccd2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Generalmotors&job=b5995c0b-1ab4-4718-b5df-22490a66ccd2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943"
       ]
     },
     "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772": {
