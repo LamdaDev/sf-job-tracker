@@ -231,6 +231,27 @@
       "scanned_at": "2026-08-22T13:34:18Z",
       "status": "unavailable"
     },
+    "ashby:handshake:2f936add-3a94-48d9-9759-90c1e2c64d3e": {
+      "application_url": "https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:handshake:2f936add-3a94-48d9-9759-90c1e2c64d3e",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T13:24:34Z",
+      "http_status": 200,
+      "issue_number": 77,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T13:24:34Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-10T13:24:34Z",
+      "status": "unavailable"
+    },
     "ashby:juicebox:1af7ec98-9c2e-4101-868e-58e6f35cd23a": {
       "application_url": "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a",
       "attempt_count": 1,
@@ -334,6 +355,27 @@
       "provider": "ashby",
       "questions": [],
       "scanned_at": "2026-08-26T01:27:19Z",
+      "status": "unavailable"
+    },
+    "ashby:replit:b5e81eae-06f9-4798-8988-2d06ca936dbc": {
+      "application_url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:replit:b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-10T13:24:36Z",
+      "http_status": 200,
+      "issue_number": 77,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-10T13:24:36Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-10T13:24:36Z",
       "status": "unavailable"
     },
     "ashby:rivianvw.tech:b6017142-1123-4999-8c04-d6d3b897f8d9": {
