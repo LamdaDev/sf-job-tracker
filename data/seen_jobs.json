@@ -26893,7 +26893,7 @@
     "a30318d8bd6b0bf7fd34d6d66c575456b730876a84624d50e3461de3a113b95a": {
       "application_scan_eligible": true,
       "created_at": "2026-09-11T05:49:00Z",
-      "issue_number": null,
+      "issue_number": 80,
       "job_ids": [
         "greenhouse:skhynixmemorysolutionsamericainc:4402959009",
         "greenhouse:tanium:8181017",
@@ -26904,7 +26904,7 @@
         "https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify",
         "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "a324846b7ebe6d85fca0417b4923337917d42ac5c0c74fa431b449b5e3d69fe5": {
       "application_scan_eligible": true,

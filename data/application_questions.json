@@ -8757,6 +8757,277 @@
       "scanned_at": "2026-09-02T08:34:41Z",
       "status": "complete"
     },
+    "greenhouse:skhynixmemorysolutionsamericainc:4402959009": {
+      "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:skhynixmemorysolutionsamericainc:4402959009",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-11T05:49:05Z",
+      "http_status": 200,
+      "issue_number": 80,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-11T05:49:05Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7556979009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_7556980009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_7556981009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "When do you graduate?",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_7556982009",
+          "field_type": "long_text",
+          "is_custom": false,
+          "label": "If you have not graduated yet, how do plan to work 40 hours for this internship?",
+          "options": [],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_7556983009",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "This role requires you to work onsite 5 days a week at our San Jose location. Is that a requirement you can meet?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_7556984009",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Can you complete a 6 month internship starting immediately?",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_7556985009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "What is your current work authorization?",
+          "options": [],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_7556986009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now or in the future require sponsorship to work in the U.S.?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "location_logistics",
+          "field_name": "question_7556987009",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "If you are not located in San Jose, CA are you willing to relocate?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 20,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-11T05:49:05Z",
+      "status": "complete"
+    },
     "greenhouse:sonyinteractiveentertainmentglobal:6145057004": {
       "application_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145057004",
       "attempt_count": 1,
@@ -9069,6 +9340,316 @@
         }
       ],
       "scanned_at": "2026-08-25T13:53:08Z",
+      "status": "complete"
+    },
+    "greenhouse:tanium:8181017": {
+      "application_url": "https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:tanium:8181017",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-11T05:49:06Z",
+      "http_status": 200,
+      "issue_number": 80,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-11T05:49:06Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_69003349",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_69003350",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "What is your current GPA?",
+          "options": [
+            "Below 3.0",
+            "3.0 - 3.29",
+            "3.3 - 3.49",
+            "3.5 - 3.69",
+            "3.7 - 3.79",
+            "3.8 - 4.0",
+            "Other"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_69003351",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "What degree are you currently pursuing?",
+          "options": [
+            "Associates",
+            "Bachelor's",
+            "Master's",
+            "PhD"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_69003352",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "What is your expected graduation date?",
+          "options": [
+            "Before Fall 2027",
+            "Fall 2027",
+            "Spring 2028",
+            "Summer 2028",
+            "After Summer 2028"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_69003353",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "How did you hear about Tanium?",
+          "options": [],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_69003354",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "How did you hear about this job?",
+          "options": [
+            "LinkedIn",
+            "Indeed",
+            "Glassdoor",
+            "University Job Board (e.g. Handshake)",
+            "Google Search",
+            "Tanium Website",
+            "Tanium Recruiter",
+            "Former Employee",
+            "Employee Referral",
+            "Interned with us before",
+            "Student organization",
+            "University fair or networking event",
+            "CyberSkyline",
+            "BreakLine",
+            "NPower",
+            "VetsInTech",
+            "YearUp",
+            "Other"
+          ],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_69003355",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "If you selected Employee Referral, Student Organization, University fair or networking event, or Other, please specify below (e.g., name of employee, organization, or event).",
+          "options": [],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_69003356",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "This is a hybrid position, which requires in person attendance a minimum of 3 days each week in Durham, NC; Addison, TX; Bellevue, WA; or Emeryville, CA. Are you able to meet this requirement?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_69003357",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Does your work authorization require Tanium to sponsor or renew an employment-based visa now or in the future?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_69003358",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you lawfully authorized to work in the US or can you provide proof of employment eligibility upon hire?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 18,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender: What gender do you most closely identify with?",
+          "options": [],
+          "ordinal": 19,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race/Ethnic Background: What ethnicity do you most closely identify with?",
+          "options": [],
+          "ordinal": 20,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Veteran Status: Are you a protected veteran?",
+          "options": [],
+          "ordinal": 21,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Disability Status: Please select one of the options below",
+          "options": [],
+          "ordinal": 22,
+          "required": true,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-11T05:49:06Z",
       "status": "complete"
     },
     "greenhouse:twitch:8748320002": {
@@ -15736,6 +16317,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-08T23:56:01Z",
+      "status": "unavailable"
+    },
+    "workday:walmart.wd504.myworkdayjobs.com:summer-2027-intern---software-engineer-ii_r-2630029-1": {
+      "application_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:walmart.wd504.myworkdayjobs.com:summer-2027-intern---software-engineer-ii_r-2630029-1",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-11T05:49:07Z",
+      "http_status": 200,
+      "issue_number": 80,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-11T05:49:07Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-11T05:49:07Z",
       "status": "unavailable"
     }
   },
