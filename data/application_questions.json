@@ -147,6 +147,48 @@
       "scanned_at": "2026-08-25T13:53:07Z",
       "status": "unavailable"
     },
+    "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8": {
+      "application_url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-11T00:57:59Z",
+      "http_status": 200,
+      "issue_number": 79,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-11T00:57:59Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-11T00:57:59Z",
+      "status": "unavailable"
+    },
+    "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1": {
+      "application_url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-11T00:58:00Z",
+      "http_status": 200,
+      "issue_number": 79,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-11T00:58:00Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-11T00:58:00Z",
+      "status": "unavailable"
+    },
     "ashby:clera:431bb19f-3118-4184-9fc9-65179adbb139": {
       "application_url": "https://jobs.ashbyhq.com/clera/431bb19f-3118-4184-9fc9-65179adbb139",
       "attempt_count": 1,

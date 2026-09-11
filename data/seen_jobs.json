@@ -26524,7 +26524,7 @@
     "5c03523a3b195134862090851f347ba623b8e495070f97b9af9ac43a3924d6e4": {
       "application_scan_eligible": true,
       "created_at": "2026-09-11T00:57:56Z",
-      "issue_number": null,
+      "issue_number": 79,
       "job_ids": [
         "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
         "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1"
@@ -26533,7 +26533,7 @@
         "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8",
         "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "61bb933df77ead62533210f77d3eecf0124322bc609d0efc2a9b78c5545c5f97": {
       "application_scan_eligible": true,
