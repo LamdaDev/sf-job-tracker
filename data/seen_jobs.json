@@ -1810,6 +1810,60 @@
         "https://jobs.ashbyhq.com/clera/d1a632c6-648f-4457-bdff-8dd188e292ab"
       ]
     },
+    "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
+      "canonical_id": "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3",
+      "category": "Software Engineering",
+      "company": "Commure",
+      "first_seen": "2026-09-11T21:35:42Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-11T21:35:42Z",
+      "location": "Mountain View, CA",
+      "position": "Software Engineering Intern, Summer 2027",
+      "posted": "2026-09-11",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
+          "category": "Software Engineering",
+          "company": "Commure",
+          "first_seen": "2026-09-11T21:35:42Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-11T21:35:42Z",
+          "location": "Mountain View, CA",
+          "position": "Software Engineering Intern, Summer 2027",
+          "posted": "2026-09-11",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "fa50ca20-f808-42fc-883e-b69093786392",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-11T21:30:20.389Z",
+            "id": "fa50ca20-f808-42fc-883e-b69093786392",
+            "listingUrl": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
+            "posted": "2026-09-11",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Commure&job=fa50ca20-f808-42fc-883e-b69093786392&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Commure&job=fa50ca20-f808-42fc-883e-b69093786392&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Commure&job=fa50ca20-f808-42fc-883e-b69093786392&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3"
+      ]
+    },
     "ashby:composio:01e0e7ad-44a2-44e8-9340-64ca70eff491": {
       "active": true,
       "age": "3d",
@@ -9503,6 +9557,60 @@
         "https://job-boards.greenhouse.io/vantagescore/jobs/4305333009"
       ]
     },
+    "greenhouse:veeamsoftware:4955293101": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101",
+      "canonical_id": "greenhouse:veeamsoftware:4955293101",
+      "category": "Software Engineering",
+      "company": "Veeam Software",
+      "first_seen": "2026-09-11T21:35:42Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-11T21:35:42Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineering Intern - Summer 2027",
+      "posted": "2026-09-11",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101",
+          "category": "Software Engineering",
+          "company": "Veeam Software",
+          "first_seen": "2026-09-11T21:35:42Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-11T21:35:42Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineering Intern - Summer 2027",
+          "posted": "2026-09-11",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "736f0d37-3363-4a40-9482-d2af0fe47977",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-11T21:30:20.389Z",
+            "id": "736f0d37-3363-4a40-9482-d2af0fe47977",
+            "listingUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101",
+            "posted": "2026-09-11",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Veeam+Software&job=736f0d37-3363-4a40-9482-d2af0fe47977&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Veeam+Software&job=736f0d37-3363-4a40-9482-d2af0fe47977&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Veeam+Software&job=736f0d37-3363-4a40-9482-d2af0fe47977&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101"
+      ]
+    },
     "greenhouse:vercel:6161129004": {
       "active": false,
       "age": "1d",
@@ -17027,6 +17135,60 @@
         "https://lifeattiktok.com/search/7683307062865266949"
       ]
     },
+    "url:https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+      "canonical_id": "url:https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+      "category": "Software Engineering",
+      "company": "Lyft",
+      "first_seen": "2026-09-11T21:35:42Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-11T21:35:42Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern, Backend (Summer 2027)",
+      "posted": "2026-09-11",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+          "category": "Software Engineering",
+          "company": "Lyft",
+          "first_seen": "2026-09-11T21:35:42Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-11T21:35:42Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern, Backend (Summer 2027)",
+          "posted": "2026-09-11",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "0473a034-d696-4f30-8621-524e6fb6b2f7",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-11T21:30:20.389Z",
+            "id": "0473a034-d696-4f30-8621-524e6fb6b2f7",
+            "listingUrl": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+            "posted": "2026-09-11",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Lyft&job=0473a034-d696-4f30-8621-524e6fb6b2f7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Lyft&job=0473a034-d696-4f30-8621-524e6fb6b2f7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+        "https://applyguy.ai/jobs?company=Lyft&job=0473a034-d696-4f30-8621-524e6fb6b2f7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+      ]
+    },
     "url:https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002": {
       "active": true,
       "age": "1d",
@@ -20629,6 +20791,60 @@
       "url_aliases": [
         "https://simplify.jobs/p/8b46d013-f73a-4d7b-bd75-7775fa71d342?utm_source=GHList",
         "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify"
+      ]
+    },
+    "url:https://www.weareroku.com/jobs/8188714?gh_jid=8188714": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://www.weareroku.com/jobs/8188714?gh_jid=8188714",
+      "canonical_id": "url:https://www.weareroku.com/jobs/8188714?gh_jid=8188714",
+      "category": "Unknown",
+      "company": "Roku",
+      "first_seen": "2026-09-11T21:35:42Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-11T21:35:42Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer, Early Careers focused on AI and UI",
+      "posted": "2026-09-11",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://www.weareroku.com/jobs/8188714?gh_jid=8188714",
+          "category": "Unknown",
+          "company": "Roku",
+          "first_seen": "2026-09-11T21:35:42Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-11T21:35:42Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer, Early Careers focused on AI and UI",
+          "posted": "2026-09-11",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "cfd344fc-5811-4ba4-b7ba-09a4e643930a",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-11T21:31:19.385Z",
+            "id": "cfd344fc-5811-4ba4-b7ba-09a4e643930a",
+            "listingUrl": "https://www.weareroku.com/jobs/8188714?gh_jid=8188714",
+            "matchKind": "explicit",
+            "posted": "2026-09-11",
+            "url": "https://applyguy.ai/jobs?company=Roku&job=cfd344fc-5811-4ba4-b7ba-09a4e643930a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Roku&job=cfd344fc-5811-4ba4-b7ba-09a4e643930a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Roku&job=cfd344fc-5811-4ba4-b7ba-09a4e643930a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://www.weareroku.com/jobs/8188714?gh_jid=8188714"
       ]
     },
     "url:https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003": {
@@ -27023,6 +27239,24 @@
         "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"
       ],
       "status": "sent"
+    },
+    "9e82bc35c86a776cdc91e05191d9a3acc16c50c66e157e70c9d02de7f43741dd": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-11T21:35:42Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3",
+        "greenhouse:veeamsoftware:4955293101",
+        "url:https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+        "url:https://www.weareroku.com/jobs/8188714?gh_jid=8188714"
+      ],
+      "job_urls": [
+        "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+        "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101",
+        "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
+        "https://www.weareroku.com/jobs/8188714?gh_jid=8188714"
+      ],
+      "status": "pending"
     },
     "a0492dd774bba9c037f6f5d9c004132b17509d464acdbfd6e9b45519cdceeb8b": {
       "application_scan_eligible": true,

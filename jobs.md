@@ -4,10 +4,14 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (361)
+## Active Jobs (365)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Commure | Software Engineering Intern, Summer 2027 | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-11T21:35:42Z | 2026-09-11T21:35:42Z | Yes | [Apply](<https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3>) |
+| Lyft | Software Engineer Intern, Backend (Summer 2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-11T21:35:42Z | 2026-09-11T21:35:42Z | Yes | [Apply](<https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002>) |
+| Roku | Software Engineer, Early Careers focused on AI and UI | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-09-11T21:35:42Z | 2026-09-11T21:35:42Z | Yes | [Apply](<https://www.weareroku.com/jobs/8188714?gh_jid=8188714>) |
+| Veeam Software | Software Engineering Intern - Summer 2027 | Internship | Software Engineering | San Jose, CA | ApplyGuy | N/A | 2026-09-11T21:35:42Z | 2026-09-11T21:35:42Z | Yes | [Apply](<https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101>) |
 | Maxima | Software Engineer - Intern | Internship | Other | San Mateo, CA | SpeedyApply | N/A | 2026-09-11T18:16:04Z | 2026-09-11T18:16:04Z | Yes | [Apply](<https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74>) |
 | TikTok | Site Reliability Engineer - Video System - USDS - Multiple Positions | New Grad | FAANG+ | San Jose, CA | SpeedyApply | $202k/yr | 2026-09-11T18:16:04Z | 2026-09-11T18:16:04Z | Yes | [Apply](<https://lifeattiktok.com/search/7683307062865266949>) |
 | TikTok | Software Development Engineer in Test - Multiple Positions | New Grad | FAANG+ | San Jose, CA | SpeedyApply | $202k/yr | 2026-09-11T18:16:04Z | 2026-09-11T18:16:04Z | Yes | [Apply](<https://lifeattiktok.com/search/7683245091641411845>) |
