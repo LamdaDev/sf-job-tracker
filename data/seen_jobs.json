@@ -8765,6 +8765,60 @@
         "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009"
       ]
     },
+    "greenhouse:skhynixmemorysolutionsamericainc:4402959009": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009",
+      "canonical_id": "greenhouse:skhynixmemorysolutionsamericainc:4402959009",
+      "category": "Software Engineering",
+      "company": "SK hynix memory solutions America Inc.",
+      "first_seen": "2026-09-11T05:49:00Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-11T05:49:00Z",
+      "location": "San Jose, CA",
+      "position": "Software Engineer Intern",
+      "posted": "2026-09-10",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009",
+          "category": "Software Engineering",
+          "company": "SK hynix memory solutions America Inc.",
+          "first_seen": "2026-09-11T05:49:00Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-11T05:49:00Z",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern",
+          "posted": "2026-09-10",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "5399b7f2-bb74-4e2c-ae83-4cc4b138a30d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-11T05:45:25.601Z",
+            "id": "5399b7f2-bb74-4e2c-ae83-4cc4b138a30d",
+            "listingUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009",
+            "posted": "2026-09-10",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=5399b7f2-bb74-4e2c-ae83-4cc4b138a30d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=5399b7f2-bb74-4e2c-ae83-4cc4b138a30d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=5399b7f2-bb74-4e2c-ae83-4cc4b138a30d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009"
+      ]
+    },
     "greenhouse:sonyinteractiveentertainmentglobal:6145057004": {
       "active": true,
       "age": "0d",
@@ -8898,6 +8952,53 @@
       },
       "url_aliases": [
         "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002"
+      ]
+    },
+    "greenhouse:tanium:8181017": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "greenhouse:tanium:8181017",
+      "category": "Unknown",
+      "company": "Tanium",
+      "first_seen": "2026-09-11T05:49:00Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-11T05:49:00Z",
+      "location": "Emeryville, CA | Durham, NC",
+      "position": "Software Engineer Intern - Summer 2027",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Tanium",
+          "first_seen": "2026-09-11T05:49:00Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-11T05:49:00Z",
+          "location": "Emeryville, CA | Durham, NC",
+          "position": "Software Engineer Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "9cd21651-921e-42a7-a95f-01b1f4bea964",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/9cd21651-921e-42a7-a95f-01b1f4bea964?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/9cd21651-921e-42a7-a95f-01b1f4bea964?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/9cd21651-921e-42a7-a95f-01b1f4bea964?utm_source=GHList"
       ]
     },
     "greenhouse:tenstorrentuniversity:5186916007": {
@@ -11158,7 +11259,7 @@
       "first_seen": "2026-08-17T17:45:31Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-10T08:46:50Z",
+      "last_seen": "2026-09-11T05:49:00Z",
       "location": "San Jose, CA",
       "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
       "posted": null,
@@ -11169,12 +11270,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-10T08:46:50Z",
+          "last_seen": "2026-09-11T05:49:00Z",
           "location": "San Jose, CA",
           "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
           "posted": null,
@@ -11487,7 +11588,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-10T13:24:30Z",
+      "last_seen": "2026-09-11T05:49:00Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -11498,12 +11599,12 @@
           "active": true,
           "age": "27d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-10T13:24:30Z",
+          "last_seen": "2026-09-11T05:49:00Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -18700,14 +18801,14 @@
       ]
     },
     "url:https://nuro.ai/careersitem?gh_jid=6972272": {
-      "active": true,
+      "active": false,
       "age": "32d",
       "application_url": "https://nuro.ai/careersitem?gh_jid=6972272",
       "canonical_id": "url:https://nuro.ai/careersitem?gh_jid=6972272",
       "category": "Unknown",
       "company": "Nuro",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-11T05:49:00Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-02T08:34:34Z",
       "location": "Mountain View, California (HQ)",
@@ -18717,13 +18818,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "48d",
           "application_url": "https://nuro.ai/careersitem?gh_jid=6972272",
           "category": "Unknown",
           "company": "Nuro",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-11T05:49:00Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-02T08:34:34Z",
           "location": "Mountain View, California (HQ)",
@@ -26176,6 +26277,53 @@
         "https://simplify.jobs/p/ca3d442d-982e-4251-b443-6e607ffd2504?utm_source=GHList",
         "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify"
       ]
+    },
+    "workday:walmart.wd504.myworkdayjobs.com:summer-2027-intern---software-engineer-ii_r-2630029-1": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:walmart.wd504.myworkdayjobs.com:summer-2027-intern---software-engineer-ii_r-2630029-1",
+      "category": "Unknown",
+      "company": "Walmart",
+      "first_seen": "2026-09-11T05:49:00Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-11T05:49:00Z",
+      "location": "Bentonville, AR | Bellevue, WA | Sunnyvale, CA",
+      "position": "Software Engineer 2 Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Walmart",
+          "first_seen": "2026-09-11T05:49:00Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-11T05:49:00Z",
+          "location": "Bentonville, AR | Bellevue, WA | Sunnyvale, CA",
+          "position": "Software Engineer 2 Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "f00e8399-0777-4e56-b2cb-0fd0631a0655",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/f00e8399-0777-4e56-b2cb-0fd0631a0655?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/f00e8399-0777-4e56-b2cb-0fd0631a0655?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/f00e8399-0777-4e56-b2cb-0fd0631a0655?utm_source=GHList",
+        "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify"
+      ]
     }
   },
   "location_scope_version": "sf-bay-area-roughly-one-hour-v1",
@@ -26741,6 +26889,22 @@
         "https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify"
       ],
       "status": "sent"
+    },
+    "a30318d8bd6b0bf7fd34d6d66c575456b730876a84624d50e3461de3a113b95a": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-11T05:49:00Z",
+      "issue_number": null,
+      "job_ids": [
+        "greenhouse:skhynixmemorysolutionsamericainc:4402959009",
+        "greenhouse:tanium:8181017",
+        "workday:walmart.wd504.myworkdayjobs.com:summer-2027-intern---software-engineer-ii_r-2630029-1"
+      ],
+      "job_urls": [
+        "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009",
+        "https://job-boards.greenhouse.io/tanium/jobs/8181017?utm_source=Simplify&ref=Simplify",
+        "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "a324846b7ebe6d85fca0417b4923337917d42ac5c0c74fa431b449b5e3d69fe5": {
       "application_scan_eligible": true,
