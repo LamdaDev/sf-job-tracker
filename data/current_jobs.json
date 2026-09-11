@@ -719,42 +719,6 @@
         "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95"
       ]
     },
-    "ashby:astera:c2a48c1b-c4c4-4333-addf-313c47e26066": {
-      "age": "95d",
-      "application_url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066",
-      "canonical_id": "ashby:astera:c2a48c1b-c4c4-4333-addf-313c47e26066",
-      "category": "Other",
-      "company": "Astera Institute",
-      "job_type": "Internship",
-      "location": "Emeryville, CA",
-      "position": "Software Engineering Intern - Distributed Simulation Systems",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_internships": {
-          "age": "95d",
-          "application_url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066",
-          "category": "Other",
-          "company": "Astera Institute",
-          "job_type": "Internship",
-          "location": "Emeryville, CA",
-          "position": "Software Engineering Intern - Distributed Simulation Systems",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066"
-      ]
-    },
     "ashby:beaconsoftware:2452d342-a069-4eda-adbe-9df296808ca1": {
       "age": "76d",
       "application_url": "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1",
@@ -2233,6 +2197,42 @@
         "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d"
       ]
     },
+    "ashby:maxima:c0204f04-af26-4a57-9658-64ee6d4beb74": {
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74",
+      "canonical_id": "ashby:maxima:c0204f04-af26-4a57-9658-64ee6d4beb74",
+      "category": "Other",
+      "company": "Maxima",
+      "job_type": "Internship",
+      "location": "San Mateo, CA",
+      "position": "Software Engineer - Intern",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74",
+          "category": "Other",
+          "company": "Maxima",
+          "job_type": "Internship",
+          "location": "San Mateo, CA",
+          "position": "Software Engineer - Intern",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74"
+      ]
+    },
     "ashby:netic:b0ea7aab-8eea-4d31-96f9-278364180ae7": {
       "age": "32d",
       "application_url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
@@ -3620,42 +3620,6 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/thesirius/662f4814-c1d4-4361-a4f6-b21b6bf9426e"
-      ]
-    },
-    "ashby:thumbtack:3efb1a7b-cfaf-475a-86a9-abff37581b4b": {
-      "age": "94d",
-      "application_url": "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b",
-      "canonical_id": "ashby:thumbtack:3efb1a7b-cfaf-475a-86a9-abff37581b4b",
-      "category": "Other",
-      "company": "Thumbtack",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer - AI/ML Infrastructure - US-Based",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "94d",
-          "application_url": "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b",
-          "category": "Other",
-          "company": "Thumbtack",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer - AI/ML Infrastructure - US-Based",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/thumbtack/3efb1a7b-cfaf-475a-86a9-abff37581b4b"
       ]
     },
     "ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6": {
@@ -5270,7 +5234,7 @@
       "age": "1d",
       "application_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
       "canonical_id": "greenhouse:pacificfusion:4398373009",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "Pacific Fusion",
       "job_type": "Internship",
       "location": "Fremont, CA | Los Lunas, NM | San Leandro, CA",
@@ -5325,24 +5289,6 @@
             "simplify_url": "https://simplify.jobs/p/21bac346-8a08-470a-8e10-bec8ed7eeaab?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/21bac346-8a08-470a-8e10-bec8ed7eeaab?utm_source=GHList"
-        },
-        "speedyapply_internships": {
-          "age": "0d",
-          "application_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
-          "category": "Other",
-          "company": "Pacific Fusion",
-          "job_type": "Internship",
-          "location": "San Leandro, CA +1",
-          "position": "Summer 2027 Internship- Software Engineering",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009"
         }
       },
       "url_aliases": [
@@ -5350,42 +5296,6 @@
         "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
         "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/21bac346-8a08-470a-8e10-bec8ed7eeaab?utm_source=GHList"
-      ]
-    },
-    "greenhouse:ridgeline:7784169003": {
-      "age": "53d",
-      "application_url": "https://boards.greenhouse.io/ridgeline/jobs/7784169003?gh_jid=7784169003",
-      "canonical_id": "greenhouse:ridgeline:7784169003",
-      "category": "Other",
-      "company": "Ridgeline",
-      "job_type": "New Grad",
-      "location": "San Ramon, CA",
-      "position": "Content Developer",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "53d",
-          "application_url": "https://boards.greenhouse.io/ridgeline/jobs/7784169003?gh_jid=7784169003",
-          "category": "Other",
-          "company": "Ridgeline",
-          "job_type": "New Grad",
-          "location": "San Ramon, CA",
-          "position": "Content Developer",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://boards.greenhouse.io/ridgeline/jobs/7784169003?gh_jid=7784169003"
-        }
-      },
-      "url_aliases": [
-        "https://boards.greenhouse.io/ridgeline/jobs/7784169003?gh_jid=7784169003"
       ]
     },
     "greenhouse:scaleai:4730836005": {
@@ -6628,42 +6538,6 @@
         "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
         "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/5dc175a4-02e4-4a5c-a8b7-054139db1ef9?utm_source=GHList"
-      ]
-    },
-    "lever:avivesolutions:6d982360-d21c-4389-8a75-9a971d644f1d": {
-      "age": "80d",
-      "application_url": "https://jobs.lever.co/AviveSolutions/6d982360-d21c-4389-8a75-9a971d644f1d",
-      "canonical_id": "lever:avivesolutions:6d982360-d21c-4389-8a75-9a971d644f1d",
-      "category": "Other",
-      "company": "Avive Solutions",
-      "job_type": "New Grad",
-      "location": "Brisbane, CA",
-      "position": "Firmware Engineer - IoT",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "80d",
-          "application_url": "https://jobs.lever.co/AviveSolutions/6d982360-d21c-4389-8a75-9a971d644f1d",
-          "category": "Other",
-          "company": "Avive Solutions",
-          "job_type": "New Grad",
-          "location": "Brisbane, CA",
-          "position": "Firmware Engineer - IoT",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.lever.co/AviveSolutions/6d982360-d21c-4389-8a75-9a971d644f1d"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.lever.co/AviveSolutions/6d982360-d21c-4389-8a75-9a971d644f1d"
       ]
     },
     "lever:ketch:9835fb73-d8c3-4b96-b499-2ce10bc70e57": {
@@ -11787,6 +11661,78 @@
         "https://simplify.jobs/p/b9776d83-bf68-42d9-88e2-4ebdd4ffda09?utm_source=GHList"
       ]
     },
+    "tiktok:lifeattiktok.com:7683245091641411845": {
+      "age": "2d",
+      "application_url": "https://lifeattiktok.com/search/7683245091641411845",
+      "canonical_id": "tiktok:lifeattiktok.com:7683245091641411845",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "job_type": "New Grad",
+      "location": "San Jose, CA",
+      "position": "Software Development Engineer in Test - Multiple Positions",
+      "posted": null,
+      "salary": "$202k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "2d",
+          "application_url": "https://lifeattiktok.com/search/7683245091641411845",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "job_type": "New Grad",
+          "location": "San Jose, CA",
+          "position": "Software Development Engineer in Test - Multiple Positions",
+          "posted": null,
+          "salary": "$202k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7683245091641411845"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7683245091641411845"
+      ]
+    },
+    "tiktok:lifeattiktok.com:7683307062865266949": {
+      "age": "2d",
+      "application_url": "https://lifeattiktok.com/search/7683307062865266949",
+      "canonical_id": "tiktok:lifeattiktok.com:7683307062865266949",
+      "category": "FAANG+",
+      "company": "TikTok",
+      "job_type": "New Grad",
+      "location": "San Jose, CA",
+      "position": "Site Reliability Engineer - Video System - USDS - Multiple Positions",
+      "posted": null,
+      "salary": "$202k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "2d",
+          "application_url": "https://lifeattiktok.com/search/7683307062865266949",
+          "category": "FAANG+",
+          "company": "TikTok",
+          "job_type": "New Grad",
+          "location": "San Jose, CA",
+          "position": "Site Reliability Engineer - Video System - USDS - Multiple Positions",
+          "posted": null,
+          "salary": "$202k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://lifeattiktok.com/search/7683307062865266949"
+        }
+      },
+      "url_aliases": [
+        "https://lifeattiktok.com/search/7683307062865266949"
+      ]
+    },
     "url:https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002": {
       "age": "1d",
       "application_url": "https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002",
@@ -12950,42 +12896,6 @@
       },
       "url_aliases": [
         "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990013452026-1042-oracle-apex-and-python-developer?oga=true"
-      ]
-    },
-    "url:https://jobs.smartrecruiters.com/ServiceNow/744000148581229-software-engineer?oga=true": {
-      "age": "0d",
-      "application_url": "https://jobs.smartrecruiters.com/ServiceNow/744000148581229-software-engineer?oga=true",
-      "canonical_id": "url:https://jobs.smartrecruiters.com/ServiceNow/744000148581229-software-engineer?oga=true",
-      "category": "Other",
-      "company": "ServiceNow",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Software Engineer",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "0d",
-          "application_url": "https://jobs.smartrecruiters.com/ServiceNow/744000148581229-software-engineer?oga=true",
-          "category": "Other",
-          "company": "ServiceNow",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.smartrecruiters.com/ServiceNow/744000148581229-software-engineer?oga=true"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.smartrecruiters.com/ServiceNow/744000148581229-software-engineer?oga=true"
       ]
     },
     "url:https://nexthopai.bamboohr.com/careers/107": {
@@ -15262,6 +15172,52 @@
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683"
       ]
     },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
+      "age": "1d",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527",
+      "category": "Unknown",
+      "company": "Cisco",
+      "job_type": "New Grad",
+      "location": "Milpitas California",
+      "position": "Software Engineer I (Full Time) - United States",
+      "posted": "2026-09-11",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "Today",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
+          "category": "Unknown",
+          "company": "Cisco",
+          "job_type": "New Grad",
+          "location": "Milpitas California",
+          "position": "Software Engineer I (Full Time) - United States",
+          "posted": "2026-09-11",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "b048e099-00f4-4bfc-8f2f-70c3e4e190f2",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-11T18:15:44.614Z",
+            "id": "b048e099-00f4-4bfc-8f2f-70c3e4e190f2",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
+            "matchKind": "entry_level",
+            "posted": "2026-09-11",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
+      ]
+    },
     "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer--av-frameworks---early-career_jr-202619943": {
       "age": "1d",
       "application_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
@@ -15438,6 +15394,78 @@
         "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392?utm_source=Simplify&ref=Simplify",
         "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
         "https://simplify.jobs/p/aa0ebb73-f646-4f78-ac9d-900e2925f3e9?utm_source=GHList"
+      ]
+    },
+    "workday:hp.wd5.myworkdayjobs.com:ai-software-engineer---hp-iq_3163597-1": {
+      "age": "11d",
+      "application_url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1",
+      "canonical_id": "workday:hp.wd5.myworkdayjobs.com:ai-software-engineer---hp-iq_3163597-1",
+      "category": "Other",
+      "company": "HP",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "AI Software Engineer - HP IQ",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "36d",
+          "application_url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1",
+          "category": "Other",
+          "company": "HP",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "AI Software Engineer - HP IQ",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1"
+        }
+      },
+      "url_aliases": [
+        "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1"
+      ]
+    },
+    "workday:hp.wd5.myworkdayjobs.com:ai-software-engineer---hp-iq_3163597-2": {
+      "age": "11d",
+      "application_url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2",
+      "canonical_id": "workday:hp.wd5.myworkdayjobs.com:ai-software-engineer---hp-iq_3163597-2",
+      "category": "Other",
+      "company": "HP",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "AI Software Engineer - HP IQ",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "36d",
+          "application_url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2",
+          "category": "Other",
+          "company": "HP",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "AI Software Engineer - HP IQ",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2"
+        }
+      },
+      "url_aliases": [
+        "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2"
       ]
     },
     "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834": {
