@@ -5906,6 +5906,45 @@
         "https://job-boards.greenhouse.io/twitch/jobs/8751076002"
       ]
     },
+    "greenhouse:veeamsoftware:4952609101": {
+      "age": "0d",
+      "application_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "greenhouse:veeamsoftware:4952609101",
+      "category": "Unknown",
+      "company": "Veeam Software",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Security & AI Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Veeam Software",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Security & AI Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "12b58efe-8607-4280-a3c0-fb40a2a2232a",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/12b58efe-8607-4280-a3c0-fb40a2a2232a?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/12b58efe-8607-4280-a3c0-fb40a2a2232a?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/12b58efe-8607-4280-a3c0-fb40a2a2232a?utm_source=GHList"
+      ]
+    },
     "greenhouse:veeamsoftware:4955293101": {
       "age": "Today",
       "application_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101",
@@ -5945,11 +5984,72 @@
             "url": "https://applyguy.ai/jobs?company=Veeam+Software&job=736f0d37-3363-4a40-9482-d2af0fe47977&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Veeam+Software&job=736f0d37-3363-4a40-9482-d2af0fe47977&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Veeam Software",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Engineer Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "cab02356-db9f-43a1-a400-e5fa53352e0b",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/cab02356-db9f-43a1-a400-e5fa53352e0b?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/cab02356-db9f-43a1-a400-e5fa53352e0b?utm_source=GHList"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Veeam+Software&job=736f0d37-3363-4a40-9482-d2af0fe47977&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101"
+        "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101",
+        "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/cab02356-db9f-43a1-a400-e5fa53352e0b?utm_source=GHList"
+      ]
+    },
+    "greenhouse:veeamsoftware:4955482101": {
+      "age": "0d",
+      "application_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "greenhouse:veeamsoftware:4955482101",
+      "category": "Unknown",
+      "company": "Veeam Software",
+      "job_type": "Internship",
+      "location": "San Jose, CA",
+      "position": "Policy Engineering Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Veeam Software",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Policy Engineering Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "2e3471cf-662d-486a-853c-85c6a9936243",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/2e3471cf-662d-486a-853c-85c6a9936243?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/2e3471cf-662d-486a-853c-85c6a9936243?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/2e3471cf-662d-486a-853c-85c6a9936243?utm_source=GHList"
       ]
     },
     "greenhouse:vercel:6181755004": {
