@@ -401,52 +401,6 @@
         "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883"
       ]
     },
-    "ashby:abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace": {
-      "age": "9d",
-      "application_url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
-      "canonical_id": "ashby:abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace",
-      "category": "Other",
-      "company": "Abridge",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer - Early Career",
-      "posted": "2026-07-13",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "35d",
-          "application_url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
-          "category": "Unknown",
-          "company": "Abridge",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer, Early Career",
-          "posted": "2026-07-13",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "06d73bd3-0dab-4b7b-9797-80ee55635eb8",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "35d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "06d73bd3-0dab-4b7b-9797-80ee55635eb8",
-            "listingUrl": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
-            "matchKind": "explicit",
-            "posted": "2026-07-13",
-            "url": "https://applyguy.ai/jobs?company=Abridge&job=06d73bd3-0dab-4b7b-9797-80ee55635eb8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Abridge&job=06d73bd3-0dab-4b7b-9797-80ee55635eb8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Abridge&job=06d73bd3-0dab-4b7b-9797-80ee55635eb8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace"
-      ]
-    },
     "ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba": {
       "age": "1d",
       "application_url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
@@ -835,6 +789,98 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1"
+      ]
+    },
+    "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8": {
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "canonical_id": "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "category": "Software Engineering",
+      "company": "Bedrock Robotics Inc",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Internship 2027 Onboard Infrastructure Engineer, ML Inference",
+      "posted": "2026-09-10",
+      "salary": null,
+      "season": "2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+          "category": "Software Engineering",
+          "company": "Bedrock Robotics Inc",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Internship 2027 Onboard Infrastructure Engineer, ML Inference",
+          "posted": "2026-09-10",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b4433835-8fb5-4de9-a0ab-c174dc518aca",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-11T00:45:23.506Z",
+            "id": "b4433835-8fb5-4de9-a0ab-c174dc518aca",
+            "listingUrl": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+            "posted": "2026-09-10",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Bedrock+Robotics+Inc&job=b4433835-8fb5-4de9-a0ab-c174dc518aca&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Bedrock+Robotics+Inc&job=b4433835-8fb5-4de9-a0ab-c174dc518aca&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Bedrock+Robotics+Inc&job=b4433835-8fb5-4de9-a0ab-c174dc518aca&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8"
+      ]
+    },
+    "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1": {
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1",
+      "canonical_id": "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1",
+      "category": "Software Engineering",
+      "company": "Bedrock Robotics Inc",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Internship 2027 Behavior Machine Learning Engineer, World Models",
+      "posted": "2026-09-10",
+      "salary": null,
+      "season": "2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1",
+          "category": "Software Engineering",
+          "company": "Bedrock Robotics Inc",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Internship 2027 Behavior Machine Learning Engineer, World Models",
+          "posted": "2026-09-10",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "05cdae09-9d1c-40ea-aaad-842eb90d1200",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-11T00:45:23.506Z",
+            "id": "05cdae09-9d1c-40ea-aaad-842eb90d1200",
+            "listingUrl": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1",
+            "posted": "2026-09-10",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Bedrock+Robotics+Inc&job=05cdae09-9d1c-40ea-aaad-842eb90d1200&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Bedrock+Robotics+Inc&job=05cdae09-9d1c-40ea-aaad-842eb90d1200&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Bedrock+Robotics+Inc&job=05cdae09-9d1c-40ea-aaad-842eb90d1200&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1"
       ]
     },
     "ashby:bild-ai:b333f0f7-0ca6-4509-8697-9303396b5364": {
