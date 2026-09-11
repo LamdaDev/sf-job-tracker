@@ -27243,7 +27243,7 @@
     "9e82bc35c86a776cdc91e05191d9a3acc16c50c66e157e70c9d02de7f43741dd": {
       "application_scan_eligible": true,
       "created_at": "2026-09-11T21:35:42Z",
-      "issue_number": null,
+      "issue_number": 82,
       "job_ids": [
         "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3",
         "greenhouse:veeamsoftware:4955293101",
@@ -27256,7 +27256,7 @@
         "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
         "https://www.weareroku.com/jobs/8188714?gh_jid=8188714"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "a0492dd774bba9c037f6f5d9c004132b17509d464acdbfd6e9b45519cdceeb8b": {
       "application_scan_eligible": true,
