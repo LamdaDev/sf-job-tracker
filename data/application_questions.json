@@ -399,6 +399,27 @@
       "scanned_at": "2026-08-27T04:23:59Z",
       "status": "unavailable"
     },
+    "ashby:maxima:c0204f04-af26-4a57-9658-64ee6d4beb74": {
+      "application_url": "https://jobs.ashbyhq.com/maxima/c0204f04-af26-4a57-9658-64ee6d4beb74",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:maxima:c0204f04-af26-4a57-9658-64ee6d4beb74",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-11T18:16:09Z",
+      "http_status": 200,
+      "issue_number": 81,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-11T18:16:09Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-11T18:16:09Z",
+      "status": "unavailable"
+    },
     "ashby:prophet-security:51415149-9b19-4164-84b9-2ffa78478069": {
       "application_url": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069",
       "attempt_count": 1,
@@ -13913,6 +13934,59 @@
         }
       ],
       "scanned_at": "2026-08-22T02:56:47Z",
+      "status": "partial"
+    },
+    "tiktok:lifeattiktok.com:7683245091641411845": {
+      "application_url": "https://lifeattiktok.com/search/7683245091641411845",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7683245091641411845",
+      "completeness_reason": "Application inspection failed without affecting the job notification.",
+      "error_message": "IncompleteRead while orchestrating application inspection.",
+      "error_type": "IncompleteRead",
+      "first_scanned": "2026-09-11T18:16:11Z",
+      "http_status": null,
+      "issue_number": 81,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-11T18:16:11Z",
+      "metadata": {
+        "inspection_method": "orchestrator"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-11T18:16:11Z",
+      "status": "failed"
+    },
+    "tiktok:lifeattiktok.com:7683307062865266949": {
+      "application_url": "https://lifeattiktok.com/search/7683307062865266949",
+      "attempt_count": 1,
+      "canonical_job_id": "tiktok:lifeattiktok.com:7683307062865266949",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-11T18:16:12Z",
+      "http_status": 200,
+      "issue_number": 81,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-11T18:16:12Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Enter Title, Skill, or Location",
+          "options": [],
+          "ordinal": 2,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-11T18:16:12Z",
       "status": "partial"
     },
     "url:https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002": {
