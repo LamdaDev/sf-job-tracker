@@ -359,7 +359,7 @@
       "age": "2d",
       "application_url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883",
       "canonical_id": "ashby:abridge:3f07a457-dc14-4238-bf4e-5c33b5c1f883",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Abridge",
       "job_type": "Internship",
       "location": "San Francisco, CA +1",
@@ -394,6 +394,24 @@
             "url": "https://applyguy.ai/jobs?company=Abridge&job=ad965373-d194-48c4-a036-2e26057fa69b&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Abridge&job=ad965373-d194-48c4-a036-2e26057fa69b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883",
+          "category": "Other",
+          "company": "Abridge",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Intern",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883"
         }
       },
       "url_aliases": [
@@ -996,11 +1014,11 @@
       "age": "Today",
       "application_url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
       "canonical_id": "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Commure",
       "job_type": "Internship",
       "location": "Mountain View, CA",
-      "position": "Software Engineering Intern, Summer 2027",
+      "position": "Software Engineering Intern - Summer 2027",
       "posted": "2026-09-11",
       "salary": null,
       "season": "Summer 2027",
@@ -1051,6 +1069,24 @@
             "simplify_url": "https://simplify.jobs/p/6a833744-e49d-4159-a168-e07ab82f981b?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/6a833744-e49d-4159-a168-e07ab82f981b?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
+          "category": "Other",
+          "company": "Commure",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "Software Engineering Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3"
         }
       },
       "url_aliases": [
@@ -1064,11 +1100,11 @@
       "age": "1d",
       "application_url": "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced",
       "canonical_id": "ashby:commure:c6a735ef-3d84-4447-94a9-9e8b2dfefced",
-      "category": "Unknown",
+      "category": "Other",
       "company": "Commure",
       "job_type": "New Grad",
-      "location": "Mountain View, CA",
-      "position": "Software Engineer, Early Career 2027",
+      "location": "Mountain View, CA +1",
+      "position": "Software Engineer - Early Career 2027",
       "posted": "2026-09-11",
       "salary": null,
       "season": null,
@@ -1099,6 +1135,24 @@
             "url": "https://applyguy.ai/jobs?company=Commure&job=855b6921-1f85-407c-992e-d7d55c569e3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
           "source_url": "https://applyguy.ai/jobs?company=Commure&job=855b6921-1f85-407c-992e-d7d55c569e3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
+        "speedyapply_new_grad": {
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced",
+          "category": "Other",
+          "company": "Commure",
+          "job_type": "New Grad",
+          "location": "Mountain View, CA +1",
+          "position": "Software Engineer - Early Career 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced"
         }
       },
       "url_aliases": [
@@ -3159,42 +3213,6 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463"
-      ]
-    },
-    "ashby:rivianvw.tech:2c209e52-8723-4c78-abf7-f0394f6537bc": {
-      "age": "81d",
-      "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc",
-      "canonical_id": "ashby:rivianvw.tech:2c209e52-8723-4c78-abf7-f0394f6537bc",
-      "category": "FAANG+",
-      "company": "Rivian",
-      "job_type": "New Grad",
-      "location": "Palo Alto, CA",
-      "position": "Systems Integration Engineer-Software Integration",
-      "posted": null,
-      "salary": "$124k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "0d",
-          "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc",
-          "category": "FAANG+",
-          "company": "Rivian",
-          "job_type": "New Grad",
-          "location": "Palo Alto, CA",
-          "position": "Systems Integration Engineer-Software Integration",
-          "posted": null,
-          "salary": "$124k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc"
       ]
     },
     "ashby:rivianvw.tech:c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69": {
@@ -6036,7 +6054,7 @@
       "age": "Today",
       "application_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101",
       "canonical_id": "greenhouse:veeamsoftware:4955293101",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Veeam Software",
       "job_type": "Internship",
       "location": "San Jose, CA",
@@ -6091,6 +6109,24 @@
             "simplify_url": "https://simplify.jobs/p/cab02356-db9f-43a1-a400-e5fa53352e0b?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/cab02356-db9f-43a1-a400-e5fa53352e0b?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101",
+          "category": "Other",
+          "company": "Veeam",
+          "job_type": "Internship",
+          "location": "San Jose, CA",
+          "position": "Software Engineering Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101"
         }
       },
       "url_aliases": [
@@ -6265,42 +6301,6 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Vercel&job=9c27a885-adea-43f9-87ae-ae9d17d0865b&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/vercel/jobs/6181759004"
-      ]
-    },
-    "greenhouse:verkada:5191604007": {
-      "age": "26d",
-      "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5191604007",
-      "canonical_id": "greenhouse:verkada:5191604007",
-      "category": "Other",
-      "company": "Verkada",
-      "job_type": "New Grad",
-      "location": "San Mateo, CA",
-      "position": "Backend Engineer - Alarms",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "26d",
-          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5191604007",
-          "category": "Other",
-          "company": "Verkada",
-          "job_type": "New Grad",
-          "location": "San Mateo, CA",
-          "position": "Backend Engineer - Alarms",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://job-boards.greenhouse.io/verkada/jobs/5191604007"
-        }
-      },
-      "url_aliases": [
-        "https://job-boards.greenhouse.io/verkada/jobs/5191604007"
       ]
     },
     "greenhouse:verkada:5194598007": {
@@ -11976,53 +11976,17 @@
         "https://lifeattiktok.com/search/7683245091641411845"
       ]
     },
-    "tiktok:lifeattiktok.com:7683307062865266949": {
-      "age": "2d",
-      "application_url": "https://lifeattiktok.com/search/7683307062865266949",
-      "canonical_id": "tiktok:lifeattiktok.com:7683307062865266949",
-      "category": "FAANG+",
-      "company": "TikTok",
-      "job_type": "New Grad",
-      "location": "San Jose, CA",
-      "position": "Site Reliability Engineer - Video System - USDS - Multiple Positions",
-      "posted": null,
-      "salary": "$202k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "2d",
-          "application_url": "https://lifeattiktok.com/search/7683307062865266949",
-          "category": "FAANG+",
-          "company": "TikTok",
-          "job_type": "New Grad",
-          "location": "San Jose, CA",
-          "position": "Site Reliability Engineer - Video System - USDS - Multiple Positions",
-          "posted": null,
-          "salary": "$202k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://lifeattiktok.com/search/7683307062865266949"
-        }
-      },
-      "url_aliases": [
-        "https://lifeattiktok.com/search/7683307062865266949"
-      ]
-    },
     "url:https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002": {
       "age": "Today",
       "application_url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
       "canonical_id": "url:https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
-      "category": "Software Engineering",
+      "category": "FAANG+",
       "company": "Lyft",
       "job_type": "Internship",
       "location": "San Francisco, CA",
-      "position": "Software Engineer Intern, Backend (Summer 2027)",
+      "position": "Software Engineer Intern - Backend - Summer 2027",
       "posted": "2026-09-11",
-      "salary": null,
+      "salary": "$58/hr",
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
@@ -12051,6 +12015,24 @@
             "url": "https://applyguy.ai/jobs?company=Lyft&job=0473a034-d696-4f30-8621-524e6fb6b2f7&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Lyft&job=0473a034-d696-4f30-8621-524e6fb6b2f7&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+          "category": "FAANG+",
+          "company": "Lyft",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern - Backend - Summer 2027",
+          "posted": null,
+          "salary": "$58/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002"
         }
       },
       "url_aliases": [
@@ -13991,42 +13973,6 @@
         "https://www.google.com/about/careers/applications/jobs/results/94172495052972742?utm_source=Simplify&ref=Simplify"
       ]
     },
-    "url:https://www.google.com/about/careers/applications/jobs/results/99532077367468742": {
-      "age": "1d",
-      "application_url": "https://www.google.com/about/careers/applications/jobs/results/99532077367468742",
-      "canonical_id": "url:https://www.google.com/about/careers/applications/jobs/results/99532077367468742",
-      "category": "FAANG+",
-      "company": "Google",
-      "job_type": "New Grad",
-      "location": "Mountain View, CA",
-      "position": "Software Engineer - Search Ads in AI Experiences",
-      "posted": null,
-      "salary": "$196k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "1d",
-          "application_url": "https://www.google.com/about/careers/applications/jobs/results/99532077367468742",
-          "category": "FAANG+",
-          "company": "Google",
-          "job_type": "New Grad",
-          "location": "Mountain View, CA",
-          "position": "Software Engineer - Search Ads in AI Experiences",
-          "posted": null,
-          "salary": "$196k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://www.google.com/about/careers/applications/jobs/results/99532077367468742"
-        }
-      },
-      "url_aliases": [
-        "https://www.google.com/about/careers/applications/jobs/results/99532077367468742"
-      ]
-    },
     "url:https://www.ixl.com/company/jobs?gh_jid=8765715002": {
       "age": "0d",
       "application_url": "https://www.ixl.com/company/jobs?gh_jid=8765715002",
@@ -15119,33 +15065,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "2d",
-          "application_url": "https://alation.wd503.myworkdayjobs.com/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
-          "category": "Unknown",
-          "company": "Alation",
-          "job_type": "New Grad",
-          "location": "Redwood City, CA",
-          "position": "UX Software Engineer I (Contractor)",
-          "posted": "2026-08-31",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "6cfae721-596c-4959-b6b5-2165fc253dbc",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "2d",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
-            "id": "6cfae721-596c-4959-b6b5-2165fc253dbc",
-            "listingUrl": "https://alation.wd503.myworkdayjobs.com/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
-            "matchKind": "entry_level",
-            "posted": "2026-08-31",
-            "url": "https://applyguy.ai/jobs?company=Alation&job=6cfae721-596c-4959-b6b5-2165fc253dbc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Alation&job=6cfae721-596c-4959-b6b5-2165fc253dbc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "1d",
           "application_url": "https://alation.wd503.myworkdayjobs.com/en-US/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
@@ -15308,10 +15227,10 @@
         "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781"
       ]
     },
-    "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2": {
-      "age": "1d",
-      "application_url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
-      "canonical_id": "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2",
+    "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738": {
+      "age": "9d",
+      "application_url": "https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738",
+      "canonical_id": "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738",
       "category": "Unknown",
       "company": "Cadence",
       "job_type": "New Grad",
@@ -15322,8 +15241,8 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "age": "1d",
-          "application_url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+          "age": "9d",
+          "application_url": "https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738",
           "category": "Unknown",
           "company": "Cadence",
           "job_type": "New Grad",
@@ -15334,24 +15253,24 @@
           "season": null,
           "source_file": "data/new-grad-jobs.json",
           "source_id": "applyguy_new_grad",
-          "source_job_id": "7fb633b0-e67c-49ce-b818-60eb3f07989c",
+          "source_job_id": "5e27aba5-2b2d-45ae-80e8-57bf97599681",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "1d",
+            "age": "9d",
             "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-04T08:31:04.507Z",
-            "id": "7fb633b0-e67c-49ce-b818-60eb3f07989c",
-            "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+            "feedUpdatedAt": "2026-09-12T16:45:48.098Z",
+            "id": "5e27aba5-2b2d-45ae-80e8-57bf97599681",
+            "listingUrl": "https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738",
             "matchKind": "explicit",
             "posted": "2026-09-03",
-            "url": "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+            "url": "https://applyguy.ai/jobs?company=Cadence&job=5e27aba5-2b2d-45ae-80e8-57bf97599681&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
-          "source_url": "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          "source_url": "https://applyguy.ai/jobs?company=Cadence&job=5e27aba5-2b2d-45ae-80e8-57bf97599681&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         }
       },
       "url_aliases": [
-        "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
+        "https://applyguy.ai/jobs?company=Cadence&job=5e27aba5-2b2d-45ae-80e8-57bf97599681&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738"
       ]
     },
     "workday:cadence.wd1.myworkdayjobs.com:software-intern_r56258": {
@@ -15602,33 +15521,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "1d",
-          "application_url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
-          "category": "Unknown",
-          "company": "Generalmotors",
-          "job_type": "New Grad",
-          "location": "Sunnyvale, CA",
-          "position": "Software Engineer, AV Frameworks – Early Career",
-          "posted": "2026-09-09",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "b5995c0b-1ab4-4718-b5df-22490a66ccd2",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "1d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-10T03:31:02.840Z",
-            "id": "b5995c0b-1ab4-4718-b5df-22490a66ccd2",
-            "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
-            "matchKind": "explicit",
-            "posted": "2026-09-09",
-            "url": "https://applyguy.ai/jobs?company=Generalmotors&job=b5995c0b-1ab4-4718-b5df-22490a66ccd2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Generalmotors&job=b5995c0b-1ab4-4718-b5df-22490a66ccd2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "1d",
           "application_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
@@ -16595,6 +16487,42 @@
         "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1"
       ]
     },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137731": {
+      "age": "1d",
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137731",
+      "canonical_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137731",
+      "category": "Other",
+      "company": "PayPal",
+      "job_type": "New Grad",
+      "location": "San Jose, CA",
+      "position": "Software Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "1d",
+          "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137731",
+          "category": "Other",
+          "company": "PayPal",
+          "job_type": "New Grad",
+          "location": "San Jose, CA",
+          "position": "Software Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137731"
+        }
+      },
+      "url_aliases": [
+        "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137731"
+      ]
+    },
     "workday:quickenloans.wd5.myworkdayjobs.com:software-developer-i---search_r-083930": {
       "age": "Today",
       "application_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
@@ -16608,33 +16536,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "12d",
-          "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
-          "category": "Unknown",
-          "company": "Quickenloans",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Developer I - Search",
-          "posted": "2026-08-21",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "49bef747-c371-45e0-a524-5475cb4bdce7",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "12d",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
-            "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
-            "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
-            "matchKind": "entry_level",
-            "posted": "2026-08-21",
-            "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "6d",
           "application_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
