@@ -1820,7 +1820,7 @@
       "first_seen": "2026-09-11T21:35:42Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-11T21:35:42Z",
+      "last_seen": "2026-09-12T09:05:36Z",
       "location": "Mountain View, CA",
       "position": "Software Engineering Intern, Summer 2027",
       "posted": "2026-09-11",
@@ -1857,11 +1857,91 @@
             "url": "https://applyguy.ai/jobs?company=Commure&job=fa50ca20-f808-42fc-883e-b69093786392&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Commure&job=fa50ca20-f808-42fc-883e-b69093786392&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true&utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Commure",
+          "first_seen": "2026-09-12T09:05:36Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-12T09:05:36Z",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "6a833744-e49d-4159-a168-e07ab82f981b",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/6a833744-e49d-4159-a168-e07ab82f981b?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/6a833744-e49d-4159-a168-e07ab82f981b?utm_source=GHList"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Commure&job=fa50ca20-f808-42fc-883e-b69093786392&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3"
+        "https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true&utm_source=Simplify&ref=Simplify",
+        "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
+        "https://simplify.jobs/p/6a833744-e49d-4159-a168-e07ab82f981b?utm_source=GHList"
+      ]
+    },
+    "ashby:commure:c6a735ef-3d84-4447-94a9-9e8b2dfefced": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced",
+      "canonical_id": "ashby:commure:c6a735ef-3d84-4447-94a9-9e8b2dfefced",
+      "category": "Unknown",
+      "company": "Commure",
+      "first_seen": "2026-09-12T09:05:36Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-12T09:05:36Z",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer, Early Career 2027",
+      "posted": "2026-09-11",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced",
+          "category": "Unknown",
+          "company": "Commure",
+          "first_seen": "2026-09-12T09:05:36Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-12T09:05:36Z",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer, Early Career 2027",
+          "posted": "2026-09-11",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "855b6921-1f85-407c-992e-d7d55c569e3d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-12T09:01:13.744Z",
+            "id": "855b6921-1f85-407c-992e-d7d55c569e3d",
+            "listingUrl": "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced",
+            "matchKind": "explicit",
+            "posted": "2026-09-11",
+            "url": "https://applyguy.ai/jobs?company=Commure&job=855b6921-1f85-407c-992e-d7d55c569e3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Commure&job=855b6921-1f85-407c-992e-d7d55c569e3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Commure&job=855b6921-1f85-407c-992e-d7d55c569e3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced"
       ]
     },
     "ashby:composio:01e0e7ad-44a2-44e8-9340-64ca70eff491": {
@@ -2460,13 +2540,13 @@
       "season": "Not specified",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "4d",
           "application_url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
           "category": "Software Engineering",
           "company": "Exa",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-12T09:05:36Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Francisco, CA",
@@ -8917,6 +8997,60 @@
         "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009"
       ]
     },
+    "greenhouse:skhynixmemorysolutionsamericainc:4404646009": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4404646009",
+      "canonical_id": "greenhouse:skhynixmemorysolutionsamericainc:4404646009",
+      "category": "Software Engineering",
+      "company": "SK hynix memory solutions America Inc.",
+      "first_seen": "2026-09-12T09:05:36Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-12T09:05:36Z",
+      "location": "San Jose, CA",
+      "position": "Embedded Software Engineer Intern",
+      "posted": "2026-09-12",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4404646009",
+          "category": "Software Engineering",
+          "company": "SK hynix memory solutions America Inc.",
+          "first_seen": "2026-09-12T09:05:36Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-12T09:05:36Z",
+          "location": "San Jose, CA",
+          "position": "Embedded Software Engineer Intern",
+          "posted": "2026-09-12",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "c83e2c77-2cf6-4347-a7bb-5b759aba1c57",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-12T09:00:14.988Z",
+            "id": "c83e2c77-2cf6-4347-a7bb-5b759aba1c57",
+            "listingUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4404646009",
+            "posted": "2026-09-12",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=c83e2c77-2cf6-4347-a7bb-5b759aba1c57&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=c83e2c77-2cf6-4347-a7bb-5b759aba1c57&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=SK+hynix+memory+solutions+America+Inc.&job=c83e2c77-2cf6-4347-a7bb-5b759aba1c57&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4404646009"
+      ]
+    },
     "greenhouse:sonyinteractiveentertainmentglobal:6145057004": {
       "active": true,
       "age": "0d",
@@ -11860,7 +11994,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-11T10:52:06Z",
+      "last_seen": "2026-09-12T09:05:36Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -11871,12 +12005,12 @@
           "active": true,
           "age": "28d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-11T10:52:06Z",
+          "last_seen": "2026-09-12T09:05:36Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -27359,6 +27493,20 @@
         "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"
       ],
       "status": "sent"
+    },
+    "9a8f91d1411139599f84649fcdaa51a63edab2217533200268cc8af2c2a976d1": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-12T09:05:36Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:commure:c6a735ef-3d84-4447-94a9-9e8b2dfefced",
+        "greenhouse:skhynixmemorysolutionsamericainc:4404646009"
+      ],
+      "job_urls": [
+        "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4404646009",
+        "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced"
+      ],
+      "status": "pending"
     },
     "9e82bc35c86a776cdc91e05191d9a3acc16c50c66e157e70c9d02de7f43741dd": {
       "application_scan_eligible": true,
