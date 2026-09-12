@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (365)
+## Active Jobs (366)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -153,6 +153,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad - December 2026 | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-25T13:53:03Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95>) |
 | Google | Software Engineering Intern - PhD - Summer 2027 | Internship | FAANG+ | Mountain View, CA +29 | SpeedyApply | $63/hr | 2026-08-25T13:53:03Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://www.google.com/about/careers/applications/jobs/results/91436104816698054>) |
 | PlayStation | Audio and UX Software Engineer | New Grad | Other | San Mateo, CA | SpeedyApply | N/A | 2026-08-25T13:53:03Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145057004>) |
+| Cisco | Software Engineer I (Full Time) - United States | New Grad | Unknown | Milpitas California | ApplyGuy | N/A | 2026-08-25T04:42:13Z | 2026-09-12T22:01:39Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527>) |
 | Chime | Full-Stack Engineer - Human Agent Tooling | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-22T13:34:16Z | 2026-08-22T13:34:16Z | Yes | [Apply](<https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002>) |
 | Greptile | Frontend Engineer | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-22T13:34:16Z | 2026-08-22T13:34:16Z | Yes | [Apply](<https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02>) |
 | TikTok | Software Engineer Intern - TikTok AI Search & Visual Search Infra Team - 2027 Summer | Internship | FAANG+ | San Jose, CA | Simplify, SpeedyApply | $60/hr | 2026-08-22T02:56:43Z | 2026-08-24T09:51:35Z | Yes | [Apply](<https://lifeattiktok.com/search/7676276048527214901>) |
@@ -374,7 +375,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (122)
+## Historical / Closed or Removed Jobs (121)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -402,7 +403,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Salesforce | Software Engineer - AI Applications | New Grad | FAANG+ | San Francisco, CA | SpeedyApply | $176k/yr | 2026-08-26T13:58:49Z | 2026-08-26T13:58:49Z | No | [Apply](<https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086>) |
 | Vercel | Software Engineer - Data Platform | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-26T13:58:49Z | 2026-08-26T13:58:49Z | No | [Apply](<https://job-boards.greenhouse.io/vercel/jobs/6161129004>) |
 | Zipline | Embedded Software Engineer Intern - Spring 2027 | Internship | Other | South San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-25T23:27:18Z | 2026-08-26T13:58:49Z | No | [Apply](<https://www.zipline.com/open-roles?gh_jid=7974897003>) |
-| Cisco | Software Engineer I (Full Time) - United States | New Grad | Unknown | Milpitas California | ApplyGuy | N/A | 2026-08-25T04:42:13Z | 2026-09-11T18:16:04Z | No | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527>) |
 | Johnson & Johnson | Technology Intern - Technology LDP | Internship | Unknown | West Chester, PA \| Horsham, PA \| Spring House, PA \| New Brunswick, NJ \| Irvine, CA \| Raritan, NJ \| Santa Clara, CA \| Hopewell Township, NJ \| Fort Washington, PA \| Jacksonville, FL \| Palm Beach Gardens, FL | Simplify | N/A | 2026-08-24T23:24:48Z | 2026-08-24T23:24:48Z | No | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify>) |
 | Clera | Software Engineer - AI & Data Systems | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-24T13:54:39Z | 2026-08-24T13:54:39Z | No | [Apply](<https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2>) |
 | Amat | Software Engineer II (New College Grad - Santa Clara, CA) | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-08-22T04:35:44Z | 2026-08-22T04:35:44Z | No | [Apply](<https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398>) |
