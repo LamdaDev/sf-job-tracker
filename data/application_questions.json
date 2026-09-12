@@ -17508,6 +17508,27 @@
       "scanned_at": "2026-08-20T13:50:57Z",
       "status": "unavailable"
     },
+    "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738": {
+      "application_url": "https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-12T16:50:29Z",
+      "http_status": 200,
+      "issue_number": 85,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-12T16:50:29Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-12T16:50:29Z",
+      "status": "unavailable"
+    },
     "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2": {
       "application_url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
       "attempt_count": 1,
@@ -18115,6 +18136,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-05T16:38:37Z",
+      "status": "unavailable"
+    },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137731": {
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137731",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137731",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-12T16:50:34Z",
+      "http_status": 200,
+      "issue_number": 85,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-12T16:50:34Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-12T16:50:34Z",
       "status": "unavailable"
     },
     "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd": {
