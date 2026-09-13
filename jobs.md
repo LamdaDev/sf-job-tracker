@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (366)
+## Active Jobs (365)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -148,7 +148,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Verkada | Frontend Software Engineering Intern 2027 | Internship | Other | San Mateo, CA | ApplyGuy, Simplify, SpeedyApply | N/A | 2026-08-25T18:43:03Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5210942007>) |
 | Verkada | Mobile Software Engineering Intern 2027 | Internship | Other | San Mateo, CA | ApplyGuy, Simplify, SpeedyApply | N/A | 2026-08-25T18:43:03Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5219131007>) |
 | Verkada | Security Software Engineering Intern 2027 | Internship | Other | San Mateo, CA | ApplyGuy, Simplify, SpeedyApply | N/A | 2026-08-25T18:43:03Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5213881007>) |
-| The Voleon Group | Software Engineer Intern - (Summer 2027) | Internship | Software Engineering | Berkeley, CA \| NYC | ApplyGuy, Simplify | N/A | 2026-08-25T16:40:36Z | 2026-08-25T21:31:37Z | Yes | [Apply](<https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6>) |
+| The Voleon Group | Software Engineer Intern - (Summer 2027) | Internship | Software Engineering | Berkeley, CA \| NYC | ApplyGuy, Simplify | N/A | 2026-08-25T16:40:36Z | 2026-09-13T00:40:58Z | Yes | [Apply](<https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true&utm_source=Simplify&ref=Simplify>) |
 | Applied Intuition | Embedded Test Engineer - New Grad - December 2026 | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-25T13:53:03Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c>) |
 | Applied Intuition | OTA/Cloud Validation Engineer - New Grad - December 2026 | New Grad | Other | Sunnyvale, CA | SpeedyApply | N/A | 2026-08-25T13:53:03Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95>) |
 | Google | Software Engineering Intern - PhD - Summer 2027 | Internship | FAANG+ | Mountain View, CA +29 | SpeedyApply | $63/hr | 2026-08-25T13:53:03Z | 2026-08-25T13:53:03Z | Yes | [Apply](<https://www.google.com/about/careers/applications/jobs/results/91436104816698054>) |
@@ -348,7 +348,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Heliux | Software Engineer - Internship - Summer 2027 | Internship | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef>) |
 | HP | AI Software Engineer - HP IQ | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-09-11T18:16:04Z | Yes | [Apply](<https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2>) |
 | HP | AI Software Engineer - HP IQ | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-09-11T18:16:04Z | Yes | [Apply](<https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1>) |
-| Hypercubic | Software Engineering Internship | Internship | Software Engineering | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490>) |
 | Julius | Software Engineer - Product - New Grad | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6>) |
 | Kastle | Software Engineer - Intern | Internship | Other | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-24T09:51:35Z | Yes | [Apply](<https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee>) |
 | Ketch | Backend Software Engineer | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.lever.co/Ketch/9835fb73-d8c3-4b96-b499-2ce10bc70e57>) |
@@ -375,7 +374,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (121)
+## Historical / Closed or Removed Jobs (122)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -487,6 +486,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Crusoe | Software Engineer I - DCIE | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f>) |
 | Discord | Software Engineer - Developer Success | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://job-boards.greenhouse.io/discord/jobs/8609250002>) |
 | Handshake | Associate Software Engineer - RLE | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://jobs.ashbyhq.com/handshake/e871b11e-f6c2-4adf-aeb5-278eac4aa153>) |
+| Hypercubic | Software Engineering Internship | Internship | Software Engineering | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-09-05T16:38:32Z | No | [Apply](<https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490>) |
 | kos.ai | Software Engineer Intern | Internship | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3>) |
 | Plaid | Software Engineer - Backend | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://jobs.ashbyhq.com/plaid/5c5d4414-347c-4caa-be88-384dec2d074b>) |
 | Redwood Materials | Embedded Software Engineer Intern - Fall 2026 | Internship | Software Engineering | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-21T13:49:19Z | No | [Apply](<https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004>) |
