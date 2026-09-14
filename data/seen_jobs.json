@@ -27985,7 +27985,7 @@
     "03378495748af6265c65e42a666552fc319021f2eda295cb320f8128c770ab6f": {
       "application_scan_eligible": true,
       "created_at": "2026-09-14T23:43:41Z",
-      "issue_number": null,
+      "issue_number": 88,
       "job_ids": [
         "url:https://careers.withwaymo.com/jobs?gh_jid=8193731",
         "url:https://careers.withwaymo.com/jobs?gh_jid=8198218&ref=Simplify",
@@ -28000,7 +28000,7 @@
         "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568?utm_source=Simplify&ref=Simplify",
         "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "05e10eaf5e41ce3d05a7fd8061c9a0dec95fb67b1463b3339a4ee3cd3a60f59b": {
       "application_scan_eligible": true,
