@@ -4,10 +4,14 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (363)
+## Active Jobs (367)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Robinhood | Software Engineer Intern - Backend | Internship | Unknown | Menlo Park, CA \| NYC \| Bellevue, WA | Simplify | N/A | 2026-09-14T16:50:25Z | 2026-09-14T16:50:25Z | Yes | [Apply](<https://boards.greenhouse.io/robinhood/jobs/8123225?utm_source=Simplify&ref=Simplify>) |
+| Robinhood | Software Engineering Intern, Android (Summer 2027) | Internship | Software Engineering | Menlo Park, CA \| NYC | ApplyGuy, Simplify | N/A | 2026-09-14T16:50:25Z | 2026-09-14T16:50:25Z | Yes | [Apply](<https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961>) |
+| Robinhood | Software Engineering Intern, iOS (Summer 2027) | Internship | Software Engineering | Menlo Park, CA \| NYC | ApplyGuy, Simplify | N/A | 2026-09-14T16:50:25Z | 2026-09-14T16:50:25Z | Yes | [Apply](<https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959>) |
+| Robinhood | Software Engineering Intern, Web (Summer 2027) | Internship | Software Engineering | Menlo Park, CA \| NYC | ApplyGuy, Simplify | N/A | 2026-09-14T16:50:25Z | 2026-09-14T16:50:25Z | Yes | [Apply](<https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963>) |
 | PayPal | Software Engineer | New Grad | Other | San Jose, CA | SpeedyApply | N/A | 2026-09-12T16:50:25Z | 2026-09-12T16:50:25Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137731>) |
 | Commure | Software Engineer - Early Career 2027 | New Grad | Other | Mountain View, CA +1 | ApplyGuy, SpeedyApply | N/A | 2026-09-12T09:05:36Z | 2026-09-12T16:50:25Z | Yes | [Apply](<https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced>) |
 | SK hynix memory solutions America Inc. | Embedded Software Engineer Intern | Internship | Software Engineering | San Jose, CA | ApplyGuy | N/A | 2026-09-12T09:05:36Z | 2026-09-12T09:05:36Z | Yes | [Apply](<https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4404646009>) |

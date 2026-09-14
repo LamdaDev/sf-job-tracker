@@ -5120,6 +5120,249 @@
         "https://simplify.jobs/p/21bac346-8a08-470a-8e10-bec8ed7eeaab?utm_source=GHList"
       ]
     },
+    "greenhouse:robinhood:8123225": {
+      "age": "0d",
+      "application_url": "https://boards.greenhouse.io/robinhood/jobs/8123225?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "greenhouse:robinhood:8123225",
+      "category": "Unknown",
+      "company": "Robinhood",
+      "job_type": "Internship",
+      "location": "Menlo Park, CA | NYC | Bellevue, WA",
+      "position": "Software Engineer Intern - Backend",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://boards.greenhouse.io/robinhood/jobs/8123225?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Robinhood",
+          "job_type": "Internship",
+          "location": "Menlo Park, CA | NYC | Bellevue, WA",
+          "position": "Software Engineer Intern - Backend",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "73089cf9-d492-4163-9bb1-ebd692bfbd10",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/73089cf9-d492-4163-9bb1-ebd692bfbd10?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/73089cf9-d492-4163-9bb1-ebd692bfbd10?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://boards.greenhouse.io/robinhood/jobs/8123225?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/73089cf9-d492-4163-9bb1-ebd692bfbd10?utm_source=GHList"
+      ]
+    },
+    "greenhouse:robinhood:8142959": {
+      "age": "Today",
+      "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+      "canonical_id": "greenhouse:robinhood:8142959",
+      "category": "Software Engineering",
+      "company": "Robinhood",
+      "job_type": "Internship",
+      "location": "Menlo Park, CA | NYC",
+      "position": "Software Engineering Intern, iOS (Summer 2027)",
+      "posted": "2026-09-14",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+          "category": "Software Engineering",
+          "company": "Robinhood",
+          "job_type": "Internship",
+          "location": "Menlo Park, CA",
+          "position": "Software Engineering Intern, iOS (Summer 2027)",
+          "posted": "2026-09-14",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "f0b89899-e06e-4621-853b-7e5d8bcb47fd",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-14T16:45:25.895Z",
+            "id": "f0b89899-e06e-4621-853b-7e5d8bcb47fd",
+            "listingUrl": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+            "posted": "2026-09-14",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Robinhood&job=f0b89899-e06e-4621-853b-7e5d8bcb47fd&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Robinhood&job=f0b89899-e06e-4621-853b-7e5d8bcb47fd&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142959?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Robinhood",
+          "job_type": "Internship",
+          "location": "Menlo Park, CA | NYC",
+          "position": "Software Engineer Intern - iOS - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "1c64a304-96bc-447e-ab18-b8bcf93f937f",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/1c64a304-96bc-447e-ab18-b8bcf93f937f?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/1c64a304-96bc-447e-ab18-b8bcf93f937f?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Robinhood&job=f0b89899-e06e-4621-853b-7e5d8bcb47fd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+        "https://boards.greenhouse.io/robinhood/jobs/8142959?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/1c64a304-96bc-447e-ab18-b8bcf93f937f?utm_source=GHList"
+      ]
+    },
+    "greenhouse:robinhood:8142961": {
+      "age": "Today",
+      "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+      "canonical_id": "greenhouse:robinhood:8142961",
+      "category": "Software Engineering",
+      "company": "Robinhood",
+      "job_type": "Internship",
+      "location": "Menlo Park, CA | NYC",
+      "position": "Software Engineering Intern, Android (Summer 2027)",
+      "posted": "2026-09-14",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+          "category": "Software Engineering",
+          "company": "Robinhood",
+          "job_type": "Internship",
+          "location": "Menlo Park, CA",
+          "position": "Software Engineering Intern, Android (Summer 2027)",
+          "posted": "2026-09-14",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "0f3997a0-18a9-4636-908f-13fe9c3cede6",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-14T16:45:25.895Z",
+            "id": "0f3997a0-18a9-4636-908f-13fe9c3cede6",
+            "listingUrl": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+            "posted": "2026-09-14",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Robinhood&job=0f3997a0-18a9-4636-908f-13fe9c3cede6&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Robinhood&job=0f3997a0-18a9-4636-908f-13fe9c3cede6&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142961?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Robinhood",
+          "job_type": "Internship",
+          "location": "Menlo Park, CA | NYC",
+          "position": "Software Engineer Intern - Android - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "1db1012e-71c6-49b5-9a0e-3399dce55cea",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/1db1012e-71c6-49b5-9a0e-3399dce55cea?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/1db1012e-71c6-49b5-9a0e-3399dce55cea?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Robinhood&job=0f3997a0-18a9-4636-908f-13fe9c3cede6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+        "https://boards.greenhouse.io/robinhood/jobs/8142961?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/1db1012e-71c6-49b5-9a0e-3399dce55cea?utm_source=GHList"
+      ]
+    },
+    "greenhouse:robinhood:8142963": {
+      "age": "Today",
+      "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+      "canonical_id": "greenhouse:robinhood:8142963",
+      "category": "Software Engineering",
+      "company": "Robinhood",
+      "job_type": "Internship",
+      "location": "Menlo Park, CA | NYC",
+      "position": "Software Engineering Intern, Web (Summer 2027)",
+      "posted": "2026-09-14",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+          "category": "Software Engineering",
+          "company": "Robinhood",
+          "job_type": "Internship",
+          "location": "Menlo Park, CA",
+          "position": "Software Engineering Intern, Web (Summer 2027)",
+          "posted": "2026-09-14",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "da3731d7-8329-4919-85a6-46f3cc161efe",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-14T16:45:25.895Z",
+            "id": "da3731d7-8329-4919-85a6-46f3cc161efe",
+            "listingUrl": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+            "posted": "2026-09-14",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Robinhood&job=da3731d7-8329-4919-85a6-46f3cc161efe&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Robinhood&job=da3731d7-8329-4919-85a6-46f3cc161efe&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142963?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Robinhood",
+          "job_type": "Internship",
+          "location": "Menlo Park, CA | NYC",
+          "position": "Software Engineer Intern - Web",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "648fdae5-8fd2-4e98-a3a7-451746653e9d",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/648fdae5-8fd2-4e98-a3a7-451746653e9d?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/648fdae5-8fd2-4e98-a3a7-451746653e9d?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Robinhood&job=da3731d7-8329-4919-85a6-46f3cc161efe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+        "https://boards.greenhouse.io/robinhood/jobs/8142963?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/648fdae5-8fd2-4e98-a3a7-451746653e9d?utm_source=GHList"
+      ]
+    },
     "greenhouse:scaleai:4730836005": {
       "age": "Today",
       "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
