@@ -2323,33 +2323,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "32d",
-          "application_url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
-          "category": "Unknown",
-          "company": "Netic",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Full-Stack Software Engineer (Product) - New Grad - 2026-2027",
-          "posted": "2026-07-16",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "5ef3b7c6-0194-4d6f-aa05-2b2345220ec4",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "32d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "5ef3b7c6-0194-4d6f-aa05-2b2345220ec4",
-            "listingUrl": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
-            "matchKind": "explicit",
-            "posted": "2026-07-16",
-            "url": "https://applyguy.ai/jobs?company=Netic&job=5ef3b7c6-0194-4d6f-aa05-2b2345220ec4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Netic&job=5ef3b7c6-0194-4d6f-aa05-2b2345220ec4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "32d",
           "application_url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3",
@@ -2387,33 +2360,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "32d",
-          "application_url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
-          "category": "Unknown",
-          "company": "Netic",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer (Agent Platform) - New Grad - 2026-2027",
-          "posted": "2026-07-16",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "1fe16092-7572-45a5-9b88-9f7f6efd5107",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "32d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "1fe16092-7572-45a5-9b88-9f7f6efd5107",
-            "listingUrl": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
-            "matchKind": "explicit",
-            "posted": "2026-07-16",
-            "url": "https://applyguy.ai/jobs?company=Netic&job=1fe16092-7572-45a5-9b88-9f7f6efd5107&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Netic&job=1fe16092-7572-45a5-9b88-9f7f6efd5107&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "32d",
           "application_url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
@@ -2875,54 +2821,6 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d"
-      ]
-    },
-    "ashby:replit:7e0dafe8-3eec-442e-aa76-a4d84d779fb1": {
-      "age": "1d",
-      "application_url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-      "canonical_id": "ashby:replit:7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-      "category": "Software Engineering",
-      "company": "Replit",
-      "job_type": "Internship",
-      "location": "Foster City, CA",
-      "position": "Software Engineering Intern (Summer 2027)",
-      "posted": "2026-08-15",
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "applyguy_internships": {
-          "age": "2d",
-          "application_url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-          "category": "Software Engineering",
-          "company": "Replit",
-          "job_type": "Internship",
-          "location": "Foster City, CA",
-          "position": "Software Engineering Intern (Summer 2027)",
-          "posted": "2026-08-15",
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "aadc664f-cc11-4833-9b53-f7c3b6955fd9",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "2d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-17T17:45:12.224Z",
-            "id": "aadc664f-cc11-4833-9b53-f7c3b6955fd9",
-            "listingUrl": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-            "posted": "2026-08-15",
-            "season": "Summer 2027",
-            "url": "https://applyguy.ai/jobs?company=Replit&job=aadc664f-cc11-4833-9b53-f7c3b6955fd9&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Replit&job=aadc664f-cc11-4833-9b53-f7c3b6955fd9&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Replit&job=aadc664f-cc11-4833-9b53-f7c3b6955fd9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-        "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true&utm_source=Simplify&ref=Simplify",
-        "https://simplify.jobs/p/7e21b76f-fae1-4564-9f64-456d019b46b2?utm_source=GHList"
       ]
     },
     "ashby:replit:b5e81eae-06f9-4798-8988-2d06ca936dbc": {
@@ -7172,7 +7070,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -7367,7 +7265,7 @@
         "simplify_summer_2027": {
           "age": "30d",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
