@@ -19274,6 +19274,107 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8174504"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8193731": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8193731",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-14T23:43:41Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T23:43:41Z",
+      "location": "San Francisco, CA",
+      "position": "2027 Summer Intern, BS/MS, Software Engineer",
+      "posted": "2026-09-14",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-14T23:43:41Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T23:43:41Z",
+          "location": "San Francisco, CA",
+          "position": "2027 Summer Intern, BS/MS, Software Engineer",
+          "posted": "2026-09-14",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "c951f16b-2e23-4b4c-8d4c-b0e3579063af",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-14T23:30:20.815Z",
+            "id": "c951f16b-2e23-4b4c-8d4c-b0e3579063af",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+            "posted": "2026-09-14",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=c951f16b-2e23-4b4c-8d4c-b0e3579063af&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=c951f16b-2e23-4b4c-8d4c-b0e3579063af&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=c951f16b-2e23-4b4c-8d4c-b0e3579063af&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8193731"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8198218&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8198218&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "first_seen": "2026-09-14T23:43:41Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T23:43:41Z",
+      "location": "SF | Mountain View, CA",
+      "position": "Software Engineering Intern - Commercialization",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "first_seen": "2026-09-14T23:43:41Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T23:43:41Z",
+          "location": "SF | Mountain View, CA",
+          "position": "Software Engineering Intern - Commercialization",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "4d33923f-011e-4c9c-8e39-4a4f417686d7",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/4d33923f-011e-4c9c-8e39-4a4f417686d7?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/4d33923f-011e-4c9c-8e39-4a4f417686d7?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/4d33923f-011e-4c9c-8e39-4a4f417686d7?utm_source=GHList"
+      ]
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "active": true,
       "age": "0d",
@@ -19497,17 +19598,158 @@
         "https://jobs.apple.com/en-us/details/200665480-0836"
       ]
     },
+    "url:https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552?ref=Simplify",
+      "category": "Unknown",
+      "company": "Intuit",
+      "first_seen": "2026-09-14T23:43:41Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T23:43:41Z",
+      "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+      "position": "Mobile Software Engineer Intern - Android",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Intuit",
+          "first_seen": "2026-09-14T23:43:41Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T23:43:41Z",
+          "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+          "position": "Mobile Software Engineer Intern - Android",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "25c606c0-e37b-4e36-a6d9-5e9df8b3a2e7",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/25c606c0-e37b-4e36-a6d9-5e9df8b3a2e7?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/25c606c0-e37b-4e36-a6d9-5e9df8b3a2e7?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/25c606c0-e37b-4e36-a6d9-5e9df8b3a2e7?utm_source=GHList"
+      ]
+    },
+    "url:https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568?ref=Simplify",
+      "category": "Unknown",
+      "company": "Intuit",
+      "first_seen": "2026-09-14T23:43:41Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T23:43:41Z",
+      "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+      "position": "Mobile Software Engineer Intern - iOS",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Intuit",
+          "first_seen": "2026-09-14T23:43:41Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T23:43:41Z",
+          "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
+          "position": "Mobile Software Engineer Intern - iOS",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "99be0eea-8a7f-4470-894d-d0dcc34dc9c7",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/99be0eea-8a7f-4470-894d-d0dcc34dc9c7?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/99be0eea-8a7f-4470-894d-d0dcc34dc9c7?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/99be0eea-8a7f-4470-894d-d0dcc34dc9c7?utm_source=GHList"
+      ]
+    },
+    "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616?ref=Simplify",
+      "category": "Unknown",
+      "company": "Intuit",
+      "first_seen": "2026-09-14T23:43:41Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T23:43:41Z",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer Intern - Cybersecurity",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Intuit",
+          "first_seen": "2026-09-14T23:43:41Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T23:43:41Z",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer Intern - Cybersecurity",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "a57d347e-4ce0-4590-bf80-9368dd106660",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/a57d347e-4ce0-4590-bf80-9368dd106660?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/a57d347e-4ce0-4590-bf80-9368dd106660?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/a57d347e-4ce0-4590-bf80-9368dd106660?utm_source=GHList"
+      ]
+    },
     "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?ref=Simplify": {
-      "active": false,
+      "active": true,
       "age": "0d",
       "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
       "canonical_id": "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?ref=Simplify",
       "category": "Unknown",
       "company": "Intuit",
       "first_seen": "2026-08-29T06:18:28Z",
-      "inactive_at": "2026-08-31T16:52:20Z",
+      "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-08-29T06:18:28Z",
+      "last_seen": "2026-09-14T23:43:41Z",
       "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
       "position": "Software Engineer Intern - Full Stack",
       "posted": null,
@@ -19515,15 +19757,15 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "active": false,
-          "age": "0d",
+          "active": true,
+          "age": "16d",
           "application_url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864?utm_source=Simplify&ref=Simplify",
           "category": "Unknown",
           "company": "Intuit",
           "first_seen": "2026-08-29T06:18:28Z",
-          "inactive_at": "2026-08-31T16:52:20Z",
+          "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-08-29T06:18:28Z",
+          "last_seen": "2026-09-14T23:43:41Z",
           "location": "Charlotte, NC | NYC | Mountain View, CA | Atlanta, GA | San Diego, CA",
           "position": "Software Engineer Intern - Full Stack",
           "posted": null,
@@ -27739,6 +27981,26 @@
         "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify"
       ],
       "status": "sent"
+    },
+    "03378495748af6265c65e42a666552fc319021f2eda295cb320f8128c770ab6f": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-14T23:43:41Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8193731",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8198218&ref=Simplify",
+        "url:https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552?ref=Simplify",
+        "url:https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568?ref=Simplify",
+        "url:https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616?ref=Simplify"
+      ],
+      "job_urls": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+        "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
+        "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552?utm_source=Simplify&ref=Simplify",
+        "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568?utm_source=Simplify&ref=Simplify",
+        "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "05e10eaf5e41ce3d05a7fd8061c9a0dec95fb67b1463b3339a4ee3cd3a60f59b": {
       "application_scan_eligible": true,
