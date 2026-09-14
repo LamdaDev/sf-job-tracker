@@ -28663,7 +28663,7 @@
     "d075eeaae2cf360fb5fe095e4809fb0a71ce14b17d85abd9eb9b2d216f164802": {
       "application_scan_eligible": true,
       "created_at": "2026-09-14T20:47:10Z",
-      "issue_number": null,
+      "issue_number": 87,
       "job_ids": [
         "greenhouse:figma:6143238004",
         "greenhouse:mill:4733709005",
@@ -28680,7 +28680,7 @@
         "https://www.google.com/about/careers/applications/jobs/results/112499004540887750?utm_source=Simplify&ref=Simplify",
         "https://www.google.com/about/careers/applications/jobs/results/117572151191446214?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "d23d44a6827ee9285ccf016c106abb43afb638cd2f37c14050120276aa89bcc8": {
       "application_scan_eligible": true,

@@ -1957,6 +1957,328 @@
       "scanned_at": "2026-09-01T17:42:32Z",
       "status": "complete"
     },
+    "greenhouse:figma:6143238004": {
+      "application_url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:figma:6143238004",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-14T20:47:16Z",
+      "http_status": 200,
+      "issue_number": 87,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-14T20:47:16Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19438727004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 6,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19438728004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Pronouns",
+          "options": [
+            "she/her/hers",
+            "he/him/his",
+            "they/them/theirs",
+            "self-describe"
+          ],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19438735004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19438736004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Other Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19438729004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "How did you connect with us?",
+          "options": [
+            "FigFest",
+            "Through a partnership (RTC, ColorStack, or Talentboard)",
+            "On-campus event",
+            "Virtual event",
+            "Other"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_19438730004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "If you are currently enrolled in university or a program, what is your expected graduation date?",
+          "options": [
+            "Spring 2027",
+            "Fall 2027",
+            "Spring 2028",
+            "Fall 2028",
+            "Spring 2029",
+            "Fall 2029",
+            "Spring 2030",
+            "Fall 2030",
+            "Other",
+            "I am not currently enrolled"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19438731004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Which type of engineering work are you most excited to do at Figma? Select your first choice.",
+          "options": [
+            "Product Engineering",
+            "Backend/Infrastructure",
+            "Security Engineering",
+            "Open to any area"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19438732004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Which type of engineering work are you most excited to do at Figma? Select your second choice.",
+          "options": [
+            "Product Engineering",
+            "Backend/Infrastructure",
+            "Security Engineering",
+            "Open to any area"
+          ],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_19438733004",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "Based on the engineering work you listed above that you're most excited to do at Figma, briefly (2-4 sentences) describe a past project or experience that best reflects your interest in those areas.",
+          "options": [],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_19438734004",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "Why do you want to join Figma?",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_19438737004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you authorized to work in the country for which you applied?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19438738004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Have you ever worked for Figma before, as an employee or a contractor/consultant?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 18,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 20,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 22,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-14T20:47:16Z",
+      "status": "complete"
+    },
     "greenhouse:gallup:4393731009": {
       "application_url": "https://job-boards.greenhouse.io/gallup/jobs/4393731009",
       "attempt_count": 1,
@@ -7767,6 +8089,115 @@
         }
       ],
       "scanned_at": "2026-09-03T08:42:48Z",
+      "status": "complete"
+    },
+    "greenhouse:mill:4733709005": {
+      "application_url": "https://job-boards.greenhouse.io/mill/jobs/4733709005",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:mill:4733709005",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-14T20:47:17Z",
+      "http_status": 200,
+      "issue_number": 87,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-14T20:47:17Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 6,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_9073569005",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_9073570005",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        }
+      ],
+      "scanned_at": "2026-09-14T20:47:17Z",
       "status": "complete"
     },
     "greenhouse:pacificfusion:4398373009": {
@@ -17471,6 +17902,27 @@
       "scanned_at": "2026-09-01T17:43:01Z",
       "status": "unavailable"
     },
+    "url:https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?ref=Simplify": {
+      "application_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?ref=Simplify",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-14T20:47:19Z",
+      "http_status": 200,
+      "issue_number": 87,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-14T20:47:19Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-14T20:47:19Z",
+      "status": "unavailable"
+    },
     "url:https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315": {
       "application_url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
       "attempt_count": 1,
@@ -17616,6 +18068,48 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-09-01T17:43:05Z",
+      "status": "unavailable"
+    },
+    "url:https://www.google.com/about/careers/applications/jobs/results/112499004540887750?ref=Simplify": {
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/112499004540887750?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.google.com/about/careers/applications/jobs/results/112499004540887750?ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-14T20:47:24Z",
+      "http_status": 200,
+      "issue_number": 87,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-14T20:47:24Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-14T20:47:24Z",
+      "status": "unavailable"
+    },
+    "url:https://www.google.com/about/careers/applications/jobs/results/117572151191446214?ref=Simplify": {
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.google.com/about/careers/applications/jobs/results/117572151191446214?ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-14T20:47:25Z",
+      "http_status": 200,
+      "issue_number": 87,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-14T20:47:25Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-14T20:47:25Z",
       "status": "unavailable"
     },
     "url:https://www.google.com/about/careers/applications/jobs/results/91436104816698054": {
@@ -19357,6 +19851,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-11T05:49:07Z",
+      "status": "unavailable"
+    },
+    "workday:wf.wd1.myworkdayjobs.com:xmlname-2027-technology-summer-internship---early-careers--software-engineering---california-_r-574294": {
+      "application_url": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:wf.wd1.myworkdayjobs.com:xmlname-2027-technology-summer-internship---early-careers--software-engineering---california-_r-574294",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-14T20:47:27Z",
+      "http_status": 200,
+      "issue_number": 87,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-14T20:47:27Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-14T20:47:27Z",
       "status": "unavailable"
     }
   },
