@@ -28614,7 +28614,7 @@
     "fae9cd81c98ecf58d471ea7fcf0bed40167c1786a4b2e7e6d1ab2be6757ae08f": {
       "application_scan_eligible": true,
       "created_at": "2026-09-14T16:50:25Z",
-      "issue_number": null,
+      "issue_number": 86,
       "job_ids": [
         "greenhouse:robinhood:8123225",
         "greenhouse:robinhood:8142959",
@@ -28627,7 +28627,7 @@
         "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
         "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "ff83ba5c360403a72d8c6313dc540fba55370b0f84d1675b89d51285b038b1f3": {
       "application_scan_eligible": true,
