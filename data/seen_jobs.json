@@ -1635,14 +1635,14 @@
       ]
     },
     "ashby:clera:63d532c2-6e12-4ad4-a599-9a756cd3ce12": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://jobs.ashbyhq.com/clera/63d532c2-6e12-4ad4-a599-9a756cd3ce12",
       "canonical_id": "ashby:clera:63d532c2-6e12-4ad4-a599-9a756cd3ce12",
       "category": "Other",
       "company": "Clera",
       "first_seen": "2026-09-10T17:33:54Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-14T20:47:10Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-10T17:33:54Z",
       "location": "San Francisco, CA",
@@ -1652,13 +1652,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://jobs.ashbyhq.com/clera/63d532c2-6e12-4ad4-a599-9a756cd3ce12",
           "category": "Other",
           "company": "Clera",
           "first_seen": "2026-09-10T17:33:54Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-14T20:47:10Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-10T17:33:54Z",
           "location": "San Francisco, CA",
@@ -7251,6 +7251,60 @@
         "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
       ]
     },
+    "greenhouse:figma:6143238004": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+      "canonical_id": "greenhouse:figma:6143238004",
+      "category": "Software Engineering",
+      "company": "Figma",
+      "first_seen": "2026-09-14T20:47:10Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T20:47:10Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern (Summer 2027)",
+      "posted": "2026-09-14",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+          "category": "Software Engineering",
+          "company": "Figma",
+          "first_seen": "2026-09-14T20:47:10Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T20:47:10Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern (Summer 2027)",
+          "posted": "2026-09-14",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "5080166c-ad53-420f-9087-e25c01116612",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-14T20:45:23.216Z",
+            "id": "5080166c-ad53-420f-9087-e25c01116612",
+            "listingUrl": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+            "posted": "2026-09-14",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Figma&job=5080166c-ad53-420f-9087-e25c01116612&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Figma&job=5080166c-ad53-420f-9087-e25c01116612&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Figma&job=5080166c-ad53-420f-9087-e25c01116612&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
+      ]
+    },
     "greenhouse:figureai:4691070006": {
       "active": true,
       "age": "55d",
@@ -8383,6 +8437,60 @@
       },
       "url_aliases": [
         "https://job-boards.greenhouse.io/mercury/jobs/6101145004"
+      ]
+    },
+    "greenhouse:mill:4733709005": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/mill/jobs/4733709005",
+      "canonical_id": "greenhouse:mill:4733709005",
+      "category": "Software Engineering",
+      "company": "Mill",
+      "first_seen": "2026-09-14T20:47:10Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T20:47:10Z",
+      "location": "San Bruno, CA",
+      "position": "Firmware Engineering Intern, Winter 2026",
+      "posted": "2026-09-14",
+      "salary": null,
+      "season": "Winter 2026",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/mill/jobs/4733709005",
+          "category": "Software Engineering",
+          "company": "Mill",
+          "first_seen": "2026-09-14T20:47:10Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T20:47:10Z",
+          "location": "San Bruno, CA",
+          "position": "Firmware Engineering Intern, Winter 2026",
+          "posted": "2026-09-14",
+          "salary": null,
+          "season": "Winter 2026",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "247532fa-3520-4649-b7ba-51391c3a92f0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-14T20:45:23.216Z",
+            "id": "247532fa-3520-4649-b7ba-51391c3a92f0",
+            "listingUrl": "https://job-boards.greenhouse.io/mill/jobs/4733709005",
+            "posted": "2026-09-14",
+            "season": "Winter 2026",
+            "url": "https://applyguy.ai/jobs?company=Mill&job=247532fa-3520-4649-b7ba-51391c3a92f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Mill&job=247532fa-3520-4649-b7ba-51391c3a92f0&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Mill&job=247532fa-3520-4649-b7ba-51391c3a92f0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/mill/jobs/4733709005"
       ]
     },
     "greenhouse:muonspace:5204498007": {
@@ -20196,6 +20304,53 @@
         "https://stripe.com/jobs/search?gh_jid=8128745"
       ]
     },
+    "url:https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?ref=Simplify",
+      "category": "Unknown",
+      "company": "Wells Fargo",
+      "first_seen": "2026-09-14T20:47:10Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T20:47:10Z",
+      "location": "Concord, CA | SF | San Leandro, CA",
+      "position": "Software Engineering Intern - Early Careers - Software Engineering",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Wells Fargo",
+          "first_seen": "2026-09-14T20:47:10Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T20:47:10Z",
+          "location": "Concord, CA | SF | San Leandro, CA",
+          "position": "Software Engineering Intern - Early Careers - Software Engineering",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "14f47481-e076-4f40-8d28-deaccaa6542d",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/14f47481-e076-4f40-8d28-deaccaa6542d?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/14f47481-e076-4f40-8d28-deaccaa6542d?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/14f47481-e076-4f40-8d28-deaccaa6542d?utm_source=GHList",
+        "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify"
+      ]
+    },
     "url:https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315": {
       "active": true,
       "age": "1d",
@@ -20601,6 +20756,100 @@
       },
       "url_aliases": [
         "https://www.google.com/about/careers/applications/jobs/results/106684387621249734"
+      ]
+    },
+    "url:https://www.google.com/about/careers/applications/jobs/results/112499004540887750?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/112499004540887750?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://www.google.com/about/careers/applications/jobs/results/112499004540887750?ref=Simplify",
+      "category": "Unknown",
+      "company": "Google",
+      "first_seen": "2026-09-14T20:47:10Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T20:47:10Z",
+      "location": "Palo Alto, CA | Cambridge, MA | Madison, WI | Seattle, WA | Washington, DC | SF | Austin, TX | LA | Irvine, CA | San Bruno, CA | Redmond, WA | Santa Cruz, CA | Chicago, IL | Goleta, CA | Pittsburgh, PA | Kirkland, WA | Reston, VA | NYC | Bellevue, WA | Sunnyvale, CA | Mountain View, CA | Portland, OR | Boulder, CO | Atlanta, GA | San Diego, CA",
+      "position": "User Experience Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.google.com/about/careers/applications/jobs/results/112499004540887750?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Google",
+          "first_seen": "2026-09-14T20:47:10Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T20:47:10Z",
+          "location": "Palo Alto, CA | Cambridge, MA | Madison, WI | Seattle, WA | Washington, DC | SF | Austin, TX | LA | Irvine, CA | San Bruno, CA | Redmond, WA | Santa Cruz, CA | Chicago, IL | Goleta, CA | Pittsburgh, PA | Kirkland, WA | Reston, VA | NYC | Bellevue, WA | Sunnyvale, CA | Mountain View, CA | Portland, OR | Boulder, CO | Atlanta, GA | San Diego, CA",
+          "position": "User Experience Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "709433ac-42c3-4c44-a25b-c31b22c52054",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/709433ac-42c3-4c44-a25b-c31b22c52054?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/709433ac-42c3-4c44-a25b-c31b22c52054?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/709433ac-42c3-4c44-a25b-c31b22c52054?utm_source=GHList",
+        "https://www.google.com/about/careers/applications/jobs/results/112499004540887750?utm_source=Simplify&ref=Simplify"
+      ]
+    },
+    "url:https://www.google.com/about/careers/applications/jobs/results/117572151191446214?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://www.google.com/about/careers/applications/jobs/results/117572151191446214?ref=Simplify",
+      "category": "FAANG+",
+      "company": "Google",
+      "first_seen": "2026-09-14T20:47:10Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T20:47:10Z",
+      "location": "Palo Alto, CA | Cambridge, MA | Madison, WI | Seattle, WA | Washington, DC | SF | Austin, TX | LA | Irvine, CA | San Bruno, CA | Redmond, WA | Santa Cruz, CA | Chicago, IL | Goleta, CA | Pittsburgh, PA | Kirkland, WA | Reston, VA | NYC | Bellevue, WA | Sunnyvale, CA | Mountain View, CA | Portland, OR | Boulder, CO | Atlanta, GA | San Diego, CA",
+      "position": "User Experience Engineer Intern - PhD - Summer 2027 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Google",
+          "first_seen": "2026-09-14T20:47:10Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T20:47:10Z",
+          "location": "Palo Alto, CA | Cambridge, MA | Madison, WI | Seattle, WA | Washington, DC | SF | Austin, TX | LA | Irvine, CA | San Bruno, CA | Redmond, WA | Santa Cruz, CA | Chicago, IL | Goleta, CA | Pittsburgh, PA | Kirkland, WA | Reston, VA | NYC | Bellevue, WA | Sunnyvale, CA | Mountain View, CA | Portland, OR | Boulder, CO | Atlanta, GA | San Diego, CA",
+          "position": "User Experience Engineer Intern - PhD - Summer 2027 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "05b3642e-a1c8-4a0a-b252-24530e109900",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/05b3642e-a1c8-4a0a-b252-24530e109900?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/05b3642e-a1c8-4a0a-b252-24530e109900?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/05b3642e-a1c8-4a0a-b252-24530e109900?utm_source=GHList",
+        "https://www.google.com/about/careers/applications/jobs/results/117572151191446214?utm_source=Simplify&ref=Simplify"
       ]
     },
     "url:https://www.google.com/about/careers/applications/jobs/results/77174102632080070": {
@@ -27399,6 +27648,60 @@
         "https://simplify.jobs/p/f00e8399-0777-4e56-b2cb-0fd0631a0655?utm_source=GHList",
         "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify"
       ]
+    },
+    "workday:wf.wd1.myworkdayjobs.com:xmlname-2027-technology-summer-internship---early-careers--software-engineering---california-_r-574294": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294",
+      "canonical_id": "workday:wf.wd1.myworkdayjobs.com:xmlname-2027-technology-summer-internship---early-careers--software-engineering---california-_r-574294",
+      "category": "Software Engineering",
+      "company": "Wf",
+      "first_seen": "2026-09-14T20:47:10Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-14T20:47:10Z",
+      "location": "San Francisco, CA",
+      "position": "2027 Technology Summer Internship – Early Careers (Software Engineering - California)",
+      "posted": "2026-09-14",
+      "salary": null,
+      "season": "Summer",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294",
+          "category": "Software Engineering",
+          "company": "Wf",
+          "first_seen": "2026-09-14T20:47:10Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-14T20:47:10Z",
+          "location": "San Francisco, CA",
+          "position": "2027 Technology Summer Internship – Early Careers (Software Engineering - California)",
+          "posted": "2026-09-14",
+          "salary": null,
+          "season": "Summer",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "6843ef1a-1b69-48a5-a424-ea18fcc90fac",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-14T20:45:23.216Z",
+            "id": "6843ef1a-1b69-48a5-a424-ea18fcc90fac",
+            "listingUrl": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294",
+            "posted": "2026-09-14",
+            "season": "Summer",
+            "url": "https://applyguy.ai/jobs?company=Wf&job=6843ef1a-1b69-48a5-a424-ea18fcc90fac&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Wf&job=6843ef1a-1b69-48a5-a424-ea18fcc90fac&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Wf&job=6843ef1a-1b69-48a5-a424-ea18fcc90fac&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294"
+      ]
     }
   },
   "location_scope_version": "sf-bay-area-roughly-one-hour-v1",
@@ -28356,6 +28659,28 @@
         "https://jobs.ashbyhq.com/greptile/ce412761-a605-4540-9fb5-624c67ba2b02"
       ],
       "status": "sent"
+    },
+    "d075eeaae2cf360fb5fe095e4809fb0a71ce14b17d85abd9eb9b2d216f164802": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-14T20:47:10Z",
+      "issue_number": null,
+      "job_ids": [
+        "greenhouse:figma:6143238004",
+        "greenhouse:mill:4733709005",
+        "url:https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?ref=Simplify",
+        "url:https://www.google.com/about/careers/applications/jobs/results/112499004540887750?ref=Simplify",
+        "url:https://www.google.com/about/careers/applications/jobs/results/117572151191446214?ref=Simplify",
+        "workday:wf.wd1.myworkdayjobs.com:xmlname-2027-technology-summer-internship---early-careers--software-engineering---california-_r-574294"
+      ],
+      "job_urls": [
+        "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+        "https://job-boards.greenhouse.io/mill/jobs/4733709005",
+        "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify",
+        "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294",
+        "https://www.google.com/about/careers/applications/jobs/results/112499004540887750?utm_source=Simplify&ref=Simplify",
+        "https://www.google.com/about/careers/applications/jobs/results/117572151191446214?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "d23d44a6827ee9285ccf016c106abb43afb638cd2f37c14050120276aa89bcc8": {
       "application_scan_eligible": true,
