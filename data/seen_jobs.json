@@ -5319,7 +5319,7 @@
       "first_seen": "2026-09-08T21:41:13Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-09T20:40:45Z",
+      "last_seen": "2026-09-15T04:01:22Z",
       "location": "San Francisco, CA",
       "position": "Software Engineer Intern - Cloud Platform",
       "posted": "2026-09-08",
@@ -5328,16 +5328,16 @@
       "sources": {
         "applyguy_internships": {
           "active": true,
-          "age": "Today",
+          "age": "7d",
           "application_url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
           "category": "Software Engineering",
           "company": "Semgrep",
           "first_seen": "2026-09-08T21:41:13Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-08T21:41:13Z",
+          "last_seen": "2026-09-15T04:01:22Z",
           "location": "San Francisco, CA",
-          "position": "Software Engineer Intern, Cloud Platform",
+          "position": "Software Engineer Intern",
           "posted": "2026-09-08",
           "salary": null,
           "season": "Not specified",
@@ -5346,9 +5346,9 @@
           "source_job_id": "4e4460e9-778a-4360-bd90-c579d438f6a0",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "Today",
+            "age": "7d",
             "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-08T21:30:09.866Z",
+            "feedUpdatedAt": "2026-09-15T04:00:31.846Z",
             "id": "4e4460e9-778a-4360-bd90-c579d438f6a0",
             "listingUrl": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
             "posted": "2026-09-08",
@@ -7021,6 +7021,53 @@
       },
       "url_aliases": [
         "https://job-boards.greenhouse.io/discord/jobs/8609250002"
+      ]
+    },
+    "greenhouse:doordashusa:8171041": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "greenhouse:doordashusa:8171041",
+      "category": "FAANG+",
+      "company": "DoorDash",
+      "first_seen": "2026-09-15T04:01:22Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-15T04:01:22Z",
+      "location": "Seattle, WA | SF | LA | NYC | Sunnyvale, CA",
+      "position": "Software Engineer Intern - Summer 2027",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "DoorDash",
+          "first_seen": "2026-09-15T04:01:22Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T04:01:22Z",
+          "location": "Seattle, WA | SF | LA | NYC | Sunnyvale, CA",
+          "position": "Software Engineer Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "d3c0c779-480d-4810-9393-88d215aa5e7e",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/d3c0c779-480d-4810-9393-88d215aa5e7e?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/d3c0c779-480d-4810-9393-88d215aa5e7e?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/d3c0c779-480d-4810-9393-88d215aa5e7e?utm_source=GHList"
       ]
     },
     "greenhouse:energysolutions:5222428007": {
@@ -12126,7 +12173,7 @@
       "first_seen": "2026-08-17T17:45:31Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-14T10:23:55Z",
+      "last_seen": "2026-09-15T04:01:22Z",
       "location": "San Jose, CA",
       "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
       "posted": null,
@@ -12137,12 +12184,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-14T10:23:55Z",
+          "last_seen": "2026-09-15T04:01:22Z",
           "location": "San Jose, CA",
           "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
           "posted": null,
@@ -12455,7 +12502,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-14T10:23:55Z",
+      "last_seen": "2026-09-15T04:01:22Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -12466,12 +12513,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-14T10:23:55Z",
+          "last_seen": "2026-09-15T04:01:22Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -19328,6 +19375,60 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8193731"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8198218": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-15T04:01:22Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-15T04:01:22Z",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "posted": "2026-09-14",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-15T04:01:22Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T04:01:22Z",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+          "posted": "2026-09-14",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "009e8dec-220c-4a3c-9825-e30dbec544b4",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-15T04:00:31.846Z",
+            "id": "009e8dec-220c-4a3c-9825-e30dbec544b4",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+            "posted": "2026-09-14",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=009e8dec-220c-4a3c-9825-e30dbec544b4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=009e8dec-220c-4a3c-9825-e30dbec544b4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=009e8dec-220c-4a3c-9825-e30dbec544b4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8198218"
+      ]
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8198218&ref=Simplify": {
       "active": true,
       "age": "0d",
@@ -24363,15 +24464,69 @@
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683"
       ]
     },
-    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2024510": {
       "active": true,
+      "age": "Today",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2024510",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "first_seen": "2026-09-15T04:01:22Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-15T04:01:22Z",
+      "location": "San Jose California",
+      "position": "Software Engineer Data & AI I (Intern) - United States",
+      "posted": "2026-09-15",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
+          "category": "Software Engineering",
+          "company": "Cisco",
+          "first_seen": "2026-09-15T04:01:22Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T04:01:22Z",
+          "location": "San Jose California",
+          "position": "Software Engineer Data & AI I (Intern) - United States",
+          "posted": "2026-09-15",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b31c5a3d-9a51-453c-b4d4-1d4ff5b62e13",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-15T04:00:31.846Z",
+            "id": "b31c5a3d-9a51-453c-b4d4-1d4ff5b62e13",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
+            "posted": "2026-09-15",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=b31c5a3d-9a51-453c-b4d4-1d4ff5b62e13&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=b31c5a3d-9a51-453c-b4d4-1d4ff5b62e13&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=b31c5a3d-9a51-453c-b4d4-1d4ff5b62e13&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510"
+      ]
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
+      "active": false,
       "age": "1d",
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
       "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527",
       "category": "Unknown",
       "company": "Cisco",
       "first_seen": "2026-08-25T04:42:13Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-15T04:01:22Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-12T22:01:39Z",
       "location": "Milpitas California",
@@ -24381,13 +24536,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527",
           "category": "Unknown",
           "company": "Cisco",
           "first_seen": "2026-08-25T04:42:13Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-15T04:01:22Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-12T22:01:39Z",
           "location": "Milpitas California",
@@ -24669,7 +24824,7 @@
       "first_seen": "2026-09-08T14:59:27Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-08T18:32:27Z",
+      "last_seen": "2026-09-15T04:01:22Z",
       "location": "Foster City, CA",
       "position": "Intern - Development - DevOps Business Strategy Leader",
       "posted": "2026-09-08",
@@ -24678,16 +24833,16 @@
       "sources": {
         "applyguy_internships": {
           "active": true,
-          "age": "Today",
+          "age": "7d",
           "application_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
           "category": "Software Engineering",
           "company": "Gilead",
           "first_seen": "2026-09-08T14:59:27Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-08T14:59:27Z",
+          "last_seen": "2026-09-15T04:01:22Z",
           "location": "Foster City, CA",
-          "position": "Intern - Development - DevOps Business Strategy Leader",
+          "position": "Intern - Development - DevOps Business Strategy",
           "posted": "2026-09-08",
           "salary": null,
           "season": "Not specified",
@@ -24696,9 +24851,9 @@
           "source_job_id": "4d9bee27-c555-419a-9d32-183ff64c0c9b",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "Today",
+            "age": "7d",
             "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-08T14:45:17.559Z",
+            "feedUpdatedAt": "2026-09-15T04:00:31.846Z",
             "id": "4d9bee27-c555-419a-9d32-183ff64c0c9b",
             "listingUrl": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Development---DevOps-Business-Strategy-Leader_R0054772",
             "posted": "2026-09-08",
@@ -28787,6 +28942,22 @@
         "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
       ],
       "status": "sent"
+    },
+    "bb0cd11fe88904a288413cad57c5ec1796cc205fb276db6538864fa61a61aaed": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-15T04:01:22Z",
+      "issue_number": null,
+      "job_ids": [
+        "greenhouse:doordashusa:8171041",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8198218",
+        "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2024510"
+      ],
+      "job_urls": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
+        "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "bcc60e9f8c8850efc2beed49e0edbd7d1683791df43f68f88a8a2e8e16eb3e21": {
       "application_scan_eligible": true,
