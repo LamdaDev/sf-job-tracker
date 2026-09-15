@@ -28940,7 +28940,7 @@
     "29a78b6b051a21d18ceeb46036e59970e5cadf2e17c8feaddca148cbfca1bf5b": {
       "application_scan_eligible": true,
       "created_at": "2026-09-15T18:46:16Z",
-      "issue_number": null,
+      "issue_number": 90,
       "job_ids": [
         "ashby:clera:356df263-10a2-4d81-8891-afb6a08f7707",
         "ashby:openai:55150071-fce8-48f5-aea4-14ed78b83511",
@@ -28967,7 +28967,7 @@
         "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
         "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "3284032afcebb67d25bd6724d348d97218c40ab421db979b7bcc365fa1a86ab3": {
       "application_scan_eligible": true,

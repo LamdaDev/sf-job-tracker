@@ -189,6 +189,27 @@
       "scanned_at": "2026-09-11T00:58:00Z",
       "status": "unavailable"
     },
+    "ashby:clera:356df263-10a2-4d81-8891-afb6a08f7707": {
+      "application_url": "https://jobs.ashbyhq.com/clera/356df263-10a2-4d81-8891-afb6a08f7707",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:clera:356df263-10a2-4d81-8891-afb6a08f7707",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:21Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:21Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-15T18:46:21Z",
+      "status": "unavailable"
+    },
     "ashby:clera:431bb19f-3118-4184-9fc9-65179adbb139": {
       "application_url": "https://jobs.ashbyhq.com/clera/431bb19f-3118-4184-9fc9-65179adbb139",
       "attempt_count": 1,
@@ -462,6 +483,27 @@
       "scanned_at": "2026-09-11T18:16:09Z",
       "status": "unavailable"
     },
+    "ashby:openai:55150071-fce8-48f5-aea4-14ed78b83511": {
+      "application_url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:openai:55150071-fce8-48f5-aea4-14ed78b83511",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:23Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:23Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-15T18:46:23Z",
+      "status": "unavailable"
+    },
     "ashby:prophet-security:51415149-9b19-4164-84b9-2ffa78478069": {
       "application_url": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069",
       "attempt_count": 1,
@@ -649,6 +691,69 @@
       "provider": "ashby",
       "questions": [],
       "scanned_at": "2026-09-10T03:46:12Z",
+      "status": "unavailable"
+    },
+    "ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f": {
+      "application_url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:24Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:24Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-15T18:46:24Z",
+      "status": "unavailable"
+    },
+    "ashby:superhuman%20platform%20inc:da5e147c-f957-4ba1-9712-1b2dde377cb0": {
+      "application_url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/da5e147c-f957-4ba1-9712-1b2dde377cb0",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:superhuman%20platform%20inc:da5e147c-f957-4ba1-9712-1b2dde377cb0",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:25Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:25Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-15T18:46:25Z",
+      "status": "unavailable"
+    },
+    "ashby:superhuman%20platform%20inc:e6b917b1-325a-47d0-b267-b279b0efdad0": {
+      "application_url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:superhuman%20platform%20inc:e6b917b1-325a-47d0-b267-b279b0efdad0",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:27Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:27Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-15T18:46:27Z",
       "status": "unavailable"
     },
     "ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6": {
@@ -10309,6 +10414,224 @@
       "scanned_at": "2026-09-04T20:29:36Z",
       "status": "complete"
     },
+    "greenhouse:singlestore:8154399": {
+      "application_url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:singlestore:8154399",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:28Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:28Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_68798519",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_68798520",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 11,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you legally authorized to work in the United States?",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you currently, or will you in the future, require sponsorship for employment authorization?",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-15T18:46:28Z",
+      "status": "complete"
+    },
     "greenhouse:skhynixmemorysolutionsamericainc:4387708009": {
       "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009",
       "attempt_count": 1,
@@ -17833,6 +18156,39 @@
       "scanned_at": "2026-08-31T21:48:13Z",
       "status": "partial"
     },
+    "url:https://c3.ai/job-description/8801434002?gh_jid=8801434002": {
+      "application_url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:30Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:30Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": "q",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Search C3 AI",
+          "options": [],
+          "ordinal": 1,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-15T18:46:30Z",
+      "status": "partial"
+    },
     "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify": {
       "application_url": "https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -18508,6 +18864,350 @@
       "questions": [],
       "scanned_at": "2026-09-01T17:43:01Z",
       "status": "unavailable"
+    },
+    "url:https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer": {
+      "application_url": "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer/apply",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer",
+      "completeness_reason": "Additional application questions require authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:32Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:32Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": "cName",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_FULL_NAME%",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": "cEmail",
+          "field_type": "email",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_EMAIL_ADDRESS%",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": "cPhoneNumber",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_PHONE_NUMBER%",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "smsConsent",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "SmsConsent",
+          "options": [
+            "SmsConsent"
+          ],
+          "ordinal": 4,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": "cAddress",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_ADDRESS%",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "salaryCurrency",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "SalaryCurrency",
+          "options": [],
+          "ordinal": 6,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "cSalary",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_SALARY%",
+          "options": [],
+          "ordinal": 7,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_COMPANY%",
+          "options": [],
+          "ordinal": 9,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_TITLE%",
+          "options": [],
+          "ordinal": 10,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "long_text",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_SUMMARY%",
+          "options": [],
+          "ordinal": 11,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "date",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_COMPANY%",
+          "options": [],
+          "ordinal": 12,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "education",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_SCHOOL%",
+          "options": [],
+          "ordinal": 14,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_FIELD_OF_STUDY%",
+          "options": [],
+          "ordinal": 15,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "cSummary",
+          "field_type": "long_text",
+          "is_custom": false,
+          "label": "CSummary",
+          "options": [],
+          "ordinal": 19,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "cCoverLetter",
+          "field_type": "long_text",
+          "is_custom": false,
+          "label": "CCoverLetter",
+          "options": [],
+          "ordinal": 20,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "section_{{section._id}}_question_{{$index}}",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Section {{section. id}} question {{$index}}",
+          "options": [],
+          "ordinal": 21,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "section_{{section._id}}_question_{{$questionIndex}}",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "Section {{section. id}} question {{$questionIndex}}",
+          "options": [],
+          "ordinal": 22,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "section_{{section._id}}_question_{{$index}}",
+          "field_type": "date",
+          "is_custom": true,
+          "label": "Section {{section. id}} question {{$index}}",
+          "options": [],
+          "ordinal": 23,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": null,
+          "field_type": "phone",
+          "is_custom": false,
+          "label": "%PLACEHOLDER_PHONE_NUMBER%",
+          "options": [],
+          "ordinal": 26,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "reference.type_{{question._id}}_{{section._id}}_{{$index + 1}}",
+          "field_type": "radio",
+          "is_custom": true,
+          "label": "Reference.type {{question. id}} {{section. id}} {{$index + 1}}",
+          "options": [
+            "Reference.type {{question. id}} {{section. id}} {{$index + 1}}"
+          ],
+          "ordinal": 27,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "section_{{section._id}}_question_{{$questionIndex}}",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Section {{section. id}} question {{$questionIndex}}",
+          "options": [
+            "{{opt.text}}"
+          ],
+          "ordinal": 29,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "section_{{section._id}}_question_{{$questionIndex}}",
+          "field_type": "radio",
+          "is_custom": false,
+          "label": "{{ opt.text }}",
+          "options": [
+            "{{ opt.text }}"
+          ],
+          "ordinal": 30,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "section_{{section._id}}_question_{{$questionIndex}}",
+          "field_type": "checkbox",
+          "is_custom": true,
+          "label": "Section {{section. id}} question {{$questionIndex}}",
+          "options": [
+            "Section {{section. id}} question {{$questionIndex}}"
+          ],
+          "ordinal": 31,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "section_{{section._id}}_question_{{$index}}",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "0000",
+          "options": [],
+          "ordinal": 32,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race_ethnicity",
+          "field_type": "radio",
+          "is_custom": false,
+          "label": "Race ethnicity",
+          "options": [
+            "%EEOC_RACE_ETHNICITY_WHITE%",
+            "%EEOC_RACE_ETHNICITY_BLACK%",
+            "%EEOC_RACE_ETHNICITY_ASIAN%",
+            "%EEOC_RACE_ETHNICITY_INDIAN%",
+            "%EEOC_RACE_ETHNICITY_HAWAIIAN%",
+            "%EEOC_RACE_ETHNICITY_TWO%",
+            "%EEOC_RACE_ETHNICITY_HISPANIC%",
+            "%EEOC_NO_ANSWER%"
+          ],
+          "ordinal": 33,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "radio",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "%EEOC_GENDER_MALE%",
+            "%EEOC_GENDER_FEMALE%",
+            "%EEOC_NO_ANSWER%"
+          ],
+          "ordinal": 41,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "ccpaAgreement",
+          "field_type": "checkbox",
+          "is_custom": true,
+          "label": "I've read the Privacy Notice below and consent the processing of my data as part of my job application.",
+          "options": [
+            "I've read the Privacy Notice below and consent the processing of my data as part of my job application."
+          ],
+          "ordinal": 44,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-15T18:46:32Z",
+      "status": "partial"
     },
     "url:https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?ref=Simplify": {
       "application_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify",
@@ -19494,6 +20194,27 @@
       "scanned_at": "2026-09-02T17:43:22Z",
       "status": "unavailable"
     },
+    "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-ii_r2627187": {
+      "application_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-ii_r2627187",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:36Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:36Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-15T18:46:36Z",
+      "status": "unavailable"
+    },
     "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398": {
       "application_url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
       "attempt_count": 1,
@@ -19809,6 +20530,27 @@
       "scanned_at": "2026-09-05T00:43:05Z",
       "status": "unavailable"
     },
+    "workday:intel.wd1.myworkdayjobs.com:software-engineer---datacenter_jr0286998": {
+      "application_url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0286998",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:intel.wd1.myworkdayjobs.com:software-engineer---datacenter_jr0286998",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:41Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:41Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-15T18:46:41Z",
+      "status": "unavailable"
+    },
     "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834": {
       "application_url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -20122,6 +20864,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-19T13:47:06Z",
+      "status": "unavailable"
+    },
+    "workday:oshkoshcorporation.wd5.myworkdayjobs.com:software-engineering-intern_r49493": {
+      "application_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:oshkoshcorporation.wd5.myworkdayjobs.com:software-engineering-intern_r49493",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T18:46:44Z",
+      "http_status": 200,
+      "issue_number": 90,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T18:46:44Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-15T18:46:44Z",
       "status": "unavailable"
     },
     "workday:paypal.wd1.myworkdayjobs.com:software-engineer---cloud-infrastructure-and-devops_r0136771": {
