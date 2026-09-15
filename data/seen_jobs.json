@@ -28946,7 +28946,7 @@
     "bb0cd11fe88904a288413cad57c5ec1796cc205fb276db6538864fa61a61aaed": {
       "application_scan_eligible": true,
       "created_at": "2026-09-15T04:01:22Z",
-      "issue_number": null,
+      "issue_number": 89,
       "job_ids": [
         "greenhouse:doordashusa:8171041",
         "url:https://careers.withwaymo.com/jobs?gh_jid=8198218",
@@ -28957,7 +28957,7 @@
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
         "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "bcc60e9f8c8850efc2beed49e0edbd7d1683791df43f68f88a8a2e8e16eb3e21": {
       "application_scan_eligible": true,

@@ -1543,6 +1543,387 @@
       "scanned_at": "2026-08-22T13:34:19Z",
       "status": "complete"
     },
+    "greenhouse:doordashusa:8171041": {
+      "application_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:doordashusa:8171041",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T04:01:27Z",
+      "http_status": 200,
+      "issue_number": 89,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T04:01:27Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 6,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_68925075",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_68925076",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you legally authorized to work in the United States?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_68925077",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now require immigration sponsorship by our company to attain or maintain your employment eligibility (e.g., H-1B, E-3, TN, O-1, STEM OPT, or any immigration work authorization requiring a written submission from the company to a government agency)?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_68925078",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you in the future require immigration sponsorship by our company to attain or maintain your employment eligibility (e.g., H-1B, E-3, TN, O-1, STEM OPT, or any immigration work authorization requiring a written submission from the company to a government agency)?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925079",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Have you worked at DoorDash?",
+          "options": [
+            "I am a previous employee",
+            "I am a previous contractor",
+            "I am a previous DoorDash Dasher",
+            "I am a current contractor",
+            "I am a current DoorDash Dasher",
+            "I am a current DoorDash employee",
+            "I have not worked at DoorDash"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_68926371[]",
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "Please select and confirm your anticipated graduation date (Please note you must be currently enrolled in a program).",
+          "options": [
+            "Before September 2026",
+            "September 2026 - November 2027",
+            "December 2027 - August 2028",
+            "September 2028 or later"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_68926372",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Have you received a competitive academic scholarship, fellowship, or academic honor?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_68926373[]",
+          "field_type": "multi_select",
+          "is_custom": true,
+          "label": "Select all locations you would be open to being placed",
+          "options": [
+            "San Francisco",
+            "Sunnyvale",
+            "Seattle",
+            "New York",
+            "Los Angeles"
+          ],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_68926374[]",
+          "field_type": "multi_select",
+          "is_custom": true,
+          "label": "Which technical domains are you most interested in?",
+          "options": [
+            "Backend",
+            "Frontend",
+            "Mobile iOS",
+            "Mobile Android",
+            "Data Engineering",
+            "Machine Learning"
+          ],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_68926375",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Have you previously completed at least 1 internship or have relevant full-time experience?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_68926376[]",
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "Please indicate your most recent GPA",
+          "options": [
+            "3.75+",
+            "3.41 - 3.74",
+            "Below 3.4"
+          ],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_68940774[]",
+          "field_type": "multi_select",
+          "is_custom": true,
+          "label": "Which engineering organizations are you most interested in? Select up to 3 preferences. Please review our Engineering Team Overview to learn more about each organization before making your selections - https://careersatdoordash.com/blog/doordash-engineering-team-overview-2026/",
+          "options": [
+            "Foundations",
+            "Money",
+            "DashOS",
+            "Dasher & Logistics",
+            "Merchant & Consumer Platform",
+            "Operational Excellence",
+            "New Verticals",
+            "Marketplace",
+            "Ads & Promotions",
+            "Platform Services",
+            "Launchpad & AI Research"
+          ],
+          "ordinal": 18,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925080",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Applicant Privacy Acknowledgement",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 19,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_68925081",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Would you like to receive communications via SMS and/or WhatsApp to the number provided [above or during the application process] about your application process? Message & data rates may apply and message frequency may vary. If you select no, we will only communicate with you via email and/or telephone calls. If you select yes and change your mind, you can always reply STOP to opt out.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 20,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 21,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [],
+          "ordinal": 22,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you identify as transgender?",
+          "options": [],
+          "ordinal": 23,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you Hispanic or Latinx?",
+          "options": [],
+          "ordinal": 24,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race (*Please select one option that best describes how you identify*)",
+          "options": [],
+          "ordinal": 25,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Protected Veteran Status",
+          "options": [],
+          "ordinal": 26,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Disability Status",
+          "options": [],
+          "ordinal": 27,
+          "required": true,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-15T04:01:27Z",
+      "status": "complete"
+    },
     "greenhouse:energysolutions:5222428007": {
       "application_url": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007",
       "attempt_count": 1,
@@ -17680,6 +18061,26 @@
       "scanned_at": "2026-09-14T23:43:46Z",
       "status": "unavailable"
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8198218": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "completeness_reason": "Application appears to be closed or unavailable.",
+      "error_message": "PublicFetchError while fetching the public application page.",
+      "error_type": "PublicFetchError",
+      "first_scanned": "2026-09-15T04:01:28Z",
+      "http_status": 404,
+      "issue_number": 89,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T04:01:28Z",
+      "metadata": {
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-15T04:01:28Z",
+      "status": "unavailable"
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8198218&ref=Simplify": {
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -19280,6 +19681,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-03T08:42:49Z",
+      "status": "unavailable"
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2024510": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2024510",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-15T04:01:30Z",
+      "http_status": 200,
+      "issue_number": 89,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-15T04:01:30Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-15T04:01:30Z",
       "status": "unavailable"
     },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
