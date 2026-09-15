@@ -379,14 +379,14 @@
       ]
     },
     "amazon:10514569": {
-      "active": true,
+      "active": false,
       "age": "0d",
       "application_url": "https://www.amazon.jobs/jobs/10514569/apply",
       "canonical_id": "amazon:10514569",
       "category": "FAANG+",
       "company": "Amazon",
       "first_seen": "2026-08-26T13:58:49Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-15T18:46:16Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-26T13:58:49Z",
       "location": "San Francisco, CA",
@@ -396,13 +396,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "0d",
           "application_url": "https://www.amazon.jobs/jobs/10514569/apply",
           "category": "FAANG+",
           "company": "Amazon",
           "first_seen": "2026-08-26T13:58:49Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-15T18:46:16Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-26T13:58:49Z",
           "location": "San Francisco, CA",
@@ -1588,6 +1588,50 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f"
+      ]
+    },
+    "ashby:clera:356df263-10a2-4d81-8891-afb6a08f7707": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/clera/356df263-10a2-4d81-8891-afb6a08f7707",
+      "canonical_id": "ashby:clera:356df263-10a2-4d81-8891-afb6a08f7707",
+      "category": "Other",
+      "company": "Clera",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - AI & Data Systems",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/clera/356df263-10a2-4d81-8891-afb6a08f7707",
+          "category": "Other",
+          "company": "Clera",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - AI & Data Systems",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/clera/356df263-10a2-4d81-8891-afb6a08f7707"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/clera/356df263-10a2-4d81-8891-afb6a08f7707"
       ]
     },
     "ashby:clera:431bb19f-3118-4184-9fc9-65179adbb139": {
@@ -4460,6 +4504,50 @@
         "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
       ]
     },
+    "ashby:openai:55150071-fce8-48f5-aea4-14ed78b83511": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
+      "canonical_id": "ashby:openai:55150071-fce8-48f5-aea4-14ed78b83511",
+      "category": "FAANG+",
+      "company": "OpenAI",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - Applied Emerging Talent - 2027",
+      "posted": null,
+      "salary": "$242k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
+          "category": "FAANG+",
+          "company": "OpenAI",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Applied Emerging Talent - 2027",
+          "posted": null,
+          "salary": "$242k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511"
+      ]
+    },
     "ashby:pariveda:d825ed65-edd8-4540-92c9-4c01f2b6a982": {
       "active": true,
       "age": "68d",
@@ -5319,7 +5407,7 @@
       "first_seen": "2026-09-08T21:41:13Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-15T04:01:22Z",
+      "last_seen": "2026-09-15T18:46:16Z",
       "location": "San Francisco, CA",
       "position": "Software Engineer Intern - Cloud Platform",
       "posted": "2026-09-08",
@@ -5366,9 +5454,9 @@
           "first_seen": "2026-09-09T20:40:45Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-09T20:40:45Z",
+          "last_seen": "2026-09-15T18:46:16Z",
           "location": "San Francisco, CA",
-          "position": "Software Engineer Intern - Cloud Platform",
+          "position": "Software Engineer Intern",
           "posted": null,
           "salary": null,
           "season": null,
@@ -5554,12 +5642,12 @@
       "age": "9d",
       "application_url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
       "canonical_id": "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "Sierra",
       "first_seen": "2026-09-10T03:46:06Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-10T17:33:54Z",
+      "last_seen": "2026-09-15T18:46:16Z",
       "location": "San Francisco, CA",
       "position": "Software Engineer Intern - Agent - Winter 2027",
       "posted": "2026-09-01",
@@ -5598,13 +5686,13 @@
           "source_url": "https://applyguy.ai/jobs?company=Sierra&job=a691c05c-6601-4381-968f-b61807df963d&utm_source=github&utm_medium=listing&utm_campaign=internships"
         },
         "speedyapply_internships": {
-          "active": true,
+          "active": false,
           "age": "9d",
           "application_url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
           "category": "Other",
           "company": "Sierra",
           "first_seen": "2026-09-10T17:33:54Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-15T18:46:16Z",
           "job_type": "Internship",
           "last_seen": "2026-09-10T17:33:54Z",
           "location": "San Francisco, CA",
@@ -5819,6 +5907,138 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/sift/3ccd9185-0138-4211-a757-428092170dfe"
+      ]
+    },
+    "ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f": {
+      "active": true,
+      "age": "20d",
+      "application_url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
+      "canonical_id": "ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f",
+      "category": "Other",
+      "company": "Solace",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "Redwood City, CA",
+      "position": "Associate Software Engineer - College Grad 2027",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "20d",
+          "application_url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
+          "category": "Other",
+          "company": "Solace",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "Redwood City, CA",
+          "position": "Associate Software Engineer - College Grad 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f"
+      ]
+    },
+    "ashby:superhuman%20platform%20inc:da5e147c-f957-4ba1-9712-1b2dde377cb0": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/da5e147c-f957-4ba1-9712-1b2dde377cb0",
+      "canonical_id": "ashby:superhuman%20platform%20inc:da5e147c-f957-4ba1-9712-1b2dde377cb0",
+      "category": "Other",
+      "company": "Superhuman",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "San Francisco, CA +1",
+      "position": "Software Engineer - Early Career",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/da5e147c-f957-4ba1-9712-1b2dde377cb0",
+          "category": "Other",
+          "company": "Superhuman",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "San Francisco, CA +1",
+          "position": "Software Engineer - Early Career",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/da5e147c-f957-4ba1-9712-1b2dde377cb0"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/superhuman%20platform%20inc/da5e147c-f957-4ba1-9712-1b2dde377cb0"
+      ]
+    },
+    "ashby:superhuman%20platform%20inc:e6b917b1-325a-47d0-b267-b279b0efdad0": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0",
+      "canonical_id": "ashby:superhuman%20platform%20inc:e6b917b1-325a-47d0-b267-b279b0efdad0",
+      "category": "Other",
+      "company": "Superhuman",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "San Francisco, CA +2",
+      "position": "Software Engineering Intern - Summer 2027",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0",
+          "category": "Other",
+          "company": "Superhuman",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "San Francisco, CA +2",
+          "position": "Software Engineering Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0"
       ]
     },
     "ashby:terranova:8fdce1f7-a1df-4e64-8f10-c78771a399da": {
@@ -7026,18 +7246,18 @@
     "greenhouse:doordashusa:8171041": {
       "active": true,
       "age": "0d",
-      "application_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify",
+      "application_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
       "canonical_id": "greenhouse:doordashusa:8171041",
       "category": "FAANG+",
       "company": "DoorDash",
       "first_seen": "2026-09-15T04:01:22Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-15T04:01:22Z",
+      "last_seen": "2026-09-15T18:46:16Z",
       "location": "Seattle, WA | SF | LA | NYC | Sunnyvale, CA",
-      "position": "Software Engineer Intern - Summer 2027",
+      "position": "Software Engineer - Intern - Summer 2027 - US",
       "posted": null,
-      "salary": null,
+      "salary": "$55/hr",
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
@@ -7063,9 +7283,32 @@
             "simplify_url": "https://simplify.jobs/p/d3c0c779-480d-4810-9393-88d215aa5e7e?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/d3c0c779-480d-4810-9393-88d215aa5e7e?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+          "category": "FAANG+",
+          "company": "DoorDash",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "San Francisco, CA +4",
+          "position": "Software Engineer - Intern - Summer 2027 - US",
+          "posted": null,
+          "salary": "$55/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
         }
       },
       "url_aliases": [
+        "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
         "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/d3c0c779-480d-4810-9393-88d215aa5e7e?utm_source=GHList"
       ]
@@ -7303,16 +7546,16 @@
       "age": "Today",
       "application_url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
       "canonical_id": "greenhouse:figma:6143238004",
-      "category": "Software Engineering",
+      "category": "FAANG+",
       "company": "Figma",
       "first_seen": "2026-09-14T20:47:10Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-14T20:47:10Z",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer Intern (Summer 2027)",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "San Francisco, CA +1",
+      "position": "Software Engineer Intern - Summer 2027",
       "posted": "2026-09-14",
-      "salary": null,
+      "salary": "$60/hr",
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
@@ -7345,6 +7588,28 @@
             "url": "https://applyguy.ai/jobs?company=Figma&job=5080166c-ad53-420f-9087-e25c01116612&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Figma&job=5080166c-ad53-420f-9087-e25c01116612&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+          "category": "FAANG+",
+          "company": "Figma",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "San Francisco, CA +1",
+          "position": "Software Engineer Intern - Summer 2027",
+          "posted": null,
+          "salary": "$60/hr",
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
         }
       },
       "url_aliases": [
@@ -8934,14 +9199,14 @@
       "age": "Today",
       "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
       "canonical_id": "greenhouse:robinhood:8142959",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Robinhood",
       "first_seen": "2026-09-14T16:50:25Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-14T16:50:25Z",
+      "last_seen": "2026-09-15T18:46:16Z",
       "location": "Menlo Park, CA | NYC",
-      "position": "Software Engineering Intern, iOS (Summer 2027)",
+      "position": "Software Engineering Intern - iOS - Summer 2027",
       "posted": "2026-09-14",
       "salary": null,
       "season": "Summer 2027",
@@ -9000,6 +9265,28 @@
             "simplify_url": "https://simplify.jobs/p/1c64a304-96bc-447e-ab18-b8bcf93f937f?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/1c64a304-96bc-447e-ab18-b8bcf93f937f?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+          "category": "Other",
+          "company": "Robinhood",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "Menlo Park, CA +1",
+          "position": "Software Engineering Intern - iOS - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959"
         }
       },
       "url_aliases": [
@@ -9014,14 +9301,14 @@
       "age": "Today",
       "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
       "canonical_id": "greenhouse:robinhood:8142961",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Robinhood",
       "first_seen": "2026-09-14T16:50:25Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-14T16:50:25Z",
+      "last_seen": "2026-09-15T18:46:16Z",
       "location": "Menlo Park, CA | NYC",
-      "position": "Software Engineering Intern, Android (Summer 2027)",
+      "position": "Software Engineering Intern - Android - Summer 2027",
       "posted": "2026-09-14",
       "salary": null,
       "season": "Summer 2027",
@@ -9080,6 +9367,28 @@
             "simplify_url": "https://simplify.jobs/p/1db1012e-71c6-49b5-9a0e-3399dce55cea?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/1db1012e-71c6-49b5-9a0e-3399dce55cea?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+          "category": "Other",
+          "company": "Robinhood",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "Menlo Park, CA +1",
+          "position": "Software Engineering Intern - Android - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961"
         }
       },
       "url_aliases": [
@@ -9094,14 +9403,14 @@
       "age": "Today",
       "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
       "canonical_id": "greenhouse:robinhood:8142963",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Robinhood",
       "first_seen": "2026-09-14T16:50:25Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-14T16:50:25Z",
+      "last_seen": "2026-09-15T18:46:16Z",
       "location": "Menlo Park, CA | NYC",
-      "position": "Software Engineering Intern, Web (Summer 2027)",
+      "position": "Software Engineering Intern - Web - Summer 2027",
       "posted": "2026-09-14",
       "salary": null,
       "season": "Summer 2027",
@@ -9160,6 +9469,28 @@
             "simplify_url": "https://simplify.jobs/p/648fdae5-8fd2-4e98-a3a7-451746653e9d?utm_source=GHList"
           },
           "source_url": "https://simplify.jobs/p/648fdae5-8fd2-4e98-a3a7-451746653e9d?utm_source=GHList"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+          "category": "Other",
+          "company": "Robinhood",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "Menlo Park, CA +1",
+          "position": "Software Engineering Intern - Web - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963"
         }
       },
       "url_aliases": [
@@ -9319,6 +9650,50 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Scale+AI&job=dca840bc-db2a-4d36-b3e7-9bf9da942ca5&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+      ]
+    },
+    "greenhouse:singlestore:8154399": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+      "canonical_id": "greenhouse:singlestore:8154399",
+      "category": "Other",
+      "company": "SingleStore",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+          "category": "Other",
+          "company": "SingleStore",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
       ]
     },
     "greenhouse:skhynixmemorysolutionsamericainc:4342038009": {
@@ -14650,14 +15025,14 @@
       ]
     },
     "tiktok:lifeattiktok.com:7668680253677504821": {
-      "active": true,
+      "active": false,
       "age": "16d",
       "application_url": "https://lifeattiktok.com/search/7668680253677504821",
       "canonical_id": "tiktok:lifeattiktok.com:7668680253677504821",
       "category": "FAANG+",
       "company": "TikTok",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-15T18:46:16Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "San Jose, CA",
@@ -14667,13 +15042,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "16d",
           "application_url": "https://lifeattiktok.com/search/7668680253677504821",
           "category": "FAANG+",
           "company": "TikTok",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-15T18:46:16Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Jose, CA",
@@ -18427,6 +18802,50 @@
         "https://simplify.jobs/p/53349dba-052e-4667-bc87-a3162afa6b94?utm_source=GHList"
       ]
     },
+    "url:https://c3.ai/job-description/8801434002?gh_jid=8801434002": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+      "canonical_id": "url:https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+      "category": "Other",
+      "company": "C3 AI",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "Redwood City, CA",
+      "position": "Platform Full-Stack Engineer - New Grad 2027",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+          "category": "Other",
+          "company": "C3 AI",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "Redwood City, CA",
+          "position": "Platform Full-Stack Engineer - New Grad 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002"
+        }
+      },
+      "url_aliases": [
+        "https://c3.ai/job-description/8801434002?gh_jid=8801434002"
+      ]
+    },
     "url:https://careers.amd.com/jobs/90891?icims=1&ref=Simplify": {
       "active": true,
       "age": "0d",
@@ -19326,14 +19745,14 @@
       "age": "Today",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
       "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8193731",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Waymo",
       "first_seen": "2026-09-14T23:43:41Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-14T23:43:41Z",
+      "last_seen": "2026-09-15T18:46:16Z",
       "location": "San Francisco, CA",
-      "position": "2027 Summer Intern, BS/MS, Software Engineer",
+      "position": "2027 Summer Intern - BS/MS - Software Engineer",
       "posted": "2026-09-14",
       "salary": null,
       "season": "Summer 2027",
@@ -19368,6 +19787,28 @@
             "url": "https://applyguy.ai/jobs?company=Waymo&job=c951f16b-2e23-4b4c-8d4c-b0e3579063af&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Waymo&job=c951f16b-2e23-4b4c-8d4c-b0e3579063af&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+          "category": "Other",
+          "company": "Waymo",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "San Francisco, CA",
+          "position": "2027 Summer Intern - BS/MS - Software Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
         }
       },
       "url_aliases": [
@@ -19380,14 +19821,14 @@
       "age": "1d",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
       "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8198218",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Waymo",
       "first_seen": "2026-09-15T04:01:22Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-15T04:01:22Z",
-      "location": "Mountain View, CA",
-      "position": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "San Francisco, CA +1",
+      "position": "2027 Summer Intern - BS/MS - Software Engineering - Commercialization",
       "posted": "2026-09-14",
       "salary": null,
       "season": "Summer 2027",
@@ -19422,6 +19863,28 @@
             "url": "https://applyguy.ai/jobs?company=Waymo&job=009e8dec-220c-4a3c-9825-e30dbec544b4&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Waymo&job=009e8dec-220c-4a3c-9825-e30dbec544b4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+          "category": "Other",
+          "company": "Waymo",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "San Francisco, CA +1",
+          "position": "2027 Summer Intern - BS/MS - Software Engineering - Commercialization",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
         }
       },
       "url_aliases": [
@@ -20645,6 +21108,50 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Stripe&job=4cbb4f91-e14f-4776-b6ac-80eb14e2c669&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://stripe.com/jobs/search?gh_jid=8128745"
+      ]
+    },
+    "url:https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer",
+      "canonical_id": "url:https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer",
+      "category": "Other",
+      "company": "Vagaro",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "Pleasanton, CA",
+      "position": "Software Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer",
+          "category": "Other",
+          "company": "Vagaro",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "Pleasanton, CA",
+          "position": "Software Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer"
+        }
+      },
+      "url_aliases": [
+        "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer"
       ]
     },
     "url:https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?ref=Simplify": {
@@ -23868,6 +24375,50 @@
         "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605"
       ]
     },
+    "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-ii_r2627187": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187",
+      "canonical_id": "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-ii_r2627187",
+      "category": "Other",
+      "company": "Applied Materials",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "Santa Clara, CA",
+      "position": "Algorithm Developer II New College Grad- Master's - Santa Clara - CA",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187",
+          "category": "Other",
+          "company": "Applied Materials",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "Santa Clara, CA",
+          "position": "Algorithm Developer II New College Grad- Master's - Santa Clara - CA",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187"
+        }
+      },
+      "url_aliases": [
+        "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187"
+      ]
+    },
     "workday:amat.wd1.myworkdayjobs.com:software-engineer-ii--new-college-grad---santa-clara--ca-_r2622398": {
       "active": false,
       "age": "1d",
@@ -25319,6 +25870,50 @@
         "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169-2"
       ]
     },
+    "workday:intel.wd1.myworkdayjobs.com:software-engineer---datacenter_jr0286998": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0286998",
+      "canonical_id": "workday:intel.wd1.myworkdayjobs.com:software-engineer---datacenter_jr0286998",
+      "category": "Other",
+      "company": "Intel",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "Santa Clara, CA +1",
+      "position": "Software Engineer - Datacenter",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0286998",
+          "category": "Other",
+          "company": "Intel",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "Santa Clara, CA +1",
+          "position": "Software Engineer - Datacenter",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0286998"
+        }
+      },
+      "url_aliases": [
+        "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0286998"
+      ]
+    },
     "workday:intel.wd1.myworkdayjobs.com:software-engineering---intern--bachelor-s_jr0286834": {
       "active": true,
       "age": "1d",
@@ -25725,14 +26320,14 @@
       ]
     },
     "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640196": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640196",
       "canonical_id": "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640196",
       "category": "Other",
       "company": "KLA",
       "first_seen": "2026-09-02T17:43:18Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-15T18:46:16Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-02T17:43:18Z",
       "location": "Milpitas, CA",
@@ -25742,13 +26337,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640196",
           "category": "Other",
           "company": "KLA",
           "first_seen": "2026-09-02T17:43:18Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-15T18:46:16Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-02T17:43:18Z",
           "location": "Milpitas, CA",
@@ -26759,14 +27354,14 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-quality-assurance-engineer---2026-new-college-grad_jr2019924-1": {
-      "active": true,
+      "active": false,
       "age": "63d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-quality-assurance-engineer---2026-new-college-grad_jr2019924-1",
       "category": "FAANG+",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T07:00:52Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-15T18:46:16Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Santa Clara, CA",
@@ -26776,13 +27371,13 @@
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "active": true,
+          "active": false,
           "age": "63d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1",
           "category": "FAANG+",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T07:00:52Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-15T18:46:16Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Santa Clara, CA",
@@ -26966,6 +27561,60 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=NXP+Semiconductors&job=26f2287a-112c-4c77-80d6-0f41ff1670e4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/NFC-System-Software-Engineer---Entry-Level_R-10064298"
+      ]
+    },
+    "workday:oshkoshcorporation.wd5.myworkdayjobs.com:software-engineering-intern_r49493": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
+      "canonical_id": "workday:oshkoshcorporation.wd5.myworkdayjobs.com:software-engineering-intern_r49493",
+      "category": "Software Engineering",
+      "company": "Oshkoshcorporation",
+      "first_seen": "2026-09-15T18:46:16Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-15T18:46:16Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineering Intern",
+      "posted": "2026-09-15",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
+          "category": "Software Engineering",
+          "company": "Oshkoshcorporation",
+          "first_seen": "2026-09-15T18:46:16Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-15T18:46:16Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern",
+          "posted": "2026-09-15",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "f2efc4c8-6172-4262-999a-bd91ab65a698",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-15T18:45:35.430Z",
+            "id": "f2efc4c8-6172-4262-999a-bd91ab65a698",
+            "listingUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
+            "posted": "2026-09-15",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=f2efc4c8-6172-4262-999a-bd91ab65a698&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=f2efc4c8-6172-4262-999a-bd91ab65a698&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Oshkoshcorporation&job=f2efc4c8-6172-4262-999a-bd91ab65a698&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493"
       ]
     },
     "workday:paypal.wd1.myworkdayjobs.com:software-engineer---cloud-infrastructure-and-devops_r0136771": {
@@ -28287,6 +28936,38 @@
         "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5"
       ],
       "status": "sent"
+    },
+    "29a78b6b051a21d18ceeb46036e59970e5cadf2e17c8feaddca148cbfca1bf5b": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-15T18:46:16Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:clera:356df263-10a2-4d81-8891-afb6a08f7707",
+        "ashby:openai:55150071-fce8-48f5-aea4-14ed78b83511",
+        "ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f",
+        "ashby:superhuman%20platform%20inc:da5e147c-f957-4ba1-9712-1b2dde377cb0",
+        "ashby:superhuman%20platform%20inc:e6b917b1-325a-47d0-b267-b279b0efdad0",
+        "greenhouse:singlestore:8154399",
+        "url:https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+        "url:https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer",
+        "workday:amat.wd1.myworkdayjobs.com:algorithm-developer-ii_r2627187",
+        "workday:intel.wd1.myworkdayjobs.com:software-engineer---datacenter_jr0286998",
+        "workday:oshkoshcorporation.wd5.myworkdayjobs.com:software-engineering-intern_r49493"
+      ],
+      "job_urls": [
+        "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187",
+        "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+        "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0286998",
+        "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+        "https://jobs.ashbyhq.com/clera/356df263-10a2-4d81-8891-afb6a08f7707",
+        "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
+        "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
+        "https://jobs.ashbyhq.com/superhuman%20platform%20inc/da5e147c-f957-4ba1-9712-1b2dde377cb0",
+        "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0",
+        "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
+        "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer"
+      ],
+      "status": "pending"
     },
     "3284032afcebb67d25bd6724d348d97218c40ab421db979b7bcc365fa1a86ab3": {
       "application_scan_eligible": true,
