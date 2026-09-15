@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (379)
+## Active Jobs (380)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -15,6 +15,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Intuit | Mobile Software Engineer Intern - iOS | Internship | Unknown | Charlotte, NC \| NYC \| Mountain View, CA \| Atlanta, GA \| San Diego, CA | Simplify | N/A | 2026-09-14T23:43:41Z | 2026-09-14T23:43:41Z | Yes | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568?utm_source=Simplify&ref=Simplify>) |
 | Intuit | Software Engineer Intern - Cybersecurity | Internship | Unknown | Mountain View, CA | Simplify | N/A | 2026-09-14T23:43:41Z | 2026-09-14T23:43:41Z | Yes | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616?utm_source=Simplify&ref=Simplify>) |
 | Waymo | 2027 Summer Intern, BS/MS, Software Engineer | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-14T23:43:41Z | 2026-09-14T23:43:41Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8193731>) |
+| Waymo | Software Engineering Intern - Commercialization | Internship | FAANG+ | SF \| Mountain View, CA | Simplify | N/A | 2026-09-14T23:43:41Z | 2026-09-15T14:42:25Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify>) |
 | Figma | Software Engineer Intern (Summer 2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-14T20:47:10Z | 2026-09-14T20:47:10Z | Yes | [Apply](<https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004>) |
 | Google | User Experience Engineer Intern | Internship | Unknown | Palo Alto, CA \| Cambridge, MA \| Madison, WI \| Seattle, WA \| Washington, DC \| SF \| Austin, TX \| LA \| Irvine, CA \| San Bruno, CA \| Redmond, WA \| Santa Cruz, CA \| Chicago, IL \| Goleta, CA \| Pittsburgh, PA \| Kirkland, WA \| Reston, VA \| NYC \| Bellevue, WA \| Sunnyvale, CA \| Mountain View, CA \| Portland, OR \| Boulder, CO \| Atlanta, GA \| San Diego, CA | Simplify | N/A | 2026-09-14T20:47:10Z | 2026-09-14T20:47:10Z | Yes | [Apply](<https://www.google.com/about/careers/applications/jobs/results/112499004540887750?utm_source=Simplify&ref=Simplify>) |
 | Google | User Experience Engineer Intern - PhD - Summer 2027 🎓 | Internship | FAANG+ | Palo Alto, CA \| Cambridge, MA \| Madison, WI \| Seattle, WA \| Washington, DC \| SF \| Austin, TX \| LA \| Irvine, CA \| San Bruno, CA \| Redmond, WA \| Santa Cruz, CA \| Chicago, IL \| Goleta, CA \| Pittsburgh, PA \| Kirkland, WA \| Reston, VA \| NYC \| Bellevue, WA \| Sunnyvale, CA \| Mountain View, CA \| Portland, OR \| Boulder, CO \| Atlanta, GA \| San Diego, CA | Simplify | N/A | 2026-09-14T20:47:10Z | 2026-09-14T20:47:10Z | Yes | [Apply](<https://www.google.com/about/careers/applications/jobs/results/117572151191446214?utm_source=Simplify&ref=Simplify>) |
@@ -388,11 +389,10 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (126)
+## Historical / Closed or Removed Jobs (125)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Waymo | Software Engineering Intern - Commercialization | Internship | FAANG+ | SF \| Mountain View, CA | Simplify | N/A | 2026-09-14T23:43:41Z | 2026-09-14T23:43:41Z | No | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify>) |
 | Cadence | Software Engineer  (new college grad Dec 2026) | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-09-12T16:50:25Z | 2026-09-12T16:50:25Z | No | [Apply](<https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738>) |
 | TikTok | Site Reliability Engineer - Video System - USDS - Multiple Positions | New Grad | FAANG+ | San Jose, CA | SpeedyApply | $202k/yr | 2026-09-11T18:16:04Z | 2026-09-11T18:16:04Z | No | [Apply](<https://lifeattiktok.com/search/7683307062865266949>) |
 | Clera | Software Engineer - AI & Data Systems | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-09-10T17:33:54Z | 2026-09-10T17:33:54Z | No | [Apply](<https://jobs.ashbyhq.com/clera/63d532c2-6e12-4ad4-a599-9a756cd3ce12>) |
