@@ -29257,14 +29257,14 @@
     "6ece754dbd632a52597c9112167fa4a8a8983e85190f53356cf607dc6a0e0d57": {
       "application_scan_eligible": true,
       "created_at": "2026-09-16T00:08:05Z",
-      "issue_number": null,
+      "issue_number": 91,
       "job_ids": [
         "workday:jj.wd5.myworkdayjobs.com:software-engineering-intern---robotics-r-d_r-099919"
       ],
       "job_urls": [
         "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "6f5c3e475d836052c46b33956ef20dd86badf2b779e74d0abc8e097388f3b28e": {
       "application_scan_eligible": true,

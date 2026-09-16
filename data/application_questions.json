@@ -20635,6 +20635,27 @@
       "scanned_at": "2026-08-28T23:55:31Z",
       "status": "unavailable"
     },
+    "workday:jj.wd5.myworkdayjobs.com:software-engineering-intern---robotics-r-d_r-099919": {
+      "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:jj.wd5.myworkdayjobs.com:software-engineering-intern---robotics-r-d_r-099919",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T00:08:08Z",
+      "http_status": 200,
+      "issue_number": 91,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T00:08:08Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-16T00:08:08Z",
+      "status": "unavailable"
+    },
     "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602": {
       "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
