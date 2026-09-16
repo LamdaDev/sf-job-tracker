@@ -525,6 +525,27 @@
       "scanned_at": "2026-09-15T18:46:23Z",
       "status": "unavailable"
     },
+    "ashby:persona:eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3": {
+      "application_url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:persona:eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T19:53:45Z",
+      "http_status": 200,
+      "issue_number": 94,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T19:53:45Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-16T19:53:45Z",
+      "status": "unavailable"
+    },
     "ashby:prophet-security:51415149-9b19-4164-84b9-2ffa78478069": {
       "application_url": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069",
       "attempt_count": 1,
@@ -10651,6 +10672,224 @@
         }
       ],
       "scanned_at": "2026-09-15T18:46:28Z",
+      "status": "complete"
+    },
+    "greenhouse:singlestore:8205427": {
+      "application_url": "https://job-boards.greenhouse.io/singlestore/jobs/8205427",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:singlestore:8205427",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T19:53:46Z",
+      "http_status": 200,
+      "issue_number": 94,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T19:53:46Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_69215611",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_69215612",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 11,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you legally authorized to work in the United States?",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you currently, or will you in the future, require sponsorship for employment authorization?",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-16T19:53:46Z",
       "status": "complete"
     },
     "greenhouse:skhynixmemorysolutionsamericainc:4387708009": {
@@ -21053,6 +21292,69 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-12T16:50:34Z",
+      "status": "unavailable"
+    },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137890": {
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137890",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137890",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T19:53:48Z",
+      "http_status": 200,
+      "issue_number": 94,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T19:53:48Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-16T19:53:48Z",
+      "status": "unavailable"
+    },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137986": {
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137986",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0137986",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T19:53:49Z",
+      "http_status": 200,
+      "issue_number": 94,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T19:53:49Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-16T19:53:49Z",
+      "status": "unavailable"
+    },
+    "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0138006": {
+      "application_url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138006",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:paypal.wd1.myworkdayjobs.com:software-engineer_r0138006",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T19:53:52Z",
+      "http_status": 200,
+      "issue_number": 94,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T19:53:52Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-16T19:53:52Z",
       "status": "unavailable"
     },
     "workday:pwc.wd3.myworkdayjobs.com:connected-physical-products-intern---summer-2027_757231wd": {
