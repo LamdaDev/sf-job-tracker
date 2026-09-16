@@ -4,10 +4,14 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (392)
+## Active Jobs (396)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Clockwork.io | Software Engineer Intern | Internship | Software Engineering | Palo Alto, CA | ApplyGuy | N/A | 2026-09-16T22:44:13Z | 2026-09-16T22:44:13Z | Yes | [Apply](<https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004>) |
+| Emergent Labs | Software Engineering Intern | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-16T22:44:13Z | 2026-09-16T22:44:13Z | Yes | [Apply](<https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009>) |
+| Waymo | 2027 Summer Intern, MS/PhD, Software Engineer | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-16T22:44:13Z | 2026-09-16T22:44:13Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8202801>) |
+| Waymo | 2027 Summer Intern, PhD, Quantitative Software Engineer | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-16T22:44:13Z | 2026-09-16T22:44:13Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8197554>) |
 | PayPal | Software Engineer | New Grad | Other | San Jose, CA | SpeedyApply | N/A | 2026-09-16T19:53:34Z | 2026-09-16T19:53:34Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137890>) |
 | PayPal | Software Engineer | New Grad | Other | San Jose, CA | SpeedyApply | N/A | 2026-09-16T19:53:34Z | 2026-09-16T19:53:34Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137986>) |
 | PayPal | Software Engineer | New Grad | Other | San Jose, CA | SpeedyApply | N/A | 2026-09-16T19:53:34Z | 2026-09-16T19:53:34Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138006>) |

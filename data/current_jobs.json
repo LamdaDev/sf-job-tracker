@@ -4149,6 +4149,52 @@
         "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002"
       ]
     },
+    "greenhouse:clockworksystems:6174230004": {
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004",
+      "canonical_id": "greenhouse:clockworksystems:6174230004",
+      "category": "Software Engineering",
+      "company": "Clockwork.io",
+      "job_type": "Internship",
+      "location": "Palo Alto, CA",
+      "position": "Software Engineer Intern",
+      "posted": "2026-09-16",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004",
+          "category": "Software Engineering",
+          "company": "Clockwork.io",
+          "job_type": "Internship",
+          "location": "Palo Alto, CA",
+          "position": "Software Engineer Intern",
+          "posted": "2026-09-16",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "a5e3bea9-5ad7-4085-97cd-545586eeba2b",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-16T22:30:40.947Z",
+            "id": "a5e3bea9-5ad7-4085-97cd-545586eeba2b",
+            "listingUrl": "https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004",
+            "posted": "2026-09-16",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Clockwork.io&job=a5e3bea9-5ad7-4085-97cd-545586eeba2b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Clockwork.io&job=a5e3bea9-5ad7-4085-97cd-545586eeba2b&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Clockwork.io&job=a5e3bea9-5ad7-4085-97cd-545586eeba2b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004"
+      ]
+    },
     "greenhouse:cssmerge:8693034002": {
       "age": "6d",
       "application_url": "https://job-boards.greenhouse.io/cssmerge/jobs/8693034002?utm_source=Simplify&ref=Simplify",
@@ -4244,6 +4290,52 @@
         "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
         "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/d3c0c779-480d-4810-9393-88d215aa5e7e?utm_source=GHList"
+      ]
+    },
+    "greenhouse:emergentlabsinc:4323651009": {
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009",
+      "canonical_id": "greenhouse:emergentlabsinc:4323651009",
+      "category": "Software Engineering",
+      "company": "Emergent Labs",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineering Intern",
+      "posted": "2026-09-16",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009",
+          "category": "Software Engineering",
+          "company": "Emergent Labs",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern",
+          "posted": "2026-09-16",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "339e8e2e-f340-4695-8733-41bd25711a45",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-16T22:30:40.947Z",
+            "id": "339e8e2e-f340-4695-8733-41bd25711a45",
+            "listingUrl": "https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009",
+            "posted": "2026-09-16",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Emergent+Labs&job=339e8e2e-f340-4695-8733-41bd25711a45&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Emergent+Labs&job=339e8e2e-f340-4695-8733-41bd25711a45&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Emergent+Labs&job=339e8e2e-f340-4695-8733-41bd25711a45&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009"
       ]
     },
     "greenhouse:energysolutions:5222428007": {
@@ -13432,6 +13524,52 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8193731"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8197554": {
+      "age": "Today",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8197554",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+      "posted": "2026-09-16",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+          "posted": "2026-09-16",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "a5153b7c-a3a3-4db0-8c26-9dea6c4755dc",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-16T22:30:40.947Z",
+            "id": "a5153b7c-a3a3-4db0-8c26-9dea6c4755dc",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+            "posted": "2026-09-16",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=a5153b7c-a3a3-4db0-8c26-9dea6c4755dc&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=a5153b7c-a3a3-4db0-8c26-9dea6c4755dc&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=a5153b7c-a3a3-4db0-8c26-9dea6c4755dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8197554"
+      ]
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8198218": {
       "age": "1d",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
@@ -13533,6 +13671,52 @@
       "url_aliases": [
         "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/4d33923f-011e-4c9c-8e39-4a4f417686d7?utm_source=GHList"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8202801": {
+      "age": "Today",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8202801",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "posted": "2026-09-16",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, MS/PhD, Software Engineer",
+          "posted": "2026-09-16",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-16T22:30:40.947Z",
+            "id": "ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+            "posted": "2026-09-16",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8202801"
       ]
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
