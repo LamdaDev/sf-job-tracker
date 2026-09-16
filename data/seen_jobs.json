@@ -12548,7 +12548,7 @@
       "first_seen": "2026-08-17T17:45:31Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-16T05:45:15Z",
+      "last_seen": "2026-09-16T11:06:17Z",
       "location": "San Jose, CA",
       "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
       "posted": null,
@@ -12559,12 +12559,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-16T05:45:15Z",
+          "last_seen": "2026-09-16T11:06:17Z",
           "location": "San Jose, CA",
           "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
           "posted": null,
@@ -12877,7 +12877,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-16T05:45:15Z",
+      "last_seen": "2026-09-16T11:06:17Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -12888,12 +12888,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-16T05:45:15Z",
+          "last_seen": "2026-09-16T11:06:17Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -27137,6 +27137,60 @@
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
       ]
     },
+    "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--coding-agent-harness-engineering----new-college-grad-2026_jr2023749": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--coding-agent-harness-engineering----new-college-grad-2026_jr2023749",
+      "category": "Unknown",
+      "company": "NVIDIA",
+      "first_seen": "2026-09-16T11:06:17Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-16T11:06:17Z",
+      "location": "Santa Clara, CA",
+      "position": "Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026",
+      "posted": "2026-09-15",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+          "category": "Unknown",
+          "company": "NVIDIA",
+          "first_seen": "2026-09-16T11:06:17Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-16T11:06:17Z",
+          "location": "Santa Clara, CA",
+          "position": "Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026",
+          "posted": "2026-09-15",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "ecd3c350-4582-431e-9c9b-14104e1254d0",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-16T11:01:04.307Z",
+            "id": "ecd3c350-4582-431e-9c9b-14104e1254d0",
+            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+            "matchKind": "explicit",
+            "posted": "2026-09-15",
+            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ecd3c350-4582-431e-9c9b-14104e1254d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=ecd3c350-4582-431e-9c9b-14104e1254d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=NVIDIA&job=ecd3c350-4582-431e-9c9b-14104e1254d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749"
+      ]
+    },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--deep-learning-libraries---new-college-graduate-2026_jr2023252": {
       "active": false,
       "age": "3d",
@@ -29803,6 +29857,18 @@
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify"
       ],
       "status": "sent"
+    },
+    "c8f48c7615de5e9fcd2b47401fcaa2dbcab924c709861b50a567a24f7ccd619d": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-16T11:06:17Z",
+      "issue_number": null,
+      "job_ids": [
+        "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--coding-agent-harness-engineering----new-college-grad-2026_jr2023749"
+      ],
+      "job_urls": [
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749"
+      ],
+      "status": "pending"
     },
     "cbbcf02a0d5ddbfcc9882a86ae851af6bb2a1a485cccf8b4a1d7b3037bf231ac": {
       "application_scan_eligible": true,
