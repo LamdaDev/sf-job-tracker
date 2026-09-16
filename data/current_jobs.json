@@ -1170,6 +1170,52 @@
         "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d"
       ]
     },
+    "ashby:coram-ai:3fa08156-569d-4a69-a918-53e5074dd3a3": {
+      "age": "1d",
+      "application_url": "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3",
+      "canonical_id": "ashby:coram-ai:3fa08156-569d-4a69-a918-53e5074dd3a3",
+      "category": "Unknown",
+      "company": "Coram AI",
+      "job_type": "New Grad",
+      "location": "Sunnyvale, CA",
+      "position": "Graduate Software Engineer",
+      "posted": "2026-09-15",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3",
+          "category": "Unknown",
+          "company": "Coram AI",
+          "job_type": "New Grad",
+          "location": "Sunnyvale, CA",
+          "position": "Graduate Software Engineer",
+          "posted": "2026-09-15",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "e96e34b2-ad2c-4492-8943-5536192a9f28",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-16T16:16:11.499Z",
+            "id": "e96e34b2-ad2c-4492-8943-5536192a9f28",
+            "listingUrl": "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3",
+            "matchKind": "explicit",
+            "posted": "2026-09-15",
+            "url": "https://applyguy.ai/jobs?company=Coram+AI&job=e96e34b2-ad2c-4492-8943-5536192a9f28&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Coram+AI&job=e96e34b2-ad2c-4492-8943-5536192a9f28&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Coram+AI&job=e96e34b2-ad2c-4492-8943-5536192a9f28&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3"
+      ]
+    },
     "ashby:crusoe:4f5d34ed-0c05-4eec-b8f8-14663e114b02": {
       "age": "19d",
       "application_url": "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02",
@@ -17256,7 +17302,7 @@
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--coding-agent-harness-engineering----new-college-grad-2026_jr2023749": {
       "age": "1d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--coding-agent-harness-engineering----new-college-grad-2026_jr2023749",
       "category": "Unknown",
       "company": "NVIDIA",
@@ -17269,7 +17315,7 @@
       "sources": {
         "applyguy_new_grad": {
           "age": "1d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+          "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
           "category": "Unknown",
           "company": "NVIDIA",
           "job_type": "New Grad",
@@ -17280,24 +17326,26 @@
           "season": null,
           "source_file": "data/new-grad-jobs.json",
           "source_id": "applyguy_new_grad",
-          "source_job_id": "ecd3c350-4582-431e-9c9b-14104e1254d0",
+          "source_job_id": "b1466a53-00c5-482a-a210-64040844feb7",
           "source_label": "ApplyGuy",
           "source_metadata": {
             "age": "1d",
             "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-16T11:01:04.307Z",
-            "id": "ecd3c350-4582-431e-9c9b-14104e1254d0",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+            "feedUpdatedAt": "2026-09-16T16:16:11.499Z",
+            "id": "b1466a53-00c5-482a-a210-64040844feb7",
+            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
             "matchKind": "explicit",
             "posted": "2026-09-15",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ecd3c350-4582-431e-9c9b-14104e1254d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=b1466a53-00c5-482a-a210-64040844feb7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=ecd3c350-4582-431e-9c9b-14104e1254d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=b1466a53-00c5-482a-a210-64040844feb7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         }
       },
       "url_aliases": [
+        "https://applyguy.ai/jobs?company=NVIDIA&job=b1466a53-00c5-482a-a210-64040844feb7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://applyguy.ai/jobs?company=NVIDIA&job=ecd3c350-4582-431e-9c9b-14104e1254d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749"
+        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+        "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:software-engineering-intern--dynamo---fall-2026_jr2022295": {

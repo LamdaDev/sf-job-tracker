@@ -4,11 +4,12 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (390)
+## Active Jobs (391)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
-| NVIDIA | Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-09-16T11:06:17Z | 2026-09-16T11:06:17Z | Yes | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749>) |
+| Coram AI | Graduate Software Engineer | New Grad | Unknown | Sunnyvale, CA | ApplyGuy | N/A | 2026-09-16T16:26:04Z | 2026-09-16T16:26:04Z | Yes | [Apply](<https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3>) |
+| NVIDIA | Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026 | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-09-16T11:06:17Z | 2026-09-16T16:26:04Z | Yes | [Apply](<https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749>) |
 | Johnson & Johnson | Software Engineering Intern - Robotics R&D | Internship | Software Engineering | Santa Clara, CA | ApplyGuy, Simplify | N/A | 2026-09-16T00:08:05Z | 2026-09-16T05:45:15Z | Yes | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919>) |
 | Applied Materials | Algorithm Developer II New College Grad- Master's - Santa Clara - CA | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-09-15T18:46:16Z | 2026-09-15T18:46:16Z | Yes | [Apply](<https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187>) |
 | C3 AI | Platform Full-Stack Engineer - New Grad 2027 | New Grad | Other | Redwood City, CA | SpeedyApply | N/A | 2026-09-15T18:46:16Z | 2026-09-15T18:46:16Z | Yes | [Apply](<https://c3.ai/job-description/8801434002?gh_jid=8801434002>) |
