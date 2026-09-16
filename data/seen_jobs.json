@@ -26096,6 +26096,53 @@
         "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632"
       ]
     },
+    "workday:jj.wd5.myworkdayjobs.com:software-engineering-intern---robotics-r-d_r-099919": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:jj.wd5.myworkdayjobs.com:software-engineering-intern---robotics-r-d_r-099919",
+      "category": "Unknown",
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-09-16T00:08:05Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-16T00:08:05Z",
+      "location": "Santa Clara, CA",
+      "position": "Software Engineer Intern - Robotics R&D",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Johnson & Johnson",
+          "first_seen": "2026-09-16T00:08:05Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-16T00:08:05Z",
+          "location": "Santa Clara, CA",
+          "position": "Software Engineer Intern - Robotics R&D",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "4c2e5fe2-a3e6-4d00-ac53-11343dc121dc",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/4c2e5fe2-a3e6-4d00-ac53-11343dc121dc?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/4c2e5fe2-a3e6-4d00-ac53-11343dc121dc?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/4c2e5fe2-a3e6-4d00-ac53-11343dc121dc?utm_source=GHList"
+      ]
+    },
     "workday:jj.wd5.myworkdayjobs.com:technology-2027-summer-internship_r-095602": {
       "active": false,
       "age": "0d",
@@ -29206,6 +29253,18 @@
         "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808"
       ],
       "status": "sent"
+    },
+    "6ece754dbd632a52597c9112167fa4a8a8983e85190f53356cf607dc6a0e0d57": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-16T00:08:05Z",
+      "issue_number": null,
+      "job_ids": [
+        "workday:jj.wd5.myworkdayjobs.com:software-engineering-intern---robotics-r-d_r-099919"
+      ],
+      "job_urls": [
+        "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "6f5c3e475d836052c46b33956ef20dd86badf2b779e74d0abc8e097388f3b28e": {
       "application_scan_eligible": true,

@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (388)
+## Active Jobs (389)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Johnson & Johnson | Software Engineer Intern - Robotics R&D | Internship | Unknown | Santa Clara, CA | Simplify | N/A | 2026-09-16T00:08:05Z | 2026-09-16T00:08:05Z | Yes | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify>) |
 | Applied Materials | Algorithm Developer II New College Grad- Master's - Santa Clara - CA | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-09-15T18:46:16Z | 2026-09-15T18:46:16Z | Yes | [Apply](<https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187>) |
 | C3 AI | Platform Full-Stack Engineer - New Grad 2027 | New Grad | Other | Redwood City, CA | SpeedyApply | N/A | 2026-09-15T18:46:16Z | 2026-09-15T18:46:16Z | Yes | [Apply](<https://c3.ai/job-description/8801434002?gh_jid=8801434002>) |
 | Clera | Software Engineer - AI & Data Systems | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-09-15T18:46:16Z | 2026-09-15T18:46:16Z | Yes | [Apply](<https://jobs.ashbyhq.com/clera/356df263-10a2-4d81-8891-afb6a08f7707>) |

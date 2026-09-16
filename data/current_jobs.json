@@ -16726,6 +16726,45 @@
         "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632"
       ]
     },
+    "workday:jj.wd5.myworkdayjobs.com:software-engineering-intern---robotics-r-d_r-099919": {
+      "age": "1d",
+      "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:jj.wd5.myworkdayjobs.com:software-engineering-intern---robotics-r-d_r-099919",
+      "category": "Unknown",
+      "company": "Johnson & Johnson",
+      "job_type": "Internship",
+      "location": "Santa Clara, CA",
+      "position": "Software Engineer Intern - Robotics R&D",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "1d",
+          "application_url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Johnson & Johnson",
+          "job_type": "Internship",
+          "location": "Santa Clara, CA",
+          "position": "Software Engineer Intern - Robotics R&D",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "4c2e5fe2-a3e6-4d00-ac53-11343dc121dc",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/4c2e5fe2-a3e6-4d00-ac53-11343dc121dc?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/4c2e5fe2-a3e6-4d00-ac53-11343dc121dc?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/4c2e5fe2-a3e6-4d00-ac53-11343dc121dc?utm_source=GHList"
+      ]
+    },
     "workday:kla.wd1.myworkdayjobs.com:hpc-software-engineer_2638794": {
       "age": "27d",
       "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/HPC-Software-Engineer_2638794",
