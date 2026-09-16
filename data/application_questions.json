@@ -20887,6 +20887,27 @@
       "scanned_at": "2026-08-19T13:47:06Z",
       "status": "unavailable"
     },
+    "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--coding-agent-harness-engineering----new-college-grad-2026_jr2023749": {
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:nvidia.wd5.myworkdayjobs.com:software-engineer--coding-agent-harness-engineering----new-college-grad-2026_jr2023749",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T11:06:22Z",
+      "http_status": 200,
+      "issue_number": 92,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T11:06:22Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-16T11:06:22Z",
+      "status": "unavailable"
+    },
     "workday:oshkoshcorporation.wd5.myworkdayjobs.com:software-engineering-intern_r49493": {
       "application_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
       "attempt_count": 1,
