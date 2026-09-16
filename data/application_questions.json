@@ -315,6 +315,27 @@
       "scanned_at": "2026-09-12T09:05:40Z",
       "status": "unavailable"
     },
+    "ashby:coram-ai:3fa08156-569d-4a69-a918-53e5074dd3a3": {
+      "application_url": "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:coram-ai:3fa08156-569d-4a69-a918-53e5074dd3a3",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T16:26:08Z",
+      "http_status": 200,
+      "issue_number": 93,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T16:26:08Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-16T16:26:08Z",
+      "status": "unavailable"
+    },
     "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed": {
       "application_url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
       "attempt_count": 1,
