@@ -1690,6 +1690,192 @@
       "scanned_at": "2026-08-22T13:34:19Z",
       "status": "complete"
     },
+    "greenhouse:clockworksystems:6174230004": {
+      "application_url": "https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:clockworksystems:6174230004",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T22:44:17Z",
+      "http_status": 200,
+      "issue_number": 95,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T22:44:17Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 6,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19788158004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Can you legally work in the United States?",
+          "options": [],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_19788159004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "If you are currently enrolled in a degree program (BS, MS or PhD) or have just completed one, please indicate your GPA.",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19788160004",
+          "field_type": "file",
+          "is_custom": true,
+          "label": "Please upload your latest transcript.",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19788161004",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "Where did you hear about this position?",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19788162004",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "Comments?",
+          "options": [],
+          "ordinal": 11,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19788163004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Your LinkedIn profile link",
+          "options": [],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19788164004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Your website URL",
+          "options": [],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19788165004",
+          "field_type": "file",
+          "is_custom": true,
+          "label": "Additional attachment?",
+          "options": [],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "location_questions"
+        }
+      ],
+      "scanned_at": "2026-09-16T22:44:17Z",
+      "status": "complete"
+    },
     "greenhouse:doordashusa:8171041": {
       "application_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -2069,6 +2255,137 @@
         }
       ],
       "scanned_at": "2026-09-15T04:01:27Z",
+      "status": "complete"
+    },
+    "greenhouse:emergentlabsinc:4323651009": {
+      "application_url": "https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:emergentlabsinc:4323651009",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T22:44:18Z",
+      "http_status": 200,
+      "issue_number": 95,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T22:44:18Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_6761754009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_6761755009",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "location_questions"
+        }
+      ],
+      "scanned_at": "2026-09-16T22:44:18Z",
       "status": "complete"
     },
     "greenhouse:energysolutions:5222428007": {
@@ -18677,6 +18994,27 @@
       "scanned_at": "2026-09-14T23:43:46Z",
       "status": "unavailable"
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8197554": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8197554",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T22:44:19Z",
+      "http_status": 200,
+      "issue_number": 95,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T22:44:19Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-16T22:44:19Z",
+      "status": "unavailable"
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8198218": {
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
       "attempt_count": 1,
@@ -18715,6 +19053,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-09-14T23:43:48Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8202801": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8202801",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-16T22:44:21Z",
+      "http_status": 200,
+      "issue_number": 95,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-16T22:44:21Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-16T22:44:21Z",
       "status": "unavailable"
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
