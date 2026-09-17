@@ -31587,14 +31587,14 @@
     "f65437c03c5bd0e2eba50fe35785cb954bc6db7731d1d97fbd0311f9e7ece968": {
       "application_scan_eligible": true,
       "created_at": "2026-09-17T21:57:40Z",
-      "issue_number": null,
+      "issue_number": 100,
       "job_ids": [
         "ashby:abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e"
       ],
       "job_urls": [
         "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "f68c95542f6be1e157243d9fb7365267dbf72c9ad4fd8f1f5b0f565ef79d7828": {
       "application_scan_eligible": true,

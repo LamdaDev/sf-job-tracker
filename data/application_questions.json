@@ -63,6 +63,27 @@
       "scanned_at": "2026-09-10T17:33:59Z",
       "status": "unavailable"
     },
+    "ashby:abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e": {
+      "application_url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-17T21:57:44Z",
+      "http_status": 200,
+      "issue_number": 100,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-17T21:57:44Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-17T21:57:44Z",
+      "status": "unavailable"
+    },
     "ashby:aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba": {
       "application_url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
       "attempt_count": 1,
@@ -18966,7 +18987,7 @@
     },
     "url:https://careers.roblox.com/jobs/8168383?gh_jid=8168383": {
       "application_url": "https://careers.roblox.com/jobs/8168383?gh_jid=8168383",
-      "attempt_count": 1,
+      "attempt_count": 2,
       "canonical_job_id": "url:https://careers.roblox.com/jobs/8168383?gh_jid=8168383",
       "completeness_reason": "Browser inspection failed before a safe form scan could finish.",
       "error_message": "Error while running browser inspection.",
@@ -18975,13 +18996,13 @@
       "http_status": null,
       "issue_number": 99,
       "issue_update_pending": false,
-      "last_scanned": "2026-09-17T18:00:54Z",
+      "last_scanned": "2026-09-17T21:57:45Z",
       "metadata": {
         "inspection_method": "browser"
       },
       "provider": "generic",
       "questions": [],
-      "scanned_at": "2026-09-17T18:00:54Z",
+      "scanned_at": "2026-09-17T21:57:45Z",
       "status": "failed"
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8174099": {
