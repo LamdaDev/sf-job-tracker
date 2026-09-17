@@ -29735,7 +29735,7 @@
     "194bfd86a9ca0aeb04921caf252543af512f5e95a7d2b21c0548f69be80967c6": {
       "application_scan_eligible": true,
       "created_at": "2026-09-17T01:10:24Z",
-      "issue_number": null,
+      "issue_number": 96,
       "job_ids": [
         "url:https://careers.withwaymo.com/jobs?gh_jid=8197554&ref=Simplify",
         "url:https://careers.withwaymo.com/jobs?gh_jid=8202801&ref=Simplify"
@@ -29744,7 +29744,7 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8197554&utm_source=Simplify&ref=Simplify",
         "https://careers.withwaymo.com/jobs?gh_jid=8202801&utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "1b71daf67a0ce9945170b5c6768c433db5d26de6792877d56a65f206e52b4ef7": {
       "application_scan_eligible": true,

@@ -19015,6 +19015,27 @@
       "scanned_at": "2026-09-16T22:44:19Z",
       "status": "unavailable"
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8197554&ref=Simplify": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8197554&ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-17T01:10:28Z",
+      "http_status": 200,
+      "issue_number": 96,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-17T01:10:28Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-17T01:10:28Z",
+      "status": "unavailable"
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8198218": {
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
       "attempt_count": 1,
@@ -19074,6 +19095,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-09-16T22:44:21Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8202801&ref=Simplify": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8202801&ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-17T01:10:29Z",
+      "http_status": 200,
+      "issue_number": 96,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-17T01:10:29Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-17T01:10:29Z",
       "status": "unavailable"
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
