@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (398)
+## Active Jobs (399)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Waymo | 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-17T07:21:22Z | 2026-09-17T07:21:22Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8203200>) |
 | Waymo | Quantitative Software Engineer Intern 🎓 | Internship | FAANG+ | SF \| Mountain View, CA | Simplify | N/A | 2026-09-17T01:10:24Z | 2026-09-17T01:10:24Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8197554&utm_source=Simplify&ref=Simplify>) |
 | Waymo | Software Engineer Intern - MS/PhD 🎓 | Internship | Unknown | Mountain View, CA | Simplify | N/A | 2026-09-17T01:10:24Z | 2026-09-17T01:10:24Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8202801&utm_source=Simplify&ref=Simplify>) |
 | Clockwork.io | Software Engineer Intern | Internship | Software Engineering | Palo Alto, CA | ApplyGuy | N/A | 2026-09-16T22:44:13Z | 2026-09-16T22:44:13Z | Yes | [Apply](<https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004>) |

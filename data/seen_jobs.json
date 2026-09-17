@@ -20423,6 +20423,60 @@
         "https://simplify.jobs/p/3401f1fc-ebd7-4153-b9b5-359896f63953?utm_source=GHList"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8203200": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8203200",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-17T07:21:22Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-17T07:21:22Z",
+      "location": "San Francisco, CA",
+      "position": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+      "posted": "2026-09-17",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-17T07:21:22Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-17T07:21:22Z",
+          "location": "San Francisco, CA",
+          "position": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+          "posted": "2026-09-17",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "56e36739-8cba-4922-9c82-26c1c98a2c51",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-17T07:15:24.057Z",
+            "id": "56e36739-8cba-4922-9c82-26c1c98a2c51",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+            "posted": "2026-09-17",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=56e36739-8cba-4922-9c82-26c1c98a2c51&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=56e36739-8cba-4922-9c82-26c1c98a2c51&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=56e36739-8cba-4922-9c82-26c1c98a2c51&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8203200"
+      ]
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "active": true,
       "age": "0d",
@@ -30919,6 +30973,18 @@
         "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
       ],
       "status": "sent"
+    },
+    "f09b3bc76167b886f4809b17496d498b6bcc426c63fa01813dc80601e8a29b39": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-17T07:21:22Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8203200"
+      ],
+      "job_urls": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8203200"
+      ],
+      "status": "pending"
     },
     "f2a1127354b7287864ea2f25e46bbb477855e6ee3707dab958d119db605c68a6": {
       "application_scan_eligible": true,
