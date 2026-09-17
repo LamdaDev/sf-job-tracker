@@ -17908,6 +17908,39 @@
       "scanned_at": "2026-09-01T17:42:42Z",
       "status": "unavailable"
     },
+    "rippling:lyte:13e9e743-b6bd-4e76-a4ce-27d4dc61c73e": {
+      "application_url": "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+      "attempt_count": 1,
+      "canonical_job_id": "rippling:lyte:13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+      "completeness_reason": "Only the visible first step was inspected; later steps may contain more questions.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-17T13:11:11Z",
+      "http_status": 200,
+      "issue_number": 98,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-17T13:11:11Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": "D87zFbQ7lk",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "combobox",
+          "options": [],
+          "ordinal": 1,
+          "required": false,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-17T13:11:11Z",
+      "status": "partial"
+    },
     "tiktok:jobs.bytedance.com:7668489218234157365": {
       "application_url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
