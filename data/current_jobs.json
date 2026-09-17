@@ -509,19 +509,19 @@
       "company": "Applied Intuition",
       "job_type": "New Grad",
       "location": "Sunnyvale, CA",
-      "position": "Embedded Software Engineer - New Grad (2027)",
+      "position": "Embedded Software Engineer - New Grad (December 2026)",
       "posted": "2026-08-14",
       "salary": null,
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "age": "3d",
+          "age": "34d",
           "application_url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44",
           "category": "Unknown",
           "company": "Applied Intuition",
           "job_type": "New Grad",
           "location": "Sunnyvale, CA",
-          "position": "Embedded Software Engineer - New Grad (2027)",
+          "position": "Embedded Software Engineer - New Grad (December 2026)",
           "posted": "2026-08-14",
           "salary": null,
           "season": null,
@@ -530,9 +530,9 @@
           "source_job_id": "4e9581e3-cbf2-4caa-bbb2-b96048d02f06",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "3d",
+            "age": "34d",
             "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-08-17T18:31:10.983Z",
+            "feedUpdatedAt": "2026-09-17T01:01:01.894Z",
             "id": "4e9581e3-cbf2-4caa-bbb2-b96048d02f06",
             "listingUrl": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44",
             "matchKind": "explicit",
@@ -561,13 +561,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "age": "2d",
+          "age": "15d",
           "application_url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
           "category": "Unknown",
           "company": "Applied Intuition",
           "job_type": "New Grad",
           "location": "Sunnyvale, CA",
-          "position": "Cybersecurity Software Engineer - New Grad (December 2027)",
+          "position": "Cybersecurity Software Engineer - New Grad (December 2026)",
           "posted": "2026-09-02",
           "salary": null,
           "season": null,
@@ -576,9 +576,9 @@
           "source_job_id": "ff7c3998-02a3-4405-b8d5-29f975f01cde",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "2d",
+            "age": "15d",
             "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-04T13:16:09.428Z",
+            "feedUpdatedAt": "2026-09-17T01:01:01.894Z",
             "id": "ff7c3998-02a3-4405-b8d5-29f975f01cde",
             "listingUrl": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
             "matchKind": "explicit",
@@ -8095,7 +8095,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -13570,6 +13570,45 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8197554"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8197554&ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8197554&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "SF | Mountain View, CA",
+      "position": "Quantitative Software Engineer Intern 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "SF | Mountain View, CA",
+          "position": "Quantitative Software Engineer Intern 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "e30c1cc5-e220-4fd3-acc3-db8af1dcd0f5",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/e30c1cc5-e220-4fd3-acc3-db8af1dcd0f5?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/e30c1cc5-e220-4fd3-acc3-db8af1dcd0f5?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8197554&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/e30c1cc5-e220-4fd3-acc3-db8af1dcd0f5?utm_source=GHList"
+      ]
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8198218": {
       "age": "1d",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
@@ -13717,6 +13756,45 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Waymo&job=ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://careers.withwaymo.com/jobs?gh_jid=8202801"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8202801&ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8202801&ref=Simplify",
+      "category": "Unknown",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer Intern - MS/PhD 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801&utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer Intern - MS/PhD 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "3401f1fc-ebd7-4153-b9b5-359896f63953",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/3401f1fc-ebd7-4153-b9b5-359896f63953?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/3401f1fc-ebd7-4153-b9b5-359896f63953?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8202801&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/3401f1fc-ebd7-4153-b9b5-359896f63953?utm_source=GHList"
       ]
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
