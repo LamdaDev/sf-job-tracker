@@ -618,6 +618,60 @@
         "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883"
       ]
     },
+    "ashby:abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+      "canonical_id": "ashby:abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+      "category": "Software Engineering",
+      "company": "Abridge",
+      "first_seen": "2026-09-17T21:57:40Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-17T21:57:40Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineering Intern, Spring",
+      "posted": "2026-09-17",
+      "salary": null,
+      "season": "Spring",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+          "category": "Software Engineering",
+          "company": "Abridge",
+          "first_seen": "2026-09-17T21:57:40Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-17T21:57:40Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern, Spring",
+          "posted": "2026-09-17",
+          "salary": null,
+          "season": "Spring",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "530eeb85-469a-41da-8cb7-033a18f8da97",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-17T21:45:22.963Z",
+            "id": "530eeb85-469a-41da-8cb7-033a18f8da97",
+            "listingUrl": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+            "posted": "2026-09-17",
+            "season": "Spring",
+            "url": "https://applyguy.ai/jobs?company=Abridge&job=530eeb85-469a-41da-8cb7-033a18f8da97&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Abridge&job=530eeb85-469a-41da-8cb7-033a18f8da97&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Abridge&job=530eeb85-469a-41da-8cb7-033a18f8da97&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e"
+      ]
+    },
     "ashby:abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace": {
       "active": true,
       "age": "9d",
@@ -23388,14 +23442,14 @@
       ]
     },
     "url:https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003": {
-      "active": true,
+      "active": false,
       "age": "16d",
       "application_url": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
       "canonical_id": "url:https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
       "category": "Software Engineering",
       "company": "Zipline",
       "first_seen": "2026-09-03T13:22:45Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-17T21:57:40Z",
       "job_type": "Internship",
       "last_seen": "2026-09-03T13:22:45Z",
       "location": "South San Francisco, CA",
@@ -23405,13 +23459,13 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "16d",
           "application_url": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-09-03T13:22:45Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-17T21:57:40Z",
           "job_type": "Internship",
           "last_seen": "2026-09-03T13:22:45Z",
           "location": "South San Francisco, CA",
@@ -23496,14 +23550,14 @@
       ]
     },
     "url:https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003": {
-      "active": true,
+      "active": false,
       "age": "16d",
       "application_url": "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
       "canonical_id": "url:https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
       "category": "Software Engineering",
       "company": "Zipline",
       "first_seen": "2026-09-03T13:22:45Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-17T21:57:40Z",
       "job_type": "Internship",
       "last_seen": "2026-09-03T13:22:45Z",
       "location": "South San Francisco, CA",
@@ -23513,13 +23567,13 @@
       "season": "Spring 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "16d",
           "application_url": "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-09-03T13:22:45Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-17T21:57:40Z",
           "job_type": "Internship",
           "last_seen": "2026-09-03T13:22:45Z",
           "location": "South San Francisco, CA",
@@ -31529,6 +31583,18 @@
         "https://www.zipline.com/open-roles?gh_jid=7893926003"
       ],
       "status": "sent"
+    },
+    "f65437c03c5bd0e2eba50fe35785cb954bc6db7731d1d97fbd0311f9e7ece968": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-17T21:57:40Z",
+      "issue_number": null,
+      "job_ids": [
+        "ashby:abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e"
+      ],
+      "job_urls": [
+        "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e"
+      ],
+      "status": "pending"
     },
     "f68c95542f6be1e157243d9fb7365267dbf72c9ad4fd8f1f5b0f565ef79d7828": {
       "application_scan_eligible": true,

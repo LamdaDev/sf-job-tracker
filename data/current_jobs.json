@@ -356,6 +356,52 @@
         "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883"
       ]
     },
+    "ashby:abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e": {
+      "age": "Today",
+      "application_url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+      "canonical_id": "ashby:abridge:6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+      "category": "Software Engineering",
+      "company": "Abridge",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineering Intern, Spring",
+      "posted": "2026-09-17",
+      "salary": null,
+      "season": "Spring",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+          "category": "Software Engineering",
+          "company": "Abridge",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern, Spring",
+          "posted": "2026-09-17",
+          "salary": null,
+          "season": "Spring",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "530eeb85-469a-41da-8cb7-033a18f8da97",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-17T21:45:22.963Z",
+            "id": "530eeb85-469a-41da-8cb7-033a18f8da97",
+            "listingUrl": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
+            "posted": "2026-09-17",
+            "season": "Spring",
+            "url": "https://applyguy.ai/jobs?company=Abridge&job=530eeb85-469a-41da-8cb7-033a18f8da97&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Abridge&job=530eeb85-469a-41da-8cb7-033a18f8da97&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Abridge&job=530eeb85-469a-41da-8cb7-033a18f8da97&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e"
+      ]
+    },
     "ashby:abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace": {
       "age": "9d",
       "application_url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
@@ -15625,98 +15671,6 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Roku&job=cfd344fc-5811-4ba4-b7ba-09a4e643930a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://www.weareroku.com/jobs/8188714?gh_jid=8188714"
-      ]
-    },
-    "url:https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003": {
-      "age": "16d",
-      "application_url": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
-      "canonical_id": "url:https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
-      "category": "Software Engineering",
-      "company": "Zipline",
-      "job_type": "Internship",
-      "location": "South San Francisco, CA",
-      "position": "Enterprise Systems Software Engineer Intern (Summer 2027)",
-      "posted": "2026-08-18",
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "applyguy_internships": {
-          "age": "16d",
-          "application_url": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
-          "category": "Software Engineering",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Enterprise Systems Software Engineer Intern (Summer 2027)",
-          "posted": "2026-08-18",
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "16d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
-            "id": "3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9",
-            "listingUrl": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
-            "posted": "2026-08-18",
-            "season": "Summer 2027",
-            "url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Zipline&job=3d120bd9-c2e5-4e5a-8856-40cf5ff2fea9&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003"
-      ]
-    },
-    "url:https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003": {
-      "age": "16d",
-      "application_url": "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
-      "canonical_id": "url:https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
-      "category": "Software Engineering",
-      "company": "Zipline",
-      "job_type": "Internship",
-      "location": "South San Francisco, CA",
-      "position": "Enterprise Systems Software Engineer Intern (Spring 2027)",
-      "posted": "2026-08-18",
-      "salary": null,
-      "season": "Spring 2027",
-      "sources": {
-        "applyguy_internships": {
-          "age": "16d",
-          "application_url": "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
-          "category": "Software Engineering",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Enterprise Systems Software Engineer Intern (Spring 2027)",
-          "posted": "2026-08-18",
-          "salary": null,
-          "season": "Spring 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "0b2b5108-335c-4f96-90aa-947e38a6fd7d",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "16d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
-            "id": "0b2b5108-335c-4f96-90aa-947e38a6fd7d",
-            "listingUrl": "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
-            "posted": "2026-08-18",
-            "season": "Spring 2027",
-            "url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Zipline&job=0b2b5108-335c-4f96-90aa-947e38a6fd7d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003"
       ]
     },
     "url:https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003": {
