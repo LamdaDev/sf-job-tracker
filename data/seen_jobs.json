@@ -12444,6 +12444,60 @@
         "https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40"
       ]
     },
+    "rippling:lyte:13e9e743-b6bd-4e76-a4ce-27d4dc61c73e": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+      "canonical_id": "rippling:lyte:13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+      "category": "Software Engineering",
+      "company": "Lyte AI",
+      "first_seen": "2026-09-17T13:11:08Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-17T13:11:08Z",
+      "location": "Sunnyvale, CA",
+      "position": "Intern - Software Engineering",
+      "posted": "2026-09-17",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+          "category": "Software Engineering",
+          "company": "Lyte AI",
+          "first_seen": "2026-09-17T13:11:08Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-17T13:11:08Z",
+          "location": "Sunnyvale, CA",
+          "position": "Intern - Software Engineering",
+          "posted": "2026-09-17",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7962b8bc-97b9-4a8a-beed-029c845f0e06",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-17T13:00:31.150Z",
+            "id": "7962b8bc-97b9-4a8a-beed-029c845f0e06",
+            "listingUrl": "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+            "posted": "2026-09-17",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Lyte+AI&job=7962b8bc-97b9-4a8a-beed-029c845f0e06&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Lyte+AI&job=7962b8bc-97b9-4a8a-beed-029c845f0e06&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Lyte+AI&job=7962b8bc-97b9-4a8a-beed-029c845f0e06&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e"
+      ]
+    },
     "tiktok:jobs.bytedance.com:7667377525182662965": {
       "active": true,
       "age": "14d",
@@ -13159,7 +13213,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-17T01:10:24Z",
+      "last_seen": "2026-09-17T13:11:08Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -13170,12 +13224,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-17T01:10:24Z",
+          "last_seen": "2026-09-17T13:11:08Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -29831,6 +29885,18 @@
         "https://job-boards.greenhouse.io/emergentlabsinc/jobs/4323651009"
       ],
       "status": "sent"
+    },
+    "25d04692c4ddaf96291720ebb3fe8c2e1e1f66b9889cf2de850a09c38b098057": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-17T13:11:08Z",
+      "issue_number": null,
+      "job_ids": [
+        "rippling:lyte:13e9e743-b6bd-4e76-a4ce-27d4dc61c73e"
+      ],
+      "job_urls": [
+        "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e"
+      ],
+      "status": "pending"
     },
     "27b1e19f34e188483f293863c13a55f5c069fa1b0ee2c0481d23ca6a8c658ebb": {
       "created_at": "2026-08-17T18:42:34Z",

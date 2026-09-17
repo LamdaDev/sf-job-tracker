@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (399)
+## Active Jobs (400)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Lyte AI | Intern - Software Engineering | Internship | Software Engineering | Sunnyvale, CA | ApplyGuy | N/A | 2026-09-17T13:11:08Z | 2026-09-17T13:11:08Z | Yes | [Apply](<https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e>) |
 | Waymo | 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-17T07:21:22Z | 2026-09-17T07:21:22Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8203200>) |
 | Waymo | Quantitative Software Engineer Intern 🎓 | Internship | FAANG+ | SF \| Mountain View, CA | Simplify | N/A | 2026-09-17T01:10:24Z | 2026-09-17T01:10:24Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8197554&utm_source=Simplify&ref=Simplify>) |
 | Waymo | Software Engineer Intern - MS/PhD 🎓 | Internship | Unknown | Mountain View, CA | Simplify | N/A | 2026-09-17T01:10:24Z | 2026-09-17T01:10:24Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8202801&utm_source=Simplify&ref=Simplify>) |
@@ -117,7 +118,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Waymo | 2027 Summer Intern - BS - SysEng Software Engineer | Internship | Other | Mountain View, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-03T20:43:16Z | 2026-09-04T17:27:22Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8174099>) |
 | Adobe | 2027 Intern - Software Engineer | Internship | FAANG+ | Seattle, WA \| SF \| Austin, TX \| San Jose, CA \| Waltham, MA \| NYC \| Lehi, UT | ApplyGuy, Simplify, SpeedyApply | $55/hr | 2026-09-03T17:39:07Z | 2026-09-04T17:27:22Z | Yes | [Apply](<https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666>) |
 | Applied Intuition | Cybersecurity Software Engineer - New Grad - December 2027 | New Grad | Other | Sunnyvale, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-03T17:39:07Z | 2026-09-17T01:10:24Z | Yes | [Apply](<https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e>) |
-| ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓 | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-09-03T17:39:07Z | 2026-09-17T01:10:24Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify>) |
+| ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓 | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-09-03T17:39:07Z | 2026-09-17T13:11:08Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify>) |
 | Lyft | Software Engineer | New Grad | FAANG+ | San Francisco, CA | SpeedyApply | $206k/yr | 2026-09-03T17:39:07Z | 2026-09-03T17:39:07Z | Yes | [Apply](<https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002>) |
 | Zipline | Enterprise Systems Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | Yes | [Apply](<https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003>) |
 | Zipline | Enterprise Systems Software Engineer Intern (Summer 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | Yes | [Apply](<https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003>) |

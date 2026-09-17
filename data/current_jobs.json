@@ -7611,6 +7611,52 @@
         "https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40"
       ]
     },
+    "rippling:lyte:13e9e743-b6bd-4e76-a4ce-27d4dc61c73e": {
+      "age": "Today",
+      "application_url": "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+      "canonical_id": "rippling:lyte:13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+      "category": "Software Engineering",
+      "company": "Lyte AI",
+      "job_type": "Internship",
+      "location": "Sunnyvale, CA",
+      "position": "Intern - Software Engineering",
+      "posted": "2026-09-17",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+          "category": "Software Engineering",
+          "company": "Lyte AI",
+          "job_type": "Internship",
+          "location": "Sunnyvale, CA",
+          "position": "Intern - Software Engineering",
+          "posted": "2026-09-17",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7962b8bc-97b9-4a8a-beed-029c845f0e06",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-17T13:00:31.150Z",
+            "id": "7962b8bc-97b9-4a8a-beed-029c845f0e06",
+            "listingUrl": "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e",
+            "posted": "2026-09-17",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Lyte+AI&job=7962b8bc-97b9-4a8a-beed-029c845f0e06&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Lyte+AI&job=7962b8bc-97b9-4a8a-beed-029c845f0e06&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Lyte+AI&job=7962b8bc-97b9-4a8a-beed-029c845f0e06&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e"
+      ]
+    },
     "tiktok:jobs.bytedance.com:7667377525182662965": {
       "age": "14d",
       "application_url": "https://jobs.bytedance.com/en/position/7667377525182662965/detail?utm_source=Simplify&ref=Simplify",
@@ -8095,7 +8141,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
