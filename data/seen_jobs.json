@@ -30860,14 +30860,14 @@
     "297d3c69f32b8cf6e3e6352ca19b363971eb373236ace8057d7922fb03efe94f": {
       "application_scan_eligible": true,
       "created_at": "2026-09-18T21:30:18Z",
-      "issue_number": null,
+      "issue_number": 105,
       "job_ids": [
         "ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf"
       ],
       "job_urls": [
         "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "29a78b6b051a21d18ceeb46036e59970e5cadf2e17c8feaddca148cbfca1bf5b": {
       "application_scan_eligible": true,
