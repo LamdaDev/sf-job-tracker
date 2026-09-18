@@ -12688,6 +12688,1260 @@
       "scanned_at": "2026-09-11T05:49:06Z",
       "status": "complete"
     },
+    "greenhouse:togetherai:5211582007": {
+      "application_url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:togetherai:5211582007",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-18T18:09:29Z",
+      "http_status": 200,
+      "issue_number": 104,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-18T18:09:29Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_12678497007",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_12678689007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "What is your expected graduation month & year?",
+          "options": [
+            "Already graduated",
+            "Sept - Dec 2026",
+            "Jan - April 2027",
+            "May - Aug 2027",
+            "Sept 2027 - Dec 2027",
+            "Jan 2028 or later"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_12678498007",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you willing to work four days per week in our San Francisco office?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_12678499007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you legally authorized to work in the country where the job is located?",
+          "options": [
+            "Yes, I am currently legally authorized to work in the country where the jobs is located.",
+            "No, I am not currently legally authorized to work in the country where the job is located."
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_12678500007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?",
+          "options": [
+            "Yes, I will require immigration sponsorship now to legally work in the country where the job is located.",
+            "Yes, I will require immigration sponsorship in the future to legally work in the country where the job is located.",
+            "No, I do not and will not require immigration sponsorship to legally work in the country where the job is located."
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 15,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 16,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your gender identity? (mark all that apply)",
+          "options": [],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your racial/ethnic background? (mark all that apply)",
+          "options": [],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your sexual orientation? (mark all that apply)",
+          "options": [],
+          "ordinal": 20,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you identify as transgender? (select one)",
+          "options": [],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning? (select one)",
+          "options": [],
+          "ordinal": 22,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you a veteran or active member of the United States Armed Forces? (select one)",
+          "options": [],
+          "ordinal": 23,
+          "required": false,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-18T18:09:29Z",
+      "status": "complete"
+    },
+    "greenhouse:togetherai:5232036007": {
+      "application_url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:togetherai:5232036007",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-18T18:09:30Z",
+      "http_status": 200,
+      "issue_number": 104,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-18T18:09:30Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_12846910007",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_12846911007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "What is your expected graduation month & year?",
+          "options": [
+            "Already graduated",
+            "Jan - April 2027",
+            "May - Aug 2027",
+            "Sept - Dec 2027",
+            "Jan - April 2028",
+            "May - Aug 2028",
+            "Sept - Dec 2028",
+            "Jan 2029 or later"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_12846912007",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you willing to work four days per week in our San Francisco office?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_12846913007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you legally authorized to work in the country where the job is located?",
+          "options": [
+            "Yes, I am currently legally authorized to work in the country where the jobs is located.",
+            "No, I am not currently legally authorized to work in the country where the job is located."
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_12846914007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?",
+          "options": [
+            "Yes, I will require immigration sponsorship now to legally work in the country where the job is located.",
+            "Yes, I will require immigration sponsorship in the future to legally work in the country where the job is located.",
+            "No, I do not and will not require immigration sponsorship to legally work in the country where the job is located."
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 15,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 16,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your gender identity? (mark all that apply)",
+          "options": [],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your racial/ethnic background? (mark all that apply)",
+          "options": [],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your sexual orientation? (mark all that apply)",
+          "options": [],
+          "ordinal": 20,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you identify as transgender? (select one)",
+          "options": [],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning? (select one)",
+          "options": [],
+          "ordinal": 22,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you a veteran or active member of the United States Armed Forces? (select one)",
+          "options": [],
+          "ordinal": 23,
+          "required": false,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-18T18:09:30Z",
+      "status": "complete"
+    },
+    "greenhouse:togetherai:5238031007": {
+      "application_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238031007",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:togetherai:5238031007",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-18T18:09:32Z",
+      "http_status": 200,
+      "issue_number": 104,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-18T18:09:32Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_12896369007",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_12896370007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "What is your expected graduation month & year?",
+          "options": [
+            "Already graduated",
+            "Jan - April 2027",
+            "May - Aug 2027",
+            "Sept - Dec 2027",
+            "Jan - April 2028",
+            "May - Aug 2028",
+            "Sept - Dec 2028",
+            "Jan 2029 or later"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_12896371007",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you available to work full-time, on-site in San Francisco, during the Winter Cohort Terms (January to April)?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_12896372007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you legally authorized to work in the country where the job is located?",
+          "options": [
+            "Yes, I am currently legally authorized to work in the country where the jobs is located.",
+            "No, I am not currently legally authorized to work in the country where the job is located."
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_12896373007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?",
+          "options": [
+            "Yes, I will require immigration sponsorship now to legally work in the country where the job is located.",
+            "Yes, I will require immigration sponsorship in the future to legally work in the country where the job is located.",
+            "No, I do not and will not require immigration sponsorship to legally work in the country where the job is located."
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 15,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 16,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your gender identity? (mark all that apply)",
+          "options": [],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your racial/ethnic background? (mark all that apply)",
+          "options": [],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your sexual orientation? (mark all that apply)",
+          "options": [],
+          "ordinal": 20,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you identify as transgender? (select one)",
+          "options": [],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning? (select one)",
+          "options": [],
+          "ordinal": 22,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you a veteran or active member of the United States Armed Forces? (select one)",
+          "options": [],
+          "ordinal": 23,
+          "required": false,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-18T18:09:32Z",
+      "status": "complete"
+    },
+    "greenhouse:togetherai:5238472007": {
+      "application_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238472007",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:togetherai:5238472007",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-18T18:09:33Z",
+      "http_status": 200,
+      "issue_number": 104,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-18T18:09:33Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_12899649007",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_12899653007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "What is your expected graduation month & year?",
+          "options": [
+            "Already graduated",
+            "Jan - April 2027",
+            "May - Aug 2027",
+            "Sept - Dec 2027",
+            "Jan - April 2028",
+            "May - Aug 2028",
+            "Sept - Dec 2028",
+            "Jan 2029 or later"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_12899650007",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Are you willing to work four days per week in our San Francisco office?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_12899651007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you legally authorized to work in the country where the job is located?",
+          "options": [
+            "Yes, I am currently legally authorized to work in the country where the jobs is located.",
+            "No, I am not currently legally authorized to work in the country where the job is located."
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_12899652007",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Will you now or in the future require company sponsorship to retain or extend your work authorization in the country where the job is located?",
+          "options": [
+            "Yes, I will require immigration sponsorship now to legally work in the country where the job is located.",
+            "Yes, I will require immigration sponsorship in the future to legally work in the country where the job is located.",
+            "No, I do not and will not require immigration sponsorship to legally work in the country where the job is located."
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "DisabilityStatus",
+          "options": [
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 15,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 16,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your gender identity? (mark all that apply)",
+          "options": [],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your racial/ethnic background? (mark all that apply)",
+          "options": [],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "How would you describe your sexual orientation? (mark all that apply)",
+          "options": [],
+          "ordinal": 20,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you identify as transgender? (select one)",
+          "options": [],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning? (select one)",
+          "options": [],
+          "ordinal": 22,
+          "required": false,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you a veteran or active member of the United States Armed Forces? (select one)",
+          "options": [],
+          "ordinal": 23,
+          "required": false,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-18T18:09:33Z",
+      "status": "complete"
+    },
     "greenhouse:twitch:8748320002": {
       "application_url": "https://job-boards.greenhouse.io/twitch/jobs/8748320002",
       "attempt_count": 1,
