@@ -7964,7 +7964,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -8159,7 +8159,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -14592,6 +14592,52 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Stripe&job=4cbb4f91-e14f-4776-b6ac-80eb14e2c669&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://stripe.com/jobs/search?gh_jid=8128745"
+      ]
+    },
+    "url:https://stripe.com/jobs/search?gh_jid=8212508": {
+      "age": "1d",
+      "application_url": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "canonical_id": "url:https://stripe.com/jobs/search?gh_jid=8212508",
+      "category": "Unknown",
+      "company": "Stripe",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer, Early Career — Immediate Start",
+      "posted": "2026-09-17",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://stripe.com/jobs/search?gh_jid=8212508",
+          "category": "Unknown",
+          "company": "Stripe",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, Early Career — Immediate Start",
+          "posted": "2026-09-17",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "502b9b76-2f7a-4b9e-9c76-4554198118c7",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-18T05:30:49.823Z",
+            "id": "502b9b76-2f7a-4b9e-9c76-4554198118c7",
+            "listingUrl": "https://stripe.com/jobs/search?gh_jid=8212508",
+            "matchKind": "explicit",
+            "posted": "2026-09-17",
+            "url": "https://applyguy.ai/jobs?company=Stripe&job=502b9b76-2f7a-4b9e-9c76-4554198118c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Stripe&job=502b9b76-2f7a-4b9e-9c76-4554198118c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Stripe&job=502b9b76-2f7a-4b9e-9c76-4554198118c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://stripe.com/jobs/search?gh_jid=8212508"
       ]
     },
     "url:https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer": {
