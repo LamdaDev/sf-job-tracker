@@ -15564,6 +15564,52 @@
         "https://www.observe.ai/position?gh_jid=5383979008"
       ]
     },
+    "url:https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088": {
+      "age": "Today",
+      "application_url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+      "canonical_id": "url:https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+      "category": "Software Engineering",
+      "company": "Rubrik Job Board",
+      "job_type": "Internship",
+      "location": "Palo Alto, CA",
+      "position": "Software Engineering Winter Internship",
+      "posted": "2026-09-18",
+      "salary": null,
+      "season": "Winter",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+          "category": "Software Engineering",
+          "company": "Rubrik Job Board",
+          "job_type": "Internship",
+          "location": "Palo Alto, CA",
+          "position": "Software Engineering Winter Internship",
+          "posted": "2026-09-18",
+          "salary": null,
+          "season": "Winter",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "ddcf28eb-6f4b-4dac-bca5-1fd1c6eb55e4",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-18T23:45:11.858Z",
+            "id": "ddcf28eb-6f4b-4dac-bca5-1fd1c6eb55e4",
+            "listingUrl": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+            "posted": "2026-09-18",
+            "season": "Winter",
+            "url": "https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=ddcf28eb-6f4b-4dac-bca5-1fd1c6eb55e4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=ddcf28eb-6f4b-4dac-bca5-1fd1c6eb55e4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=ddcf28eb-6f4b-4dac-bca5-1fd1c6eb55e4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088"
+      ]
+    },
     "url:https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091": {
       "age": "13d",
       "application_url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
