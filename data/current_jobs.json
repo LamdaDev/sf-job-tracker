@@ -5221,52 +5221,6 @@
         "https://simplify.jobs/p/48deab81-0a6d-4ccd-9930-4461d39615e6?utm_source=GHList"
       ]
     },
-    "greenhouse:instabase:8783218002": {
-      "age": "1d",
-      "application_url": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
-      "canonical_id": "greenhouse:instabase:8783218002",
-      "category": "Unknown",
-      "company": "Instabase",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Software Engineer - Early Careers",
-      "posted": "2026-09-09",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "1d",
-          "application_url": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
-          "category": "Unknown",
-          "company": "Instabase",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer - Early Careers",
-          "posted": "2026-09-09",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "b2892be1-43dc-476a-b8b6-2e88b2c6bccd",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "1d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-10T03:31:02.840Z",
-            "id": "b2892be1-43dc-476a-b8b6-2e88b2c6bccd",
-            "listingUrl": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
-            "matchKind": "explicit",
-            "posted": "2026-09-09",
-            "url": "https://applyguy.ai/jobs?company=Instabase&job=b2892be1-43dc-476a-b8b6-2e88b2c6bccd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Instabase&job=b2892be1-43dc-476a-b8b6-2e88b2c6bccd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Instabase&job=b2892be1-43dc-476a-b8b6-2e88b2c6bccd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://job-boards.greenhouse.io/instabase/jobs/8783218002"
-      ]
-    },
     "greenhouse:ionq:6096581004": {
       "age": "58d",
       "application_url": "https://job-boards.greenhouse.io/ionq/jobs/6096581004",
@@ -7964,7 +7918,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -8159,7 +8113,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -15637,6 +15591,45 @@
       "url_aliases": [
         "https://simplify.jobs/p/8b46d013-f73a-4d7b-bd75-7775fa71d342?utm_source=GHList",
         "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify"
+      ]
+    },
+    "url:https://www.tesla.com/careers/search/job/284004?ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://www.tesla.com/careers/search/job/284004?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://www.tesla.com/careers/search/job/284004?ref=Simplify",
+      "category": "FAANG+",
+      "company": "Tesla",
+      "job_type": "Internship",
+      "location": "Palo Alto, CA",
+      "position": "Internship - Software Engineering - People Products - Summer 2027",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://www.tesla.com/careers/search/job/284004?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Tesla",
+          "job_type": "Internship",
+          "location": "Palo Alto, CA",
+          "position": "Internship - Software Engineering - People Products - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "5eeb71a2-4362-490d-91b2-80bec3bb466d",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/5eeb71a2-4362-490d-91b2-80bec3bb466d?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/5eeb71a2-4362-490d-91b2-80bec3bb466d?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/5eeb71a2-4362-490d-91b2-80bec3bb466d?utm_source=GHList",
+        "https://www.tesla.com/careers/search/job/284004?utm_source=Simplify&ref=Simplify"
       ]
     },
     "url:https://www.weareroku.com/jobs/8188714?gh_jid=8188714": {

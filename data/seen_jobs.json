@@ -8838,14 +8838,14 @@
       ]
     },
     "greenhouse:instabase:8783218002": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
       "canonical_id": "greenhouse:instabase:8783218002",
       "category": "Unknown",
       "company": "Instabase",
       "first_seen": "2026-09-10T03:46:06Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-18T10:48:19Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-10T03:46:06Z",
       "location": "San Francisco, CA",
@@ -8855,13 +8855,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://job-boards.greenhouse.io/instabase/jobs/8783218002",
           "category": "Unknown",
           "company": "Instabase",
           "first_seen": "2026-09-10T03:46:06Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-18T10:48:19Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-10T03:46:06Z",
           "location": "San Francisco, CA",
@@ -13026,7 +13026,7 @@
       "first_seen": "2026-08-17T17:45:31Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-18T05:38:15Z",
+      "last_seen": "2026-09-18T10:48:19Z",
       "location": "San Jose, CA",
       "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
       "posted": null,
@@ -13037,12 +13037,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-18T05:38:15Z",
+          "last_seen": "2026-09-18T10:48:19Z",
           "location": "San Jose, CA",
           "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
           "posted": null,
@@ -13355,7 +13355,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-18T05:38:15Z",
+      "last_seen": "2026-09-18T10:48:19Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -13366,12 +13366,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-18T05:38:15Z",
+          "last_seen": "2026-09-18T10:48:19Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -23488,6 +23488,53 @@
         "https://www.tesla.com/careers/search/job/282147?utm_source=Simplify&ref=Simplify"
       ]
     },
+    "url:https://www.tesla.com/careers/search/job/284004?ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://www.tesla.com/careers/search/job/284004?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://www.tesla.com/careers/search/job/284004?ref=Simplify",
+      "category": "FAANG+",
+      "company": "Tesla",
+      "first_seen": "2026-09-18T10:48:19Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-18T10:48:19Z",
+      "location": "Palo Alto, CA",
+      "position": "Internship - Software Engineering - People Products - Summer 2027",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://www.tesla.com/careers/search/job/284004?utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Tesla",
+          "first_seen": "2026-09-18T10:48:19Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-18T10:48:19Z",
+          "location": "Palo Alto, CA",
+          "position": "Internship - Software Engineering - People Products - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "5eeb71a2-4362-490d-91b2-80bec3bb466d",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/5eeb71a2-4362-490d-91b2-80bec3bb466d?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/5eeb71a2-4362-490d-91b2-80bec3bb466d?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://simplify.jobs/p/5eeb71a2-4362-490d-91b2-80bec3bb466d?utm_source=GHList",
+        "https://www.tesla.com/careers/search/job/284004?utm_source=Simplify&ref=Simplify"
+      ]
+    },
     "url:https://www.weareroku.com/jobs/8188714?gh_jid=8188714": {
       "active": true,
       "age": "Today",
@@ -30761,6 +30808,18 @@
         "https://jobs.ashbyhq.com/clera/cbf28b3d-7b19-49b7-ad92-9ea9cf5566f2"
       ],
       "status": "sent"
+    },
+    "66730449a7068febae37629f581c37e75c061b0069c333f43c75092af1cd91f3": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-18T10:48:19Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://www.tesla.com/careers/search/job/284004?ref=Simplify"
+      ],
+      "job_urls": [
+        "https://www.tesla.com/careers/search/job/284004?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "66ed109bb9bc7c57ec8c9e81dc84f9c4f07dc451c6309bfa95b5408c585eaa66": {
       "application_scan_eligible": true,
