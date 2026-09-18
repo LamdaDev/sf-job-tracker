@@ -2121,52 +2121,6 @@
         "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee"
       ]
     },
-    "ashby:kayak:8333e351-7a08-4767-9966-f75411b78d80": {
-      "age": "28d",
-      "application_url": "https://jobs.ashbyhq.com/kayak/8333e351-7a08-4767-9966-f75411b78d80",
-      "canonical_id": "ashby:kayak:8333e351-7a08-4767-9966-f75411b78d80",
-      "category": "Unknown",
-      "company": "KAYAK",
-      "job_type": "New Grad",
-      "location": "Concord, CA",
-      "position": "Associate Software Engineer",
-      "posted": "2026-07-20",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "28d",
-          "application_url": "https://jobs.ashbyhq.com/kayak/8333e351-7a08-4767-9966-f75411b78d80",
-          "category": "Unknown",
-          "company": "KAYAK",
-          "job_type": "New Grad",
-          "location": "Concord, CA",
-          "position": "Associate Software Engineer",
-          "posted": "2026-07-20",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "52e73247-2548-430b-8e35-f90ec8a6cb70",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "28d",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "52e73247-2548-430b-8e35-f90ec8a6cb70",
-            "listingUrl": "https://jobs.ashbyhq.com/kayak/8333e351-7a08-4767-9966-f75411b78d80",
-            "matchKind": "entry_level",
-            "posted": "2026-07-20",
-            "url": "https://applyguy.ai/jobs?company=KAYAK&job=52e73247-2548-430b-8e35-f90ec8a6cb70&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=KAYAK&job=52e73247-2548-430b-8e35-f90ec8a6cb70&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=KAYAK&job=52e73247-2548-430b-8e35-f90ec8a6cb70&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://jobs.ashbyhq.com/kayak/8333e351-7a08-4767-9966-f75411b78d80"
-      ]
-    },
     "ashby:koahlabs:197c931d-3cda-44b3-b26b-470976730808": {
       "age": "1d",
       "application_url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808",
@@ -12578,19 +12532,19 @@
       "company": "Lyft",
       "job_type": "Internship",
       "location": "San Francisco, CA",
-      "position": "Software Engineer Intern - Backend - Summer 2027",
+      "position": "Software Engineer Intern, Backend (Summer 2027 - SF)",
       "posted": "2026-09-11",
       "salary": "$58/hr",
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "age": "Today",
+          "age": "7d",
           "application_url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
           "category": "Software Engineering",
           "company": "Lyft",
           "job_type": "Internship",
           "location": "San Francisco, CA",
-          "position": "Software Engineer Intern, Backend (Summer 2027)",
+          "position": "Software Engineer Intern, Backend (Summer 2027 - SF)",
           "posted": "2026-09-11",
           "salary": null,
           "season": "Summer 2027",
@@ -12599,9 +12553,9 @@
           "source_job_id": "0473a034-d696-4f30-8621-524e6fb6b2f7",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "Today",
+            "age": "7d",
             "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-11T21:30:20.389Z",
+            "feedUpdatedAt": "2026-09-18T00:00:23.804Z",
             "id": "0473a034-d696-4f30-8621-524e6fb6b2f7",
             "listingUrl": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
             "posted": "2026-09-11",
@@ -13853,33 +13807,6 @@
       "salary": null,
       "season": "Summer 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "Today",
-          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
-          "category": "Software Engineering",
-          "company": "Waymo",
-          "job_type": "Internship",
-          "location": "Mountain View, CA",
-          "position": "2027 Summer Intern, MS/PhD, Software Engineer",
-          "posted": "2026-09-16",
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "Today",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-16T22:30:40.947Z",
-            "id": "ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9",
-            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
-            "posted": "2026-09-16",
-            "season": "Summer 2027",
-            "url": "https://applyguy.ai/jobs?company=Waymo&job=ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=ad8b60e3-8dd1-4da6-9302-33d9e7b8d5e9&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "1d",
           "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
@@ -14005,6 +13932,45 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Waymo&job=56e36739-8cba-4922-9c82-26c1c98a2c51&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://careers.withwaymo.com/jobs?gh_jid=8203200"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8210170&ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8210170&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8210170&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "Mountain View, CA",
+      "position": "Scenes Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8210170&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "Scenes Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "371c8592-d416-40cf-88fb-3f95ac049ad3",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/371c8592-d416-40cf-88fb-3f95ac049ad3?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/371c8592-d416-40cf-88fb-3f95ac049ad3?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8210170&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/371c8592-d416-40cf-88fb-3f95ac049ad3?utm_source=GHList"
       ]
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
@@ -17530,52 +17496,6 @@
       },
       "url_aliases": [
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242"
-      ]
-    },
-    "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071": {
-      "age": "28d",
-      "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
-      "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071",
-      "category": "Unknown",
-      "company": "NVIDIA",
-      "job_type": "New Grad",
-      "location": "Santa Clara, CA",
-      "position": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026",
-      "posted": "2026-07-20",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "44d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
-          "category": "Unknown",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026",
-          "posted": "2026-07-20",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "c843e37e-72c9-4f89-88aa-d0d902c16020",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "44d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-02T08:30:47.088Z",
-            "id": "c843e37e-72c9-4f89-88aa-d0d902c16020",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
-            "matchKind": "explicit",
-            "posted": "2026-07-20",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=c843e37e-72c9-4f89-88aa-d0d902c16020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=c843e37e-72c9-4f89-88aa-d0d902c16020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=NVIDIA&job=c843e37e-72c9-4f89-88aa-d0d902c16020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071"
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:nvidia-2027-internships--software-engineering_jr2023495": {

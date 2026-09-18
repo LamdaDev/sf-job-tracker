@@ -3645,14 +3645,14 @@
       ]
     },
     "ashby:kayak:8333e351-7a08-4767-9966-f75411b78d80": {
-      "active": true,
+      "active": false,
       "age": "28d",
       "application_url": "https://jobs.ashbyhq.com/kayak/8333e351-7a08-4767-9966-f75411b78d80",
       "canonical_id": "ashby:kayak:8333e351-7a08-4767-9966-f75411b78d80",
       "category": "Unknown",
       "company": "KAYAK",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-18T00:03:36Z",
       "job_type": "New Grad",
       "last_seen": "2026-08-17T17:45:31Z",
       "location": "Concord, CA",
@@ -3662,13 +3662,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "28d",
           "application_url": "https://jobs.ashbyhq.com/kayak/8333e351-7a08-4767-9966-f75411b78d80",
           "category": "Unknown",
           "company": "KAYAK",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-18T00:03:36Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "Concord, CA",
@@ -18760,25 +18760,25 @@
       "first_seen": "2026-09-11T21:35:42Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-12T16:50:25Z",
+      "last_seen": "2026-09-18T00:03:36Z",
       "location": "San Francisco, CA",
-      "position": "Software Engineer Intern - Backend - Summer 2027",
+      "position": "Software Engineer Intern, Backend (Summer 2027 - SF)",
       "posted": "2026-09-11",
       "salary": "$58/hr",
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
           "active": true,
-          "age": "Today",
+          "age": "7d",
           "application_url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
           "category": "Software Engineering",
           "company": "Lyft",
           "first_seen": "2026-09-11T21:35:42Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-11T21:35:42Z",
+          "last_seen": "2026-09-18T00:03:36Z",
           "location": "San Francisco, CA",
-          "position": "Software Engineer Intern, Backend (Summer 2027)",
+          "position": "Software Engineer Intern, Backend (Summer 2027 - SF)",
           "posted": "2026-09-11",
           "salary": null,
           "season": "Summer 2027",
@@ -18787,9 +18787,9 @@
           "source_job_id": "0473a034-d696-4f30-8621-524e6fb6b2f7",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "Today",
+            "age": "7d",
             "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-11T21:30:20.389Z",
+            "feedUpdatedAt": "2026-09-18T00:00:23.804Z",
             "id": "0473a034-d696-4f30-8621-524e6fb6b2f7",
             "listingUrl": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
             "posted": "2026-09-11",
@@ -20602,13 +20602,13 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
           "category": "Software Engineering",
           "company": "Waymo",
           "first_seen": "2026-09-16T22:44:13Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-18T00:03:36Z",
           "job_type": "Internship",
           "last_seen": "2026-09-16T22:44:13Z",
           "location": "Mountain View, CA",
@@ -20781,6 +20781,53 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Waymo&job=56e36739-8cba-4922-9c82-26c1c98a2c51&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://careers.withwaymo.com/jobs?gh_jid=8203200"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8210170&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8210170&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8210170&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "first_seen": "2026-09-18T00:03:36Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-18T00:03:36Z",
+      "location": "Mountain View, CA",
+      "position": "Scenes Intern",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8210170&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "first_seen": "2026-09-18T00:03:36Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-18T00:03:36Z",
+          "location": "Mountain View, CA",
+          "position": "Scenes Intern",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "371c8592-d416-40cf-88fb-3f95ac049ad3",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/371c8592-d416-40cf-88fb-3f95ac049ad3?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/371c8592-d416-40cf-88fb-3f95ac049ad3?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8210170&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/371c8592-d416-40cf-88fb-3f95ac049ad3?utm_source=GHList"
       ]
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
@@ -27683,14 +27730,14 @@
       ]
     },
     "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071": {
-      "active": true,
+      "active": false,
       "age": "28d",
       "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
       "canonical_id": "workday:nvidia.wd5.myworkdayjobs.com:deep-learning-software-engineer--tensorrt-performance---new-college-grad-2026_jr2015071",
       "category": "Unknown",
       "company": "NVIDIA",
       "first_seen": "2026-08-17T17:45:31Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-18T00:03:36Z",
       "job_type": "New Grad",
       "last_seen": "2026-09-02T08:34:34Z",
       "location": "Santa Clara, CA",
@@ -27700,13 +27747,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "44d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071",
           "category": "Unknown",
           "company": "NVIDIA",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-18T00:03:36Z",
           "job_type": "New Grad",
           "last_seen": "2026-09-02T08:34:34Z",
           "location": "Santa Clara, CA",
@@ -31233,6 +31280,18 @@
         "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978?utm_source=Simplify&ref=Simplify"
       ],
       "status": "sent"
+    },
+    "c8a2735d6b0d800e20d019832609ce30e8075b6521bda7c0da8887a90c31e5f9": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-18T00:03:36Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8210170&ref=Simplify"
+      ],
+      "job_urls": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8210170&utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "c8f48c7615de5e9fcd2b47401fcaa2dbcab924c709861b50a567a24f7ccd619d": {
       "application_scan_eligible": true,
