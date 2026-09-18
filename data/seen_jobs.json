@@ -31284,14 +31284,14 @@
     "c8a2735d6b0d800e20d019832609ce30e8075b6521bda7c0da8887a90c31e5f9": {
       "application_scan_eligible": true,
       "created_at": "2026-09-18T00:03:36Z",
-      "issue_number": null,
+      "issue_number": 101,
       "job_ids": [
         "url:https://careers.withwaymo.com/jobs?gh_jid=8210170&ref=Simplify"
       ],
       "job_urls": [
         "https://careers.withwaymo.com/jobs?gh_jid=8210170&utm_source=Simplify&ref=Simplify"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "c8f48c7615de5e9fcd2b47401fcaa2dbcab924c709861b50a567a24f7ccd619d": {
       "application_scan_eligible": true,

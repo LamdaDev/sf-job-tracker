@@ -19234,6 +19234,27 @@
       "scanned_at": "2026-09-17T07:21:26Z",
       "status": "unavailable"
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8210170&ref=Simplify": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8210170&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8210170&ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-18T00:03:40Z",
+      "http_status": 200,
+      "issue_number": 101,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-18T00:03:40Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-18T00:03:40Z",
+      "status": "unavailable"
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
       "attempt_count": 1,
