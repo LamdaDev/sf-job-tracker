@@ -21660,6 +21660,684 @@
       "scanned_at": "2026-08-26T13:59:01Z",
       "status": "unavailable"
     },
+    "url:https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088": {
+      "application_url": "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088",
+      "completeness_reason": "Additional application questions require authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-18T23:59:08Z",
+      "http_status": 200,
+      "issue_number": 106,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-18T23:59:08Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": "search",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Search",
+          "options": [],
+          "ordinal": 1,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 8,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 9,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 10,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 11,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV Attach file",
+          "options": [],
+          "ordinal": 12,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume_text",
+          "field_type": "long_text",
+          "is_custom": false,
+          "label": "Resume text",
+          "options": [],
+          "ordinal": 13,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter Attach file",
+          "options": [],
+          "ordinal": 14,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter_text",
+          "field_type": "long_text",
+          "is_custom": false,
+          "label": "Cover letter text",
+          "options": [],
+          "ordinal": 15,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925394",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "What is your Legal Name?",
+          "options": [],
+          "ordinal": 16,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925395",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Question 68925395",
+          "options": [
+            "Please Select",
+            "Yes",
+            "No"
+          ],
+          "ordinal": 17,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925396",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Question 68925396",
+          "options": [
+            "Please Select",
+            "December 2027",
+            "May/June 2028",
+            "December 2028",
+            "May/Spring 2029",
+            "Other"
+          ],
+          "ordinal": 18,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925397",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Question 68925397",
+          "options": [
+            "Please Select",
+            "Yes",
+            "No"
+          ],
+          "ordinal": 19,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925398",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Question 68925398",
+          "options": [
+            "Please Select",
+            "Yes",
+            "No"
+          ],
+          "ordinal": 20,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": "question_68925399",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 21,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925400",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Question 68925400",
+          "options": [
+            "Please Select",
+            "I have never been employed by Rubrik or contracted to provide services to Rubrik",
+            "I am currently a full/part-time employee for Rubrik",
+            "I am a currently a contractor for Rubrik",
+            "I was previously a full/part-time employee for Rubrik",
+            "I was previously a contractor for Rubrik"
+          ],
+          "ordinal": 22,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925401",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Question 68925401",
+          "options": [
+            "Please Select",
+            "Company Website",
+            "LinkedIn",
+            "Glassdoor",
+            "Indeed",
+            "We Work Remotely",
+            "Github",
+            "Employee Referral",
+            "Other"
+          ],
+          "ordinal": 23,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925402[]",
+          "field_type": "multi_select",
+          "is_custom": false,
+          "label": "Question 68925402[]",
+          "options": [
+            "Question 68925402[]"
+          ],
+          "ordinal": 24,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925403",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "If you selected \"other\" programing language, please list here",
+          "options": [],
+          "ordinal": 31,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925404",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Question 68925404",
+          "options": [
+            "Please Select",
+            "Yes",
+            "No"
+          ],
+          "ordinal": 32,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": "question_68925405",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Please Review the NDA and indicate your agreement by typing your full name below",
+          "options": [],
+          "ordinal": 33,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925406",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Question 68925406",
+          "options": [
+            "Please Select",
+            "Yes"
+          ],
+          "ordinal": 34,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "profile",
+          "field_name": "question_68925407",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "What is your home Zip Code?",
+          "options": [],
+          "ordinal": 35,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "question_68925408",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Question 68925408",
+          "options": [
+            "Please Select",
+            "I have never been employed by Rubrik or contracted to provide services to Rubrik",
+            "I am currently a full/part-time employee for Rubrik",
+            "I am a currently a contractor for Rubrik",
+            "I was previously a full/part-time employee for Rubrik",
+            "I was previously a contractor for Rubrik"
+          ],
+          "ordinal": 36,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 37,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27890",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "Man",
+          "options": [
+            "Man"
+          ],
+          "ordinal": 38,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27889",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "Non-binary",
+          "options": [
+            "Non-binary"
+          ],
+          "ordinal": 39,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27888",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "Woman",
+          "options": [
+            "Woman"
+          ],
+          "ordinal": 40,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "job_specific",
+          "field_name": "27887",
+          "field_type": "checkbox",
+          "is_custom": true,
+          "label": "I prefer to self-describe I prefer to self-describe I prefer to self-describe",
+          "options": [
+            "I prefer to self-describe I prefer to self-describe I prefer to self-describe"
+          ],
+          "ordinal": 41,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27886",
+          "field_type": "checkbox",
+          "is_custom": true,
+          "label": "I don't wish to answer I don't wish to answer I don't wish to answer",
+          "options": [
+            "I don't wish to answer I don't wish to answer I don't wish to answer"
+          ],
+          "ordinal": 42,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27885",
+          "field_type": "checkbox",
+          "is_custom": true,
+          "label": "Black or of African descent",
+          "options": [
+            "Black or of African descent"
+          ],
+          "ordinal": 43,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27884",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "East Asian",
+          "options": [
+            "East Asian"
+          ],
+          "ordinal": 44,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27883",
+          "field_type": "checkbox",
+          "is_custom": true,
+          "label": "Hispanic, Latinx or of Spanish Origin",
+          "options": [
+            "Hispanic, Latinx or of Spanish Origin"
+          ],
+          "ordinal": 45,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27882",
+          "field_type": "checkbox",
+          "is_custom": true,
+          "label": "Indigenous, American Indian or Alaska Native",
+          "options": [
+            "Indigenous, American Indian or Alaska Native"
+          ],
+          "ordinal": 46,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27881",
+          "field_type": "checkbox",
+          "is_custom": true,
+          "label": "Middle Eastern or North African",
+          "options": [
+            "Middle Eastern or North African"
+          ],
+          "ordinal": 47,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27880",
+          "field_type": "checkbox",
+          "is_custom": true,
+          "label": "Native Hawaiian or Pacific Islander",
+          "options": [
+            "Native Hawaiian or Pacific Islander"
+          ],
+          "ordinal": 48,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27879",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "South Asian",
+          "options": [
+            "South Asian"
+          ],
+          "ordinal": 49,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27878",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "Southeast Asian",
+          "options": [
+            "Southeast Asian"
+          ],
+          "ordinal": 50,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27877",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "White or European",
+          "options": [
+            "White or European"
+          ],
+          "ordinal": 51,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27874",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "Asexual",
+          "options": [
+            "Asexual"
+          ],
+          "ordinal": 54,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27873",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "Bisexual and/or pansexual",
+          "options": [
+            "Bisexual and/or pansexual"
+          ],
+          "ordinal": 55,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27872",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "Gay",
+          "options": [
+            "Gay"
+          ],
+          "ordinal": 56,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27871",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "Heterosexual",
+          "options": [
+            "Heterosexual"
+          ],
+          "ordinal": 57,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27870",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "Lesbian",
+          "options": [
+            "Lesbian"
+          ],
+          "ordinal": 58,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "other",
+          "field_name": "27869",
+          "field_type": "checkbox",
+          "is_custom": false,
+          "label": "Queer",
+          "options": [
+            "Queer"
+          ],
+          "ordinal": 59,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "disability_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Disability status",
+          "options": [
+            "Please Select",
+            "I do not want to answer",
+            "No, I do not have a disability and have not had one in the past",
+            "Yes, I have a disability, or have had one in the past"
+          ],
+          "ordinal": 62,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Veteran status",
+          "options": [
+            "Please Select",
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 63,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Please Select",
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 64,
+          "required": null,
+          "source_section": null
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Please Select",
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 65,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-18T23:59:08Z",
+      "status": "partial"
+    },
     "url:https://www.tesla.com/careers/search/job/281097?ref=Simplify": {
       "application_url": "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,

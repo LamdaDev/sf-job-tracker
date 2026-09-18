@@ -31280,14 +31280,14 @@
     "77daf0af2fd0451e674a9d53b9927fb3272779fe8b4306a26e772b2e495a7c53": {
       "application_scan_eligible": true,
       "created_at": "2026-09-18T23:59:03Z",
-      "issue_number": null,
+      "issue_number": 106,
       "job_ids": [
         "url:https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088"
       ],
       "job_urls": [
         "https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "7b0271635ba30fb2f6f570b9a250799d342ad492f522bc76308f59b020e5f3b9": {
       "application_scan_eligible": true,
