@@ -31480,14 +31480,14 @@
     "d837566c0e62f0c80d351348e1d5acfc0affc8438ad9aa555320b41265f51041": {
       "application_scan_eligible": true,
       "created_at": "2026-09-18T05:38:15Z",
-      "issue_number": null,
+      "issue_number": 102,
       "job_ids": [
         "url:https://stripe.com/jobs/search?gh_jid=8212508"
       ],
       "job_urls": [
         "https://stripe.com/jobs/search?gh_jid=8212508"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "da368aaf9902676f8a4cb405642a1e56f908d87abe781ab5c4953297a64dc8b3": {
       "application_scan_eligible": true,

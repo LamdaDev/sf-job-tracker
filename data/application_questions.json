@@ -19663,6 +19663,27 @@
       "scanned_at": "2026-09-01T17:43:01Z",
       "status": "unavailable"
     },
+    "url:https://stripe.com/jobs/search?gh_jid=8212508": {
+      "application_url": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://stripe.com/jobs/search?gh_jid=8212508",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-18T05:38:19Z",
+      "http_status": 200,
+      "issue_number": 102,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-18T05:38:19Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-18T05:38:19Z",
+      "status": "unavailable"
+    },
     "url:https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer": {
       "application_url": "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer/apply",
       "attempt_count": 1,
