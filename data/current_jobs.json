@@ -1619,6 +1619,52 @@
         "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
       ]
     },
+    "ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf": {
+      "age": "Today",
+      "application_url": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf",
+      "canonical_id": "ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf",
+      "category": "Software Engineering",
+      "company": "Fable Security",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineering Intern",
+      "posted": "2026-09-18",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf",
+          "category": "Software Engineering",
+          "company": "Fable Security",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineering Intern",
+          "posted": "2026-09-18",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7d6f2c1d-cce5-4189-aadd-5c1eaa4fbd17",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-18T21:15:22.601Z",
+            "id": "7d6f2c1d-cce5-4189-aadd-5c1eaa4fbd17",
+            "listingUrl": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf",
+            "posted": "2026-09-18",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Fable+Security&job=7d6f2c1d-cce5-4189-aadd-5c1eaa4fbd17&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Fable+Security&job=7d6f2c1d-cce5-4189-aadd-5c1eaa4fbd17&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Fable+Security&job=7d6f2c1d-cce5-4189-aadd-5c1eaa4fbd17&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf"
+      ]
+    },
     "ashby:faros-ai:622e1f1e-4a39-4e7c-8526-1189ca588066": {
       "age": "39d",
       "application_url": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066",

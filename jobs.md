@@ -4,10 +4,11 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (401)
+## Active Jobs (402)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Fable Security | Software Engineering Intern | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-18T21:30:18Z | 2026-09-18T21:30:18Z | Yes | [Apply](<https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf>) |
 | Together AI | Software Development In Test Intern (Summer 2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-18T18:09:24Z | 2026-09-18T18:09:24Z | Yes | [Apply](<https://job-boards.greenhouse.io/togetherai/jobs/5238472007>) |
 | Together AI | Software Engineer Intern (Summer 2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-18T18:09:24Z | 2026-09-18T18:09:24Z | Yes | [Apply](<https://job-boards.greenhouse.io/togetherai/jobs/5232036007>) |
 | Together AI | Software Engineer Intern (Winter 2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-18T18:09:24Z | 2026-09-18T18:09:24Z | Yes | [Apply](<https://job-boards.greenhouse.io/togetherai/jobs/5238031007>) |
