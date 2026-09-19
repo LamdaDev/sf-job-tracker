@@ -8094,7 +8094,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -8289,7 +8289,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -13167,6 +13167,45 @@
         "https://simplify.jobs/p/f0736d54-fe0a-4d54-ad35-f1085b1bd50c?utm_source=GHList"
       ]
     },
+    "url:https://careers.amd.com/jobs/92636?icims=1&ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://careers.amd.com/jobs/92636?icims=1&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.amd.com/jobs/92636?icims=1&ref=Simplify",
+      "category": "FAANG+",
+      "company": "AMD",
+      "job_type": "Internship",
+      "location": "San Jose, CA | Santa Clara, CA",
+      "position": "PhD HPC & Sovereign AI Intern/Co-op 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://careers.amd.com/jobs/92636?icims=1&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "AMD",
+          "job_type": "Internship",
+          "location": "San Jose, CA | Santa Clara, CA",
+          "position": "PhD HPC & Sovereign AI Intern/Co-op 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "54abb8d5-92e1-4497-97fb-7102f105b7e4",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/54abb8d5-92e1-4497-97fb-7102f105b7e4?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/54abb8d5-92e1-4497-97fb-7102f105b7e4?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.amd.com/jobs/92636?icims=1&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/54abb8d5-92e1-4497-97fb-7102f105b7e4?utm_source=GHList"
+      ]
+    },
     "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254": {
       "age": "1d",
       "application_url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
@@ -14048,6 +14087,91 @@
         "https://simplify.jobs/p/371c8592-d416-40cf-88fb-3f95ac049ad3?utm_source=GHList"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8214519": {
+      "age": "1d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8214519",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "posted": "2026-09-18",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+          "posted": "2026-09-18",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "97041ffa-c61c-4c00-bdab-aef79c6db585",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-19T04:15:30.378Z",
+            "id": "97041ffa-c61c-4c00-bdab-aef79c6db585",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+            "posted": "2026-09-18",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=97041ffa-c61c-4c00-bdab-aef79c6db585&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=97041ffa-c61c-4c00-bdab-aef79c6db585&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=97041ffa-c61c-4c00-bdab-aef79c6db585&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8214519"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8214519&ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8214519&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8214519&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer Intern - MS/PhD 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8214519&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer Intern - MS/PhD 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "19c7b543-2d89-4211-ad23-5362ec281971",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/19c7b543-2d89-4211-ad23-5362ec281971?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/19c7b543-2d89-4211-ad23-5362ec281971?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8214519&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/19c7b543-2d89-4211-ad23-5362ec281971?utm_source=GHList"
+      ]
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "age": "0d",
       "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
@@ -14713,6 +14837,52 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Stripe&job=502b9b76-2f7a-4b9e-9c76-4554198118c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://stripe.com/jobs/search?gh_jid=8212508"
+      ]
+    },
+    "url:https://study.com/pages/jobApplication.html?gh_jid=5429313008": {
+      "age": "1d",
+      "application_url": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008",
+      "canonical_id": "url:https://study.com/pages/jobApplication.html?gh_jid=5429313008",
+      "category": "Unknown",
+      "company": "Study.com",
+      "job_type": "New Grad",
+      "location": "Mountain View, CA",
+      "position": "AI-Native Software Engineer (New Grad)",
+      "posted": "2026-09-18",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008",
+          "category": "Unknown",
+          "company": "Study.com",
+          "job_type": "New Grad",
+          "location": "Mountain View, CA",
+          "position": "AI-Native Software Engineer (New Grad)",
+          "posted": "2026-09-18",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "a5745ce0-75a7-44a0-aed8-0c1fa46bd445",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-19T04:16:13.820Z",
+            "id": "a5745ce0-75a7-44a0-aed8-0c1fa46bd445",
+            "listingUrl": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008",
+            "matchKind": "explicit",
+            "posted": "2026-09-18",
+            "url": "https://applyguy.ai/jobs?company=Study.com&job=a5745ce0-75a7-44a0-aed8-0c1fa46bd445&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Study.com&job=a5745ce0-75a7-44a0-aed8-0c1fa46bd445&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Study.com&job=a5745ce0-75a7-44a0-aed8-0c1fa46bd445&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://study.com/pages/jobApplication.html/?gh_jid=5429313008"
       ]
     },
     "url:https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer": {
@@ -15809,98 +15979,6 @@
         "https://www.weareroku.com/jobs/8188714?gh_jid=8188714"
       ]
     },
-    "url:https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003": {
-      "age": "14d",
-      "application_url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
-      "canonical_id": "url:https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
-      "category": "Software Engineering",
-      "company": "Zipline",
-      "job_type": "Internship",
-      "location": "South San Francisco, CA",
-      "position": "Software Systems Validation Intern (Spring 2027)",
-      "posted": "2026-08-20",
-      "salary": null,
-      "season": "Spring 2027",
-      "sources": {
-        "applyguy_internships": {
-          "age": "14d",
-          "application_url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
-          "category": "Software Engineering",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Software Systems Validation Intern (Spring 2027)",
-          "posted": "2026-08-20",
-          "salary": null,
-          "season": "Spring 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "67afcec4-ce5b-4f35-84aa-42094350f041",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "14d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
-            "id": "67afcec4-ce5b-4f35-84aa-42094350f041",
-            "listingUrl": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
-            "posted": "2026-08-20",
-            "season": "Spring 2027",
-            "url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Zipline&job=67afcec4-ce5b-4f35-84aa-42094350f041&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003"
-      ]
-    },
-    "url:https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003": {
-      "age": "14d",
-      "application_url": "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
-      "canonical_id": "url:https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
-      "category": "Software Engineering",
-      "company": "Zipline",
-      "job_type": "Internship",
-      "location": "South San Francisco, CA",
-      "position": "Software Systems Validation Intern (Summer 2027)",
-      "posted": "2026-08-20",
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "applyguy_internships": {
-          "age": "14d",
-          "application_url": "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
-          "category": "Software Engineering",
-          "company": "Zipline",
-          "job_type": "Internship",
-          "location": "South San Francisco, CA",
-          "position": "Software Systems Validation Intern (Summer 2027)",
-          "posted": "2026-08-20",
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "442133eb-2198-429b-b807-a75804e9c224",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "14d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-03T13:15:17.484Z",
-            "id": "442133eb-2198-429b-b807-a75804e9c224",
-            "listingUrl": "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003",
-            "posted": "2026-08-20",
-            "season": "Summer 2027",
-            "url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Zipline&job=442133eb-2198-429b-b807-a75804e9c224&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003"
-      ]
-    },
     "url:https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003": {
       "age": "14d",
       "application_url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
@@ -16662,6 +16740,52 @@
       },
       "url_aliases": [
         "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781"
+      ]
+    },
+    "workday:bmo.wd3.myworkdayjobs.com:software-developer--winter-2027--internship----4-months_r260027197-3": {
+      "age": "Today",
+      "application_url": "https://bmo.wd3.myworkdayjobs.com/campus/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-3",
+      "canonical_id": "workday:bmo.wd3.myworkdayjobs.com:software-developer--winter-2027--internship----4-months_r260027197-3",
+      "category": "Software Engineering",
+      "company": "Bmo",
+      "job_type": "Internship",
+      "location": "San Ramon, CA",
+      "position": "Software Developer, Winter 2027 (Internship) - 4 months",
+      "posted": "2026-09-19",
+      "salary": null,
+      "season": "Winter 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://bmo.wd3.myworkdayjobs.com/campus/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-3",
+          "category": "Software Engineering",
+          "company": "Bmo",
+          "job_type": "Internship",
+          "location": "San Ramon, CA",
+          "position": "Software Developer, Winter 2027 (Internship) - 4 months",
+          "posted": "2026-09-19",
+          "salary": null,
+          "season": "Winter 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "fc71b4e3-0c53-4b29-9885-a6d087199a77",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-19T04:15:30.378Z",
+            "id": "fc71b4e3-0c53-4b29-9885-a6d087199a77",
+            "listingUrl": "https://bmo.wd3.myworkdayjobs.com/campus/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-3",
+            "posted": "2026-09-19",
+            "season": "Winter 2027",
+            "url": "https://applyguy.ai/jobs?company=Bmo&job=fc71b4e3-0c53-4b29-9885-a6d087199a77&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Bmo&job=fc71b4e3-0c53-4b29-9885-a6d087199a77&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Bmo&job=fc71b4e3-0c53-4b29-9885-a6d087199a77&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://bmo.wd3.myworkdayjobs.com/campus/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-3"
       ]
     },
     "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2": {
@@ -17454,52 +17578,6 @@
       },
       "url_aliases": [
         "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineer-II--Distributed---Scalable-Systems-_2636655-1"
-      ]
-    },
-    "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {
-      "age": "Today",
-      "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
-      "canonical_id": "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095",
-      "category": "Software Engineering",
-      "company": "LiveRamp",
-      "job_type": "Internship",
-      "location": "San Francisco, CA",
-      "position": "Co-Op, DevOps Engineer",
-      "posted": "2026-08-20",
-      "salary": null,
-      "season": "Co-op",
-      "sources": {
-        "applyguy_internships": {
-          "age": "13d",
-          "application_url": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
-          "category": "Software Engineering",
-          "company": "LiveRamp",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Co-Op, DevOps Engineer",
-          "posted": "2026-08-20",
-          "salary": null,
-          "season": "Co-op",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "91a0f288-3460-4ea3-9c2e-a975de546b10",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "13d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "91a0f288-3460-4ea3-9c2e-a975de546b10",
-            "listingUrl": "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
-            "posted": "2026-08-20",
-            "season": "Co-op",
-            "url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
       ]
     },
     "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--bs---summer-2027_2604461": {
