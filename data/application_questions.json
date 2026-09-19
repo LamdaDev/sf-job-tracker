@@ -861,6 +861,27 @@
       "scanned_at": "2026-09-15T18:46:27Z",
       "status": "unavailable"
     },
+    "ashby:sydecar:79847304-2735-47ce-ae04-237c8957982a": {
+      "application_url": "https://jobs.ashbyhq.com/sydecar/79847304-2735-47ce-ae04-237c8957982a",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:sydecar:79847304-2735-47ce-ae04-237c8957982a",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-19T17:04:08Z",
+      "http_status": 200,
+      "issue_number": 108,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-19T17:04:08Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-19T17:04:08Z",
+      "status": "unavailable"
+    },
     "ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6": {
       "application_url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
       "attempt_count": 1,
@@ -23804,6 +23825,27 @@
       "scanned_at": "2026-09-16T11:06:22Z",
       "status": "unavailable"
     },
+    "workday:nvidia.wd5.myworkdayjobs.com:software-qa-engineer--new-college-grad-2026_jr2025900": {
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-QA-Engineer--New-College-Grad-2026_JR2025900",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:nvidia.wd5.myworkdayjobs.com:software-qa-engineer--new-college-grad-2026_jr2025900",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-19T17:04:09Z",
+      "http_status": 200,
+      "issue_number": 108,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-19T17:04:09Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-19T17:04:09Z",
+      "status": "unavailable"
+    },
     "workday:oshkoshcorporation.wd5.myworkdayjobs.com:software-engineering-intern_r49493": {
       "application_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
       "attempt_count": 1,
@@ -24243,6 +24285,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-17T18:00:57Z",
+      "status": "unavailable"
+    },
+    "workday:visa.wd5.myworkdayjobs.com:software-engineer--new-college-grad---2027-foster-city--ca_ref088543w": {
+      "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:visa.wd5.myworkdayjobs.com:software-engineer--new-college-grad---2027-foster-city--ca_ref088543w",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-19T17:04:12Z",
+      "http_status": 200,
+      "issue_number": 108,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-19T17:04:12Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-19T17:04:12Z",
       "status": "unavailable"
     },
     "workday:visa.wd5.myworkdayjobs.com:software-engineer--new-college-grad---2027-foster-city--ca_ref088543w-1": {

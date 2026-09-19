@@ -31410,7 +31410,7 @@
     "0b1892cdb44723b81160610b92c17dc0342f2f8858151bde20be7b8f13df23f9": {
       "application_scan_eligible": true,
       "created_at": "2026-09-19T17:04:04Z",
-      "issue_number": null,
+      "issue_number": 108,
       "job_ids": [
         "ashby:sydecar:79847304-2735-47ce-ae04-237c8957982a",
         "workday:nvidia.wd5.myworkdayjobs.com:software-qa-engineer--new-college-grad-2026_jr2025900",
@@ -31421,7 +31421,7 @@
         "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-QA-Engineer--New-College-Grad-2026_JR2025900",
         "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "0c259341438dd0d4c9ab3bf07768b32d26a4a5ab6652d24c5e5114527dd3c691": {
       "application_scan_eligible": true,
