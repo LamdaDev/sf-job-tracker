@@ -8094,7 +8094,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -14919,45 +14919,6 @@
       },
       "url_aliases": [
         "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer"
-      ]
-    },
-    "url:https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?ref=Simplify": {
-      "age": "0d",
-      "application_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify",
-      "canonical_id": "url:https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?ref=Simplify",
-      "category": "Unknown",
-      "company": "Wells Fargo",
-      "job_type": "Internship",
-      "location": "Concord, CA | SF | San Leandro, CA",
-      "position": "Software Engineering Intern - Early Careers - Software Engineering",
-      "posted": null,
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "simplify_summer_2027": {
-          "age": "0d",
-          "application_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
-          "company": "Wells Fargo",
-          "job_type": "Internship",
-          "location": "Concord, CA | SF | San Leandro, CA",
-          "position": "Software Engineering Intern - Early Careers - Software Engineering",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "14f47481-e076-4f40-8d28-deaccaa6542d",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/14f47481-e076-4f40-8d28-deaccaa6542d?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/14f47481-e076-4f40-8d28-deaccaa6542d?utm_source=GHList"
-        }
-      },
-      "url_aliases": [
-        "https://simplify.jobs/p/14f47481-e076-4f40-8d28-deaccaa6542d?utm_source=GHList",
-        "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify"
       ]
     },
     "url:https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315": {
