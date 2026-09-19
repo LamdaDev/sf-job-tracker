@@ -20200,6 +20200,27 @@
       "scanned_at": "2026-09-01T17:42:57Z",
       "status": "unavailable"
     },
+    "url:https://careers.amd.com/jobs/92636?icims=1&ref=Simplify": {
+      "application_url": "https://careers.amd.com/jobs/92636?icims=1&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.amd.com/jobs/92636?icims=1&ref=Simplify",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-19T04:27:26Z",
+      "http_status": 200,
+      "issue_number": 107,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-19T04:27:26Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-19T04:27:26Z",
+      "status": "unavailable"
+    },
     "url:https://careers.roblox.com/jobs/8060254?gh_jid=8060254": {
       "application_url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
       "attempt_count": 2,
@@ -20528,6 +20549,48 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-09-18T00:03:40Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8214519": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8214519",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-19T04:27:28Z",
+      "http_status": 200,
+      "issue_number": 107,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-19T04:27:28Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-19T04:27:28Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8214519&ref=Simplify": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8214519&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8214519&ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-19T04:27:30Z",
+      "http_status": 200,
+      "issue_number": 107,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-19T04:27:30Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-19T04:27:30Z",
       "status": "unavailable"
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
@@ -20957,6 +21020,26 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-09-18T05:38:19Z",
+      "status": "unavailable"
+    },
+    "url:https://study.com/pages/jobApplication.html?gh_jid=5429313008": {
+      "application_url": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://study.com/pages/jobApplication.html?gh_jid=5429313008",
+      "completeness_reason": "Public application page requires authentication or denies access.",
+      "error_message": "PublicFetchError while fetching the public application page.",
+      "error_type": "PublicFetchError",
+      "first_scanned": "2026-09-19T04:27:32Z",
+      "http_status": 403,
+      "issue_number": 107,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-19T04:27:32Z",
+      "metadata": {
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-19T04:27:32Z",
       "status": "unavailable"
     },
     "url:https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer": {
@@ -23068,6 +23151,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-08-20T13:50:57Z",
+      "status": "unavailable"
+    },
+    "workday:bmo.wd3.myworkdayjobs.com:software-developer--winter-2027--internship----4-months_r260027197-3": {
+      "application_url": "https://bmo.wd3.myworkdayjobs.com/campus/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-3",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:bmo.wd3.myworkdayjobs.com:software-developer--winter-2027--internship----4-months_r260027197-3",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-19T04:27:33Z",
+      "http_status": 200,
+      "issue_number": 107,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-19T04:27:33Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-19T04:27:33Z",
       "status": "unavailable"
     },
     "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738": {

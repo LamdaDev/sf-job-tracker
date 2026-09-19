@@ -32387,7 +32387,7 @@
     "ea8268e7a9ab9117415b62a313cd2b7770f21f6fee2821fec6171388de4ec6b0": {
       "application_scan_eligible": true,
       "created_at": "2026-09-19T04:27:22Z",
-      "issue_number": null,
+      "issue_number": 107,
       "job_ids": [
         "url:https://careers.amd.com/jobs/92636?icims=1&ref=Simplify",
         "url:https://careers.withwaymo.com/jobs?gh_jid=8214519",
@@ -32402,7 +32402,7 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8214519&utm_source=Simplify&ref=Simplify",
         "https://study.com/pages/jobApplication.html/?gh_jid=5429313008"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "eb3550188134c58775d9d05059f894a30b1ba8bf0f25ca8a96d34d866f9ac3c9": {
       "application_scan_eligible": true,
