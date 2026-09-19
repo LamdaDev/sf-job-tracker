@@ -24672,14 +24672,14 @@
       ]
     },
     "url:https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003": {
-      "active": true,
+      "active": false,
       "age": "14d",
       "application_url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
       "canonical_id": "url:https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
       "category": "Software Engineering",
       "company": "Zipline",
       "first_seen": "2026-09-03T13:22:45Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-19T20:15:28Z",
       "job_type": "Internship",
       "last_seen": "2026-09-05T16:38:32Z",
       "location": "South San Francisco, CA",
@@ -24689,13 +24689,13 @@
       "season": "Spring 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "14d",
           "application_url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
           "category": "Software Engineering",
           "company": "Zipline",
           "first_seen": "2026-09-03T13:22:45Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-19T20:15:28Z",
           "job_type": "Internship",
           "last_seen": "2026-09-03T13:22:45Z",
           "location": "South San Francisco, CA",

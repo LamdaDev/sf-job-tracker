@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (406)
+## Active Jobs (405)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -139,7 +139,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Lyft | Software Engineer | New Grad | FAANG+ | San Francisco, CA | SpeedyApply | $206k/yr | 2026-09-03T17:39:07Z | 2026-09-03T17:39:07Z | Yes | [Apply](<https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002>) |
 | PayPal | Software Engineer - Cloud Infrastructure and Devops | New Grad | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-03T17:39:07Z | 2026-09-18T18:09:24Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771>) |
 | PayPal | Software Engineer- Cloud Infrastructure and DevOps | New Grad | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-03T17:39:07Z | 2026-09-19T17:04:04Z | Yes | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1>) |
-| Zipline | Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-03T13:22:45Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003>) |
 | Zipline | Software Engineer Intern - Summer 2027 | Internship | Other | South San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-03T13:22:45Z | 2026-09-04T17:27:22Z | Yes | [Apply](<https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003>) |
 | Cisco | Machine Learning Engineer II (Intern) - United States | Internship | Software Engineering | San Francisco California | ApplyGuy | N/A | 2026-09-03T08:42:44Z | 2026-09-03T08:42:44Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683>) |
 | Intel | Software Engineer Intern | Internship | Unknown | Austin, TX \| Santa Clara, CA \| Hillsboro, OR \| Folsom, CA \| Phoenix, AZ | Simplify | N/A | 2026-09-03T08:42:44Z | 2026-09-07T17:38:07Z | Yes | [Apply](<https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834?utm_source=Simplify&ref=Simplify>) |
@@ -415,7 +414,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (149)
+## Historical / Closed or Removed Jobs (150)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -440,6 +439,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Zipline | Enterprise Systems Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | No | [Apply](<https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003>) |
 | Zipline | Enterprise Systems Software Engineer Intern (Summer 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | No | [Apply](<https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003>) |
 | Zipline | Long Range Platform Embedded Firmware Intern (Summer 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | No | [Apply](<https://www.zipline.com/open-roles/7891459003?gh_jid=7891459003>) |
+| Zipline | Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-03T13:22:45Z | 2026-09-05T16:38:32Z | No | [Apply](<https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003>) |
 | Zipline | Software Systems Validation Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-03T13:22:45Z | 2026-09-05T16:38:32Z | No | [Apply](<https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003>) |
 | Zipline | Software Systems Validation Intern (Summer 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | No | [Apply](<https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003>) |
 | Applied Materials | Algorithm Developer I New College Grad- Bachelor's - Santa Clara - CA | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-09-02T17:43:18Z | 2026-09-02T17:43:18Z | No | [Apply](<https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605>) |
