@@ -18314,52 +18314,6 @@
         "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
       ]
     },
-    "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-259943": {
-      "age": "26d",
-      "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
-      "canonical_id": "workday:roberthalf.wd1.myworkdayjobs.com:software-engineer-i_jr-259943",
-      "category": "Unknown",
-      "company": "Roberthalf",
-      "job_type": "New Grad",
-      "location": "San Ramon, CA",
-      "position": "Software Engineer I",
-      "posted": "2026-07-22",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "44d",
-          "application_url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
-          "category": "Unknown",
-          "company": "Roberthalf",
-          "job_type": "New Grad",
-          "location": "San Ramon, CA",
-          "position": "Software Engineer I",
-          "posted": "2026-07-22",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "e1482e27-bed2-405f-b1b5-dea7e6e8439e",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "44d",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-09-04T08:31:04.507Z",
-            "id": "e1482e27-bed2-405f-b1b5-dea7e6e8439e",
-            "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943",
-            "matchKind": "entry_level",
-            "posted": "2026-07-22",
-            "url": "https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943"
-      ]
-    },
     "workday:snapchat.wd1.myworkdayjobs.com:software-engineer--ml-infrastructure_r0046629-1": {
       "age": "1d",
       "application_url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure_R0046629-1",
