@@ -882,6 +882,27 @@
       "scanned_at": "2026-09-19T17:04:08Z",
       "status": "unavailable"
     },
+    "ashby:valency:2bcd9b30-d76b-40ee-afc7-43302ce18fff": {
+      "application_url": "https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:valency:2bcd9b30-d76b-40ee-afc7-43302ce18fff",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-20T18:05:43Z",
+      "http_status": 200,
+      "issue_number": 109,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-20T18:05:43Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-20T18:05:43Z",
+      "status": "unavailable"
+    },
     "ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6": {
       "application_url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
       "attempt_count": 1,
@@ -23174,6 +23195,27 @@
       "scanned_at": "2026-08-20T13:50:57Z",
       "status": "unavailable"
     },
+    "workday:bmo.wd3.myworkdayjobs.com:software-developer--winter-2027--internship----4-months_r260027197-2": {
+      "application_url": "https://bmo.wd3.myworkdayjobs.com/en-US/external/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:bmo.wd3.myworkdayjobs.com:software-developer--winter-2027--internship----4-months_r260027197-2",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-20T18:05:44Z",
+      "http_status": 200,
+      "issue_number": 109,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-20T18:05:44Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-20T18:05:44Z",
+      "status": "unavailable"
+    },
     "workday:bmo.wd3.myworkdayjobs.com:software-developer--winter-2027--internship----4-months_r260027197-3": {
       "application_url": "https://bmo.wd3.myworkdayjobs.com/campus/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-3",
       "attempt_count": 1,
@@ -23634,6 +23676,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-02T17:43:26Z",
+      "status": "unavailable"
+    },
+    "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640361": {
+      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640361",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640361",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-20T18:05:48Z",
+      "http_status": 200,
+      "issue_number": 109,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-20T18:05:48Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-20T18:05:48Z",
       "status": "unavailable"
     },
     "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {

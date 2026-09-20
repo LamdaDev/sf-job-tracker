@@ -33028,7 +33028,7 @@
     "f8529232ffdd0a8d021795d3ae8125b8ad55c6321ca731658086e89ea7e73d9f": {
       "application_scan_eligible": true,
       "created_at": "2026-09-20T18:05:40Z",
-      "issue_number": null,
+      "issue_number": 109,
       "job_ids": [
         "ashby:valency:2bcd9b30-d76b-40ee-afc7-43302ce18fff",
         "workday:bmo.wd3.myworkdayjobs.com:software-developer--winter-2027--internship----4-months_r260027197-2",
@@ -33039,7 +33039,7 @@
         "https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff",
         "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640361"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "fae9cd81c98ecf58d471ea7fcf0bed40167c1786a4b2e7e6d1ab2be6757ae08f": {
       "application_scan_eligible": true,
