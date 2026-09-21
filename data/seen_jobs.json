@@ -21512,6 +21512,114 @@
         "https://simplify.jobs/p/19c7b543-2d89-4211-ad23-5362ec281971?utm_source=GHList"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8221795": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8221795",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-21T23:55:11Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-21T23:55:11Z",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+      "posted": "2026-09-21",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-21T23:55:11Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-21T23:55:11Z",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+          "posted": "2026-09-21",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7373f538-fbbb-45e0-9fa7-a8e5b6393d00",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-21T23:46:05.388Z",
+            "id": "7373f538-fbbb-45e0-9fa7-a8e5b6393d00",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+            "posted": "2026-09-21",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=7373f538-fbbb-45e0-9fa7-a8e5b6393d00&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=7373f538-fbbb-45e0-9fa7-a8e5b6393d00&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=7373f538-fbbb-45e0-9fa7-a8e5b6393d00&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8221795"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8221851": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8221851",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-21T23:55:11Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-21T23:55:11Z",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+      "posted": "2026-09-21",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-21T23:55:11Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-21T23:55:11Z",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+          "posted": "2026-09-21",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "5aa2ecfe-6ab0-4760-a54e-f666f2f31fe6",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-21T23:46:05.388Z",
+            "id": "5aa2ecfe-6ab0-4760-a54e-f666f2f31fe6",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+            "posted": "2026-09-21",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=5aa2ecfe-6ab0-4760-a54e-f666f2f31fe6&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=5aa2ecfe-6ab0-4760-a54e-f666f2f31fe6&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=5aa2ecfe-6ab0-4760-a54e-f666f2f31fe6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8221851"
+      ]
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "active": true,
       "age": "0d",
@@ -27333,6 +27441,53 @@
         "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943"
       ]
     },
+    "workday:generalmotors.wd5.myworkdayjobs.com:xmlname-2027-summer-intern---digital-product--software-engineering_jr-202620546": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify",
+      "canonical_id": "workday:generalmotors.wd5.myworkdayjobs.com:xmlname-2027-summer-intern---digital-product--software-engineering_jr-202620546",
+      "category": "Unknown",
+      "company": "General Motors",
+      "first_seen": "2026-09-21T23:55:11Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-21T23:55:11Z",
+      "location": "Austin, TX | Milford, MI | Mountain View, CA | Warren, MI",
+      "position": "Software Engineer Intern - Digital Product: Software Engineering",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "General Motors",
+          "first_seen": "2026-09-21T23:55:11Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-21T23:55:11Z",
+          "location": "Austin, TX | Milford, MI | Mountain View, CA | Warren, MI",
+          "position": "Software Engineer Intern - Digital Product: Software Engineering",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d?utm_source=GHList"
+      ]
+    },
     "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772": {
       "active": true,
       "age": "Today",
@@ -31895,6 +32050,22 @@
         "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
       ],
       "status": "sent"
+    },
+    "3e56b8340f42fb88ea31831f68b90f8c9b7b53f42159312b31fe397a2b618bd1": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-21T23:55:11Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8221795",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8221851",
+        "workday:generalmotors.wd5.myworkdayjobs.com:xmlname-2027-summer-intern---digital-product--software-engineering_jr-202620546"
+      ],
+      "job_urls": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+        "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+        "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "3f0963d446447a33ed3e72b8721fea03b9cb541cffbd22388f1701f4922c7839": {
       "application_scan_eligible": true,

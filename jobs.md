@@ -4,10 +4,13 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (407)
+## Active Jobs (410)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| General Motors | Software Engineer Intern - Digital Product: Software Engineering | Internship | Unknown | Austin, TX \| Milford, MI \| Mountain View, CA \| Warren, MI | Simplify | N/A | 2026-09-21T23:55:11Z | 2026-09-21T23:55:11Z | Yes | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify>) |
+| Waymo | 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-21T23:55:11Z | 2026-09-21T23:55:11Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8221795>) |
+| Waymo | 2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-21T23:55:11Z | 2026-09-21T23:55:11Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8221851>) |
 | Visa | 2027 Sophomore Internship Program - Software Engineer Intern - Foster City | Internship | Other | Foster City, CA | SpeedyApply | N/A | 2026-09-21T20:52:32Z | 2026-09-21T20:52:32Z | Yes | [Apply](<https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W>) |
 | Visa | Software Engineer - Intern - Foster City 2027 | Internship | Other | Foster City, CA | SpeedyApply | N/A | 2026-09-21T20:52:32Z | 2026-09-21T20:52:32Z | Yes | [Apply](<https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W>) |
 | Bank of Montreal | Software Developer - Winter 2027 - Internship - 4 months | Internship | Other | San Ramon, CA | SpeedyApply | N/A | 2026-09-20T18:05:40Z | 2026-09-20T18:05:40Z | Yes | [Apply](<https://bmo.wd3.myworkdayjobs.com/en-US/external/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-2>) |
