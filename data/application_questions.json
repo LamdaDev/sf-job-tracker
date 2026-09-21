@@ -24329,6 +24329,27 @@
       "scanned_at": "2026-09-08T23:56:01Z",
       "status": "unavailable"
     },
+    "workday:visa.wd5.myworkdayjobs.com:software-engineer--intern---foster-city-2027_ref088587w": {
+      "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:visa.wd5.myworkdayjobs.com:software-engineer--intern---foster-city-2027_ref088587w",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-21T20:52:37Z",
+      "http_status": 200,
+      "issue_number": 110,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-21T20:52:37Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-21T20:52:37Z",
+      "status": "unavailable"
+    },
     "workday:visa.wd5.myworkdayjobs.com:software-engineer--intern---foster-city-2027_ref088587w-1": {
       "application_url": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
       "attempt_count": 1,
@@ -24390,6 +24411,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-17T18:00:59Z",
+      "status": "unavailable"
+    },
+    "workday:visa.wd5.myworkdayjobs.com:xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w": {
+      "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:visa.wd5.myworkdayjobs.com:xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-21T20:52:42Z",
+      "http_status": 200,
+      "issue_number": 110,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-21T20:52:42Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-21T20:52:42Z",
       "status": "unavailable"
     },
     "workday:visa.wd5.myworkdayjobs.com:xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w-1": {

@@ -32840,7 +32840,7 @@
     "d598899f924b68c1d46f4acba48ec1e1fa625324de4e2f2f0388a20819cf7acd": {
       "application_scan_eligible": true,
       "created_at": "2026-09-21T20:52:32Z",
-      "issue_number": null,
+      "issue_number": 110,
       "job_ids": [
         "workday:visa.wd5.myworkdayjobs.com:software-engineer--intern---foster-city-2027_ref088587w",
         "workday:visa.wd5.myworkdayjobs.com:xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w"
@@ -32849,7 +32849,7 @@
         "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W",
         "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "d837566c0e62f0c80d351348e1d5acfc0affc8438ad9aa555320b41265f51041": {
       "application_scan_eligible": true,
