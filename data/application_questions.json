@@ -20635,6 +20635,48 @@
       "scanned_at": "2026-09-19T04:27:30Z",
       "status": "unavailable"
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8221795": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8221795",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-21T23:55:16Z",
+      "http_status": 200,
+      "issue_number": 111,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-21T23:55:16Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-21T23:55:16Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8221851": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8221851",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-21T23:55:17Z",
+      "http_status": 200,
+      "issue_number": 111,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-21T23:55:17Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-21T23:55:17Z",
+      "status": "unavailable"
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
       "attempt_count": 1,
@@ -23445,6 +23487,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-10T03:46:16Z",
+      "status": "unavailable"
+    },
+    "workday:generalmotors.wd5.myworkdayjobs.com:xmlname-2027-summer-intern---digital-product--software-engineering_jr-202620546": {
+      "application_url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:generalmotors.wd5.myworkdayjobs.com:xmlname-2027-summer-intern---digital-product--software-engineering_jr-202620546",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-21T23:55:20Z",
+      "http_status": 200,
+      "issue_number": 111,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-21T23:55:20Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-21T23:55:20Z",
       "status": "unavailable"
     },
     "workday:gilead.wd1.myworkdayjobs.com:intern---development---devops-business-strategy-leader_r0054772": {
