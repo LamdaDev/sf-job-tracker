@@ -32007,14 +32007,14 @@
     "0a6a3f337c06791885e4392da8cb33c88f9a3d949bc553579a165877998f3eef": {
       "application_scan_eligible": true,
       "created_at": "2026-09-22T18:36:26Z",
-      "issue_number": null,
+      "issue_number": 114,
       "job_ids": [
         "ashby:cowboyspace:56d1d7e4-fa7e-4c25-aa8b-6828447fc64a"
       ],
       "job_urls": [
         "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "0b1892cdb44723b81160610b92c17dc0342f2f8858151bde20be7b8f13df23f9": {
       "application_scan_eligible": true,

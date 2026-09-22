@@ -357,6 +357,27 @@
       "scanned_at": "2026-09-16T16:26:08Z",
       "status": "unavailable"
     },
+    "ashby:cowboyspace:56d1d7e4-fa7e-4c25-aa8b-6828447fc64a": {
+      "application_url": "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:cowboyspace:56d1d7e4-fa7e-4c25-aa8b-6828447fc64a",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-22T18:36:30Z",
+      "http_status": 200,
+      "issue_number": 114,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-22T18:36:30Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-22T18:36:30Z",
+      "status": "unavailable"
+    },
     "ashby:crusoe:9a5223c4-9eb7-4fdb-b97c-f43525df35ed": {
       "application_url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
       "attempt_count": 1,
