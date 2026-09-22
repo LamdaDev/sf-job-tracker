@@ -2554,7 +2554,7 @@
       "first_seen": "2026-09-10T08:46:50Z",
       "inactive_at": null,
       "job_type": "New Grad",
-      "last_seen": "2026-09-10T08:46:50Z",
+      "last_seen": "2026-09-22T03:58:59Z",
       "location": "San Francisco, CA",
       "position": "Software Engineer, New Grad 2027",
       "posted": "2026-09-08",
@@ -2563,14 +2563,14 @@
       "sources": {
         "applyguy_new_grad": {
           "active": true,
-          "age": "2d",
+          "age": "14d",
           "application_url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
           "category": "Unknown",
-          "company": "Cursor",
+          "company": "x.ai",
           "first_seen": "2026-09-10T08:46:50Z",
           "inactive_at": null,
           "job_type": "New Grad",
-          "last_seen": "2026-09-10T08:46:50Z",
+          "last_seen": "2026-09-22T03:58:59Z",
           "location": "San Francisco, CA",
           "position": "Software Engineer, New Grad 2027",
           "posted": "2026-09-08",
@@ -2581,20 +2581,21 @@
           "source_job_id": "37baf769-069f-40b0-ba97-9a6eb7bc133b",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "2d",
+            "age": "14d",
             "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-10T08:46:19.515Z",
+            "feedUpdatedAt": "2026-09-22T03:46:12.306Z",
             "id": "37baf769-069f-40b0-ba97-9a6eb7bc133b",
             "listingUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
             "matchKind": "explicit",
             "posted": "2026-09-08",
-            "url": "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+            "url": "https://applyguy.ai/jobs?company=x.ai&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
-          "source_url": "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          "source_url": "https://applyguy.ai/jobs?company=x.ai&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://applyguy.ai/jobs?company=x.ai&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
       ]
     },
@@ -13538,7 +13539,7 @@
       "first_seen": "2026-08-17T17:45:31Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-21T16:51:42Z",
+      "last_seen": "2026-09-22T03:58:59Z",
       "location": "San Jose, CA",
       "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
       "posted": null,
@@ -13549,12 +13550,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-21T16:51:42Z",
+          "last_seen": "2026-09-22T03:58:59Z",
           "location": "San Jose, CA",
           "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
           "posted": null,
@@ -13867,7 +13868,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-21T16:51:42Z",
+      "last_seen": "2026-09-22T03:58:59Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -13878,12 +13879,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-21T16:51:42Z",
+          "last_seen": "2026-09-22T03:58:59Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -21564,6 +21565,53 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Waymo&job=7373f538-fbbb-45e0-9fa7-a8e5b6393d00&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://careers.withwaymo.com/jobs?gh_jid=8221795"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8221795&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8221795&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "first_seen": "2026-09-22T03:58:59Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-22T03:58:59Z",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer Intern - Simulation Evaluation ML Model 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "first_seen": "2026-09-22T03:58:59Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-22T03:58:59Z",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer Intern - Simulation Evaluation ML Model 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "e88effb2-7748-41ae-9be2-407af5870c56",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/e88effb2-7748-41ae-9be2-407af5870c56?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/e88effb2-7748-41ae-9be2-407af5870c56?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/e88effb2-7748-41ae-9be2-407af5870c56?utm_source=GHList"
       ]
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8221851": {
@@ -32000,6 +32048,18 @@
         "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer"
       ],
       "status": "sent"
+    },
+    "30768834a84322c53b6c0ffbe3a1ced388eea2284faa160efac47014709a449e": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-22T03:58:59Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8221795&ref=Simplify"
+      ],
+      "job_urls": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify"
+      ],
+      "status": "pending"
     },
     "3284032afcebb67d25bd6724d348d97218c40ab421db979b7bcc365fa1a86ab3": {
       "application_scan_eligible": true,

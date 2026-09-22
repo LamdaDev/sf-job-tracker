@@ -1457,10 +1457,10 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "age": "2d",
+          "age": "14d",
           "application_url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
           "category": "Unknown",
-          "company": "Cursor",
+          "company": "x.ai",
           "job_type": "New Grad",
           "location": "San Francisco, CA",
           "position": "Software Engineer, New Grad 2027",
@@ -1472,20 +1472,21 @@
           "source_job_id": "37baf769-069f-40b0-ba97-9a6eb7bc133b",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "2d",
+            "age": "14d",
             "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-10T08:46:19.515Z",
+            "feedUpdatedAt": "2026-09-22T03:46:12.306Z",
             "id": "37baf769-069f-40b0-ba97-9a6eb7bc133b",
             "listingUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
             "matchKind": "explicit",
             "posted": "2026-09-08",
-            "url": "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+            "url": "https://applyguy.ai/jobs?company=x.ai&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
-          "source_url": "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          "source_url": "https://applyguy.ai/jobs?company=x.ai&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://applyguy.ai/jobs?company=x.ai&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
       ]
     },
@@ -8200,7 +8201,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -8395,7 +8396,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -14322,6 +14323,45 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Waymo&job=7373f538-fbbb-45e0-9fa7-a8e5b6393d00&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://careers.withwaymo.com/jobs?gh_jid=8221795"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8221795&ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8221795&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer Intern - Simulation Evaluation ML Model 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer Intern - Simulation Evaluation ML Model 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "e88effb2-7748-41ae-9be2-407af5870c56",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/e88effb2-7748-41ae-9be2-407af5870c56?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/e88effb2-7748-41ae-9be2-407af5870c56?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/e88effb2-7748-41ae-9be2-407af5870c56?utm_source=GHList"
       ]
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8221851": {
