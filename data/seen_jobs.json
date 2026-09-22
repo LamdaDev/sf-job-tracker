@@ -10329,6 +10329,60 @@
         "https://job-boards.greenhouse.io/singlestore/jobs/8205427"
       ]
     },
+    "greenhouse:singlestore:8221924": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
+      "canonical_id": "greenhouse:singlestore:8221924",
+      "category": "Software Engineering",
+      "company": "SingleStore",
+      "first_seen": "2026-09-22T09:14:54Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-22T09:14:54Z",
+      "location": "San Francisco, CA",
+      "position": "MIT- Software Engineer Intern | Engine",
+      "posted": "2026-09-21",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
+          "category": "Software Engineering",
+          "company": "SingleStore",
+          "first_seen": "2026-09-22T09:14:54Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-22T09:14:54Z",
+          "location": "San Francisco, CA",
+          "position": "MIT- Software Engineer Intern | Engine",
+          "posted": "2026-09-21",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "c5706040-fcd3-407d-be0b-ca6791187456",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-22T09:00:34.296Z",
+            "id": "c5706040-fcd3-407d-be0b-ca6791187456",
+            "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
+            "posted": "2026-09-21",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=SingleStore&job=c5706040-fcd3-407d-be0b-ca6791187456&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=SingleStore&job=c5706040-fcd3-407d-be0b-ca6791187456&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=SingleStore&job=c5706040-fcd3-407d-be0b-ca6791187456&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/singlestore/jobs/8221924"
+      ]
+    },
     "greenhouse:skhynixmemorysolutionsamericainc:4342038009": {
       "active": false,
       "age": "17d",
@@ -13539,7 +13593,7 @@
       "first_seen": "2026-08-17T17:45:31Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-22T03:58:59Z",
+      "last_seen": "2026-09-22T09:14:54Z",
       "location": "San Jose, CA",
       "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
       "posted": null,
@@ -13550,12 +13604,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-22T03:58:59Z",
+          "last_seen": "2026-09-22T09:14:54Z",
           "location": "San Jose, CA",
           "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
           "posted": null,
@@ -14421,13 +14475,13 @@
       "season": "Summer 2027",
       "sources": {
         "simplify_summer_2027": {
-          "active": true,
+          "active": false,
           "age": "14d",
           "application_url": "https://lifeattiktok.com/search/7667933770819897605?utm_source=Simplify&ref=Simplify",
           "category": "Unknown",
           "company": "TikTok",
           "first_seen": "2026-08-17T17:45:31Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-22T09:14:54Z",
           "job_type": "Internship",
           "last_seen": "2026-08-17T17:45:31Z",
           "location": "San Jose, CA",
@@ -21511,6 +21565,60 @@
       "url_aliases": [
         "https://careers.withwaymo.com/jobs?gh_jid=8214519&utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/19c7b543-2d89-4211-ad23-5362ec281971?utm_source=GHList"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8221198": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8221198",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-22T09:14:54Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-22T09:14:54Z",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+      "posted": "2026-09-21",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-22T09:14:54Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-22T09:14:54Z",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+          "posted": "2026-09-21",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "167e4593-b80e-4c9b-aac2-0d384329fa09",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-22T09:00:34.296Z",
+            "id": "167e4593-b80e-4c9b-aac2-0d384329fa09",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+            "posted": "2026-09-21",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=167e4593-b80e-4c9b-aac2-0d384329fa09&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=167e4593-b80e-4c9b-aac2-0d384329fa09&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=167e4593-b80e-4c9b-aac2-0d384329fa09&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8221198"
       ]
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8221795": {
@@ -32180,6 +32288,20 @@
         "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify"
       ],
       "status": "sent"
+    },
+    "4514ab2aae1a9ea1e89db066d3885b009c531a67620b3678df09e26d41d5eec3": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-22T09:14:54Z",
+      "issue_number": null,
+      "job_ids": [
+        "greenhouse:singlestore:8221924",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8221198"
+      ],
+      "job_urls": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+        "https://job-boards.greenhouse.io/singlestore/jobs/8221924"
+      ],
+      "status": "pending"
     },
     "46752b60e806bce4e18d5f27afa98ae2fae688678fd2423afc7b642bc8c1add5": {
       "application_scan_eligible": true,

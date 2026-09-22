@@ -4,10 +4,12 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (411)
+## Active Jobs (413)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| SingleStore | MIT- Software Engineer Intern \| Engine | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-22T09:14:54Z | 2026-09-22T09:14:54Z | Yes | [Apply](<https://job-boards.greenhouse.io/singlestore/jobs/8221924>) |
+| Waymo | 2027 Summer Intern, BS/MS, Embedded, Software Engineer | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-22T09:14:54Z | 2026-09-22T09:14:54Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8221198>) |
 | Waymo | Software Engineer Intern - Simulation Evaluation ML Model 🎓 | Internship | FAANG+ | Mountain View, CA | Simplify | N/A | 2026-09-22T03:58:59Z | 2026-09-22T03:58:59Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8221795&utm_source=Simplify&ref=Simplify>) |
 | General Motors | Software Engineer Intern - Digital Product: Software Engineering | Internship | Unknown | Austin, TX \| Milford, MI \| Mountain View, CA \| Warren, MI | Simplify | N/A | 2026-09-21T23:55:11Z | 2026-09-21T23:55:11Z | Yes | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546?utm_source=Simplify&ref=Simplify>) |
 | Waymo | 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-21T23:55:11Z | 2026-09-21T23:55:11Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8221795>) |
@@ -242,7 +244,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Flow Engineering | Software Engineer, Early Career | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T18:42:34Z | 2026-08-17T18:42:34Z | Yes | [Apply](<https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5>) |
 | Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | New Grad | Unknown | Cupertino, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs>) |
 | Atoms | Machine Learning PhD Software Engineer Intern 🎓 | Internship | Unknown | Seattle, WA \| LA \| NYC \| Mountain View, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/cssmerge/jobs/8693034002?utm_source=Simplify&ref=Simplify>) |
-| ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-09-22T03:58:59Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify>) |
+| ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-09-22T09:14:54Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify>) |
 | ByteDance | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7668464504736876853/detail?utm_source=Simplify&ref=Simplify>) |
 | ByteDance | Network Software Engineer Intern - Network Observation | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7670772641439041797/detail?utm_source=Simplify&ref=Simplify>) |
 | ByteDance | Network Software Engineer Intern - Network Switch | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7670778018960542005/detail?utm_source=Simplify&ref=Simplify>) |

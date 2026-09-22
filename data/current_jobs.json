@@ -6113,6 +6113,52 @@
         "https://job-boards.greenhouse.io/singlestore/jobs/8205427"
       ]
     },
+    "greenhouse:singlestore:8221924": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
+      "canonical_id": "greenhouse:singlestore:8221924",
+      "category": "Software Engineering",
+      "company": "SingleStore",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "MIT- Software Engineer Intern | Engine",
+      "posted": "2026-09-21",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
+          "category": "Software Engineering",
+          "company": "SingleStore",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "MIT- Software Engineer Intern | Engine",
+          "posted": "2026-09-21",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "c5706040-fcd3-407d-be0b-ca6791187456",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-22T09:00:34.296Z",
+            "id": "c5706040-fcd3-407d-be0b-ca6791187456",
+            "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
+            "posted": "2026-09-21",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=SingleStore&job=c5706040-fcd3-407d-be0b-ca6791187456&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=SingleStore&job=c5706040-fcd3-407d-be0b-ca6791187456&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=SingleStore&job=c5706040-fcd3-407d-be0b-ca6791187456&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/singlestore/jobs/8221924"
+      ]
+    },
     "greenhouse:skhynixmemorysolutionsamericainc:4387708009": {
       "age": "2d",
       "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009",
@@ -8201,7 +8247,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -8842,26 +8888,6 @@
       "salary": "$60/hr",
       "season": "Summer 2027",
       "sources": {
-        "simplify_summer_2027": {
-          "age": "14d",
-          "application_url": "https://lifeattiktok.com/search/7667933770819897605?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
-          "company": "TikTok",
-          "job_type": "Internship",
-          "location": "San Jose, CA",
-          "position": "Backend Software Engineer Intern",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "bf3fb2af-42dc-4e27-8aad-259ae8c9dbae",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/bf3fb2af-42dc-4e27-8aad-259ae8c9dbae?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/bf3fb2af-42dc-4e27-8aad-259ae8c9dbae?utm_source=GHList"
-        },
         "speedyapply_internships": {
           "age": "18d",
           "application_url": "https://lifeattiktok.com/search/7667933770819897605",
@@ -14277,6 +14303,52 @@
       "url_aliases": [
         "https://careers.withwaymo.com/jobs?gh_jid=8214519&utm_source=Simplify&ref=Simplify",
         "https://simplify.jobs/p/19c7b543-2d89-4211-ad23-5362ec281971?utm_source=GHList"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8221198": {
+      "age": "1d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8221198",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+      "posted": "2026-09-21",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+          "posted": "2026-09-21",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "167e4593-b80e-4c9b-aac2-0d384329fa09",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-22T09:00:34.296Z",
+            "id": "167e4593-b80e-4c9b-aac2-0d384329fa09",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+            "posted": "2026-09-21",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=167e4593-b80e-4c9b-aac2-0d384329fa09&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=167e4593-b80e-4c9b-aac2-0d384329fa09&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=167e4593-b80e-4c9b-aac2-0d384329fa09&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8221198"
       ]
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8221795": {
