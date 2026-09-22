@@ -13251,6 +13251,168 @@
         "https://ats.rippling.com/lyte/jobs/13e9e743-b6bd-4e76-a4ce-27d4dc61c73e"
       ]
     },
+    "rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+      "canonical_id": "rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba",
+      "category": "Software Engineering",
+      "company": "Rippling",
+      "first_seen": "2026-09-22T21:52:33Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-22T21:52:33Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Intern - Backend Focused - Summer 2027",
+      "posted": "2026-09-22",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+          "category": "Software Engineering",
+          "company": "Rippling",
+          "first_seen": "2026-09-22T21:52:33Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-22T21:52:33Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Intern - Backend Focused - Summer 2027",
+          "posted": "2026-09-22",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "4dac149f-2ed9-432a-b4cc-989019e91939",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-22T21:45:36.996Z",
+            "id": "4dac149f-2ed9-432a-b4cc-989019e91939",
+            "listingUrl": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+            "posted": "2026-09-22",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Rippling&job=4dac149f-2ed9-432a-b4cc-989019e91939&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Rippling&job=4dac149f-2ed9-432a-b4cc-989019e91939&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Rippling&job=4dac149f-2ed9-432a-b4cc-989019e91939&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"
+      ]
+    },
+    "rippling:rippling:f64b6158-9534-4bab-9457-45556166b262": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+      "canonical_id": "rippling:rippling:f64b6158-9534-4bab-9457-45556166b262",
+      "category": "Software Engineering",
+      "company": "Rippling",
+      "first_seen": "2026-09-22T21:52:33Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-22T21:52:33Z",
+      "location": "San Francisco, CA",
+      "position": "Full Stack Software Engineer Intern - Summer 2027",
+      "posted": "2026-09-22",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+          "category": "Software Engineering",
+          "company": "Rippling",
+          "first_seen": "2026-09-22T21:52:33Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-22T21:52:33Z",
+          "location": "San Francisco, CA",
+          "position": "Full Stack Software Engineer Intern - Summer 2027",
+          "posted": "2026-09-22",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "f62f3c58-b9d0-4c77-b550-70c754d1f5cf",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-22T21:45:36.996Z",
+            "id": "f62f3c58-b9d0-4c77-b550-70c754d1f5cf",
+            "listingUrl": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+            "posted": "2026-09-22",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Rippling&job=f62f3c58-b9d0-4c77-b550-70c754d1f5cf&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Rippling&job=f62f3c58-b9d0-4c77-b550-70c754d1f5cf&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Rippling&job=f62f3c58-b9d0-4c77-b550-70c754d1f5cf&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"
+      ]
+    },
+    "rippling:rippling:f9de04c3-e2c5-41f9-8e46-a0684707f89d": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+      "canonical_id": "rippling:rippling:f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+      "category": "Software Engineering",
+      "company": "Rippling",
+      "first_seen": "2026-09-22T21:52:33Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-22T21:52:33Z",
+      "location": "San Francisco, CA",
+      "position": "Machine Learning Software Engineer Intern - Summer 2027",
+      "posted": "2026-09-22",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+          "category": "Software Engineering",
+          "company": "Rippling",
+          "first_seen": "2026-09-22T21:52:33Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-22T21:52:33Z",
+          "location": "San Francisco, CA",
+          "position": "Machine Learning Software Engineer Intern - Summer 2027",
+          "posted": "2026-09-22",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "30ffdee8-bb38-48f1-bd23-e75583496d15",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-22T21:45:36.996Z",
+            "id": "30ffdee8-bb38-48f1-bd23-e75583496d15",
+            "listingUrl": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+            "posted": "2026-09-22",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Rippling&job=30ffdee8-bb38-48f1-bd23-e75583496d15&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Rippling&job=30ffdee8-bb38-48f1-bd23-e75583496d15&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Rippling&job=30ffdee8-bb38-48f1-bd23-e75583496d15&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d"
+      ]
+    },
     "tiktok:jobs.bytedance.com:7667377525182662965": {
       "active": true,
       "age": "14d",
@@ -27292,14 +27454,14 @@
       ]
     },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2024510": {
-      "active": true,
+      "active": false,
       "age": "Today",
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
       "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2024510",
       "category": "Software Engineering",
       "company": "Cisco",
       "first_seen": "2026-09-15T04:01:22Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-22T21:52:33Z",
       "job_type": "Internship",
       "last_seen": "2026-09-15T04:01:22Z",
       "location": "San Jose California",
@@ -27309,13 +27471,13 @@
       "season": "Not specified",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "Today",
           "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
           "category": "Software Engineering",
           "company": "Cisco",
           "first_seen": "2026-09-15T04:01:22Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-22T21:52:33Z",
           "job_type": "Internship",
           "last_seen": "2026-09-15T04:01:22Z",
           "location": "San Jose California",
@@ -27343,6 +27505,168 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Cisco&job=b31c5a3d-9a51-453c-b4d4-1d4ff5b62e13&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510"
+      ]
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2026306": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2026306",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "first_seen": "2026-09-22T21:52:33Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-22T21:52:33Z",
+      "location": "San Jose California",
+      "position": "Software Engineer Data & AI I (Intern) – United States",
+      "posted": "2026-09-21",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306",
+          "category": "Software Engineering",
+          "company": "Cisco",
+          "first_seen": "2026-09-22T21:52:33Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-22T21:52:33Z",
+          "location": "San Jose California",
+          "position": "Software Engineer Data & AI I (Intern) – United States",
+          "posted": "2026-09-21",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b758e696-818d-4195-ba56-dde68fa12558",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-22T21:45:36.996Z",
+            "id": "b758e696-818d-4195-ba56-dde68fa12558",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306",
+            "posted": "2026-09-21",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=b758e696-818d-4195-ba56-dde68fa12558&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=b758e696-818d-4195-ba56-dde68fa12558&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=b758e696-818d-4195-ba56-dde68fa12558&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306"
+      ]
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-i--intern----united-states_2025926": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-i--intern----united-states_2025926",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "first_seen": "2026-09-22T21:52:33Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-22T21:52:33Z",
+      "location": "San Jose California",
+      "position": "Software Engineer Embedded Systems I (Intern) – United States",
+      "posted": "2026-09-21",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
+          "category": "Software Engineering",
+          "company": "Cisco",
+          "first_seen": "2026-09-22T21:52:33Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-22T21:52:33Z",
+          "location": "San Jose California",
+          "position": "Software Engineer Embedded Systems I (Intern) – United States",
+          "posted": "2026-09-21",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "5b6a7f59-2303-4d06-b016-02a2da31b347",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-22T21:45:36.996Z",
+            "id": "5b6a7f59-2303-4d06-b016-02a2da31b347",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
+            "posted": "2026-09-21",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=5b6a7f59-2303-4d06-b016-02a2da31b347&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=5b6a7f59-2303-4d06-b016-02a2da31b347&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=5b6a7f59-2303-4d06-b016-02a2da31b347&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926"
+      ]
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-i--intern----united-states_2025924": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-i--intern----united-states_2025924",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "first_seen": "2026-09-22T21:52:33Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-22T21:52:33Z",
+      "location": "San Jose California",
+      "position": "Software Engineer Full Stack / Backend I (Intern) – United States",
+      "posted": "2026-09-21",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
+          "category": "Software Engineering",
+          "company": "Cisco",
+          "first_seen": "2026-09-22T21:52:33Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-22T21:52:33Z",
+          "location": "San Jose California",
+          "position": "Software Engineer Full Stack / Backend I (Intern) – United States",
+          "posted": "2026-09-21",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "93aefc45-c143-438e-bf29-ab47c41c0ac1",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-22T21:45:36.996Z",
+            "id": "93aefc45-c143-438e-bf29-ab47c41c0ac1",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
+            "posted": "2026-09-21",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=93aefc45-c143-438e-bf29-ab47c41c0ac1&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=93aefc45-c143-438e-bf29-ab47c41c0ac1&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=93aefc45-c143-438e-bf29-ab47c41c0ac1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924"
       ]
     },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
@@ -32262,6 +32586,28 @@
         "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1?utm_source=Simplify&ref=Simplify"
       ],
       "status": "sent"
+    },
+    "38643c0b0ab5ffac1361229c87f6ea834892e014ca10888a8b5e17d6410846f9": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-22T21:52:33Z",
+      "issue_number": null,
+      "job_ids": [
+        "rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba",
+        "rippling:rippling:f64b6158-9534-4bab-9457-45556166b262",
+        "rippling:rippling:f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+        "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2026306",
+        "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-i--intern----united-states_2025926",
+        "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-i--intern----united-states_2025924"
+      ],
+      "job_urls": [
+        "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+        "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+        "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924"
+      ],
+      "status": "pending"
     },
     "3cfa5da1d257bad7ad1911eb46c7825bf70e3eaca3e6e8635789bd1232e7387c": {
       "application_scan_eligible": true,

@@ -4,10 +4,16 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (409)
+## Active Jobs (414)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Cisco | Software Engineer Data & AI I (Intern) – United States | Internship | Software Engineering | San Jose California | ApplyGuy | N/A | 2026-09-22T21:52:33Z | 2026-09-22T21:52:33Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306>) |
+| Cisco | Software Engineer Embedded Systems I (Intern) – United States | Internship | Software Engineering | San Jose California | ApplyGuy | N/A | 2026-09-22T21:52:33Z | 2026-09-22T21:52:33Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926>) |
+| Cisco | Software Engineer Full Stack / Backend I (Intern) – United States | Internship | Software Engineering | San Jose California | ApplyGuy | N/A | 2026-09-22T21:52:33Z | 2026-09-22T21:52:33Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924>) |
+| Rippling | Full Stack Software Engineer Intern - Summer 2027 | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-22T21:52:33Z | 2026-09-22T21:52:33Z | Yes | [Apply](<https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262>) |
+| Rippling | Machine Learning Software Engineer Intern - Summer 2027 | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-22T21:52:33Z | 2026-09-22T21:52:33Z | Yes | [Apply](<https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d>) |
+| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-22T21:52:33Z | 2026-09-22T21:52:33Z | Yes | [Apply](<https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba>) |
 | Cowboy Space | Intern - Software Engineering - 2027 | Internship | Other | San Carlos, CA | SpeedyApply | N/A | 2026-09-22T18:36:26Z | 2026-09-22T18:36:26Z | Yes | [Apply](<https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a>) |
 | SingleStore | MIT- Software Engineer Intern \| Engine | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-22T09:14:54Z | 2026-09-22T09:14:54Z | Yes | [Apply](<https://job-boards.greenhouse.io/singlestore/jobs/8221924>) |
 | Waymo | 2027 Summer Intern, BS/MS, Embedded, Software Engineer | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-22T09:14:54Z | 2026-09-22T09:14:54Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8221198>) |
@@ -62,7 +68,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Superhuman | Software Engineer - Early Career | New Grad | Other | San Francisco, CA +1 | SpeedyApply | N/A | 2026-09-15T18:46:16Z | 2026-09-15T18:46:16Z | Yes | [Apply](<https://jobs.ashbyhq.com/superhuman%20platform%20inc/da5e147c-f957-4ba1-9712-1b2dde377cb0>) |
 | Superhuman | Software Engineering Intern - Summer 2027 | Internship | Other | San Francisco, CA +2 | SpeedyApply | N/A | 2026-09-15T18:46:16Z | 2026-09-15T18:46:16Z | Yes | [Apply](<https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0>) |
 | Vagaro | Software Engineer | New Grad | Other | Pleasanton, CA | SpeedyApply | N/A | 2026-09-15T18:46:16Z | 2026-09-15T18:46:16Z | Yes | [Apply](<https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer>) |
-| Cisco | Software Engineer Data & AI I (Intern) - United States | Internship | Software Engineering | San Jose California | ApplyGuy | N/A | 2026-09-15T04:01:22Z | 2026-09-15T04:01:22Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510>) |
 | DoorDash | Software Engineer - Intern - Summer 2027 - US | Internship | FAANG+ | Seattle, WA \| SF \| LA \| NYC \| Sunnyvale, CA | Simplify, SpeedyApply | $55/hr | 2026-09-15T04:01:22Z | 2026-09-15T18:46:16Z | Yes | [Apply](<https://job-boards.greenhouse.io/doordashusa/jobs/8171041>) |
 | Waymo | 2027 Summer Intern - BS/MS - Software Engineering - Commercialization | Internship | Other | San Francisco, CA +1 | ApplyGuy, SpeedyApply | N/A | 2026-09-15T04:01:22Z | 2026-09-15T18:46:16Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8198218>) |
 | Intuit | Mobile Software Engineer Intern - Android | Internship | Unknown | Charlotte, NC \| NYC \| Mountain View, CA \| Atlanta, GA \| San Diego, CA | Simplify | N/A | 2026-09-14T23:43:41Z | 2026-09-14T23:43:41Z | Yes | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552?utm_source=Simplify&ref=Simplify>) |
@@ -418,7 +423,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (158)
+## Historical / Closed or Removed Jobs (159)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -430,6 +435,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | PayPal | Software Engineer | New Grad | Other | San Jose, CA | SpeedyApply | N/A | 2026-09-16T19:53:34Z | 2026-09-16T19:53:34Z | No | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137986>) |
 | PayPal | Software Engineer | New Grad | Other | San Jose, CA | SpeedyApply | N/A | 2026-09-16T19:53:34Z | 2026-09-16T19:53:34Z | No | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138006>) |
 | Clera | Software Engineer - AI & Data Systems | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-09-15T18:46:16Z | 2026-09-15T18:46:16Z | No | [Apply](<https://jobs.ashbyhq.com/clera/356df263-10a2-4d81-8891-afb6a08f7707>) |
+| Cisco | Software Engineer Data & AI I (Intern) - United States | Internship | Software Engineering | San Jose California | ApplyGuy | N/A | 2026-09-15T04:01:22Z | 2026-09-15T04:01:22Z | No | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510>) |
 | Waymo | Software Engineering Intern - Commercialization | Internship | FAANG+ | SF \| Mountain View, CA | Simplify | N/A | 2026-09-14T23:43:41Z | 2026-09-15T14:42:25Z | No | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify>) |
 | Wells Fargo | Software Engineering Intern - Early Careers - Software Engineering | Internship | Unknown | Concord, CA \| SF \| San Leandro, CA | Simplify | N/A | 2026-09-14T20:47:10Z | 2026-09-14T20:47:10Z | No | [Apply](<https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering---California-_R-574294?utm_source=Simplify&ref=Simplify>) |
 | Cadence | Software Engineer  (new college grad Dec 2026) | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-09-12T16:50:25Z | 2026-09-12T16:50:25Z | No | [Apply](<https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738>) |
