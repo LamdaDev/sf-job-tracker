@@ -32590,7 +32590,7 @@
     "38643c0b0ab5ffac1361229c87f6ea834892e014ca10888a8b5e17d6410846f9": {
       "application_scan_eligible": true,
       "created_at": "2026-09-22T21:52:33Z",
-      "issue_number": null,
+      "issue_number": 115,
       "job_ids": [
         "rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba",
         "rippling:rippling:f64b6158-9534-4bab-9457-45556166b262",
@@ -32607,7 +32607,7 @@
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "3cfa5da1d257bad7ad1911eb46c7825bf70e3eaca3e6e8635789bd1232e7387c": {
       "application_scan_eligible": true,

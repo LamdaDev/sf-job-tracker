@@ -19524,6 +19524,105 @@
       "scanned_at": "2026-09-17T13:11:11Z",
       "status": "partial"
     },
+    "rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba": {
+      "application_url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+      "attempt_count": 1,
+      "canonical_job_id": "rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba",
+      "completeness_reason": "Only the visible first step was inspected; later steps may contain more questions.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-22T21:52:38Z",
+      "http_status": 200,
+      "issue_number": 115,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-22T21:52:38Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": "SM4oszNlNs",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "combobox",
+          "options": [],
+          "ordinal": 1,
+          "required": false,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-22T21:52:38Z",
+      "status": "partial"
+    },
+    "rippling:rippling:f64b6158-9534-4bab-9457-45556166b262": {
+      "application_url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+      "attempt_count": 1,
+      "canonical_job_id": "rippling:rippling:f64b6158-9534-4bab-9457-45556166b262",
+      "completeness_reason": "Only the visible first step was inspected; later steps may contain more questions.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-22T21:52:44Z",
+      "http_status": 200,
+      "issue_number": 115,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-22T21:52:44Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": "yYFpCIw-GJ",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "combobox",
+          "options": [],
+          "ordinal": 1,
+          "required": false,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-22T21:52:44Z",
+      "status": "partial"
+    },
+    "rippling:rippling:f9de04c3-e2c5-41f9-8e46-a0684707f89d": {
+      "application_url": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+      "attempt_count": 1,
+      "canonical_job_id": "rippling:rippling:f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+      "completeness_reason": "Only the visible first step was inspected; later steps may contain more questions.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-22T21:52:47Z",
+      "http_status": 200,
+      "issue_number": 115,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-22T21:52:47Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": "cYg9_aHQl5",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "combobox",
+          "options": [],
+          "ordinal": 1,
+          "required": false,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-22T21:52:47Z",
+      "status": "partial"
+    },
     "tiktok:jobs.bytedance.com:7668489218234157365": {
       "application_url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -23690,6 +23789,69 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-15T04:01:30Z",
+      "status": "unavailable"
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2026306": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2026306",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-22T21:52:50Z",
+      "http_status": 200,
+      "issue_number": 115,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-22T21:52:50Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-22T21:52:50Z",
+      "status": "unavailable"
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-i--intern----united-states_2025926": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-i--intern----united-states_2025926",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-22T21:52:53Z",
+      "http_status": 200,
+      "issue_number": 115,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-22T21:52:53Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-22T21:52:53Z",
+      "status": "unavailable"
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-i--intern----united-states_2025924": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-i--intern----united-states_2025924",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-22T21:52:56Z",
+      "http_status": 200,
+      "issue_number": 115,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-22T21:52:56Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-22T21:52:56Z",
       "status": "unavailable"
     },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
