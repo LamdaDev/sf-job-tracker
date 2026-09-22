@@ -11314,6 +11314,209 @@
       "scanned_at": "2026-09-16T19:53:46Z",
       "status": "complete"
     },
+    "greenhouse:singlestore:8221924": {
+      "application_url": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:singlestore:8221924",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-22T09:14:58Z",
+      "http_status": 200,
+      "issue_number": 113,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-22T09:14:58Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_69350149",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_69350150",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 11,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you legally authorized to work in the United States?",
+          "options": [],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you currently, or will you in the future, require sponsorship for employment authorization?",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-22T09:14:58Z",
+      "status": "complete"
+    },
     "greenhouse:skhynixmemorysolutionsamericainc:4387708009": {
       "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009",
       "attempt_count": 1,
@@ -20633,6 +20836,27 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-09-19T04:27:30Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8221198": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8221198",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-22T09:15:00Z",
+      "http_status": 200,
+      "issue_number": 113,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-22T09:15:00Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-22T09:15:00Z",
       "status": "unavailable"
     },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8221795": {
