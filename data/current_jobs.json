@@ -1016,7 +1016,7 @@
       "age": "Today",
       "application_url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
       "canonical_id": "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "Commure",
       "job_type": "Internship",
       "location": "Mountain View, CA",
@@ -1051,24 +1051,6 @@
             "url": "https://applyguy.ai/jobs?company=Commure&job=fa50ca20-f808-42fc-883e-b69093786392&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Commure&job=fa50ca20-f808-42fc-883e-b69093786392&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
-        "speedyapply_internships": {
-          "age": "0d",
-          "application_url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
-          "category": "Other",
-          "company": "Commure",
-          "job_type": "Internship",
-          "location": "Mountain View, CA",
-          "position": "Software Engineering Intern - Summer 2027",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3"
         }
       },
       "url_aliases": [
@@ -1117,24 +1099,6 @@
             "url": "https://applyguy.ai/jobs?company=Commure&job=855b6921-1f85-407c-992e-d7d55c569e3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
           "source_url": "https://applyguy.ai/jobs?company=Commure&job=855b6921-1f85-407c-992e-d7d55c569e3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
-        "speedyapply_new_grad": {
-          "age": "0d",
-          "application_url": "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced",
-          "category": "Other",
-          "company": "Commure",
-          "job_type": "New Grad",
-          "location": "Mountain View, CA +1",
-          "position": "Software Engineer - Early Career 2027",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced"
         }
       },
       "url_aliases": [
@@ -1277,6 +1241,42 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Coram+AI&job=e96e34b2-ad2c-4492-8943-5536192a9f28&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3"
+      ]
+    },
+    "ashby:cowboyspace:56d1d7e4-fa7e-4c25-aa8b-6828447fc64a": {
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a",
+      "canonical_id": "ashby:cowboyspace:56d1d7e4-fa7e-4c25-aa8b-6828447fc64a",
+      "category": "Other",
+      "company": "Cowboy Space",
+      "job_type": "Internship",
+      "location": "San Carlos, CA",
+      "position": "Intern - Software Engineering - 2027",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a",
+          "category": "Other",
+          "company": "Cowboy Space",
+          "job_type": "Internship",
+          "location": "San Carlos, CA",
+          "position": "Intern - Software Engineering - 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a"
       ]
     },
     "ashby:crusoe:4f5d34ed-0c05-4eec-b8f8-14663e114b02": {
@@ -3077,42 +3077,6 @@
       },
       "url_aliases": [
         "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463"
-      ]
-    },
-    "ashby:rivianvw.tech:2c209e52-8723-4c78-abf7-f0394f6537bc": {
-      "age": "81d",
-      "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc",
-      "canonical_id": "ashby:rivianvw.tech:2c209e52-8723-4c78-abf7-f0394f6537bc",
-      "category": "FAANG+",
-      "company": "Rivian",
-      "job_type": "New Grad",
-      "location": "Palo Alto, CA",
-      "position": "Systems Integration Engineer-Software Integration",
-      "posted": null,
-      "salary": "$124k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "2d",
-          "application_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc",
-          "category": "FAANG+",
-          "company": "Rivian",
-          "job_type": "New Grad",
-          "location": "Palo Alto, CA",
-          "position": "Systems Integration Engineer-Software Integration",
-          "posted": null,
-          "salary": "$124k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc"
-        }
-      },
-      "url_aliases": [
-        "https://jobs.ashbyhq.com/rivianvw.tech/2c209e52-8723-4c78-abf7-f0394f6537bc"
       ]
     },
     "ashby:rivianvw.tech:c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69": {
@@ -14021,45 +13985,6 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8198218"
       ]
     },
-    "url:https://careers.withwaymo.com/jobs?gh_jid=8198218&ref=Simplify": {
-      "age": "0d",
-      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
-      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8198218&ref=Simplify",
-      "category": "FAANG+",
-      "company": "Waymo",
-      "job_type": "Internship",
-      "location": "SF | Mountain View, CA",
-      "position": "Software Engineering Intern - Commercialization",
-      "posted": null,
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "simplify_summer_2027": {
-          "age": "0d",
-          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
-          "company": "Waymo",
-          "job_type": "Internship",
-          "location": "SF | Mountain View, CA",
-          "position": "Software Engineering Intern - Commercialization",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "4d33923f-011e-4c9c-8e39-4a4f417686d7",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/4d33923f-011e-4c9c-8e39-4a4f417686d7?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/4d33923f-011e-4c9c-8e39-4a4f417686d7?utm_source=GHList"
-        }
-      },
-      "url_aliases": [
-        "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
-        "https://simplify.jobs/p/4d33923f-011e-4c9c-8e39-4a4f417686d7?utm_source=GHList"
-      ]
-    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8202801&ref=Simplify": {
       "age": "0d",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801&utm_source=Simplify&ref=Simplify",
@@ -18798,42 +18723,6 @@
         "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify"
       ]
     },
-    "workday:visa.wd5.myworkdayjobs.com:software-engineer--intern---foster-city-2027_ref088587w": {
-      "age": "4d",
-      "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W",
-      "canonical_id": "workday:visa.wd5.myworkdayjobs.com:software-engineer--intern---foster-city-2027_ref088587w",
-      "category": "Other",
-      "company": "Visa",
-      "job_type": "Internship",
-      "location": "Foster City, CA",
-      "position": "Software Engineer - Intern - Foster City 2027",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_internships": {
-          "age": "4d",
-          "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W",
-          "category": "Other",
-          "company": "Visa",
-          "job_type": "Internship",
-          "location": "Foster City, CA",
-          "position": "Software Engineer - Intern - Foster City 2027",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W"
-        }
-      },
-      "url_aliases": [
-        "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W"
-      ]
-    },
     "workday:visa.wd5.myworkdayjobs.com:software-engineer--intern---foster-city-2027_ref088587w-1": {
       "age": "Today",
       "application_url": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
@@ -18903,42 +18792,6 @@
         "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1"
       ]
     },
-    "workday:visa.wd5.myworkdayjobs.com:software-engineer--new-college-grad---2027-foster-city--ca_ref088543w": {
-      "age": "2d",
-      "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W",
-      "canonical_id": "workday:visa.wd5.myworkdayjobs.com:software-engineer--new-college-grad---2027-foster-city--ca_ref088543w",
-      "category": "Other",
-      "company": "Visa",
-      "job_type": "New Grad",
-      "location": "Foster City, CA",
-      "position": "Software Engineer - New College Grad - 2027 Foster City - CA",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "2d",
-          "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W",
-          "category": "Other",
-          "company": "Visa",
-          "job_type": "New Grad",
-          "location": "Foster City, CA",
-          "position": "Software Engineer - New College Grad - 2027 Foster City - CA",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W"
-        }
-      },
-      "url_aliases": [
-        "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W"
-      ]
-    },
     "workday:visa.wd5.myworkdayjobs.com:software-engineer--new-college-grad---2027-foster-city--ca_ref088543w-1": {
       "age": "Today",
       "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1",
@@ -19002,42 +18855,6 @@
         "https://applyguy.ai/jobs?company=Visa&job=d279e412-a0ca-4b1e-9443-7dc81587e8a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
         "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1",
         "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1"
-      ]
-    },
-    "workday:visa.wd5.myworkdayjobs.com:xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w": {
-      "age": "4d",
-      "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W",
-      "canonical_id": "workday:visa.wd5.myworkdayjobs.com:xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w",
-      "category": "Other",
-      "company": "Visa",
-      "job_type": "Internship",
-      "location": "Foster City, CA",
-      "position": "2027 Sophomore Internship Program - Software Engineer Intern - Foster City",
-      "posted": null,
-      "salary": null,
-      "season": null,
-      "sources": {
-        "speedyapply_internships": {
-          "age": "4d",
-          "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W",
-          "category": "Other",
-          "company": "Visa",
-          "job_type": "Internship",
-          "location": "Foster City, CA",
-          "position": "2027 Sophomore Internship Program - Software Engineer Intern - Foster City",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W"
-        }
-      },
-      "url_aliases": [
-        "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W"
       ]
     },
     "workday:visa.wd5.myworkdayjobs.com:xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w-1": {
