@@ -21042,6 +21042,27 @@
       "scanned_at": "2026-09-21T23:55:17Z",
       "status": "unavailable"
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8223735": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8223735",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T00:08:17Z",
+      "http_status": 200,
+      "issue_number": 116,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T00:08:17Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-23T00:08:17Z",
+      "status": "unavailable"
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
       "attempt_count": 1,
@@ -21407,6 +21428,39 @@
       "questions": [],
       "scanned_at": "2026-09-05T00:43:00Z",
       "status": "unavailable"
+    },
+    "url:https://point.com/hiring?gh_jid=8829278002": {
+      "application_url": "https://point.com/hiring?gh_jid=8829278002",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://point.com/hiring?gh_jid=8829278002",
+      "completeness_reason": "Additional application questions require authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T00:08:18Z",
+      "http_status": 200,
+      "issue_number": 116,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T00:08:18Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": null,
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Search open positions",
+          "options": [],
+          "ordinal": 1,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-23T00:08:18Z",
+      "status": "partial"
     },
     "url:https://stripe.com/jobs/search?gh_jid=8128744": {
       "application_url": "https://stripe.com/jobs/search?gh_jid=8128744",
@@ -24755,6 +24809,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-09T20:40:56Z",
+      "status": "unavailable"
+    },
+    "workday:tencent.wd1.myworkdayjobs.com:site-reliability-engineer--sre--intern---ai-infrastructure_r108158": {
+      "application_url": "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:tencent.wd1.myworkdayjobs.com:site-reliability-engineer--sre--intern---ai-infrastructure_r108158",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T00:08:20Z",
+      "http_status": 200,
+      "issue_number": 116,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T00:08:20Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-23T00:08:20Z",
       "status": "unavailable"
     },
     "workday:tencent.wd1.myworkdayjobs.com:tencent-cloud-cpaas-product-management-intern_r108019": {
