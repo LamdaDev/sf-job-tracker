@@ -4860,6 +4860,286 @@
       "scanned_at": "2026-09-14T20:47:16Z",
       "status": "complete"
     },
+    "greenhouse:figma:6178851004": {
+      "application_url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:figma:6178851004",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T23:28:06Z",
+      "http_status": 200,
+      "issue_number": 119,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T23:28:06Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19835361004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 6,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19835362004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Pronouns",
+          "options": [
+            "she/her/hers",
+            "he/him/his",
+            "they/them/theirs",
+            "self-describe"
+          ],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19835363004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_19835364004",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Other Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19835365004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "How did you connect with us?",
+          "options": [
+            "FigFest",
+            "Greylock Techfair",
+            "Through a partnership (RTC, ColorStack, or Talentboard)",
+            "On-campus event",
+            "Virtual event",
+            "Other"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_19835366004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "If you are currently enrolled in university or a program, what is your expected graduation date?",
+          "options": [
+            "Spring 2027",
+            "Fall 2027",
+            "Spring 2028",
+            "Fall 2028",
+            "Spring 2029",
+            "Fall 2029",
+            "Spring 2030",
+            "Fall 2030",
+            "Other",
+            "I am not currently enrolled"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19835367004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "From which US hub do you prefer to work?",
+          "options": [
+            "San Francisco",
+            "New York",
+            "Either"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_19835368004",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "Why do you want to join Figma?",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_19835369004",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Are you authorized to work in the country for which you applied?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_19835370004",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Have you ever worked for Figma before, as an employee or a contractor/consultant?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-23T23:28:06Z",
+      "status": "complete"
+    },
     "greenhouse:gallup:4393731009": {
       "application_url": "https://job-boards.greenhouse.io/gallup/jobs/4393731009",
       "attempt_count": 1,
@@ -12806,6 +13086,201 @@
         }
       ],
       "scanned_at": "2026-09-04T20:29:36Z",
+      "status": "complete"
+    },
+    "greenhouse:scaleai:4736426005": {
+      "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:scaleai:4736426005",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T23:28:07Z",
+      "http_status": 200,
+      "issue_number": 119,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T23:28:07Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "preferred_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Preferred First Name",
+          "options": [],
+          "ordinal": 3,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_9097093005",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_9097094005",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Website",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_9097095005",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I confirm that my graduation date will be either Fall 2026 or Spring 2027",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-23T23:28:07Z",
       "status": "complete"
     },
     "greenhouse:singlestore:8154399": {
@@ -22817,6 +23292,48 @@
       "scanned_at": "2026-08-21T06:52:57Z",
       "status": "unavailable"
     },
+    "url:https://careers.amd.com/jobs/90997?icims=1&ref=Simplify": {
+      "application_url": "https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.amd.com/jobs/90997?icims=1&ref=Simplify",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T23:28:09Z",
+      "http_status": 200,
+      "issue_number": 119,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T23:28:09Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-23T23:28:09Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.amd.com/jobs/91005?icims=1&ref=Simplify": {
+      "application_url": "https://careers.amd.com/jobs/91005?icims=1&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.amd.com/jobs/91005?icims=1&ref=Simplify",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T23:28:10Z",
+      "http_status": 200,
+      "issue_number": 119,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T23:28:10Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-23T23:28:10Z",
+      "status": "unavailable"
+    },
     "url:https://careers.amd.com/jobs/91176?icims=1&ref=Simplify": {
       "application_url": "https://careers.amd.com/jobs/91176?icims=1&utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -23399,6 +23916,69 @@
       "scanned_at": "2026-09-23T00:08:17Z",
       "status": "unavailable"
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8224729": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224729",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T23:28:11Z",
+      "http_status": 200,
+      "issue_number": 119,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T23:28:11Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-23T23:28:11Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8224729&ref=Simplify": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224729&ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T23:28:12Z",
+      "http_status": 200,
+      "issue_number": 119,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T23:28:12Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-23T23:28:12Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8224746": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224746",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T23:28:14Z",
+      "http_status": 202,
+      "issue_number": 119,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T23:28:14Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-23T23:28:14Z",
+      "status": "unavailable"
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "application_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
       "attempt_count": 1,
@@ -23743,6 +24323,39 @@
       "questions": [],
       "scanned_at": "2026-09-08T14:59:31Z",
       "status": "unavailable"
+    },
+    "url:https://nuro.ai/careersitem?gh_jid=8227399": {
+      "application_url": "https://nuro.ai/careersitem?gh_jid=8227399",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://nuro.ai/careersitem?gh_jid=8227399",
+      "completeness_reason": "Only publicly visible static fields were inspected; dynamic or conditional fields may remain.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T23:28:17Z",
+      "http_status": 200,
+      "issue_number": 119,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T23:28:17Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "Email",
+          "field_type": "email",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-23T23:28:17Z",
+      "status": "partial"
     },
     "url:https://paypal.eightfold.ai/careers/job/274922260559?ref=Simplify": {
       "application_url": "https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify",
@@ -26326,6 +26939,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-10T03:46:16Z",
+      "status": "unavailable"
+    },
+    "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer-av-hil-platform-and-services--university-grad-_jr-202604577": {
+      "application_url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer-av-hil-platform-and-services--university-grad-_jr-202604577",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-23T23:28:18Z",
+      "http_status": 200,
+      "issue_number": 119,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-23T23:28:18Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-23T23:28:18Z",
       "status": "unavailable"
     },
     "workday:generalmotors.wd5.myworkdayjobs.com:xmlname-2027-summer-intern---digital-product--software-engineering_jr-202620546": {
