@@ -4076,6 +4076,190 @@
         "https://job-boards.greenhouse.io/ascend21/jobs/5351565008"
       ]
     },
+    "greenhouse:astranis:4704595006": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
+      "canonical_id": "greenhouse:astranis:4704595006",
+      "category": "Software Engineering",
+      "company": "Astranis",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Flight Software Intern (Winter 2027)",
+      "posted": "2026-09-22",
+      "salary": null,
+      "season": "Winter 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
+          "category": "Software Engineering",
+          "company": "Astranis",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Flight Software Intern (Winter 2027)",
+          "posted": "2026-09-22",
+          "salary": null,
+          "season": "Winter 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "2edb1a0d-f59e-4375-b735-d6be0fd104a4",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T05:30:33.725Z",
+            "id": "2edb1a0d-f59e-4375-b735-d6be0fd104a4",
+            "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
+            "posted": "2026-09-22",
+            "season": "Winter 2027",
+            "url": "https://applyguy.ai/jobs?company=Astranis&job=2edb1a0d-f59e-4375-b735-d6be0fd104a4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Astranis&job=2edb1a0d-f59e-4375-b735-d6be0fd104a4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Astranis&job=2edb1a0d-f59e-4375-b735-d6be0fd104a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/astranis/jobs/4704595006"
+      ]
+    },
+    "greenhouse:astranis:4704598006": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
+      "canonical_id": "greenhouse:astranis:4704598006",
+      "category": "Software Engineering",
+      "company": "Astranis",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Flight Software Intern (Summer 2027)",
+      "posted": "2026-09-22",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
+          "category": "Software Engineering",
+          "company": "Astranis",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Flight Software Intern (Summer 2027)",
+          "posted": "2026-09-22",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "739ec968-6e30-42ec-947f-7c82ace6a7c1",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T05:30:33.725Z",
+            "id": "739ec968-6e30-42ec-947f-7c82ace6a7c1",
+            "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
+            "posted": "2026-09-22",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Astranis&job=739ec968-6e30-42ec-947f-7c82ace6a7c1&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Astranis&job=739ec968-6e30-42ec-947f-7c82ace6a7c1&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Astranis&job=739ec968-6e30-42ec-947f-7c82ace6a7c1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/astranis/jobs/4704598006"
+      ]
+    },
+    "greenhouse:astranis:4705214006": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+      "canonical_id": "greenhouse:astranis:4705214006",
+      "category": "Software Engineering",
+      "company": "Astranis",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer Backend Intern (Summer 2027)",
+      "posted": "2026-09-22",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+          "category": "Software Engineering",
+          "company": "Astranis",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer Backend Intern (Summer 2027)",
+          "posted": "2026-09-22",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "a45442e0-97f8-45df-8511-0caaf37e01a4",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T05:30:33.725Z",
+            "id": "a45442e0-97f8-45df-8511-0caaf37e01a4",
+            "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+            "posted": "2026-09-22",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Astranis&job=a45442e0-97f8-45df-8511-0caaf37e01a4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Astranis&job=a45442e0-97f8-45df-8511-0caaf37e01a4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Astranis&job=a45442e0-97f8-45df-8511-0caaf37e01a4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
+      ]
+    },
+    "greenhouse:astranis:4705610006": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+      "canonical_id": "greenhouse:astranis:4705610006",
+      "category": "Software Engineering",
+      "company": "Astranis",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+      "posted": "2026-09-22",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+          "category": "Software Engineering",
+          "company": "Astranis",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+          "posted": "2026-09-22",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "f229f9ab-99ca-4611-b7b4-d099b0ffadc9",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T05:30:33.725Z",
+            "id": "f229f9ab-99ca-4611-b7b4-d099b0ffadc9",
+            "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+            "posted": "2026-09-22",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Astranis&job=f229f9ab-99ca-4611-b7b4-d099b0ffadc9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Astranis&job=f229f9ab-99ca-4611-b7b4-d099b0ffadc9&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Astranis&job=f229f9ab-99ca-4611-b7b4-d099b0ffadc9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
+      ]
+    },
     "greenhouse:c3ascend:8739036002": {
       "age": "2d",
       "application_url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
@@ -8349,7 +8533,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -8544,7 +8728,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -14304,6 +14488,52 @@
         "https://simplify.jobs/p/371c8592-d416-40cf-88fb-3f95ac049ad3?utm_source=GHList"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8214350": {
+      "age": "Today",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8214350",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "298c25d7-41f4-475c-957a-224939040f04",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T05:30:33.725Z",
+            "id": "298c25d7-41f4-475c-957a-224939040f04",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
+            "posted": "2026-09-23",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=298c25d7-41f4-475c-957a-224939040f04&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=298c25d7-41f4-475c-957a-224939040f04&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=298c25d7-41f4-475c-957a-224939040f04&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8214350"
+      ]
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8214519": {
       "age": "1d",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
@@ -18067,6 +18297,52 @@
         "https://simplify.jobs/p/4c2e5fe2-a3e6-4d00-ac53-11343dc121dc?utm_source=GHList"
       ]
     },
+    "workday:kla.wd1.myworkdayjobs.com:algorithm-engineering-intern--ai--computer-vision---software-engineering-_2641392-1": {
+      "age": "Today",
+      "application_url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1",
+      "canonical_id": "workday:kla.wd1.myworkdayjobs.com:algorithm-engineering-intern--ai--computer-vision---software-engineering-_2641392-1",
+      "category": "Software Engineering",
+      "company": "KLA",
+      "job_type": "Internship",
+      "location": "Milpitas, CA",
+      "position": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1",
+          "category": "Software Engineering",
+          "company": "KLA",
+          "job_type": "Internship",
+          "location": "Milpitas, CA",
+          "position": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "fdafb07f-5048-4868-b9d8-b3a681fe7970",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T05:30:33.725Z",
+            "id": "fdafb07f-5048-4868-b9d8-b3a681fe7970",
+            "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1",
+            "posted": "2026-09-23",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=KLA&job=fdafb07f-5048-4868-b9d8-b3a681fe7970&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=KLA&job=fdafb07f-5048-4868-b9d8-b3a681fe7970&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=KLA&job=fdafb07f-5048-4868-b9d8-b3a681fe7970&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1"
+      ]
+    },
     "workday:kla.wd1.myworkdayjobs.com:hpc-software-engineer_2638794": {
       "age": "27d",
       "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/HPC-Software-Engineer_2638794",
@@ -18173,6 +18449,52 @@
       },
       "url_aliases": [
         "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2640361"
+      ]
+    },
+    "workday:kla.wd1.myworkdayjobs.com:software-engineering-intern--c----unix-_2641325": {
+      "age": "Today",
+      "application_url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
+      "canonical_id": "workday:kla.wd1.myworkdayjobs.com:software-engineering-intern--c----unix-_2641325",
+      "category": "Software Engineering",
+      "company": "KLA",
+      "job_type": "Internship",
+      "location": "Milpitas, CA",
+      "position": "Software Engineering Intern (C++, Unix)",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
+          "category": "Software Engineering",
+          "company": "KLA",
+          "job_type": "Internship",
+          "location": "Milpitas, CA",
+          "position": "Software Engineering Intern (C++, Unix)",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "118c1862-7932-4ef5-9b56-3690b97a4ebb",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T05:30:33.725Z",
+            "id": "118c1862-7932-4ef5-9b56-3690b97a4ebb",
+            "listingUrl": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
+            "posted": "2026-09-23",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=KLA&job=118c1862-7932-4ef5-9b56-3690b97a4ebb&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=KLA&job=118c1862-7932-4ef5-9b56-3690b97a4ebb&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=KLA&job=118c1862-7932-4ef5-9b56-3690b97a4ebb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325"
       ]
     },
     "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--bs---summer-2027_2604461": {
@@ -18484,33 +18806,6 @@
       "salary": "$172k/yr",
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "1d",
-          "application_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
-          "category": "Unknown",
-          "company": "NVIDIA",
-          "job_type": "New Grad",
-          "location": "Santa Clara, CA",
-          "position": "Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026",
-          "posted": "2026-09-15",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "b1466a53-00c5-482a-a210-64040844feb7",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "1d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-16T16:16:11.499Z",
-            "id": "b1466a53-00c5-482a-a210-64040844feb7",
-            "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
-            "matchKind": "explicit",
-            "posted": "2026-09-15",
-            "url": "https://applyguy.ai/jobs?company=NVIDIA&job=b1466a53-00c5-482a-a210-64040844feb7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=NVIDIA&job=b1466a53-00c5-482a-a210-64040844feb7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "2d",
           "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
