@@ -33914,7 +33914,7 @@
     "58239abcfba9e7f0c190e68b237b35efcc2b9a6226ec48308223f37c78b323d3": {
       "application_scan_eligible": true,
       "created_at": "2026-09-23T20:00:52Z",
-      "issue_number": null,
+      "issue_number": 118,
       "job_ids": [
         "greenhouse:astranis:4704714006",
         "greenhouse:astranis:4704716006",
@@ -33935,7 +33935,7 @@
         "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1",
         "https://www.weareroku.com/jobs/8223823?gh_jid=8223823"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "5bad3bcd0bbd991c5862ad1624c3be973833fceb9bf034bfae17bed6967b07bd": {
       "application_scan_eligible": true,
