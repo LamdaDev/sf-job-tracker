@@ -4,10 +4,19 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (424)
+## Active Jobs (433)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| AMD | AI Engineering Intern 🎓 | Internship | FAANG+ | Santa Clara, CA | Simplify | N/A | 2026-09-23T23:28:02Z | 2026-09-23T23:28:02Z | Yes | [Apply](<https://careers.amd.com/jobs/91005?icims=1&utm_source=Simplify&ref=Simplify>) |
+| AMD | Applied Artificial Intelligence Engineering Intern - Hardware AI 🎓 | Internship | Unknown | Santa Clara, CA | Simplify | N/A | 2026-09-23T23:28:02Z | 2026-09-23T23:28:02Z | Yes | [Apply](<https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify>) |
+| Figma | Data Engineer Intern (2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-23T23:28:02Z | 2026-09-23T23:28:02Z | Yes | [Apply](<https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004>) |
+| Generalmotors | Software Engineer AV HIL Platform and Services (Early Career)) | New Grad | Unknown | Sunnyvale, CA | ApplyGuy | N/A | 2026-09-23T23:28:02Z | 2026-09-23T23:28:02Z | Yes | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577>) |
+| Nuro | Software Engineer, Performance Tooling and Infrastructure New Grad | New Grad | Unknown | Mountain View, California (HQ) | ApplyGuy | N/A | 2026-09-23T23:28:02Z | 2026-09-23T23:28:02Z | Yes | [Apply](<https://nuro.ai/careersitem?gh_jid=8227399>) |
+| Scale AI | Software Engineer, Public Sector - New Grad | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-09-23T23:28:02Z | 2026-09-23T23:28:02Z | Yes | [Apply](<https://job-boards.greenhouse.io/scaleai/jobs/4736426005>) |
+| Waymo | 2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-23T23:28:02Z | 2026-09-23T23:28:02Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8224746>) |
+| Waymo | 2027 Summer Intern, MS/PhD, Software Engineer | Internship | Software Engineering | Mountain View, CA | ApplyGuy | N/A | 2026-09-23T23:28:02Z | 2026-09-23T23:28:02Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8224729>) |
+| Waymo | Software Engineer Intern - MS/PhD 🎓 | Internship | FAANG+ | Mountain View, CA | Simplify | N/A | 2026-09-23T23:28:02Z | 2026-09-23T23:28:02Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8224729&utm_source=Simplify&ref=Simplify>) |
 | Astranis Space Technologies | Flight Software Associate - Summer 2027 | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-09-23T20:00:52Z | 2026-09-23T20:00:52Z | Yes | [Apply](<https://job-boards.greenhouse.io/astranis/jobs/4704716006>) |
 | Astranis Space Technologies | Flight Software Associate - Winter 2027 | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-09-23T20:00:52Z | 2026-09-23T20:00:52Z | Yes | [Apply](<https://job-boards.greenhouse.io/astranis/jobs/4704714006>) |
 | Johnson & Johnson | Cloud Systems Engineer | New Grad | Other | Santa Clara, CA | SpeedyApply | N/A | 2026-09-23T20:00:52Z | 2026-09-23T20:00:52Z | Yes | [Apply](<https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Cloud-Systems-Engineer_R-100350-1>) |

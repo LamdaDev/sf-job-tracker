@@ -8642,6 +8642,60 @@
         "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
       ]
     },
+    "greenhouse:figma:6178851004": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+      "canonical_id": "greenhouse:figma:6178851004",
+      "category": "Software Engineering",
+      "company": "Figma",
+      "first_seen": "2026-09-23T23:28:02Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-23T23:28:02Z",
+      "location": "San Francisco, CA",
+      "position": "Data Engineer Intern (2027)",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": "2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+          "category": "Software Engineering",
+          "company": "Figma",
+          "first_seen": "2026-09-23T23:28:02Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-23T23:28:02Z",
+          "location": "San Francisco, CA",
+          "position": "Data Engineer Intern (2027)",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": "2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "66e1c62b-1617-4f0e-8fcf-85f8e8df8252",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T23:15:42.425Z",
+            "id": "66e1c62b-1617-4f0e-8fcf-85f8e8df8252",
+            "listingUrl": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+            "posted": "2026-09-23",
+            "season": "2027",
+            "url": "https://applyguy.ai/jobs?company=Figma&job=66e1c62b-1617-4f0e-8fcf-85f8e8df8252&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Figma&job=66e1c62b-1617-4f0e-8fcf-85f8e8df8252&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Figma&job=66e1c62b-1617-4f0e-8fcf-85f8e8df8252&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"
+      ]
+    },
     "greenhouse:figureai:4691070006": {
       "active": false,
       "age": "55d",
@@ -10719,6 +10773,60 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Scale+AI&job=dca840bc-db2a-4d36-b3e7-9bf9da942ca5&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+      ]
+    },
+    "greenhouse:scaleai:4736426005": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+      "canonical_id": "greenhouse:scaleai:4736426005",
+      "category": "Unknown",
+      "company": "Scale AI",
+      "first_seen": "2026-09-23T23:28:02Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-23T23:28:02Z",
+      "location": "San Francisco, CA",
+      "position": "Software Engineer, Public Sector - New Grad",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+          "category": "Unknown",
+          "company": "Scale AI",
+          "first_seen": "2026-09-23T23:28:02Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-23T23:28:02Z",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer, Public Sector - New Grad",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "54eddbd4-55ec-4465-a650-636c0cb97e8e",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-23T23:16:26.363Z",
+            "id": "54eddbd4-55ec-4465-a650-636c0cb97e8e",
+            "listingUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+            "matchKind": "explicit",
+            "posted": "2026-09-23",
+            "url": "https://applyguy.ai/jobs?company=Scale+AI&job=54eddbd4-55ec-4465-a650-636c0cb97e8e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Scale+AI&job=54eddbd4-55ec-4465-a650-636c0cb97e8e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Scale+AI&job=54eddbd4-55ec-4465-a650-636c0cb97e8e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
       ]
     },
     "greenhouse:singlestore:8154399": {
@@ -20668,6 +20776,100 @@
         "https://simplify.jobs/p/3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d?utm_source=GHList"
       ]
     },
+    "url:https://careers.amd.com/jobs/90997?icims=1&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.amd.com/jobs/90997?icims=1&ref=Simplify",
+      "category": "Unknown",
+      "company": "AMD",
+      "first_seen": "2026-09-23T23:28:02Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-23T23:28:02Z",
+      "location": "Santa Clara, CA",
+      "position": "Applied Artificial Intelligence Engineering Intern - Hardware AI 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "AMD",
+          "first_seen": "2026-09-23T23:28:02Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-23T23:28:02Z",
+          "location": "Santa Clara, CA",
+          "position": "Applied Artificial Intelligence Engineering Intern - Hardware AI 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "f3d05ac2-889f-41af-8897-4ebab63cc29b",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/f3d05ac2-889f-41af-8897-4ebab63cc29b?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/f3d05ac2-889f-41af-8897-4ebab63cc29b?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/f3d05ac2-889f-41af-8897-4ebab63cc29b?utm_source=GHList"
+      ]
+    },
+    "url:https://careers.amd.com/jobs/91005?icims=1&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.amd.com/jobs/91005?icims=1&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.amd.com/jobs/91005?icims=1&ref=Simplify",
+      "category": "FAANG+",
+      "company": "AMD",
+      "first_seen": "2026-09-23T23:28:02Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-23T23:28:02Z",
+      "location": "Santa Clara, CA",
+      "position": "AI Engineering Intern 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.amd.com/jobs/91005?icims=1&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "AMD",
+          "first_seen": "2026-09-23T23:28:02Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-23T23:28:02Z",
+          "location": "Santa Clara, CA",
+          "position": "AI Engineering Intern 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "4dd92b4d-fcb3-4e7f-ab7e-984aa0260f5e",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/4dd92b4d-fcb3-4e7f-ab7e-984aa0260f5e?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/4dd92b4d-fcb3-4e7f-ab7e-984aa0260f5e?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.amd.com/jobs/91005?icims=1&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/4dd92b4d-fcb3-4e7f-ab7e-984aa0260f5e?utm_source=GHList"
+      ]
+    },
     "url:https://careers.amd.com/jobs/91176?icims=1&ref=Simplify": {
       "active": true,
       "age": "0d",
@@ -22680,6 +22882,161 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8223735"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8224729": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224729",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-23T23:28:02Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-23T23:28:02Z",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-23T23:28:02Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-23T23:28:02Z",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, MS/PhD, Software Engineer",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7a9f3da8-6717-4c40-b2d4-a7e3f24123dc",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T23:15:42.425Z",
+            "id": "7a9f3da8-6717-4c40-b2d4-a7e3f24123dc",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+            "posted": "2026-09-23",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=7a9f3da8-6717-4c40-b2d4-a7e3f24123dc&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=7a9f3da8-6717-4c40-b2d4-a7e3f24123dc&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=7a9f3da8-6717-4c40-b2d4-a7e3f24123dc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8224729"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8224729&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224729&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "first_seen": "2026-09-23T23:28:02Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-23T23:28:02Z",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer Intern - MS/PhD 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "first_seen": "2026-09-23T23:28:02Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-23T23:28:02Z",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer Intern - MS/PhD 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "9f31b43a-95ad-41c8-aef4-c59287ea5477",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/9f31b43a-95ad-41c8-aef4-c59287ea5477?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/9f31b43a-95ad-41c8-aef4-c59287ea5477?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8224729&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/9f31b43a-95ad-41c8-aef4-c59287ea5477?utm_source=GHList"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8224746": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224746",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-23T23:28:02Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-23T23:28:02Z",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-23T23:28:02Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-23T23:28:02Z",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "c7b49955-b4bf-4749-abc7-d4bfb146f29d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T23:15:42.425Z",
+            "id": "c7b49955-b4bf-4749-abc7-d4bfb146f29d",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+            "posted": "2026-09-23",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=c7b49955-b4bf-4749-abc7-d4bfb146f29d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=c7b49955-b4bf-4749-abc7-d4bfb146f29d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=c7b49955-b4bf-4749-abc7-d4bfb146f29d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8224746"
+      ]
+    },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
       "active": true,
       "age": "0d",
@@ -23650,6 +24007,60 @@
       },
       "url_aliases": [
         "https://nuro.ai/careersitem?gh_jid=8122537"
+      ]
+    },
+    "url:https://nuro.ai/careersitem?gh_jid=8227399": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://nuro.ai/careersitem?gh_jid=8227399",
+      "canonical_id": "url:https://nuro.ai/careersitem?gh_jid=8227399",
+      "category": "Unknown",
+      "company": "Nuro",
+      "first_seen": "2026-09-23T23:28:02Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-23T23:28:02Z",
+      "location": "Mountain View, California (HQ)",
+      "position": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://nuro.ai/careersitem?gh_jid=8227399",
+          "category": "Unknown",
+          "company": "Nuro",
+          "first_seen": "2026-09-23T23:28:02Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-23T23:28:02Z",
+          "location": "Mountain View, California (HQ)",
+          "position": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "14ecbeb1-0c02-411d-8ec6-163c3357f3f3",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-23T23:16:26.363Z",
+            "id": "14ecbeb1-0c02-411d-8ec6-163c3357f3f3",
+            "listingUrl": "https://nuro.ai/careersitem?gh_jid=8227399",
+            "matchKind": "explicit",
+            "posted": "2026-09-23",
+            "url": "https://applyguy.ai/jobs?company=Nuro&job=14ecbeb1-0c02-411d-8ec6-163c3357f3f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Nuro&job=14ecbeb1-0c02-411d-8ec6-163c3357f3f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Nuro&job=14ecbeb1-0c02-411d-8ec6-163c3357f3f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://nuro.ai/careersitem?gh_jid=8227399"
       ]
     },
     "url:https://paypal.eightfold.ai/careers/job/274922260559?ref=Simplify": {
@@ -28783,6 +29194,60 @@
         "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943"
       ]
     },
+    "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer-av-hil-platform-and-services--university-grad-_jr-202604577": {
+      "active": true,
+      "age": "Today",
+      "application_url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+      "canonical_id": "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer-av-hil-platform-and-services--university-grad-_jr-202604577",
+      "category": "Unknown",
+      "company": "Generalmotors",
+      "first_seen": "2026-09-23T23:28:02Z",
+      "inactive_at": null,
+      "job_type": "New Grad",
+      "last_seen": "2026-09-23T23:28:02Z",
+      "location": "Sunnyvale, CA",
+      "position": "Software Engineer AV HIL Platform and Services (Early Career))",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "active": true,
+          "age": "Today",
+          "application_url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+          "category": "Unknown",
+          "company": "Generalmotors",
+          "first_seen": "2026-09-23T23:28:02Z",
+          "inactive_at": null,
+          "job_type": "New Grad",
+          "last_seen": "2026-09-23T23:28:02Z",
+          "location": "Sunnyvale, CA",
+          "position": "Software Engineer AV HIL Platform and Services (Early Career))",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "8f3ffdc9-ff1c-44f2-8822-9ab9823a51e5",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-23T23:16:26.363Z",
+            "id": "8f3ffdc9-ff1c-44f2-8822-9ab9823a51e5",
+            "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+            "matchKind": "explicit",
+            "posted": "2026-09-23",
+            "url": "https://applyguy.ai/jobs?company=Generalmotors&job=8f3ffdc9-ff1c-44f2-8822-9ab9823a51e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Generalmotors&job=8f3ffdc9-ff1c-44f2-8822-9ab9823a51e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Generalmotors&job=8f3ffdc9-ff1c-44f2-8822-9ab9823a51e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577"
+      ]
+    },
     "workday:generalmotors.wd5.myworkdayjobs.com:xmlname-2027-summer-intern---digital-product--software-engineering_jr-202620546": {
       "active": true,
       "age": "0d",
@@ -33565,6 +34030,34 @@
         "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285"
       ],
       "status": "sent"
+    },
+    "1bda5520238cd1e5ea1a88c8f2ca47924fcb1e43c43f038ae666b33682f0ccc9": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-23T23:28:02Z",
+      "issue_number": null,
+      "job_ids": [
+        "greenhouse:figma:6178851004",
+        "greenhouse:scaleai:4736426005",
+        "url:https://careers.amd.com/jobs/90997?icims=1&ref=Simplify",
+        "url:https://careers.amd.com/jobs/91005?icims=1&ref=Simplify",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8224729",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8224729&ref=Simplify",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8224746",
+        "url:https://nuro.ai/careersitem?gh_jid=8227399",
+        "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer-av-hil-platform-and-services--university-grad-_jr-202604577"
+      ],
+      "job_urls": [
+        "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+        "https://careers.amd.com/jobs/90997?icims=1&utm_source=Simplify&ref=Simplify",
+        "https://careers.amd.com/jobs/91005?icims=1&utm_source=Simplify&ref=Simplify",
+        "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+        "https://careers.withwaymo.com/jobs?gh_jid=8224729&utm_source=Simplify&ref=Simplify",
+        "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+        "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
+        "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+        "https://nuro.ai/careersitem?gh_jid=8227399"
+      ],
+      "status": "pending"
     },
     "1d03bd0c7e9768c6586dccc664feecc9070eede9b183cdf1364e8b5f5255dab1": {
       "application_scan_eligible": true,
