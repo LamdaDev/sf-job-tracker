@@ -14123,6 +14123,45 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8198218"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8198218&ref=Simplify": {
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8198218&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "SF | Mountain View, CA",
+      "position": "Software Engineering Intern - Commercialization",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "age": "8d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "SF | Mountain View, CA",
+          "position": "Software Engineering Intern - Commercialization",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "4d33923f-011e-4c9c-8e39-4a4f417686d7",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/4d33923f-011e-4c9c-8e39-4a4f417686d7?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/4d33923f-011e-4c9c-8e39-4a4f417686d7?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8198218&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/4d33923f-011e-4c9c-8e39-4a4f417686d7?utm_source=GHList"
+      ]
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8202801&ref=Simplify": {
       "age": "0d",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801&utm_source=Simplify&ref=Simplify",
@@ -14543,6 +14582,52 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Waymo&job=5aa2ecfe-6ab0-4760-a54e-f666f2f31fe6&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://careers.withwaymo.com/jobs?gh_jid=8221851"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8223735": {
+      "age": "1d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8223735",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+      "posted": "2026-09-22",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+          "posted": "2026-09-22",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "d2ddcd48-bc32-4d31-bbb3-0491ec9cf243",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T00:00:38.959Z",
+            "id": "d2ddcd48-bc32-4d31-bbb3-0491ec9cf243",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
+            "posted": "2026-09-22",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=d2ddcd48-bc32-4d31-bbb3-0491ec9cf243&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=d2ddcd48-bc32-4d31-bbb3-0491ec9cf243&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=d2ddcd48-bc32-4d31-bbb3-0491ec9cf243&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8223735"
       ]
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
@@ -15036,6 +15121,52 @@
       },
       "url_aliases": [
         "https://nuro.ai/careersitem?gh_jid=8122537"
+      ]
+    },
+    "url:https://point.com/hiring?gh_jid=8829278002": {
+      "age": "1d",
+      "application_url": "https://point.com/hiring?gh_jid=8829278002",
+      "canonical_id": "url:https://point.com/hiring?gh_jid=8829278002",
+      "category": "Unknown",
+      "company": "Point Digital Finance, Inc.",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Associate Software Engineer",
+      "posted": "2026-09-22",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "1d",
+          "application_url": "https://point.com/hiring?gh_jid=8829278002",
+          "category": "Unknown",
+          "company": "Point Digital Finance, Inc.",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Associate Software Engineer",
+          "posted": "2026-09-22",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "21d57d72-f320-4fa2-bf7c-06756aeb8b80",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-23T00:01:12.548Z",
+            "id": "21d57d72-f320-4fa2-bf7c-06756aeb8b80",
+            "listingUrl": "https://point.com/hiring?gh_jid=8829278002",
+            "matchKind": "entry_level",
+            "posted": "2026-09-22",
+            "url": "https://applyguy.ai/jobs?company=Point+Digital+Finance%2C+Inc.&job=21d57d72-f320-4fa2-bf7c-06756aeb8b80&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Point+Digital+Finance%2C+Inc.&job=21d57d72-f320-4fa2-bf7c-06756aeb8b80&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Point+Digital+Finance%2C+Inc.&job=21d57d72-f320-4fa2-bf7c-06756aeb8b80&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://point.com/hiring?gh_jid=8829278002"
       ]
     },
     "url:https://stripe.com/jobs/search?gh_jid=8128744": {
@@ -18876,6 +19007,52 @@
         "https://applyguy.ai/jobs?company=Tel&job=dd100551-df41-4c4c-bdf5-e356672083d9&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531",
         "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531"
+      ]
+    },
+    "workday:tencent.wd1.myworkdayjobs.com:site-reliability-engineer--sre--intern---ai-infrastructure_r108158": {
+      "age": "1d",
+      "application_url": "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158",
+      "canonical_id": "workday:tencent.wd1.myworkdayjobs.com:site-reliability-engineer--sre--intern---ai-infrastructure_r108158",
+      "category": "Software Engineering",
+      "company": "Tencent",
+      "job_type": "Internship",
+      "location": "Palo Alto, CA",
+      "position": "Site Reliability Engineer (SRE) Intern — AI Infrastructure",
+      "posted": "2026-09-22",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158",
+          "category": "Software Engineering",
+          "company": "Tencent",
+          "job_type": "Internship",
+          "location": "Palo Alto, CA",
+          "position": "Site Reliability Engineer (SRE) Intern — AI Infrastructure",
+          "posted": "2026-09-22",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "0fe8cc31-b8d2-4125-95a0-7cd3edc9dff1",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-23T00:00:38.959Z",
+            "id": "0fe8cc31-b8d2-4125-95a0-7cd3edc9dff1",
+            "listingUrl": "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158",
+            "posted": "2026-09-22",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Tencent&job=0fe8cc31-b8d2-4125-95a0-7cd3edc9dff1&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Tencent&job=0fe8cc31-b8d2-4125-95a0-7cd3edc9dff1&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Tencent&job=0fe8cc31-b8d2-4125-95a0-7cd3edc9dff1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158"
       ]
     },
     "workday:tencent.wd1.myworkdayjobs.com:tencent-cloud-cpaas-product-management-intern_r108019": {
