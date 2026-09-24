@@ -2865,6 +2865,616 @@
       "scanned_at": "2026-09-23T05:38:31Z",
       "status": "complete"
     },
+    "greenhouse:astranis:4716087006": {
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:astranis:4716087006",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-24T03:49:58Z",
+      "http_status": 200,
+      "issue_number": 120,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-24T03:49:58Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8710960006",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Astranis complies with U.S. Government space technology export regulations, therefore will you state which of the following applies to you",
+          "options": [
+            "I am a U.S. Citizen.",
+            "I am a lawful permanent resident of the U.S. and Green Card Holder.",
+            "I am a refugee under 8 U.S.C. 1157.",
+            "I am an asylee under 8 U.S.C. 1158.",
+            "None of the above."
+          ],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710961006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "What is the most impressive thing you have ever accomplished?",
+          "options": [],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710962006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Please answer three of the following questions.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710963006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We put capacitors on our voltage supplies in order to filter out high frequency noise. Which is better: a 10uF capacitor or a 0.1uF capacitor? Why",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_8710964006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "A member of the software team recently got into LED art. They bought a couple of cheap LEDs and resistors and and wired them up. They expect all four to be the same brightness, but they're not. Why is that? Schematic: https://i.imgur.com/H0eYbLs.png",
+          "options": [],
+          "ordinal": 10,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710965006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We need a power converter to go from a 5 V battery V to 3.3 V to a small microcontroller in low power mode. If we want it to be efficient, should we use a buck converter or a low drop-out regulator (LDO)?",
+          "options": [],
+          "ordinal": 11,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710966006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "It's karaoke night at the office! We're choosing a DAC to play music from our computer - what are some important factors in the design?",
+          "options": [],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_8710967006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We use photodiodes to track our orientation relative to the sun. Briefly describe a possible signal chain from a photodiode to a microcontroller.",
+          "options": [],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710968006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Please confirm the season you are applying for.",
+          "options": [
+            "Winter 2027"
+          ],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710969006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When are you able to join Astranis as an intern? (12 week minimum)",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710970006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When do you plan on ending your internship?",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710971006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "At Astranis, we value in-person collaboration and a strong work ethic. Are you comfortable with working onsite at our San Francisco HQ 5 days a week?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710972006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "How did you hear about Astranis?",
+          "options": [],
+          "ordinal": 18,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8710973006",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 20,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 22,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 23,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-24T03:49:58Z",
+      "status": "complete"
+    },
+    "greenhouse:astranis:4716088006": {
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:astranis:4716088006",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-24T03:50:00Z",
+      "http_status": 200,
+      "issue_number": 120,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-24T03:50:00Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8710974006",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Astranis complies with U.S. Government space technology export regulations, therefore will you state which of the following applies to you",
+          "options": [
+            "I am a U.S. Citizen.",
+            "I am a lawful permanent resident of the U.S. and Green Card Holder.",
+            "I am a refugee under 8 U.S.C. 1157.",
+            "I am an asylee under 8 U.S.C. 1158.",
+            "None of the above."
+          ],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710975006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "What is the most impressive thing you have ever accomplished?",
+          "options": [],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710976006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Please answer three of the following questions.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710977006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We put capacitors on our voltage supplies in order to filter out high frequency noise. Which is better: a 10uF capacitor or a 0.1uF capacitor? Why",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_8710978006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "A member of the software team recently got into LED art. They bought a couple of cheap LEDs and resistors and and wired them up. They expect all four to be the same brightness, but they're not. Why is that? Schematic: https://i.imgur.com/H0eYbLs.png",
+          "options": [],
+          "ordinal": 10,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710979006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We need a power converter to go from a 5 V battery V to 3.3 V to a small microcontroller in low power mode. If we want it to be efficient, should we use a buck converter or a low drop-out regulator (LDO)?",
+          "options": [],
+          "ordinal": 11,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_8710980006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We use photodiodes to track our orientation relative to the sun. Briefly describe a possible signal chain from a photodiode to a microcontroller.",
+          "options": [],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710981006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "It's karaoke night at the office! We're choosing a DAC to play music from our computer - what are some important factors in the design?",
+          "options": [],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710982006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Please confirm the season you are applying for.",
+          "options": [
+            "Summer 2027"
+          ],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710983006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When are you able to join Astranis as an intern? (12 week minimum)",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710984006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When do you plan on ending your internship?",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710985006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "At Astranis, we value in-person collaboration and a strong work ethic. Are you comfortable with working onsite at our San Francisco HQ 5 days a week?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710986006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "How did you hear about Astranis?",
+          "options": [],
+          "ordinal": 18,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8710987006",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 20,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 22,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 23,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-24T03:50:00Z",
+      "status": "complete"
+    },
     "greenhouse:c3ascend:8739036002": {
       "application_url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
       "attempt_count": 1,
