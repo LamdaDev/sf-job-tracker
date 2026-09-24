@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (434)
+## Active Jobs (433)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -270,7 +270,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Flow Engineering | Software Engineer, Early Career | New Grad | Unknown | San Francisco, CA | ApplyGuy | N/A | 2026-08-17T18:42:34Z | 2026-08-17T18:42:34Z | Yes | [Apply](<https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5>) |
 | Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | New Grad | Unknown | Cupertino, CA | ApplyGuy | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs>) |
 | Atoms | Machine Learning PhD Software Engineer Intern 🎓 | Internship | Unknown | Seattle, WA \| LA \| NYC \| Mountain View, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://job-boards.greenhouse.io/cssmerge/jobs/8693034002?utm_source=Simplify&ref=Simplify>) |
-| ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-09-24T03:49:53Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify>) |
+| ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-09-24T09:08:04Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify>) |
 | ByteDance | GPU/AI Application System Software Engineer Intern - System Technologies and Engineering | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7668464504736876853/detail?utm_source=Simplify&ref=Simplify>) |
 | ByteDance | Network Software Engineer Intern - Network Observation | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7670772641439041797/detail?utm_source=Simplify&ref=Simplify>) |
 | ByteDance | Network Software Engineer Intern - Network Switch | Internship | FAANG+ | San Jose, CA | Simplify | N/A | 2026-08-17T17:45:31Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7670778018960542005/detail?utm_source=Simplify&ref=Simplify>) |
@@ -412,7 +412,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | CTGT | Software Engineering Intern - Summer 2027 | Internship | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155>) |
 | Figma | Software Engineer Intern - Winter 2027 | Internship | FAANG+ | San Francisco, CA +1 | ApplyGuy, SpeedyApply | $60/hr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004>) |
 | Gritt Robotics Inc | ML & Cloud Infrastructure Engineer Intern | Internship | Other | South San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523>) |
-| Handshake | Associate Software Engineer - Operator Experience | New Grad | Other | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8>) |
 | Handshake | Software Engineer I - Handshake AI | New Grad | Other | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-27T04:23:56Z | Yes | [Apply](<https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3>) |
 | Heliux | Software Engineer - Internship - Spring 2027 | Internship | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c>) |
 | Heliux | Software Engineer - Internship - Summer 2027 | Internship | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef>) |
@@ -443,7 +442,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (168)
+## Historical / Closed or Removed Jobs (169)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -599,6 +598,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Crusoe | Software Engineer I - DCIE | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f>) |
 | Discord | Software Engineer - Developer Success | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://job-boards.greenhouse.io/discord/jobs/8609250002>) |
 | Fastly | Software Development Engineer | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://www.fastly.com/about/jobs/apply?gh_jid=8128535>) |
+| Handshake | Associate Software Engineer - Operator Experience | New Grad | Other | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8>) |
 | Handshake | Associate Software Engineer - RLE | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://jobs.ashbyhq.com/handshake/e871b11e-f6c2-4adf-aeb5-278eac4aa153>) |
 | Hypercubic | Software Engineering Internship | Internship | Software Engineering | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-09-05T16:38:32Z | No | [Apply](<https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490>) |
 | Julius | Software Engineer - Product - New Grad | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | No | [Apply](<https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6>) |

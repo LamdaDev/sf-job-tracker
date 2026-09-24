@@ -1875,52 +1875,6 @@
         "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3"
       ]
     },
-    "ashby:handshake:fe319ff8-87e1-46d9-b23e-4b78cf6086f8": {
-      "age": "5d",
-      "application_url": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8",
-      "canonical_id": "ashby:handshake:fe319ff8-87e1-46d9-b23e-4b78cf6086f8",
-      "category": "Other",
-      "company": "Handshake",
-      "job_type": "New Grad",
-      "location": "San Francisco, CA",
-      "position": "Associate Software Engineer - Operator Experience",
-      "posted": "2026-08-11",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "6d",
-          "application_url": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8",
-          "category": "Unknown",
-          "company": "Handshake",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Associate Software Engineer, Operator Experience",
-          "posted": "2026-08-11",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "8cc764e1-9b3d-44a9-a1d8-97733e9f468c",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "6d",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-08-17T17:30:30.535Z",
-            "id": "8cc764e1-9b3d-44a9-a1d8-97733e9f468c",
-            "listingUrl": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8",
-            "matchKind": "entry_level",
-            "posted": "2026-08-11",
-            "url": "https://applyguy.ai/jobs?company=Handshake&job=8cc764e1-9b3d-44a9-a1d8-97733e9f468c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Handshake&job=8cc764e1-9b3d-44a9-a1d8-97733e9f468c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Handshake&job=8cc764e1-9b3d-44a9-a1d8-97733e9f468c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8"
-      ]
-    },
     "ashby:heliux:c71c0650-b6f7-491f-b291-6b280f58ee9c": {
       "age": "17d",
       "application_url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c",
@@ -8896,7 +8850,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
