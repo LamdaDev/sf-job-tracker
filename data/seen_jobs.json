@@ -34324,14 +34324,14 @@
     "2c009519b003701984ac2ee6200e86067a2da3949229f1cb2609caf842db9b3b": {
       "application_scan_eligible": true,
       "created_at": "2026-09-24T14:42:33Z",
-      "issue_number": null,
+      "issue_number": 121,
       "job_ids": [
         "amazon:10558915"
       ],
       "job_urls": [
         "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "30768834a84322c53b6c0ffbe3a1ced388eea2284faa160efac47014709a449e": {
       "application_scan_eligible": true,
