@@ -1057,6 +1057,42 @@
         "https://jobs.ashbyhq.com/clera/cea943d6-817f-441c-baa1-d295916ace46"
       ]
     },
+    "ashby:commure:259988fe-0389-461f-823c-36d81840d465": {
+      "age": "0d",
+      "application_url": "https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465",
+      "canonical_id": "ashby:commure:259988fe-0389-461f-823c-36d81840d465",
+      "category": "Other",
+      "company": "Commure",
+      "job_type": "New Grad",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer - Scribe AI",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "0d",
+          "application_url": "https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465",
+          "category": "Other",
+          "company": "Commure",
+          "job_type": "New Grad",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer - Scribe AI",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465"
+        }
+      },
+      "url_aliases": [
+        "https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465"
+      ]
+    },
     "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3": {
       "age": "Today",
       "application_url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
@@ -4242,11 +4278,11 @@
       "age": "1d",
       "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
       "canonical_id": "greenhouse:astranis:4705214006",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "Astranis Space Technologies",
       "job_type": "Internship",
       "location": "San Francisco, CA",
-      "position": "Software Engineer Backend Intern - Summer 2027",
+      "position": "Software Engineer Backend Intern (Summer 2027)",
       "posted": "2026-09-22",
       "salary": null,
       "season": "Summer 2027",
@@ -4277,24 +4313,6 @@
             "url": "https://applyguy.ai/jobs?company=Astranis&job=a45442e0-97f8-45df-8511-0caaf37e01a4&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Astranis&job=a45442e0-97f8-45df-8511-0caaf37e01a4&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
-        "speedyapply_internships": {
-          "age": "0d",
-          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
-          "category": "Other",
-          "company": "Astranis Space Technologies",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer Backend Intern - Summer 2027",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
         }
       },
       "url_aliases": [
@@ -4366,15 +4384,87 @@
         "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
       ]
     },
+    "greenhouse:astranis:4715983006": {
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
+      "canonical_id": "greenhouse:astranis:4715983006",
+      "category": "Other",
+      "company": "Astranis Space Technologies",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Defined Radio Hardware Associate - Summer 2027",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
+          "category": "Other",
+          "company": "Astranis Space Technologies",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Defined Radio Hardware Associate - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/astranis/jobs/4715983006"
+      ]
+    },
+    "greenhouse:astranis:4715985006": {
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4715985006",
+      "canonical_id": "greenhouse:astranis:4715985006",
+      "category": "Other",
+      "company": "Astranis Space Technologies",
+      "job_type": "New Grad",
+      "location": "San Francisco, CA",
+      "position": "Software Defined Radio Hardware Associate - Winter 2027",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4715985006",
+          "category": "Other",
+          "company": "Astranis Space Technologies",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Defined Radio Hardware Associate - Winter 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/astranis/jobs/4715985006"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/astranis/jobs/4715985006"
+      ]
+    },
     "greenhouse:astranis:4716087006": {
       "age": "1d",
       "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
       "canonical_id": "greenhouse:astranis:4716087006",
-      "category": "Software Engineering",
-      "company": "Astranis",
+      "category": "Other",
+      "company": "Astranis Space Technologies",
       "job_type": "Internship",
       "location": "San Francisco, CA",
-      "position": "Software Defined Radio Hardware Intern (Winter 2027)",
+      "position": "Software Defined Radio Hardware Intern - Winter 2027",
       "posted": "2026-09-23",
       "salary": null,
       "season": "Winter 2027",
@@ -4405,6 +4495,24 @@
             "url": "https://applyguy.ai/jobs?company=Astranis&job=ab791468-fca5-4ebf-854d-45016a075dfe&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Astranis&job=ab791468-fca5-4ebf-854d-45016a075dfe&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+          "category": "Other",
+          "company": "Astranis Space Technologies",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Defined Radio Hardware Intern - Winter 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006"
         }
       },
       "url_aliases": [
@@ -4416,11 +4524,11 @@
       "age": "1d",
       "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
       "canonical_id": "greenhouse:astranis:4716088006",
-      "category": "Software Engineering",
-      "company": "Astranis",
+      "category": "Other",
+      "company": "Astranis Space Technologies",
       "job_type": "Internship",
       "location": "San Francisco, CA",
-      "position": "Software Defined Radio Hardware Intern (Summer 2027)",
+      "position": "Software Defined Radio Hardware Intern - Summer 2027",
       "posted": "2026-09-23",
       "salary": null,
       "season": "Summer 2027",
@@ -4451,11 +4559,65 @@
             "url": "https://applyguy.ai/jobs?company=Astranis&job=b9441606-1d84-42b8-adde-06008e1aa938&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Astranis&job=b9441606-1d84-42b8-adde-06008e1aa938&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+          "category": "Other",
+          "company": "Astranis Space Technologies",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Defined Radio Hardware Intern - Summer 2027",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006"
         }
       },
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Astranis&job=b9441606-1d84-42b8-adde-06008e1aa938&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/astranis/jobs/4716088006"
+      ]
+    },
+    "greenhouse:boxinc:8226667": {
+      "age": "0d",
+      "application_url": "https://job-boards.greenhouse.io/boxinc/jobs/8226667",
+      "canonical_id": "greenhouse:boxinc:8226667",
+      "category": "Other",
+      "company": "Box",
+      "job_type": "Internship",
+      "location": "Remote - Redwood City, CA",
+      "position": "Cloud & AI Finance Intern",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/boxinc/jobs/8226667",
+          "category": "Other",
+          "company": "Box",
+          "job_type": "Internship",
+          "location": "Remote - Redwood City, CA",
+          "position": "Cloud & AI Finance Intern",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/boxinc/jobs/8226667"
+        }
+      },
+      "url_aliases": [
+        "https://job-boards.greenhouse.io/boxinc/jobs/8226667"
       ]
     },
     "greenhouse:c3ascend:8739036002": {
@@ -5879,24 +6041,6 @@
             "url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
           "source_url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
-        "speedyapply_new_grad": {
-          "age": "11d",
-          "application_url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007",
-          "category": "Other",
-          "company": "Muon",
-          "job_type": "New Grad",
-          "location": "San Jose, CA",
-          "position": "Software Engineer - Entry-Level",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007"
         }
       },
       "url_aliases": [
@@ -6437,11 +6581,11 @@
       "age": "Today",
       "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
       "canonical_id": "greenhouse:scaleai:4736426005",
-      "category": "Unknown",
+      "category": "Other",
       "company": "Scale AI",
       "job_type": "New Grad",
       "location": "San Francisco, CA",
-      "position": "Software Engineer, Public Sector - New Grad",
+      "position": "Software Engineer - Public Sector - New Grad",
       "posted": "2026-09-23",
       "salary": null,
       "season": null,
@@ -6472,6 +6616,24 @@
             "url": "https://applyguy.ai/jobs?company=Scale+AI&job=54eddbd4-55ec-4465-a650-636c0cb97e8e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
           "source_url": "https://applyguy.ai/jobs?company=Scale+AI&job=54eddbd4-55ec-4465-a650-636c0cb97e8e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
+        "speedyapply_new_grad": {
+          "age": "0d",
+          "application_url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+          "category": "Other",
+          "company": "Scale AI",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Engineer - Public Sector - New Grad",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
         }
       },
       "url_aliases": [
@@ -7753,35 +7915,8 @@
       "position": "Backend Software Engineering Intern 2027",
       "posted": "2026-08-25",
       "salary": null,
-      "season": "2027",
+      "season": "Summer 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "8d",
-          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
-          "category": "Software Engineering",
-          "company": "Verkada",
-          "job_type": "Internship",
-          "location": "San Mateo, CA",
-          "position": "Backend Software Engineering Intern 2027",
-          "posted": "2026-08-25",
-          "salary": null,
-          "season": "2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "8d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79",
-            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
-            "posted": "2026-08-25",
-            "season": "2027",
-            "url": "https://applyguy.ai/jobs?company=Verkada&job=e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=e4af97fd-80f8-4e70-8e7f-8cc5f9e4de79&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "simplify_summer_2027": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007?utm_source=Simplify&ref=Simplify",
@@ -7839,35 +7974,8 @@
       "position": "Frontend Software Engineering Intern 2027",
       "posted": "2026-08-25",
       "salary": null,
-      "season": "2027",
+      "season": "Summer 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "8d",
-          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
-          "category": "Software Engineering",
-          "company": "Verkada",
-          "job_type": "Internship",
-          "location": "San Mateo, CA",
-          "position": "Frontend Software Engineering Intern 2027",
-          "posted": "2026-08-25",
-          "salary": null,
-          "season": "2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "dd6e9c1e-920a-43d2-a078-18914384469b",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "8d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "dd6e9c1e-920a-43d2-a078-18914384469b",
-            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
-            "posted": "2026-08-25",
-            "season": "2027",
-            "url": "https://applyguy.ai/jobs?company=Verkada&job=dd6e9c1e-920a-43d2-a078-18914384469b&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=dd6e9c1e-920a-43d2-a078-18914384469b&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "simplify_summer_2027": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007?utm_source=Simplify&ref=Simplify",
@@ -7927,33 +8035,6 @@
       "salary": null,
       "season": "2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "8d",
-          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
-          "category": "Software Engineering",
-          "company": "Verkada",
-          "job_type": "Internship",
-          "location": "San Mateo, CA",
-          "position": "Embedded Software Engineering Intern 2027",
-          "posted": "2026-08-25",
-          "salary": null,
-          "season": "2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "71f6de1a-ab6c-4263-8108-ff3787f5418a",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "8d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "71f6de1a-ab6c-4263-8108-ff3787f5418a",
-            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
-            "posted": "2026-08-25",
-            "season": "2027",
-            "url": "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=71f6de1a-ab6c-4263-8108-ff3787f5418a&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
@@ -7989,35 +8070,8 @@
       "position": "Security Software Engineering Intern 2027",
       "posted": "2026-08-25",
       "salary": null,
-      "season": "2027",
+      "season": "Summer 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "8d",
-          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
-          "category": "Software Engineering",
-          "company": "Verkada",
-          "job_type": "Internship",
-          "location": "San Mateo, CA",
-          "position": "Security Software Engineering Intern 2027",
-          "posted": "2026-08-25",
-          "salary": null,
-          "season": "2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "6f984838-bd2b-40fb-a8b0-b126b5ea822c",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "8d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "6f984838-bd2b-40fb-a8b0-b126b5ea822c",
-            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
-            "posted": "2026-08-25",
-            "season": "2027",
-            "url": "https://applyguy.ai/jobs?company=Verkada&job=6f984838-bd2b-40fb-a8b0-b126b5ea822c&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=6f984838-bd2b-40fb-a8b0-b126b5ea822c&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "simplify_summer_2027": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007?utm_source=Simplify&ref=Simplify",
@@ -8075,35 +8129,8 @@
       "position": "Mobile Software Engineering Intern 2027",
       "posted": "2026-08-25",
       "salary": null,
-      "season": "2027",
+      "season": "Summer 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "8d",
-          "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
-          "category": "Software Engineering",
-          "company": "Verkada",
-          "job_type": "Internship",
-          "location": "San Mateo, CA",
-          "position": "Mobile Software Engineering Intern 2027",
-          "posted": "2026-08-25",
-          "salary": null,
-          "season": "2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "f7836b53-a95f-45f3-8e30-e3e2a68a620a",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "8d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "f7836b53-a95f-45f3-8e30-e3e2a68a620a",
-            "listingUrl": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
-            "posted": "2026-08-25",
-            "season": "2027",
-            "url": "https://applyguy.ai/jobs?company=Verkada&job=f7836b53-a95f-45f3-8e30-e3e2a68a620a&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Verkada&job=f7836b53-a95f-45f3-8e30-e3e2a68a620a&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "simplify_summer_2027": {
           "age": "0d",
           "application_url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007?utm_source=Simplify&ref=Simplify",
@@ -14311,6 +14338,42 @@
         "https://careers.roblox.com/jobs/8168383?gh_jid=8168383"
       ]
     },
+    "url:https://careers.roblox.com/jobs/8168881?gh_jid=8168881": {
+      "age": "0d",
+      "application_url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
+      "canonical_id": "url:https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
+      "category": "FAANG+",
+      "company": "Roblox",
+      "job_type": "New Grad",
+      "location": "San Mateo, CA",
+      "position": "Software Engineer - Data Access",
+      "posted": null,
+      "salary": "$150k/yr",
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "0d",
+          "application_url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
+          "category": "FAANG+",
+          "company": "Roblox",
+          "job_type": "New Grad",
+          "location": "San Mateo, CA",
+          "position": "Software Engineer - Data Access",
+          "posted": null,
+          "salary": "$150k/yr",
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881"
+        }
+      },
+      "url_aliases": [
+        "https://careers.roblox.com/jobs/8168881?gh_jid=8168881"
+      ]
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8174099": {
       "age": "Today",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
@@ -14701,7 +14764,7 @@
       "age": "Today",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
       "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8203200",
-      "category": "Other",
+      "category": "Software Engineering",
       "company": "Waymo",
       "job_type": "Internship",
       "location": "San Francisco, CA",
@@ -14736,24 +14799,6 @@
             "url": "https://applyguy.ai/jobs?company=Waymo&job=56e36739-8cba-4922-9c82-26c1c98a2c51&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Waymo&job=56e36739-8cba-4922-9c82-26c1c98a2c51&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
-        "speedyapply_internships": {
-          "age": "0d",
-          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
-          "category": "Other",
-          "company": "Waymo",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "2027 Summer Intern - BS/MS - Software Engineering - Maneuvering Tech",
-          "posted": null,
-          "salary": null,
-          "season": null,
-          "source_file": "README.md",
-          "source_id": "speedyapply_internships",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
         }
       },
       "url_aliases": [
@@ -15230,11 +15275,11 @@
       "age": "Today",
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
       "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224729",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Waymo",
       "job_type": "Internship",
       "location": "Mountain View, CA",
-      "position": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "position": "2027 Summer Intern - MS/PhD - Software Engineer",
       "posted": "2026-09-23",
       "salary": null,
       "season": "Summer 2027",
@@ -15265,6 +15310,24 @@
             "url": "https://applyguy.ai/jobs?company=Waymo&job=7a9f3da8-6717-4c40-b2d4-a7e3f24123dc&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Waymo&job=7a9f3da8-6717-4c40-b2d4-a7e3f24123dc&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+          "category": "Other",
+          "company": "Waymo",
+          "job_type": "Internship",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern - MS/PhD - Software Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729"
         }
       },
       "url_aliases": [
@@ -15854,11 +15917,11 @@
       "age": "Today",
       "application_url": "https://nuro.ai/careersitem?gh_jid=8227399",
       "canonical_id": "url:https://nuro.ai/careersitem?gh_jid=8227399",
-      "category": "Unknown",
+      "category": "Other",
       "company": "Nuro",
       "job_type": "New Grad",
       "location": "Mountain View, California (HQ)",
-      "position": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+      "position": "Software Engineer - Performance Tooling and Infrastructure New Grad",
       "posted": "2026-09-23",
       "salary": null,
       "season": null,
@@ -15889,6 +15952,24 @@
             "url": "https://applyguy.ai/jobs?company=Nuro&job=14ecbeb1-0c02-411d-8ec6-163c3357f3f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
           },
           "source_url": "https://applyguy.ai/jobs?company=Nuro&job=14ecbeb1-0c02-411d-8ec6-163c3357f3f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
+        "speedyapply_new_grad": {
+          "age": "0d",
+          "application_url": "https://nuro.ai/careersitem?gh_jid=8227399",
+          "category": "Other",
+          "company": "Nuro",
+          "job_type": "New Grad",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer - Performance Tooling and Infrastructure New Grad",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://nuro.ai/careersitem?gh_jid=8227399"
         }
       },
       "url_aliases": [
@@ -16481,42 +16562,6 @@
       "url_aliases": [
         "https://simplify.jobs/p/c9bf8e11-07ee-42db-b773-dd7f4ce360fc?utm_source=GHList",
         "https://www.google.com/about/careers/applications/jobs/results/100648618540573382?utm_source=Simplify&ref=Simplify"
-      ]
-    },
-    "url:https://www.google.com/about/careers/applications/jobs/results/106684387621249734": {
-      "age": "1d",
-      "application_url": "https://www.google.com/about/careers/applications/jobs/results/106684387621249734",
-      "canonical_id": "url:https://www.google.com/about/careers/applications/jobs/results/106684387621249734",
-      "category": "FAANG+",
-      "company": "Google",
-      "job_type": "New Grad",
-      "location": "Mountain View, CA",
-      "position": "Software Engineer",
-      "posted": null,
-      "salary": "$196k/yr",
-      "season": null,
-      "sources": {
-        "speedyapply_new_grad": {
-          "age": "1d",
-          "application_url": "https://www.google.com/about/careers/applications/jobs/results/106684387621249734",
-          "category": "FAANG+",
-          "company": "Google",
-          "job_type": "New Grad",
-          "location": "Mountain View, CA",
-          "position": "Software Engineer",
-          "posted": null,
-          "salary": "$196k/yr",
-          "season": null,
-          "source_file": "NEW_GRAD_USA.md",
-          "source_id": "speedyapply_new_grad",
-          "source_job_id": null,
-          "source_label": "SpeedyApply",
-          "source_metadata": {},
-          "source_url": "https://www.google.com/about/careers/applications/jobs/results/106684387621249734"
-        }
-      },
-      "url_aliases": [
-        "https://www.google.com/about/careers/applications/jobs/results/106684387621249734"
       ]
     },
     "url:https://www.google.com/about/careers/applications/jobs/results/112499004540887750?ref=Simplify": {
@@ -18709,6 +18754,42 @@
         "https://simplify.jobs/p/ac297577-f4f9-4b73-ab38-00c094342140?utm_source=GHList"
       ]
     },
+    "workday:jj.wd5.myworkdayjobs.com:cloud-systems-engineer_r-100350": {
+      "age": "2d",
+      "application_url": "https://jj.wd5.myworkdayjobs.com/en-US/displacedemployees/job/Santa-Clara-California-United-States-of-America/Cloud-Systems-Engineer_R-100350",
+      "canonical_id": "workday:jj.wd5.myworkdayjobs.com:cloud-systems-engineer_r-100350",
+      "category": "Other",
+      "company": "Johnson & Johnson",
+      "job_type": "New Grad",
+      "location": "Santa Clara, CA",
+      "position": "Cloud Systems Engineer",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_new_grad": {
+          "age": "2d",
+          "application_url": "https://jj.wd5.myworkdayjobs.com/en-US/displacedemployees/job/Santa-Clara-California-United-States-of-America/Cloud-Systems-Engineer_R-100350",
+          "category": "Other",
+          "company": "Johnson & Johnson",
+          "job_type": "New Grad",
+          "location": "Santa Clara, CA",
+          "position": "Cloud Systems Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "NEW_GRAD_USA.md",
+          "source_id": "speedyapply_new_grad",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://jj.wd5.myworkdayjobs.com/en-US/displacedemployees/job/Santa-Clara-California-United-States-of-America/Cloud-Systems-Engineer_R-100350"
+        }
+      },
+      "url_aliases": [
+        "https://jj.wd5.myworkdayjobs.com/en-US/displacedemployees/job/Santa-Clara-California-United-States-of-America/Cloud-Systems-Engineer_R-100350"
+      ]
+    },
     "workday:jj.wd5.myworkdayjobs.com:cloud-systems-engineer_r-100350-1": {
       "age": "1d",
       "application_url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Cloud-Systems-Engineer_R-100350-1",
@@ -18933,6 +19014,42 @@
         "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1"
       ]
     },
+    "workday:kla.wd1.myworkdayjobs.com:algorithm-engineering-intern--ai--computer-vision---software-engineering-_2641392-2": {
+      "age": "2d",
+      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
+      "canonical_id": "workday:kla.wd1.myworkdayjobs.com:algorithm-engineering-intern--ai--computer-vision---software-engineering-_2641392-2",
+      "category": "Other",
+      "company": "KLA",
+      "job_type": "Internship",
+      "location": "Milpitas, CA",
+      "position": "Algorithm Engineering Intern - AI - Computer Vision & Software Engineering",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "2d",
+          "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
+          "category": "Other",
+          "company": "KLA",
+          "job_type": "Internship",
+          "location": "Milpitas, CA",
+          "position": "Algorithm Engineering Intern - AI - Computer Vision & Software Engineering",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2"
+        }
+      },
+      "url_aliases": [
+        "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2"
+      ]
+    },
     "workday:kla.wd1.myworkdayjobs.com:hpc-software-engineer_2638794": {
       "age": "27d",
       "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/HPC-Software-Engineer_2638794",
@@ -19068,6 +19185,80 @@
         "https://applyguy.ai/jobs?company=KLA&job=118c1862-7932-4ef5-9b56-3690b97a4ebb&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
         "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325"
+      ]
+    },
+    "workday:kla.wd1.myworkdayjobs.com:software-engineering-intern--c----unix-_2641325-1": {
+      "age": "2d",
+      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
+      "canonical_id": "workday:kla.wd1.myworkdayjobs.com:software-engineering-intern--c----unix-_2641325-1",
+      "category": "Other",
+      "company": "KLA",
+      "job_type": "Internship",
+      "location": "Milpitas, CA",
+      "position": "Software Engineering Intern - C++ - Unix",
+      "posted": null,
+      "salary": null,
+      "season": null,
+      "sources": {
+        "speedyapply_internships": {
+          "age": "2d",
+          "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
+          "category": "Other",
+          "company": "KLA",
+          "job_type": "Internship",
+          "location": "Milpitas, CA",
+          "position": "Software Engineering Intern - C++ - Unix",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"
+        }
+      },
+      "url_aliases": [
+        "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"
+      ]
+    },
+    "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {
+      "age": "Today",
+      "application_url": "https://liveramp.wd5.myworkdayjobs.com/en-US/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
+      "canonical_id": "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095",
+      "category": "Other",
+      "company": "LiveRamp",
+      "job_type": "Internship",
+      "location": "San Francisco, CA +3",
+      "position": "Co-Op - DevOps Engineer",
+      "posted": "2026-08-20",
+      "salary": null,
+      "season": "Co-op",
+      "sources": {
+        "speedyapply_internships": {
+          "age": "36d",
+          "application_url": "https://liveramp.wd5.myworkdayjobs.com/en-US/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
+          "category": "Other",
+          "company": "LiveRamp",
+          "job_type": "Internship",
+          "location": "San Francisco, CA +3",
+          "position": "Co-Op - DevOps Engineer",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://liveramp.wd5.myworkdayjobs.com/en-US/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=LiveRamp&job=91a0f288-3460-4ea3-9c2e-a975de546b10&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://liveramp.wd5.myworkdayjobs.com/en-US/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
+        "https://liveramp.wd5.myworkdayjobs.com/liverampcareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095"
       ]
     },
     "workday:marvell.wd1.myworkdayjobs.com:firmware-engineer-intern--bs---summer-2027_2604461": {
@@ -20058,9 +20249,9 @@
     },
     "workday:visa.wd5.myworkdayjobs.com:xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w-1": {
       "age": "Today",
-      "application_url": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
+      "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
       "canonical_id": "workday:visa.wd5.myworkdayjobs.com:xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w-1",
-      "category": "Software Engineering",
+      "category": "Other",
       "company": "Visa",
       "job_type": "Internship",
       "location": "Foster City, CA",
@@ -20095,6 +20286,24 @@
             "url": "https://applyguy.ai/jobs?company=Visa&job=c6db2a95-1f7f-4e91-ac4e-a87736fc1cdf&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Visa&job=c6db2a95-1f7f-4e91-ac4e-a87736fc1cdf&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        },
+        "speedyapply_internships": {
+          "age": "7d",
+          "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
+          "category": "Other",
+          "company": "Visa",
+          "job_type": "Internship",
+          "location": "Foster City, CA",
+          "position": "2027 Sophomore Internship Program - Software Engineer Intern - Foster City",
+          "posted": null,
+          "salary": null,
+          "season": null,
+          "source_file": "README.md",
+          "source_id": "speedyapply_internships",
+          "source_job_id": null,
+          "source_label": "SpeedyApply",
+          "source_metadata": {},
+          "source_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"
         }
       },
       "url_aliases": [
