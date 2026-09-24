@@ -2824,52 +2824,6 @@
         "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069"
       ]
     },
-    "ashby:prophet-security:6319cd03-3d5f-47b9-815b-0f8b0d184612": {
-      "age": "1d",
-      "application_url": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612",
-      "canonical_id": "ashby:prophet-security:6319cd03-3d5f-47b9-815b-0f8b0d184612",
-      "category": "Software Engineering",
-      "company": "Prophet Security",
-      "job_type": "Internship",
-      "location": "Palo Alto, CA",
-      "position": "Software Engineer, Backend Intern",
-      "posted": "2026-08-25",
-      "salary": null,
-      "season": "Not specified",
-      "sources": {
-        "applyguy_internships": {
-          "age": "1d",
-          "application_url": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612",
-          "category": "Software Engineering",
-          "company": "Prophet Security",
-          "job_type": "Internship",
-          "location": "Palo Alto, CA",
-          "position": "Software Engineer, Backend Intern",
-          "posted": "2026-08-25",
-          "salary": null,
-          "season": "Not specified",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "1d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-08-26T01:15:31.558Z",
-            "id": "b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723",
-            "listingUrl": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612",
-            "posted": "2026-08-25",
-            "season": "Not specified",
-            "url": "https://applyguy.ai/jobs?company=Prophet+Security&job=b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Prophet+Security&job=b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Prophet+Security&job=b60a13ca-1f47-4e6c-b5ef-0cce1cd8a723&utm_source=github&utm_medium=listing&utm_campaign=internships",
-        "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612"
-      ]
-    },
     "ashby:pylon-labs:38814ce7-217b-40f2-9ba5-8a7733a5691d": {
       "age": "38d",
       "application_url": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d",
@@ -3925,33 +3879,6 @@
       "salary": null,
       "season": "Summer 2027",
       "sources": {
-        "applyguy_internships": {
-          "age": "8d",
-          "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
-          "category": "Software Engineering",
-          "company": "Zip",
-          "job_type": "Internship",
-          "location": "San Francisco, CA",
-          "position": "Software Engineer Intern (Summer 2027)",
-          "posted": "2026-08-25",
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "data/internships.json",
-          "source_id": "applyguy_internships",
-          "source_job_id": "c95c1e0e-bb15-4bc7-bd3e-18234f72f52b",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "8d",
-            "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-02T08:30:08.065Z",
-            "id": "c95c1e0e-bb15-4bc7-bd3e-18234f72f52b",
-            "listingUrl": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
-            "posted": "2026-08-25",
-            "season": "Summer 2027",
-            "url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Zip&job=c95c1e0e-bb15-4bc7-bd3e-18234f72f52b&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
         "speedyapply_internships": {
           "age": "0d",
           "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
@@ -4438,6 +4365,98 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Astranis&job=f229f9ab-99ca-4611-b7b4-d099b0ffadc9&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
+      ]
+    },
+    "greenhouse:astranis:4716087006": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+      "canonical_id": "greenhouse:astranis:4716087006",
+      "category": "Software Engineering",
+      "company": "Astranis",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Defined Radio Hardware Intern (Winter 2027)",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": "Winter 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+          "category": "Software Engineering",
+          "company": "Astranis",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Defined Radio Hardware Intern (Winter 2027)",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": "Winter 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "ab791468-fca5-4ebf-854d-45016a075dfe",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-24T03:45:41.480Z",
+            "id": "ab791468-fca5-4ebf-854d-45016a075dfe",
+            "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+            "posted": "2026-09-23",
+            "season": "Winter 2027",
+            "url": "https://applyguy.ai/jobs?company=Astranis&job=ab791468-fca5-4ebf-854d-45016a075dfe&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Astranis&job=ab791468-fca5-4ebf-854d-45016a075dfe&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Astranis&job=ab791468-fca5-4ebf-854d-45016a075dfe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/astranis/jobs/4716087006"
+      ]
+    },
+    "greenhouse:astranis:4716088006": {
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+      "canonical_id": "greenhouse:astranis:4716088006",
+      "category": "Software Engineering",
+      "company": "Astranis",
+      "job_type": "Internship",
+      "location": "San Francisco, CA",
+      "position": "Software Defined Radio Hardware Intern (Summer 2027)",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+          "category": "Software Engineering",
+          "company": "Astranis",
+          "job_type": "Internship",
+          "location": "San Francisco, CA",
+          "position": "Software Defined Radio Hardware Intern (Summer 2027)",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b9441606-1d84-42b8-adde-06008e1aa938",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-24T03:45:41.480Z",
+            "id": "b9441606-1d84-42b8-adde-06008e1aa938",
+            "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+            "posted": "2026-09-23",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Astranis&job=b9441606-1d84-42b8-adde-06008e1aa938&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Astranis&job=b9441606-1d84-42b8-adde-06008e1aa938&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Astranis&job=b9441606-1d84-42b8-adde-06008e1aa938&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/astranis/jobs/4716088006"
       ]
     },
     "greenhouse:c3ascend:8739036002": {
@@ -8877,7 +8896,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -9072,7 +9091,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",

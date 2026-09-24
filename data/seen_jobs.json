@@ -5084,14 +5084,14 @@
       ]
     },
     "ashby:prophet-security:6319cd03-3d5f-47b9-815b-0f8b0d184612": {
-      "active": true,
+      "active": false,
       "age": "1d",
       "application_url": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612",
       "canonical_id": "ashby:prophet-security:6319cd03-3d5f-47b9-815b-0f8b0d184612",
       "category": "Software Engineering",
       "company": "Prophet Security",
       "first_seen": "2026-08-26T01:27:15Z",
-      "inactive_at": null,
+      "inactive_at": "2026-09-24T03:49:53Z",
       "job_type": "Internship",
       "last_seen": "2026-08-26T01:27:15Z",
       "location": "Palo Alto, CA",
@@ -5101,13 +5101,13 @@
       "season": "Not specified",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "1d",
           "application_url": "https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612",
           "category": "Software Engineering",
           "company": "Prophet Security",
           "first_seen": "2026-08-26T01:27:15Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-24T03:49:53Z",
           "job_type": "Internship",
           "last_seen": "2026-08-26T01:27:15Z",
           "location": "Palo Alto, CA",
@@ -7058,13 +7058,13 @@
       "season": "Summer 2027",
       "sources": {
         "applyguy_internships": {
-          "active": true,
+          "active": false,
           "age": "8d",
           "application_url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf",
           "category": "Software Engineering",
           "company": "Zip",
           "first_seen": "2026-08-26T03:08:30Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-24T03:49:53Z",
           "job_type": "Internship",
           "last_seen": "2026-09-02T08:34:34Z",
           "location": "San Francisco, CA",
@@ -7878,6 +7878,114 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Astranis&job=f229f9ab-99ca-4611-b7b4-d099b0ffadc9&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
+      ]
+    },
+    "greenhouse:astranis:4716087006": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+      "canonical_id": "greenhouse:astranis:4716087006",
+      "category": "Software Engineering",
+      "company": "Astranis",
+      "first_seen": "2026-09-24T03:49:53Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-24T03:49:53Z",
+      "location": "San Francisco, CA",
+      "position": "Software Defined Radio Hardware Intern (Winter 2027)",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": "Winter 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+          "category": "Software Engineering",
+          "company": "Astranis",
+          "first_seen": "2026-09-24T03:49:53Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-24T03:49:53Z",
+          "location": "San Francisco, CA",
+          "position": "Software Defined Radio Hardware Intern (Winter 2027)",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": "Winter 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "ab791468-fca5-4ebf-854d-45016a075dfe",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-24T03:45:41.480Z",
+            "id": "ab791468-fca5-4ebf-854d-45016a075dfe",
+            "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+            "posted": "2026-09-23",
+            "season": "Winter 2027",
+            "url": "https://applyguy.ai/jobs?company=Astranis&job=ab791468-fca5-4ebf-854d-45016a075dfe&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Astranis&job=ab791468-fca5-4ebf-854d-45016a075dfe&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Astranis&job=ab791468-fca5-4ebf-854d-45016a075dfe&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/astranis/jobs/4716087006"
+      ]
+    },
+    "greenhouse:astranis:4716088006": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+      "canonical_id": "greenhouse:astranis:4716088006",
+      "category": "Software Engineering",
+      "company": "Astranis",
+      "first_seen": "2026-09-24T03:49:53Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-24T03:49:53Z",
+      "location": "San Francisco, CA",
+      "position": "Software Defined Radio Hardware Intern (Summer 2027)",
+      "posted": "2026-09-23",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+          "category": "Software Engineering",
+          "company": "Astranis",
+          "first_seen": "2026-09-24T03:49:53Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-24T03:49:53Z",
+          "location": "San Francisco, CA",
+          "position": "Software Defined Radio Hardware Intern (Summer 2027)",
+          "posted": "2026-09-23",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "b9441606-1d84-42b8-adde-06008e1aa938",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-24T03:45:41.480Z",
+            "id": "b9441606-1d84-42b8-adde-06008e1aa938",
+            "listingUrl": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
+            "posted": "2026-09-23",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Astranis&job=b9441606-1d84-42b8-adde-06008e1aa938&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Astranis&job=b9441606-1d84-42b8-adde-06008e1aa938&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Astranis&job=b9441606-1d84-42b8-adde-06008e1aa938&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://job-boards.greenhouse.io/astranis/jobs/4716088006"
       ]
     },
     "greenhouse:c3ascend:8739036002": {
@@ -14431,7 +14539,7 @@
       "first_seen": "2026-08-17T17:45:31Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-23T11:03:16Z",
+      "last_seen": "2026-09-24T03:49:53Z",
       "location": "San Jose, CA",
       "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
       "posted": null,
@@ -14442,12 +14550,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-08-17T17:45:31Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-23T11:03:16Z",
+          "last_seen": "2026-09-24T03:49:53Z",
           "location": "San Jose, CA",
           "position": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
           "posted": null,
@@ -14760,7 +14868,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-23T11:03:16Z",
+      "last_seen": "2026-09-24T03:49:53Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -14771,12 +14879,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-23T11:03:16Z",
+          "last_seen": "2026-09-24T03:49:53Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -34750,6 +34858,20 @@
         "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced"
       ],
       "status": "sent"
+    },
+    "9d95e8e53e706f201e3efe4142ecdb8776dc2f54dc681563bdb48fc07394e241": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-24T03:49:53Z",
+      "issue_number": null,
+      "job_ids": [
+        "greenhouse:astranis:4716087006",
+        "greenhouse:astranis:4716088006"
+      ],
+      "job_urls": [
+        "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
+        "https://job-boards.greenhouse.io/astranis/jobs/4716088006"
+      ],
+      "status": "pending"
     },
     "9e82bc35c86a776cdc91e05191d9a3acc16c50c66e157e70c9d02de7f43741dd": {
       "application_scan_eligible": true,
