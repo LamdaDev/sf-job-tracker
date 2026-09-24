@@ -319,6 +319,51 @@
         "https://www.amazon.jobs/jobs/10517662/apply"
       ]
     },
+    "amazon:10558915": {
+      "age": "Today",
+      "application_url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+      "canonical_id": "amazon:10558915",
+      "category": "Unknown",
+      "company": "Amazon",
+      "job_type": "New Grad",
+      "location": "Cupertino, CA",
+      "position": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
+      "posted": "2026-09-24",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "Today",
+          "application_url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+          "category": "Unknown",
+          "company": "Amazon",
+          "job_type": "New Grad",
+          "location": "Cupertino, CA",
+          "position": "Software Development Engineer I, Annapurna Labs, Early Career - 2027",
+          "posted": "2026-09-24",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "custom:amazon:cfde0310784db9a8a37f",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-24T14:31:04.483Z",
+            "id": "custom:amazon:cfde0310784db9a8a37f",
+            "listingUrl": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+            "matchKind": "explicit",
+            "posted": "2026-09-24",
+            "url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027"
+          },
+          "source_url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027"
+        }
+      },
+      "url_aliases": [
+        "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027"
+      ]
+    },
     "ashby:abridge:3f07a457-dc14-4238-bf4e-5c33b5c1f883": {
       "age": "2d",
       "application_url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883",
@@ -9045,7 +9090,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
