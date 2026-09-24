@@ -35091,7 +35091,7 @@
     "5a33716ac4741eae353c9943c8c949f612d1a60c59de16260e1eadb14fa40281": {
       "application_scan_eligible": true,
       "created_at": "2026-09-24T18:52:29Z",
-      "issue_number": null,
+      "issue_number": 122,
       "job_ids": [
         "ashby:commure:259988fe-0389-461f-823c-36d81840d465",
         "greenhouse:astranis:4715983006",
@@ -35112,7 +35112,7 @@
         "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
         "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "5bad3bcd0bbd991c5862ad1624c3be973833fceb9bf034bfae17bed6967b07bd": {
       "application_scan_eligible": true,

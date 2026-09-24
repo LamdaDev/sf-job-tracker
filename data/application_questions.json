@@ -315,6 +315,27 @@
       "scanned_at": "2026-08-24T13:54:42Z",
       "status": "unavailable"
     },
+    "ashby:commure:259988fe-0389-461f-823c-36d81840d465": {
+      "application_url": "https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:commure:259988fe-0389-461f-823c-36d81840d465",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-24T18:52:35Z",
+      "http_status": 200,
+      "issue_number": 122,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-24T18:52:35Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-24T18:52:35Z",
+      "status": "unavailable"
+    },
     "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3": {
       "application_url": "https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3",
       "attempt_count": 1,
@@ -2886,6 +2907,616 @@
       "scanned_at": "2026-09-23T05:38:31Z",
       "status": "complete"
     },
+    "greenhouse:astranis:4715983006": {
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:astranis:4715983006",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-24T18:52:37Z",
+      "http_status": 200,
+      "issue_number": 122,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-24T18:52:37Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8710187006",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Astranis complies with U.S. Government space technology export regulations, therefore will you state which of the following applies to you",
+          "options": [
+            "I am a U.S. Citizen.",
+            "I am a lawful permanent resident of the U.S. and Green Card Holder.",
+            "I am a refugee under 8 U.S.C. 1157.",
+            "I am an asylee under 8 U.S.C. 1158.",
+            "None of the above."
+          ],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710188006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "What is the most impressive thing you have ever accomplished?",
+          "options": [],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710189006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Please answer three of the following questions.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710190006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We put capacitors on our voltage supplies in order to filter out high frequency noise. Which is better: a 10uF capacitor or a 0.1uF capacitor? Why",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_8710191006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "A member of the software team recently got into LED art. They bought a couple of cheap LEDs and resistors and and wired them up. They expect all four to be the same brightness, but they're not. Why is that? Schematic: https://i.imgur.com/H0eYbLs.png",
+          "options": [],
+          "ordinal": 10,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710192006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We need a power converter to go from a 5 V battery V to 3.3 V to a small microcontroller in low power mode. If we want it to be efficient, should we use a buck converter or a low drop-out regulator (LDO)?",
+          "options": [],
+          "ordinal": 11,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_8710193006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We use photodiodes to track our orientation relative to the sun. Briefly describe a possible signal chain from a photodiode to a microcontroller.",
+          "options": [],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710194006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "It's karaoke night at the office! We're choosing a DAC to play music from our computer - what are some important factors in the design?",
+          "options": [],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710195006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Please confirm the season you are applying for.",
+          "options": [
+            "Summer 2027"
+          ],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710196006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When are you able to join Astranis as an intern? (12 week minimum)",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710197006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When do you plan on ending your internship?",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710198006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "At Astranis, we value in-person collaboration and a strong work ethic. Are you comfortable with working onsite at our San Francisco HQ 5 days a week?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710199006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "How did you hear about Astranis?",
+          "options": [],
+          "ordinal": 18,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8710200006",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 20,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 22,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 23,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-24T18:52:37Z",
+      "status": "complete"
+    },
+    "greenhouse:astranis:4715985006": {
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4715985006",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:astranis:4715985006",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-24T18:52:38Z",
+      "http_status": 200,
+      "issue_number": 122,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-24T18:52:38Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8710215006",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Astranis complies with U.S. Government space technology export regulations, therefore will you state which of the following applies to you",
+          "options": [
+            "I am a U.S. Citizen.",
+            "I am a lawful permanent resident of the U.S. and Green Card Holder.",
+            "I am a refugee under 8 U.S.C. 1157.",
+            "I am an asylee under 8 U.S.C. 1158.",
+            "None of the above."
+          ],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710216006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "What is the most impressive thing you have ever accomplished?",
+          "options": [],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710217006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Please answer three of the following questions.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710218006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We put capacitors on our voltage supplies in order to filter out high frequency noise. Which is better: a 10uF capacitor or a 0.1uF capacitor? Why",
+          "options": [],
+          "ordinal": 9,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_8710219006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "A member of the software team recently got into LED art. They bought a couple of cheap LEDs and resistors and and wired them up. They expect all four to be the same brightness, but they're not. Why is that? Schematic: https://i.imgur.com/H0eYbLs.png",
+          "options": [],
+          "ordinal": 10,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710220006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We need a power converter to go from a 5 V battery V to 3.3 V to a small microcontroller in low power mode. If we want it to be efficient, should we use a buck converter or a low drop-out regulator (LDO)?",
+          "options": [],
+          "ordinal": 11,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710221006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "It's karaoke night at the office! We're choosing a DAC to play music from our computer - what are some important factors in the design?",
+          "options": [],
+          "ordinal": 12,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "job_specific",
+          "field_name": "question_8710222006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "We use photodiodes to track our orientation relative to the sun. Briefly describe a possible signal chain from a photodiode to a microcontroller.",
+          "options": [],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710223006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Please confirm the season you are applying for.",
+          "options": [
+            "Winter 2027"
+          ],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710224006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When are you able to join Astranis as an intern? (12 week minimum)",
+          "options": [],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710225006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When do you plan on ending your internship?",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710226006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "At Astranis, we value in-person collaboration and a strong work ethic. Are you comfortable with working onsite at our San Francisco HQ 5 days a week?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8710227006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "How did you hear about Astranis?",
+          "options": [],
+          "ordinal": 18,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8710228006",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 20,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 21,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 22,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 23,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-24T18:52:38Z",
+      "status": "complete"
+    },
     "greenhouse:astranis:4716087006": {
       "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
       "attempt_count": 1,
@@ -3494,6 +4125,293 @@
         }
       ],
       "scanned_at": "2026-09-24T03:50:00Z",
+      "status": "complete"
+    },
+    "greenhouse:boxinc:8226667": {
+      "application_url": "https://job-boards.greenhouse.io/boxinc/jobs/8226667",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:boxinc:8226667",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-24T18:52:40Z",
+      "http_status": 200,
+      "issue_number": 122,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-24T18:52:40Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "cover_letter",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Cover Letter",
+          "options": [],
+          "ordinal": 6,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_69395147",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 7,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "work_authorization",
+          "field_name": "question_69395148",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Do you now, or will you in the future, require sponsorship for employment visa status (e.g.. H-1B visa status, etc) to work legally for Box in the United States?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_69395149",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "In what City, State and Zip are you currently residing?",
+          "options": [],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_69395150",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Have you ever been employed at Box, including working as a contractor, intern, grad, or full-time employee?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "location_logistics",
+          "field_name": "question_69395151",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Boxers are expected to work from the office a minimum of 3 days per week, with a focus on Tuesdays, Wednesday and Thursdays. Are you willing to relocate and commute to this position's designated office?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_69395152",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "How did you hear about this job/Box?",
+          "options": [
+            "Box careers site",
+            "Referral",
+            "LinkedIn",
+            "Indeed",
+            "Glassdoor",
+            "Google / web search",
+            "Social media",
+            "Recruiter / Box outreach",
+            "University / Career office event",
+            "Other (Free text option)"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_69395153",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "If you select \"Other,\" please provide details below.",
+          "options": [],
+          "ordinal": 13,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_69395154",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Privacy Notice Acknowledgement",
+          "options": [
+            "I Acknowledge"
+          ],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_69395155",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Consent To Process",
+          "options": [
+            "I Agree"
+          ],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I identify my gender as",
+          "options": [],
+          "ordinal": 17,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I identify as transgender",
+          "options": [],
+          "ordinal": 18,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I identify my sexual orientation as",
+          "options": [],
+          "ordinal": 19,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I identify my ethnicity as",
+          "options": [],
+          "ordinal": 20,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Veteran status",
+          "options": [],
+          "ordinal": 21,
+          "required": true,
+          "source_section": "demographic_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": null,
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "I have a physical disability, or have a history/record of having a disability",
+          "options": [],
+          "ordinal": 22,
+          "required": true,
+          "source_section": "demographic_questions"
+        }
+      ],
+      "scanned_at": "2026-09-24T18:52:40Z",
       "status": "complete"
     },
     "greenhouse:c3ascend:8739036002": {
@@ -24129,6 +25047,27 @@
       "scanned_at": "2026-09-17T21:57:45Z",
       "status": "failed"
     },
+    "url:https://careers.roblox.com/jobs/8168881?gh_jid=8168881": {
+      "application_url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-24T18:52:42Z",
+      "http_status": 200,
+      "issue_number": 122,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-24T18:52:42Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-24T18:52:42Z",
+      "status": "unavailable"
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8174099": {
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
       "attempt_count": 1,
@@ -27719,6 +28658,27 @@
       "scanned_at": "2026-09-03T08:42:54Z",
       "status": "unavailable"
     },
+    "workday:jj.wd5.myworkdayjobs.com:cloud-systems-engineer_r-100350": {
+      "application_url": "https://jj.wd5.myworkdayjobs.com/en-US/displacedemployees/job/Santa-Clara-California-United-States-of-America/Cloud-Systems-Engineer_R-100350",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:jj.wd5.myworkdayjobs.com:cloud-systems-engineer_r-100350",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-24T18:52:45Z",
+      "http_status": 200,
+      "issue_number": 122,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-24T18:52:45Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-24T18:52:45Z",
+      "status": "unavailable"
+    },
     "workday:jj.wd5.myworkdayjobs.com:cloud-systems-engineer_r-100350-1": {
       "application_url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Cloud-Systems-Engineer_R-100350-1",
       "attempt_count": 1,
@@ -27845,6 +28805,27 @@
       "scanned_at": "2026-09-23T05:38:34Z",
       "status": "unavailable"
     },
+    "workday:kla.wd1.myworkdayjobs.com:algorithm-engineering-intern--ai--computer-vision---software-engineering-_2641392-2": {
+      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:kla.wd1.myworkdayjobs.com:algorithm-engineering-intern--ai--computer-vision---software-engineering-_2641392-2",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-24T18:52:49Z",
+      "http_status": 200,
+      "issue_number": 122,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-24T18:52:49Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-24T18:52:49Z",
+      "status": "unavailable"
+    },
     "workday:kla.wd1.myworkdayjobs.com:software-applications-engineer_2640096": {
       "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
       "attempt_count": 1,
@@ -27927,6 +28908,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-23T05:38:38Z",
+      "status": "unavailable"
+    },
+    "workday:kla.wd1.myworkdayjobs.com:software-engineering-intern--c----unix-_2641325-1": {
+      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:kla.wd1.myworkdayjobs.com:software-engineering-intern--c----unix-_2641325-1",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-24T18:52:52Z",
+      "http_status": 200,
+      "issue_number": 122,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-24T18:52:52Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-24T18:52:52Z",
       "status": "unavailable"
     },
     "workday:liveramp.wd5.myworkdayjobs.com:co-op--devops-engineer_jr162095": {
