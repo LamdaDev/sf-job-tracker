@@ -35317,13 +35317,13 @@
           "source_url": "https://applyguy.ai/jobs?company=Visa&job=badd8ab8-18c1-4486-b453-f5b82e82c229&utm_source=github&utm_medium=listing&utm_campaign=internships"
         },
         "simplify_summer_2027": {
-          "active": true,
+          "active": false,
           "age": "8d",
           "application_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1?utm_source=Simplify&ref=Simplify",
           "category": "FAANG+",
           "company": "Visa",
           "first_seen": "2026-09-17T18:00:49Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-25T22:04:30Z",
           "job_type": "Internship",
           "last_seen": "2026-09-25T18:19:52Z",
           "location": "Foster City, CA",
