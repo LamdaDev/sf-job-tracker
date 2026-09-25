@@ -3540,6 +3540,144 @@
         "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"
       ]
     },
+    "ashby:snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca": {
+      "age": "Today",
+      "application_url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
+      "canonical_id": "ashby:snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca",
+      "category": "Software Engineering",
+      "company": "Snowflake",
+      "job_type": "Internship",
+      "location": "Menlo Park, CA",
+      "position": "Software Engineer Intern (AI / ML) - Spring 2027",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
+          "category": "Software Engineering",
+          "company": "Snowflake",
+          "job_type": "Internship",
+          "location": "Menlo Park, CA",
+          "position": "Software Engineer Intern (AI / ML) - Spring 2027",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "a3de4923-57a2-41d9-85e9-663ec2a7489d",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-25T07:15:12.097Z",
+            "id": "a3de4923-57a2-41d9-85e9-663ec2a7489d",
+            "listingUrl": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
+            "posted": "2026-09-25",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Snowflake&job=a3de4923-57a2-41d9-85e9-663ec2a7489d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Snowflake&job=a3de4923-57a2-41d9-85e9-663ec2a7489d&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Snowflake&job=a3de4923-57a2-41d9-85e9-663ec2a7489d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca"
+      ]
+    },
+    "ashby:snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69": {
+      "age": "Today",
+      "application_url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+      "canonical_id": "ashby:snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+      "category": "Software Engineering",
+      "company": "Snowflake",
+      "job_type": "Internship",
+      "location": "Menlo Park, CA",
+      "position": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+          "category": "Software Engineering",
+          "company": "Snowflake",
+          "job_type": "Internship",
+          "location": "Menlo Park, CA",
+          "position": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7f858ee2-c485-465a-92ab-8c67280d7742",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-25T07:15:12.097Z",
+            "id": "7f858ee2-c485-465a-92ab-8c67280d7742",
+            "listingUrl": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+            "posted": "2026-09-25",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Snowflake&job=7f858ee2-c485-465a-92ab-8c67280d7742&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Snowflake&job=7f858ee2-c485-465a-92ab-8c67280d7742&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Snowflake&job=7f858ee2-c485-465a-92ab-8c67280d7742&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69"
+      ]
+    },
+    "ashby:snowflake:7bd393df-67d7-4009-ba4f-1cd79a82b0be": {
+      "age": "Today",
+      "application_url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+      "canonical_id": "ashby:snowflake:7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+      "category": "Software Engineering",
+      "company": "Snowflake",
+      "job_type": "Internship",
+      "location": "Menlo Park, CA",
+      "position": "Software Engineer Intern (Database Engineering) - Spring 2027",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Spring 2027",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+          "category": "Software Engineering",
+          "company": "Snowflake",
+          "job_type": "Internship",
+          "location": "Menlo Park, CA",
+          "position": "Software Engineer Intern (Database Engineering) - Spring 2027",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Spring 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "7d53daea-8a19-4c5a-993c-3be78a298c2a",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-25T07:15:12.097Z",
+            "id": "7d53daea-8a19-4c5a-993c-3be78a298c2a",
+            "listingUrl": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+            "posted": "2026-09-25",
+            "season": "Spring 2027",
+            "url": "https://applyguy.ai/jobs?company=Snowflake&job=7d53daea-8a19-4c5a-993c-3be78a298c2a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Snowflake&job=7d53daea-8a19-4c5a-993c-3be78a298c2a&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Snowflake&job=7d53daea-8a19-4c5a-993c-3be78a298c2a&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be"
+      ]
+    },
     "ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f": {
       "age": "20d",
       "application_url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
@@ -18404,6 +18542,52 @@
         "https://simplify.jobs/p/fb049a47-cda8-435c-9a40-8bc357652e68?utm_source=GHList"
       ]
     },
+    "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-i--intern----united-states_2026803": {
+      "age": "Today",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-i--intern----united-states_2026803",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "job_type": "Internship",
+      "location": "San Jose California",
+      "position": "Machine Learning Engineer I (Intern) – United States",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
+          "category": "Software Engineering",
+          "company": "Cisco",
+          "job_type": "Internship",
+          "location": "San Jose California",
+          "position": "Machine Learning Engineer I (Intern) – United States",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "38e20e29-03c5-41e6-9962-a1efa9ee87df",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-25T07:15:12.097Z",
+            "id": "38e20e29-03c5-41e6-9962-a1efa9ee87df",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
+            "posted": "2026-09-25",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=38e20e29-03c5-41e6-9962-a1efa9ee87df&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=38e20e29-03c5-41e6-9962-a1efa9ee87df&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=38e20e29-03c5-41e6-9962-a1efa9ee87df&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803"
+      ]
+    },
     "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683": {
       "age": "Today",
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683",
@@ -18448,6 +18632,52 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Cisco&job=068fe53d-b746-46e3-ae84-b1b05d99fcfb&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683"
+      ]
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2026802": {
+      "age": "Today",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2026802",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "job_type": "Internship",
+      "location": "San Jose California",
+      "position": "Machine Learning Engineer II (Intern) – United States",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
+          "category": "Software Engineering",
+          "company": "Cisco",
+          "job_type": "Internship",
+          "location": "San Jose California",
+          "position": "Machine Learning Engineer II (Intern) – United States",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "e548dd63-35ed-47ae-afd8-fc5f4b583eac",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-25T07:15:12.097Z",
+            "id": "e548dd63-35ed-47ae-afd8-fc5f4b583eac",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
+            "posted": "2026-09-25",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=e548dd63-35ed-47ae-afd8-fc5f4b583eac&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=e548dd63-35ed-47ae-afd8-fc5f4b583eac&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=e548dd63-35ed-47ae-afd8-fc5f4b583eac&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802"
       ]
     },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2026306": {
@@ -18496,6 +18726,52 @@
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306"
       ]
     },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-ii--intern----united-states_2026798": {
+      "age": "Today",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-ii--intern----united-states_2026798",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "job_type": "Internship",
+      "location": "San Jose California",
+      "position": "Software Engineer Data & AI II (Intern) – United States",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
+          "category": "Software Engineering",
+          "company": "Cisco",
+          "job_type": "Internship",
+          "location": "San Jose California",
+          "position": "Software Engineer Data & AI II (Intern) – United States",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-25T07:15:12.097Z",
+            "id": "9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
+            "posted": "2026-09-25",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=9d9d4d3d-ac33-49ef-988c-e5b9ca0caf5e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798"
+      ]
+    },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-i--intern----united-states_2025926": {
       "age": "1d",
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
@@ -18542,6 +18818,52 @@
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926"
       ]
     },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-ii--intern----united-states_2026805": {
+      "age": "Today",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-ii--intern----united-states_2026805",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "job_type": "Internship",
+      "location": "San Jose California",
+      "position": "Software Engineer Embedded Systems II (Intern) – United States",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
+          "category": "Software Engineering",
+          "company": "Cisco",
+          "job_type": "Internship",
+          "location": "San Jose California",
+          "position": "Software Engineer Embedded Systems II (Intern) – United States",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "bb754c53-1ebd-471c-ad80-6ec643d07dda",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-25T07:15:12.097Z",
+            "id": "bb754c53-1ebd-471c-ad80-6ec643d07dda",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
+            "posted": "2026-09-25",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=bb754c53-1ebd-471c-ad80-6ec643d07dda&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=bb754c53-1ebd-471c-ad80-6ec643d07dda&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=bb754c53-1ebd-471c-ad80-6ec643d07dda&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805"
+      ]
+    },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-i--intern----united-states_2025924": {
       "age": "1d",
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
@@ -18586,6 +18908,52 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Cisco&job=93aefc45-c143-438e-bf29-ab47c41c0ac1&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924"
+      ]
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-ii--intern----united-states_2026800": {
+      "age": "Today",
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
+      "canonical_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-ii--intern----united-states_2026800",
+      "category": "Software Engineering",
+      "company": "Cisco",
+      "job_type": "Internship",
+      "location": "San Jose California",
+      "position": "Software Engineer Full Stack / Backend II (Intern) – United States",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "age": "Today",
+          "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
+          "category": "Software Engineering",
+          "company": "Cisco",
+          "job_type": "Internship",
+          "location": "San Jose California",
+          "position": "Software Engineer Full Stack / Backend II (Intern) – United States",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "14bb59c9-4430-4d3c-95e5-6e46a633b091",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "Today",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-25T07:15:12.097Z",
+            "id": "14bb59c9-4430-4d3c-95e5-6e46a633b091",
+            "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
+            "posted": "2026-09-25",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Cisco&job=14bb59c9-4430-4d3c-95e5-6e46a633b091&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cisco&job=14bb59c9-4430-4d3c-95e5-6e46a633b091&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cisco&job=14bb59c9-4430-4d3c-95e5-6e46a633b091&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800"
       ]
     },
     "workday:generalmotors.wd5.myworkdayjobs.com:software-engineer--autonomous-vehicles-software-systems---early-career_jr-202604759": {

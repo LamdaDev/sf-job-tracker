@@ -4,10 +4,18 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (449)
+## Active Jobs (457)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
+| Cisco | Machine Learning Engineer I (Intern) – United States | Internship | Software Engineering | San Jose California | ApplyGuy | N/A | 2026-09-25T07:19:37Z | 2026-09-25T07:19:37Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803>) |
+| Cisco | Machine Learning Engineer II (Intern) – United States | Internship | Software Engineering | San Jose California | ApplyGuy | N/A | 2026-09-25T07:19:37Z | 2026-09-25T07:19:37Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802>) |
+| Cisco | Software Engineer Data & AI II (Intern) – United States | Internship | Software Engineering | San Jose California | ApplyGuy | N/A | 2026-09-25T07:19:37Z | 2026-09-25T07:19:37Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798>) |
+| Cisco | Software Engineer Embedded Systems II (Intern) – United States | Internship | Software Engineering | San Jose California | ApplyGuy | N/A | 2026-09-25T07:19:37Z | 2026-09-25T07:19:37Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805>) |
+| Cisco | Software Engineer Full Stack / Backend II (Intern) – United States | Internship | Software Engineering | San Jose California | ApplyGuy | N/A | 2026-09-25T07:19:37Z | 2026-09-25T07:19:37Z | Yes | [Apply](<https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800>) |
+| Snowflake | Software Engineer Intern (AI / ML) - Spring 2027 | Internship | Software Engineering | Menlo Park, CA | ApplyGuy | N/A | 2026-09-25T07:19:37Z | 2026-09-25T07:19:37Z | Yes | [Apply](<https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca>) |
+| Snowflake | Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027 | Internship | Software Engineering | Menlo Park, CA | ApplyGuy | N/A | 2026-09-25T07:19:37Z | 2026-09-25T07:19:37Z | Yes | [Apply](<https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69>) |
+| Snowflake | Software Engineer Intern (Database Engineering) - Spring 2027 | Internship | Software Engineering | Menlo Park, CA | ApplyGuy | N/A | 2026-09-25T07:19:37Z | 2026-09-25T07:19:37Z | Yes | [Apply](<https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be>) |
 | Adobe | 2027 University Graduate - Software Engineer | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-09-25T01:14:48Z | 2026-09-25T01:14:48Z | Yes | [Apply](<https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083>) |
 | Astranis | Software Developer, Network Software Intern (Summer 2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-25T01:14:48Z | 2026-09-25T01:14:48Z | Yes | [Apply](<https://job-boards.greenhouse.io/astranis/jobs/4705597006>) |
 | Astranis | Software Developer, Network Software Intern (Winter 2027) | Internship | Software Engineering | San Francisco, CA | ApplyGuy | N/A | 2026-09-25T01:14:48Z | 2026-09-25T01:14:48Z | Yes | [Apply](<https://job-boards.greenhouse.io/astranis/jobs/4705599006>) |
