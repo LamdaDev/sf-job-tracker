@@ -3534,6 +3534,528 @@
       "scanned_at": "2026-09-23T05:38:31Z",
       "status": "complete"
     },
+    "greenhouse:astranis:4705615006": {
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:astranis:4705615006",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T18:19:56Z",
+      "http_status": 200,
+      "issue_number": 125,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T18:19:56Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8631342006",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Astranis complies with U.S. Government space technology export regulations, therefore will you state which of the following applies to you",
+          "options": [
+            "I am a U.S. Citizen.",
+            "I am a lawful permanent resident of the U.S. and Green Card Holder.",
+            "I am a refugee under 8 U.S.C. 1157.",
+            "I am an asylee under 8 U.S.C. 1158.",
+            "None of the above."
+          ],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631343006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "What is the most impressive thing you have ever accomplished?",
+          "options": [],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_8631344006",
+          "field_type": "long_text",
+          "is_custom": false,
+          "label": "Please describe the most impressive and complex project you have worked on. This can be from previous internships, school projects, or personal projects you took part in. Tell us what the project was, the technologies you used, challenges you faced, what specific role you played in this project, and what made this project complex or special.",
+          "options": [],
+          "ordinal": 8,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631345006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Please confirm the season you are applying for.",
+          "options": [
+            "Summer 2027"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631346006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When are you able to join Astranis as an intern? (12 week minimum)",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631347006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When do you plan on ending your internship?",
+          "options": [],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631348006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "At Astranis, we value in-person collaboration and a strong work ethic. Are you comfortable with working onsite at our San Francisco HQ 5 days a week?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631349006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "How did you hear about Astranis?",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8631350006",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 14,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8652876006",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "By selecting YES, I consent to receive recruiting SMS messages from Astranis at the phone number provided on my job application.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-25T18:19:56Z",
+      "status": "complete"
+    },
+    "greenhouse:astranis:4705617006": {
+      "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
+      "attempt_count": 1,
+      "canonical_job_id": "greenhouse:astranis:4705617006",
+      "completeness_reason": "Greenhouse public structured application schema was retrieved.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T18:19:58Z",
+      "http_status": 200,
+      "issue_number": 125,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T18:19:58Z",
+      "metadata": {
+        "inspection_method": "greenhouse_api"
+      },
+      "provider": "greenhouse",
+      "questions": [
+        {
+          "category": "profile",
+          "field_name": "first_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "First Name",
+          "options": [],
+          "ordinal": 1,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "last_name",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Last Name",
+          "options": [],
+          "ordinal": 2,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "email",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Email",
+          "options": [],
+          "ordinal": 3,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "phone",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Phone",
+          "options": [],
+          "ordinal": 4,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "resume_documents",
+          "field_name": "resume",
+          "field_type": "file",
+          "is_custom": false,
+          "label": "Resume/CV",
+          "options": [],
+          "ordinal": 5,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8631360006",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Astranis complies with U.S. Government space technology export regulations, therefore will you state which of the following applies to you",
+          "options": [
+            "I am a U.S. Citizen.",
+            "I am a lawful permanent resident of the U.S. and Green Card Holder.",
+            "I am a refugee under 8 U.S.C. 1157.",
+            "I am an asylee under 8 U.S.C. 1158.",
+            "None of the above."
+          ],
+          "ordinal": 6,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631361006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "How did you hear about Astranis?",
+          "options": [],
+          "ordinal": 7,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8631362006",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "LinkedIn Profile",
+          "options": [],
+          "ordinal": 8,
+          "required": false,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631363006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "Please confirm the season you are applying for.",
+          "options": [
+            "Winter 2027"
+          ],
+          "ordinal": 9,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631364006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When are you able to join Astranis as an intern? (12 week minimum)",
+          "options": [],
+          "ordinal": 10,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631365006",
+          "field_type": "text",
+          "is_custom": true,
+          "label": "When do you plan on ending your internship?",
+          "options": [],
+          "ordinal": 11,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "education",
+          "field_name": "question_8631366006",
+          "field_type": "long_text",
+          "is_custom": false,
+          "label": "Please describe the most impressive and complex project you have worked on. This can be from previous internships, school projects, or personal projects you took part in. Tell us what the project was, the technologies you used, challenges you faced, what specific role you played in this project, and what made this project complex or special.",
+          "options": [],
+          "ordinal": 12,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631367006",
+          "field_type": "long_text",
+          "is_custom": true,
+          "label": "What is the most impressive thing you have ever accomplished?",
+          "options": [],
+          "ordinal": 13,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "question_8631368006",
+          "field_type": "single_select",
+          "is_custom": true,
+          "label": "At Astranis, we value in-person collaboration and a strong work ethic. Are you comfortable with working onsite at our San Francisco HQ 5 days a week?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 14,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "profile",
+          "field_name": "question_8652874006",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "By selecting YES, I consent to receive recruiting SMS messages from Astranis at the phone number provided on my job application.",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "ordinal": 15,
+          "required": true,
+          "source_section": "questions"
+        },
+        {
+          "category": "other",
+          "field_name": "location",
+          "field_type": "text",
+          "is_custom": false,
+          "label": "Location",
+          "options": [],
+          "ordinal": 16,
+          "required": true,
+          "source_section": "location_questions"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "veteran_status",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "VeteranStatus",
+          "options": [
+            "I don't wish to answer",
+            "I identify as one or more of the classifications of a protected veteran",
+            "I am not a protected veteran"
+          ],
+          "ordinal": 17,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "race",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Race",
+          "options": [
+            "Decline To Self Identify",
+            "Two or More Races",
+            "Native Hawaiian or Other Pacific Islander",
+            "White",
+            "Hispanic or Latino",
+            "Black or African American",
+            "Asian",
+            "American Indian or Alaskan Native"
+          ],
+          "ordinal": 18,
+          "required": false,
+          "source_section": "compliance"
+        },
+        {
+          "category": "compliance_demographic",
+          "field_name": "gender",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Gender",
+          "options": [
+            "Decline To Self Identify",
+            "Female",
+            "Male"
+          ],
+          "ordinal": 19,
+          "required": false,
+          "source_section": "compliance"
+        }
+      ],
+      "scanned_at": "2026-09-25T18:19:58Z",
+      "status": "complete"
+    },
     "greenhouse:astranis:4715983006": {
       "application_url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
       "attempt_count": 1,
@@ -28091,6 +28613,47 @@
       "scanned_at": "2026-09-18T23:59:08Z",
       "status": "partial"
     },
+    "url:https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602": {
+      "application_url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T18:19:59Z",
+      "http_status": 200,
+      "issue_number": 125,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T18:19:59Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [
+        {
+          "category": "other",
+          "field_name": "select-region",
+          "field_type": "single_select",
+          "is_custom": false,
+          "label": "Select region",
+          "options": [
+            "English (CA)",
+            "Français (CA)",
+            "Deutsch (DE,AT,CH)",
+            "Français (FR)",
+            "Español (MX)",
+            "Nederlands (NL,BE,LU)",
+            "English (UK)"
+          ],
+          "ordinal": 1,
+          "required": null,
+          "source_section": null
+        }
+      ],
+      "scanned_at": "2026-09-25T18:19:59Z",
+      "status": "unavailable"
+    },
     "url:https://www.tesla.com/careers/search/job/281097?ref=Simplify": {
       "application_url": "https://www.tesla.com/careers/search/job/281097?utm_source=Simplify&ref=Simplify",
       "attempt_count": 1,
@@ -29432,6 +29995,27 @@
       "scanned_at": "2026-09-03T08:42:54Z",
       "status": "unavailable"
     },
+    "workday:irhythmtech.wd5.myworkdayjobs.com:embedded-sdet-co-op-full-time-intern-january-june-2027_jr1758": {
+      "application_url": "https://irhythmtech.wd5.myworkdayjobs.com/en-US/irhythm/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:irhythmtech.wd5.myworkdayjobs.com:embedded-sdet-co-op-full-time-intern-january-june-2027_jr1758",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T18:20:01Z",
+      "http_status": 200,
+      "issue_number": 125,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T18:20:01Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-25T18:20:01Z",
+      "status": "unavailable"
+    },
     "workday:irhythmtech.wd5.myworkdayjobs.com:firmware-quality-assurance-engineer-co-op-intern-full-time-january-juneengineer_jr1791": {
       "application_url": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Firmware-Quality-Assurance-Engineer-Co-Op-Intern-Full-Time-January-JuneEngineer_JR1791",
       "attempt_count": 1,
@@ -29640,6 +30224,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-09T20:40:53Z",
+      "status": "unavailable"
+    },
+    "workday:kla.wd1.myworkdayjobs.com:software-engineer--metrology-systems-_2641468": {
+      "application_url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineer--Metrology-Systems-_2641468",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:kla.wd1.myworkdayjobs.com:software-engineer--metrology-systems-_2641468",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T18:20:05Z",
+      "http_status": 200,
+      "issue_number": 125,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T18:20:05Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-25T18:20:05Z",
       "status": "unavailable"
     },
     "workday:kla.wd1.myworkdayjobs.com:software-engineer_2640196": {
