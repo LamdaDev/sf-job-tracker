@@ -35366,7 +35366,7 @@
     "073004111e04d788d97cfe9c329b488a1435ba4ec5d8f02e95c80684bdf004e8": {
       "application_scan_eligible": true,
       "created_at": "2026-09-25T07:19:37Z",
-      "issue_number": null,
+      "issue_number": 124,
       "job_ids": [
         "ashby:snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca",
         "ashby:snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
@@ -35387,7 +35387,7 @@
         "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
         "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be"
       ],
-      "status": "pending"
+      "status": "sent"
     },
     "09d4a8ee4e071dad20df7df7a5854ed13296cc3df188666e4ce801d7884a21d6": {
       "application_scan_eligible": true,

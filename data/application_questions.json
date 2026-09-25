@@ -903,6 +903,69 @@
       "scanned_at": "2026-09-10T03:46:12Z",
       "status": "unavailable"
     },
+    "ashby:snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca": {
+      "application_url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T07:19:42Z",
+      "http_status": 200,
+      "issue_number": 124,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T07:19:42Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-25T07:19:42Z",
+      "status": "unavailable"
+    },
+    "ashby:snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69": {
+      "application_url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T07:19:43Z",
+      "http_status": 200,
+      "issue_number": 124,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T07:19:43Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-25T07:19:43Z",
+      "status": "unavailable"
+    },
+    "ashby:snowflake:7bd393df-67d7-4009-ba4f-1cd79a82b0be": {
+      "application_url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+      "attempt_count": 1,
+      "canonical_job_id": "ashby:snowflake:7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+      "completeness_reason": "Application page requires anti-bot verification.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T07:19:44Z",
+      "http_status": 200,
+      "issue_number": 124,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T07:19:44Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "static_html"
+      },
+      "provider": "ashby",
+      "questions": [],
+      "scanned_at": "2026-09-25T07:19:44Z",
+      "status": "unavailable"
+    },
     "ashby:solace:db008474-d93e-41a7-939e-8d5825eb0d0f": {
       "application_url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f",
       "attempt_count": 1,
@@ -28949,6 +29012,27 @@
       "scanned_at": "2026-09-08T18:32:34Z",
       "status": "unavailable"
     },
+    "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-i--intern----united-states_2026803": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-i--intern----united-states_2026803",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T07:19:45Z",
+      "http_status": 200,
+      "issue_number": 124,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T07:19:45Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-25T07:19:45Z",
+      "status": "unavailable"
+    },
     "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2024683": {
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683",
       "attempt_count": 1,
@@ -28968,6 +29052,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-03T08:42:49Z",
+      "status": "unavailable"
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2026802": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:machine-learning-engineer-ii--intern----united-states_2026802",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T07:19:47Z",
+      "http_status": 200,
+      "issue_number": 124,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T07:19:47Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-25T07:19:47Z",
       "status": "unavailable"
     },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-i--intern----united-states_2024510": {
@@ -29012,6 +29117,27 @@
       "scanned_at": "2026-09-22T21:52:50Z",
       "status": "unavailable"
     },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-ii--intern----united-states_2026798": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-data---ai-ii--intern----united-states_2026798",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T07:19:50Z",
+      "http_status": 200,
+      "issue_number": 124,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T07:19:50Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-25T07:19:50Z",
+      "status": "unavailable"
+    },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-i--intern----united-states_2025926": {
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
       "attempt_count": 1,
@@ -29033,6 +29159,27 @@
       "scanned_at": "2026-09-22T21:52:53Z",
       "status": "unavailable"
     },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-ii--intern----united-states_2026805": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-embedded-systems-ii--intern----united-states_2026805",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T07:19:53Z",
+      "http_status": 200,
+      "issue_number": 124,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T07:19:53Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-25T07:19:53Z",
+      "status": "unavailable"
+    },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-i--intern----united-states_2025924": {
       "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
       "attempt_count": 1,
@@ -29052,6 +29199,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-22T21:52:56Z",
+      "status": "unavailable"
+    },
+    "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-ii--intern----united-states_2026800": {
+      "application_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:cisco.wd5.myworkdayjobs.com:software-engineer-full-stack---backend-ii--intern----united-states_2026800",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-25T07:19:55Z",
+      "http_status": 200,
+      "issue_number": 124,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-25T07:19:55Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-25T07:19:55Z",
       "status": "unavailable"
     },
     "workday:cisco.wd5.myworkdayjobs.com:software-engineer-i--full-time----united-states_2023527": {
