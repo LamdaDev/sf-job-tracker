@@ -2463,13 +2463,13 @@
       "season": null,
       "sources": {
         "applyguy_new_grad": {
-          "active": true,
+          "active": false,
           "age": "33d",
           "application_url": "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02",
           "category": "Unknown",
           "company": "Crusoe",
           "first_seen": "2026-08-30T04:26:41Z",
-          "inactive_at": null,
+          "inactive_at": "2026-09-26T01:17:17Z",
           "job_type": "New Grad",
           "last_seen": "2026-08-30T04:26:41Z",
           "location": "San Francisco, CA",
@@ -15787,7 +15787,7 @@
       "first_seen": "2026-09-03T17:39:07Z",
       "inactive_at": null,
       "job_type": "Internship",
-      "last_seen": "2026-09-25T13:23:53Z",
+      "last_seen": "2026-09-26T01:17:17Z",
       "location": "San Jose, CA",
       "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
       "posted": null,
@@ -15798,12 +15798,12 @@
           "active": true,
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "FAANG+",
+          "category": "Unknown",
           "company": "ByteDance",
           "first_seen": "2026-09-03T17:39:07Z",
           "inactive_at": null,
           "job_type": "Internship",
-          "last_seen": "2026-09-25T13:23:53Z",
+          "last_seen": "2026-09-26T01:17:17Z",
           "location": "San Jose, CA",
           "position": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform 🎓",
           "posted": null,
@@ -24130,6 +24130,107 @@
         "https://careers.withwaymo.com/jobs?gh_jid=8224746"
       ]
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8224900": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224900",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-26T01:17:17Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-26T01:17:17Z",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-26T01:17:17Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-26T01:17:17Z",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "32cf378d-f635-4a1d-a099-e3334c7aa368",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-26T01:15:13.695Z",
+            "id": "32cf378d-f635-4a1d-a099-e3334c7aa368",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+            "posted": "2026-09-25",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=32cf378d-f635-4a1d-a099-e3334c7aa368&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=32cf378d-f635-4a1d-a099-e3334c7aa368&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=32cf378d-f635-4a1d-a099-e3334c7aa368&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8224900"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8224900&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224900&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224900&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "first_seen": "2026-09-26T01:17:17Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-26T01:17:17Z",
+      "location": "Mountain View, CA",
+      "position": "Software Engineer Intern - Driver Refinement Foundations",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224900&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "first_seen": "2026-09-26T01:17:17Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-26T01:17:17Z",
+          "location": "Mountain View, CA",
+          "position": "Software Engineer Intern - Driver Refinement Foundations",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "44631389-4603-4cbc-bb24-596433854282",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/44631389-4603-4cbc-bb24-596433854282?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/44631389-4603-4cbc-bb24-596433854282?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8224900&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/44631389-4603-4cbc-bb24-596433854282?utm_source=GHList"
+      ]
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8227640": {
       "active": true,
       "age": "1d",
@@ -24204,6 +24305,208 @@
       "url_aliases": [
         "https://applyguy.ai/jobs?company=Waymo&job=9be80cce-87ad-4f4b-8dc8-44cf5e1c6dc2&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://careers.withwaymo.com/jobs?gh_jid=8227640"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8231711&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8231711&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8231711&ref=Simplify",
+      "category": "Unknown",
+      "company": "Waymo",
+      "first_seen": "2026-09-26T01:17:17Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-26T01:17:17Z",
+      "location": "Mountain View, CA",
+      "position": "Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8231711&utm_source=Simplify&ref=Simplify",
+          "category": "Unknown",
+          "company": "Waymo",
+          "first_seen": "2026-09-26T01:17:17Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-26T01:17:17Z",
+          "location": "Mountain View, CA",
+          "position": "Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "865a11a8-4b8f-4167-99a1-2b819a80bdf2",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/865a11a8-4b8f-4167-99a1-2b819a80bdf2?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/865a11a8-4b8f-4167-99a1-2b819a80bdf2?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8231711&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/865a11a8-4b8f-4167-99a1-2b819a80bdf2?utm_source=GHList"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8233746": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8233746",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-26T01:17:17Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-26T01:17:17Z",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-26T01:17:17Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-26T01:17:17Z",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "56745e36-640c-4798-9f1b-5c1971d2a960",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-26T01:15:13.695Z",
+            "id": "56745e36-640c-4798-9f1b-5c1971d2a960",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+            "posted": "2026-09-25",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=56745e36-640c-4798-9f1b-5c1971d2a960&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=56745e36-640c-4798-9f1b-5c1971d2a960&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=56745e36-640c-4798-9f1b-5c1971d2a960&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8233746"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8234161": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8234161",
+      "category": "Software Engineering",
+      "company": "Waymo",
+      "first_seen": "2026-09-26T01:17:17Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-26T01:17:17Z",
+      "location": "Mountain View, CA",
+      "position": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+          "category": "Software Engineering",
+          "company": "Waymo",
+          "first_seen": "2026-09-26T01:17:17Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-26T01:17:17Z",
+          "location": "Mountain View, CA",
+          "position": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "e74fea0c-c5d3-4520-9fd1-f3498027e3f4",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-26T01:15:13.695Z",
+            "id": "e74fea0c-c5d3-4520-9fd1-f3498027e3f4",
+            "listingUrl": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+            "posted": "2026-09-25",
+            "season": "Summer 2027",
+            "url": "https://applyguy.ai/jobs?company=Waymo&job=e74fea0c-c5d3-4520-9fd1-f3498027e3f4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Waymo&job=e74fea0c-c5d3-4520-9fd1-f3498027e3f4&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Waymo&job=e74fea0c-c5d3-4520-9fd1-f3498027e3f4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://careers.withwaymo.com/jobs?gh_jid=8234161"
+      ]
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8234161&ref=Simplify": {
+      "active": true,
+      "age": "0d",
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8234161&utm_source=Simplify&ref=Simplify",
+      "canonical_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8234161&ref=Simplify",
+      "category": "FAANG+",
+      "company": "Waymo",
+      "first_seen": "2026-09-26T01:17:17Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-26T01:17:17Z",
+      "location": "Mountain View, CA",
+      "position": "Software Engineering Intern - MS/PhD - Sys Intel & ML 🎓",
+      "posted": null,
+      "salary": null,
+      "season": "Summer 2027",
+      "sources": {
+        "simplify_summer_2027": {
+          "active": true,
+          "age": "0d",
+          "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8234161&utm_source=Simplify&ref=Simplify",
+          "category": "FAANG+",
+          "company": "Waymo",
+          "first_seen": "2026-09-26T01:17:17Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-26T01:17:17Z",
+          "location": "Mountain View, CA",
+          "position": "Software Engineering Intern - MS/PhD - Sys Intel & ML 🎓",
+          "posted": null,
+          "salary": null,
+          "season": "Summer 2027",
+          "source_file": "README.md",
+          "source_id": "simplify_summer_2027",
+          "source_job_id": "dcfc9399-37e0-42cc-965a-fd425dfbb1ce",
+          "source_label": "Simplify",
+          "source_metadata": {
+            "simplify_url": "https://simplify.jobs/p/dcfc9399-37e0-42cc-965a-fd425dfbb1ce?utm_source=GHList"
+          },
+          "source_url": "https://simplify.jobs/p/dcfc9399-37e0-42cc-965a-fd425dfbb1ce?utm_source=GHList"
+        }
+      },
+      "url_aliases": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8234161&utm_source=Simplify&ref=Simplify",
+        "https://simplify.jobs/p/dcfc9399-37e0-42cc-965a-fd425dfbb1ce?utm_source=GHList"
       ]
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
@@ -34947,6 +35250,60 @@
         "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531"
       ]
     },
+    "workday:tencent.wd1.myworkdayjobs.com:cloud-media-services-intern_r108186": {
+      "active": true,
+      "age": "1d",
+      "application_url": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186",
+      "canonical_id": "workday:tencent.wd1.myworkdayjobs.com:cloud-media-services-intern_r108186",
+      "category": "Software Engineering",
+      "company": "Tencent",
+      "first_seen": "2026-09-26T01:17:17Z",
+      "inactive_at": null,
+      "job_type": "Internship",
+      "last_seen": "2026-09-26T01:17:17Z",
+      "location": "Palo Alto, CA",
+      "position": "Cloud Media Services Intern",
+      "posted": "2026-09-25",
+      "salary": null,
+      "season": "Not specified",
+      "sources": {
+        "applyguy_internships": {
+          "active": true,
+          "age": "1d",
+          "application_url": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186",
+          "category": "Software Engineering",
+          "company": "Tencent",
+          "first_seen": "2026-09-26T01:17:17Z",
+          "inactive_at": null,
+          "job_type": "Internship",
+          "last_seen": "2026-09-26T01:17:17Z",
+          "location": "Palo Alto, CA",
+          "position": "Cloud Media Services Intern",
+          "posted": "2026-09-25",
+          "salary": null,
+          "season": "Not specified",
+          "source_file": "data/internships.json",
+          "source_id": "applyguy_internships",
+          "source_job_id": "cf28857b-85dc-4182-b2f3-584a00cbd28f",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "1d",
+            "category": "Software Engineering",
+            "feedUpdatedAt": "2026-09-26T01:15:13.695Z",
+            "id": "cf28857b-85dc-4182-b2f3-584a00cbd28f",
+            "listingUrl": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186",
+            "posted": "2026-09-25",
+            "season": "Not specified",
+            "url": "https://applyguy.ai/jobs?company=Tencent&job=cf28857b-85dc-4182-b2f3-584a00cbd28f&utm_source=github&utm_medium=listing&utm_campaign=internships"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Tencent&job=cf28857b-85dc-4182-b2f3-584a00cbd28f&utm_source=github&utm_medium=listing&utm_campaign=internships"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Tencent&job=cf28857b-85dc-4182-b2f3-584a00cbd28f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+        "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186"
+      ]
+    },
     "workday:tencent.wd1.myworkdayjobs.com:site-reliability-engineer--sre--intern---ai-infrastructure_r108158": {
       "active": true,
       "age": "1d",
@@ -36907,6 +37264,30 @@
         "https://job-boards.greenhouse.io/kikoff/jobs/4393822009"
       ],
       "status": "sent"
+    },
+    "ae32eaa72ed3af11711b983de7103da47f3437eb36443053881bed9fe4e603da": {
+      "application_scan_eligible": true,
+      "created_at": "2026-09-26T01:17:17Z",
+      "issue_number": null,
+      "job_ids": [
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8224900",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8224900&ref=Simplify",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8231711&ref=Simplify",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8233746",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8234161",
+        "url:https://careers.withwaymo.com/jobs?gh_jid=8234161&ref=Simplify",
+        "workday:tencent.wd1.myworkdayjobs.com:cloud-media-services-intern_r108186"
+      ],
+      "job_urls": [
+        "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+        "https://careers.withwaymo.com/jobs?gh_jid=8224900&utm_source=Simplify&ref=Simplify",
+        "https://careers.withwaymo.com/jobs?gh_jid=8231711&utm_source=Simplify&ref=Simplify",
+        "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+        "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+        "https://careers.withwaymo.com/jobs?gh_jid=8234161&utm_source=Simplify&ref=Simplify",
+        "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186"
+      ],
+      "status": "pending"
     },
     "afe2191347ce1cddc82d506fb7a60cf8ac5210fda783ca6276785fafd1b32459": {
       "application_scan_eligible": true,
