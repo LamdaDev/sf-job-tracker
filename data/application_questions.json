@@ -26698,6 +26698,48 @@
       "scanned_at": "2026-09-23T23:28:14Z",
       "status": "unavailable"
     },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8224900": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224900",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-26T01:17:21Z",
+      "http_status": 200,
+      "issue_number": 126,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-26T01:17:21Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-26T01:17:21Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8224900&ref=Simplify": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8224900&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8224900&ref=Simplify",
+      "completeness_reason": "Application page requires authentication.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-26T01:17:22Z",
+      "http_status": 200,
+      "issue_number": 126,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-26T01:17:22Z",
+      "metadata": {
+        "has_form": true,
+        "inspection_method": "static_html"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-26T01:17:22Z",
+      "status": "unavailable"
+    },
     "url:https://careers.withwaymo.com/jobs?gh_jid=8227640": {
       "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
       "attempt_count": 1,
@@ -26717,6 +26759,90 @@
       "provider": "generic",
       "questions": [],
       "scanned_at": "2026-09-25T01:14:58Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8231711&ref=Simplify": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8231711&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8231711&ref=Simplify",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-26T01:17:24Z",
+      "http_status": 202,
+      "issue_number": 126,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-26T01:17:24Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-26T01:17:24Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8233746": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8233746",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-26T01:17:26Z",
+      "http_status": 202,
+      "issue_number": 126,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-26T01:17:26Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-26T01:17:26Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8234161": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8234161",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-26T01:17:27Z",
+      "http_status": 202,
+      "issue_number": 126,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-26T01:17:27Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-26T01:17:27Z",
+      "status": "unavailable"
+    },
+    "url:https://careers.withwaymo.com/jobs?gh_jid=8234161&ref=Simplify": {
+      "application_url": "https://careers.withwaymo.com/jobs?gh_jid=8234161&utm_source=Simplify&ref=Simplify",
+      "attempt_count": 1,
+      "canonical_job_id": "url:https://careers.withwaymo.com/jobs?gh_jid=8234161&ref=Simplify",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-26T01:17:29Z",
+      "http_status": 202,
+      "issue_number": 126,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-26T01:17:29Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "generic",
+      "questions": [],
+      "scanned_at": "2026-09-26T01:17:29Z",
       "status": "unavailable"
     },
     "url:https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002": {
@@ -30896,6 +31022,27 @@
       "provider": "workday",
       "questions": [],
       "scanned_at": "2026-09-09T20:40:56Z",
+      "status": "unavailable"
+    },
+    "workday:tencent.wd1.myworkdayjobs.com:cloud-media-services-intern_r108186": {
+      "application_url": "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186",
+      "attempt_count": 1,
+      "canonical_job_id": "workday:tencent.wd1.myworkdayjobs.com:cloud-media-services-intern_r108186",
+      "completeness_reason": "No publicly accessible application form fields were detected.",
+      "error_message": null,
+      "error_type": null,
+      "first_scanned": "2026-09-26T01:17:30Z",
+      "http_status": 200,
+      "issue_number": 126,
+      "issue_update_pending": false,
+      "last_scanned": "2026-09-26T01:17:30Z",
+      "metadata": {
+        "has_form": false,
+        "inspection_method": "browser"
+      },
+      "provider": "workday",
+      "questions": [],
+      "scanned_at": "2026-09-26T01:17:30Z",
       "status": "unavailable"
     },
     "workday:tencent.wd1.myworkdayjobs.com:site-reliability-engineer--sre--intern---ai-infrastructure_r108158": {
