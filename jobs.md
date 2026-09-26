@@ -4,7 +4,7 @@
 
 Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose displayed Location matches an explicit San Francisco Bay Area city and alias policy for locations roughly one hour away by car in favorable traffic.
 
-## Active Jobs (461)
+## Active Jobs (460)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -200,7 +200,6 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Scale AI | Software Engineering Intern - Summer 2027 | Internship | Other | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-04T20:29:30Z | 2026-09-05T16:38:32Z | Yes | [Apply](<https://job-boards.greenhouse.io/scaleai/jobs/4730845005>) |
 | Zipline | Embedded Engineering Intern - Summer 2027 | Internship | Other | South San Francisco, CA | SpeedyApply | N/A | 2026-09-04T17:27:22Z | 2026-09-04T17:27:22Z | Yes | [Apply](<https://www.zipline.com/open-roles/7978843003?gh_jid=7978843003>) |
 | Zipline | Embedded Software Engineer Intern - Spring 2027 | Internship | Other | South San Francisco, CA | SpeedyApply | N/A | 2026-09-04T17:27:22Z | 2026-09-04T17:27:22Z | Yes | [Apply](<https://www.zipline.com/open-roles/7974897003?gh_jid=7974897003>) |
-| Cadence | Software Engineer  (new college grad Dec 2026) | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-09-04T08:38:02Z | 2026-09-12T19:02:13Z | Yes | [Apply](<https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2>) |
 | Cadence | Software Intern | Internship | Software Engineering | San Jose, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-04T08:38:02Z | 2026-09-19T17:04:04Z | Yes | [Apply](<https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258>) |
 | ByteDance | Backend Developer Intern - Infrastructure Platform Delivery | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-09-04T03:36:22Z | 2026-09-04T03:36:22Z | Yes | [Apply](<https://jobs.bytedance.com/en/position/7668489218234157365/detail?utm_source=Simplify&ref=Simplify>) |
 | Waymo | 2027 Summer Intern - MS - Software Engineering - Behavior Test | Internship | Software Engineering | San Francisco, CA | ApplyGuy, SpeedyApply | N/A | 2026-09-04T03:36:22Z | 2026-09-19T17:04:04Z | Yes | [Apply](<https://careers.withwaymo.com/jobs?gh_jid=8174504>) |
@@ -470,7 +469,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Twitch | Software Engineer I - Payments | New Grad | FAANG+ | San Francisco, CA | ApplyGuy, SpeedyApply | $193k/yr | 2026-08-17T05:05:43Z | 2026-09-02T08:34:34Z | Yes | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8700578002>) |
 | Voxel | Software Engineer - Perception | New Grad | Other | San Francisco, CA | SpeedyApply | N/A | 2026-08-17T05:05:43Z | 2026-08-17T17:45:31Z | Yes | [Apply](<https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804>) |
 
-## Historical / Closed or Removed Jobs (177)
+## Historical / Closed or Removed Jobs (178)
 
 | Company | Position | Type | Category | Location | Sources | Salary | First Seen | Last Seen | Active | Application |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -501,6 +500,7 @@ Tracks canonical SWE postings from SpeedyApply, ApplyGuy, and Simplify whose dis
 | Globalfoundries | Software Engineer, Cloud Platform (2027 New College Graduate) | New Grad | Unknown | Santa Clara, CA | ApplyGuy | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | No | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056>) |
 | PayPal | Software Engineer Intern | Internship | FAANG+ | Austin, TX \| San Jose, CA \| Chicago, IL | Simplify | N/A | 2026-09-05T00:42:54Z | 2026-09-05T00:42:54Z | No | [Apply](<https://paypal.eightfold.ai/careers/job/274922260559?utm_source=Simplify&ref=Simplify>) |
 | Analytical Mechanics Associates | Software Engineer | New Grad | Other | Mountain View, CA | SpeedyApply | N/A | 2026-09-04T17:27:22Z | 2026-09-04T17:27:22Z | No | [Apply](<https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728>) |
+| Cadence | Software Engineer  (new college grad Dec 2026) | New Grad | Unknown | San Jose, CA | ApplyGuy | N/A | 2026-09-04T08:38:02Z | 2026-09-12T19:02:13Z | No | [Apply](<https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2>) |
 | PayPal | Software Engineer - Cloud Infrastructure and Devops | New Grad | Other | San Jose, CA +2 | SpeedyApply | N/A | 2026-09-03T17:39:07Z | 2026-09-18T18:09:24Z | No | [Apply](<https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771>) |
 | ByteDance | Research Scientist Intern 🎓 | Internship | Unknown | San Jose, CA | Simplify | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | No | [Apply](<https://jobs.bytedance.com/en/position/7668590365398993205/detail?utm_source=Simplify&ref=Simplify>) |
 | Zipline | Enterprise Systems Software Engineer Intern (Spring 2027) | Internship | Software Engineering | South San Francisco, CA | ApplyGuy | N/A | 2026-09-03T13:22:45Z | 2026-09-03T13:22:45Z | No | [Apply](<https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003>) |

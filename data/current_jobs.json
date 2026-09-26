@@ -1803,26 +1803,6 @@
             "url": "https://applyguy.ai/jobs?company=Genesis+Molecular+AI&job=aeb51c71-5f99-4816-9cea-78001c99af9f&utm_source=github&utm_medium=listing&utm_campaign=internships"
           },
           "source_url": "https://applyguy.ai/jobs?company=Genesis+Molecular+AI&job=aeb51c71-5f99-4816-9cea-78001c99af9f&utm_source=github&utm_medium=listing&utm_campaign=internships"
-        },
-        "simplify_summer_2027": {
-          "age": "0d",
-          "application_url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true&utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
-          "company": "Genesis Molecular AI",
-          "job_type": "Internship",
-          "location": "San Mateo, CA | NYC",
-          "position": "Software Engineer Intern",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "80a7e2c3-ed7c-41dc-92a7-85bf12db37f5",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/80a7e2c3-ed7c-41dc-92a7-85bf12db37f5?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/80a7e2c3-ed7c-41dc-92a7-85bf12db37f5?utm_source=GHList"
         }
       },
       "url_aliases": [
@@ -18554,52 +18534,6 @@
         "https://bmo.wd3.myworkdayjobs.com/campus/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-3"
       ]
     },
-    "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2": {
-      "age": "1d",
-      "application_url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
-      "canonical_id": "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2",
-      "category": "Unknown",
-      "company": "Cadence",
-      "job_type": "New Grad",
-      "location": "San Jose, CA",
-      "position": "Software Engineer  (new college grad Dec 2026)",
-      "posted": "2026-09-03",
-      "salary": null,
-      "season": null,
-      "sources": {
-        "applyguy_new_grad": {
-          "age": "9d",
-          "application_url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
-          "category": "Unknown",
-          "company": "Cadence",
-          "job_type": "New Grad",
-          "location": "San Jose, CA",
-          "position": "Software Engineer  (new college grad Dec 2026)",
-          "posted": "2026-09-03",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "7fb633b0-e67c-49ce-b818-60eb3f07989c",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "9d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-12T19:00:58.390Z",
-            "id": "7fb633b0-e67c-49ce-b818-60eb3f07989c",
-            "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
-            "matchKind": "explicit",
-            "posted": "2026-09-03",
-            "url": "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        }
-      },
-      "url_aliases": [
-        "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
-      ]
-    },
     "workday:cadence.wd1.myworkdayjobs.com:software-intern_r56258": {
       "age": "Today",
       "application_url": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258",
@@ -19152,33 +19086,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "3d",
-          "application_url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
-          "category": "Unknown",
-          "company": "Generalmotors",
-          "job_type": "New Grad",
-          "location": "Sunnyvale, CA",
-          "position": "Software Engineer, AV Frameworks – Early Career",
-          "posted": "2026-09-09",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "b5995c0b-1ab4-4718-b5df-22490a66ccd2",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "3d",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-12T19:00:58.390Z",
-            "id": "b5995c0b-1ab4-4718-b5df-22490a66ccd2",
-            "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
-            "matchKind": "explicit",
-            "posted": "2026-09-09",
-            "url": "https://applyguy.ai/jobs?company=Generalmotors&job=b5995c0b-1ab4-4718-b5df-22490a66ccd2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Generalmotors&job=b5995c0b-1ab4-4718-b5df-22490a66ccd2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "1d",
           "application_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
@@ -20613,33 +20520,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "22d",
-          "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
-          "category": "Unknown",
-          "company": "Quickenloans",
-          "job_type": "New Grad",
-          "location": "San Francisco, CA",
-          "position": "Software Developer I - Search",
-          "posted": "2026-08-21",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "49bef747-c371-45e0-a524-5475cb4bdce7",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "22d",
-            "eligibility": "Entry Level",
-            "feedUpdatedAt": "2026-09-12T19:00:58.390Z",
-            "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
-            "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
-            "matchKind": "entry_level",
-            "posted": "2026-08-21",
-            "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "6d",
           "application_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
@@ -21125,33 +21005,6 @@
       "salary": null,
       "season": null,
       "sources": {
-        "applyguy_new_grad": {
-          "age": "Today",
-          "application_url": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1",
-          "category": "Unknown",
-          "company": "Visa",
-          "job_type": "New Grad",
-          "location": "Foster City, CA",
-          "position": "Software Engineer, New College Grad - 2027 Foster City, CA",
-          "posted": "2026-09-17",
-          "salary": null,
-          "season": null,
-          "source_file": "data/new-grad-jobs.json",
-          "source_id": "applyguy_new_grad",
-          "source_job_id": "d279e412-a0ca-4b1e-9443-7dc81587e8a9",
-          "source_label": "ApplyGuy",
-          "source_metadata": {
-            "age": "Today",
-            "eligibility": "New Grad",
-            "feedUpdatedAt": "2026-09-17T17:46:15.466Z",
-            "id": "d279e412-a0ca-4b1e-9443-7dc81587e8a9",
-            "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1",
-            "matchKind": "explicit",
-            "posted": "2026-09-17",
-            "url": "https://applyguy.ai/jobs?company=Visa&job=d279e412-a0ca-4b1e-9443-7dc81587e8a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-          },
-          "source_url": "https://applyguy.ai/jobs?company=Visa&job=d279e412-a0ca-4b1e-9443-7dc81587e8a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
-        },
         "speedyapply_new_grad": {
           "age": "2d",
           "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1",
