@@ -21092,22 +21092,22 @@
         "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1"
       ]
     },
-    "workday:visa.wd5.myworkdayjobs.com:software-engineer--new-college-grad---2027-foster-city--ca_ref088543w-1": {
-      "age": "Today",
-      "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1",
-      "canonical_id": "workday:visa.wd5.myworkdayjobs.com:software-engineer--new-college-grad---2027-foster-city--ca_ref088543w-1",
+    "workday:visa.wd5.myworkdayjobs.com:software-engineer--new-college-grad---2027-foster-city--ca_ref088543w": {
+      "age": "2d",
+      "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W",
+      "canonical_id": "workday:visa.wd5.myworkdayjobs.com:software-engineer--new-college-grad---2027-foster-city--ca_ref088543w",
       "category": "Other",
       "company": "Visa",
       "job_type": "New Grad",
       "location": "Foster City, CA",
       "position": "Software Engineer - New College Grad - 2027 Foster City - CA",
-      "posted": "2026-09-17",
+      "posted": null,
       "salary": null,
       "season": null,
       "sources": {
         "speedyapply_new_grad": {
-          "age": "2d",
-          "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1",
+          "age": "9d",
+          "application_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W",
           "category": "Other",
           "company": "Visa",
           "job_type": "New Grad",
@@ -21121,13 +21121,11 @@
           "source_job_id": null,
           "source_label": "SpeedyApply",
           "source_metadata": {},
-          "source_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1"
+          "source_url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W"
         }
       },
       "url_aliases": [
-        "https://applyguy.ai/jobs?company=Visa&job=d279e412-a0ca-4b1e-9443-7dc81587e8a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-        "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1",
-        "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1"
+        "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W"
       ]
     },
     "workday:visa.wd5.myworkdayjobs.com:xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref088591w-1": {
