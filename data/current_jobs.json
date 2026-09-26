@@ -864,19 +864,19 @@
       "company": "Bedrock Robotics Inc",
       "job_type": "Internship",
       "location": "San Francisco, CA",
-      "position": "Internship 2027 Onboard Infrastructure Engineer, ML Inference",
+      "position": "2027 Internship Onboard Infrastructure Engineer, ML Inference",
       "posted": "2026-09-10",
       "salary": null,
       "season": "2027",
       "sources": {
         "applyguy_internships": {
-          "age": "1d",
+          "age": "16d",
           "application_url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8",
           "category": "Software Engineering",
           "company": "Bedrock Robotics Inc",
           "job_type": "Internship",
           "location": "San Francisco, CA",
-          "position": "Internship 2027 Onboard Infrastructure Engineer, ML Inference",
+          "position": "2027 Internship Onboard Infrastructure Engineer, ML Inference",
           "posted": "2026-09-10",
           "salary": null,
           "season": "2027",
@@ -885,9 +885,9 @@
           "source_job_id": "b4433835-8fb5-4de9-a0ab-c174dc518aca",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "1d",
+            "age": "16d",
             "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-11T00:45:23.506Z",
+            "feedUpdatedAt": "2026-09-26T12:45:39.422Z",
             "id": "b4433835-8fb5-4de9-a0ab-c174dc518aca",
             "listingUrl": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8",
             "posted": "2026-09-10",
@@ -910,19 +910,19 @@
       "company": "Bedrock Robotics Inc",
       "job_type": "Internship",
       "location": "San Francisco, CA",
-      "position": "Internship 2027 Behavior Machine Learning Engineer, World Models",
+      "position": "2027 Internship Behavior Machine Learning Engineer, World Models",
       "posted": "2026-09-10",
       "salary": null,
       "season": "2027",
       "sources": {
         "applyguy_internships": {
-          "age": "1d",
+          "age": "16d",
           "application_url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1",
           "category": "Software Engineering",
           "company": "Bedrock Robotics Inc",
           "job_type": "Internship",
           "location": "San Francisco, CA",
-          "position": "Internship 2027 Behavior Machine Learning Engineer, World Models",
+          "position": "2027 Internship Behavior Machine Learning Engineer, World Models",
           "posted": "2026-09-10",
           "salary": null,
           "season": "2027",
@@ -931,9 +931,9 @@
           "source_job_id": "05cdae09-9d1c-40ea-aaad-842eb90d1200",
           "source_label": "ApplyGuy",
           "source_metadata": {
-            "age": "1d",
+            "age": "16d",
             "category": "Software Engineering",
-            "feedUpdatedAt": "2026-09-11T00:45:23.506Z",
+            "feedUpdatedAt": "2026-09-26T12:45:39.422Z",
             "id": "05cdae09-9d1c-40ea-aaad-842eb90d1200",
             "listingUrl": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1",
             "posted": "2026-09-10",
@@ -9495,7 +9495,7 @@
         "simplify_summer_2027": {
           "age": "1mo",
           "application_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
+          "category": "FAANG+",
           "company": "ByteDance",
           "job_type": "Internship",
           "location": "San Jose, CA",
@@ -18534,6 +18534,52 @@
         "https://bmo.wd3.myworkdayjobs.com/campus/job/San-Ramon-CA-USA/Software-Developer--Winter-2027--Internship----4-months_R260027197-3"
       ]
     },
+    "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2": {
+      "age": "1d",
+      "application_url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+      "canonical_id": "workday:cadence.wd1.myworkdayjobs.com:software-engineer---new-college-grad-dec-2026-_r55738-2",
+      "category": "Unknown",
+      "company": "Cadence",
+      "job_type": "New Grad",
+      "location": "San Jose, CA",
+      "position": "Software Engineer  (new college grad Dec 2026)",
+      "posted": "2026-09-03",
+      "salary": null,
+      "season": null,
+      "sources": {
+        "applyguy_new_grad": {
+          "age": "23d",
+          "application_url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+          "category": "Unknown",
+          "company": "Cadence",
+          "job_type": "New Grad",
+          "location": "San Jose, CA",
+          "position": "Software Engineer  (new college grad Dec 2026)",
+          "posted": "2026-09-03",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "7fb633b0-e67c-49ce-b818-60eb3f07989c",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "23d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-26T12:46:00.293Z",
+            "id": "7fb633b0-e67c-49ce-b818-60eb3f07989c",
+            "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+            "matchKind": "explicit",
+            "posted": "2026-09-03",
+            "url": "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        }
+      },
+      "url_aliases": [
+        "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+        "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
+      ]
+    },
     "workday:cadence.wd1.myworkdayjobs.com:software-intern_r56258": {
       "age": "Today",
       "application_url": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/SAN-JOSE/Software-Intern_R56258",
@@ -19086,6 +19132,33 @@
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "17d",
+          "application_url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+          "category": "Unknown",
+          "company": "Generalmotors",
+          "job_type": "New Grad",
+          "location": "Sunnyvale, CA",
+          "position": "Software Engineer, AV Frameworks – Early Career",
+          "posted": "2026-09-09",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "b5995c0b-1ab4-4718-b5df-22490a66ccd2",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "17d",
+            "eligibility": "New Grad",
+            "feedUpdatedAt": "2026-09-26T12:46:00.293Z",
+            "id": "b5995c0b-1ab4-4718-b5df-22490a66ccd2",
+            "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+            "matchKind": "explicit",
+            "posted": "2026-09-09",
+            "url": "https://applyguy.ai/jobs?company=Generalmotors&job=b5995c0b-1ab4-4718-b5df-22490a66ccd2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Generalmotors&job=b5995c0b-1ab4-4718-b5df-22490a66ccd2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "1d",
           "application_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
@@ -20520,6 +20593,33 @@
       "salary": null,
       "season": null,
       "sources": {
+        "applyguy_new_grad": {
+          "age": "36d",
+          "application_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+          "category": "Unknown",
+          "company": "Quickenloans",
+          "job_type": "New Grad",
+          "location": "San Francisco, CA",
+          "position": "Software Developer I - Search",
+          "posted": "2026-08-21",
+          "salary": null,
+          "season": null,
+          "source_file": "data/new-grad-jobs.json",
+          "source_id": "applyguy_new_grad",
+          "source_job_id": "49bef747-c371-45e0-a524-5475cb4bdce7",
+          "source_label": "ApplyGuy",
+          "source_metadata": {
+            "age": "36d",
+            "eligibility": "Entry Level",
+            "feedUpdatedAt": "2026-09-26T12:46:00.293Z",
+            "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
+            "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
+            "matchKind": "entry_level",
+            "posted": "2026-08-21",
+            "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+          },
+          "source_url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs"
+        },
         "speedyapply_new_grad": {
           "age": "6d",
           "application_url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930",
@@ -21093,45 +21193,6 @@
         "https://applyguy.ai/jobs?company=Visa&job=c6db2a95-1f7f-4e91-ac4e-a87736fc1cdf&utm_source=github&utm_medium=listing&utm_campaign=internships",
         "https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
         "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"
-      ]
-    },
-    "workday:walmart.wd504.myworkdayjobs.com:summer-2027-intern---software-engineer-ii_r-2630029-1": {
-      "age": "1d",
-      "application_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify",
-      "canonical_id": "workday:walmart.wd504.myworkdayjobs.com:summer-2027-intern---software-engineer-ii_r-2630029-1",
-      "category": "Unknown",
-      "company": "Walmart",
-      "job_type": "Internship",
-      "location": "Bentonville, AR | Bellevue, WA | Sunnyvale, CA",
-      "position": "Software Engineer 2 Intern",
-      "posted": null,
-      "salary": null,
-      "season": "Summer 2027",
-      "sources": {
-        "simplify_summer_2027": {
-          "age": "1d",
-          "application_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify",
-          "category": "Unknown",
-          "company": "Walmart",
-          "job_type": "Internship",
-          "location": "Bentonville, AR | Bellevue, WA | Sunnyvale, CA",
-          "position": "Software Engineer 2 Intern",
-          "posted": null,
-          "salary": null,
-          "season": "Summer 2027",
-          "source_file": "README.md",
-          "source_id": "simplify_summer_2027",
-          "source_job_id": "f00e8399-0777-4e56-b2cb-0fd0631a0655",
-          "source_label": "Simplify",
-          "source_metadata": {
-            "simplify_url": "https://simplify.jobs/p/f00e8399-0777-4e56-b2cb-0fd0631a0655?utm_source=GHList"
-          },
-          "source_url": "https://simplify.jobs/p/f00e8399-0777-4e56-b2cb-0fd0631a0655?utm_source=GHList"
-        }
-      },
-      "url_aliases": [
-        "https://simplify.jobs/p/f00e8399-0777-4e56-b2cb-0fd0631a0655?utm_source=GHList",
-        "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify"
       ]
     },
     "workday:wf.wd1.myworkdayjobs.com:xmlname-2027-technology-summer-internship---early-careers--software-engineering---california-_r-574294": {
